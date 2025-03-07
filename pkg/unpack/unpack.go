@@ -1,30 +1,25 @@
-package main
+package unpack
 
 import (
 	"bytes"
-	"compress/zlib"
 	"encoding/binary"
 	"fmt"
 	"io"
 	"os"
-	"path/filepath"
 
-	"github.com/xeonliu/eva_jo/types"
+	"github.com/xeonliu/eva_jo/pkg/types"
 	"golang.org/x/text/encoding/japanese"
 	"golang.org/x/text/transform"
-	"gopkg.in/yaml.v3"
 )
 
 const PKG_NAME = "NEVA.PKG"
 
-// const PKG_NAME = "NEVA_REPACK.PKG"
-
 const DIR_ENTRY_START = 0x12242C10
 
-// const DIR_ENTRY_START = 0x24e077b0
 const DIR_ENTRY_NUM = 345
 
-func parse_dirs(file *os.File) ([]types.Directory, error) {
+// 首字母大写代表导出
+func ParseDirs(file *os.File) ([]types.Directory, error) {
 	_, err := file.Seek(DIR_ENTRY_START, io.SeekStart)
 	if err != nil {
 		return nil, err
@@ -143,99 +138,4 @@ func parse_files(file *os.File, rawDir types.RawDirectory) ([]types.File, error)
 	_, err = file.Seek(offset, io.SeekStart)
 
 	return files, nil
-}
-
-func main() {
-	f, err := os.Open(PKG_NAME)
-	if err != nil {
-		fmt.Println("Error opening file:", err)
-		return
-	}
-
-	defer f.Close()
-
-	directories, err := parse_dirs(f)
-	if err != nil {
-		fmt.Println("Error parsing directories:", err)
-		return
-	}
-
-	for _, directory := range directories {
-		fmt.Printf("Directory: %+v\n", directory)
-	}
-
-	// Dump all the files
-
-	for _, directory := range directories {
-		// Create directory
-		err := os.MkdirAll(directory.Name, os.ModePerm)
-		if err != nil {
-			fmt.Println("Error creating directory:", err)
-			return
-		}
-
-		for _, file := range directory.Files {
-			fmt.Printf("File: %+v\n", file)
-
-			// Seek to the file
-			_, err := f.Seek(int64(file.OriginalOffset+32), io.SeekStart)
-			if err != nil {
-				fmt.Println("Error seeking to file:", err)
-				return
-			}
-
-			// Read the file
-			data := make([]byte, file.Size)
-
-			// Decompress if needed
-			if file.HeaderCompressed != 0 {
-				data = make([]byte, file.HeaderCompressed)
-				_, err = f.Read(data)
-				// Decompress
-				fmt.Println("Decompressing file:", file.Name)
-				// Decompress
-				fmt.Println("Decompressing file:", file.Name)
-				b := bytes.NewReader(data)
-				r, err := zlib.NewReader(b)
-				if err != nil {
-					fmt.Println("Error decompressing file content:", err)
-					return
-				}
-				var decompressedContent bytes.Buffer
-				_, err = io.Copy(&decompressedContent, r)
-				if err != nil {
-					fmt.Println("Error decompressing file content:", err)
-					return
-				}
-				data = decompressedContent.Bytes()
-			} else {
-				_, err = f.Read(data)
-			}
-
-			// Write the file content to a new file in the corresponding directory
-			filePath := filepath.Join(directory.Name, file.Name)
-			err = os.WriteFile(filePath, data, 0644)
-			if err != nil {
-				fmt.Println("Error writing file:", err)
-				return
-			}
-		}
-	}
-
-	// Dump to yaml file
-	data, err := yaml.Marshal(directories)
-
-	yamlFile, err := os.Create("NEVA.yaml")
-	if err != nil {
-		fmt.Println("Error creating yaml file:", err)
-		return
-	}
-
-	defer yamlFile.Close()
-
-	_, err = yamlFile.Write(data)
-	if err != nil {
-		fmt.Println("Error writing yaml file:", err)
-		return
-	}
 }
