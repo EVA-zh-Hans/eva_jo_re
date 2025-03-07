@@ -8,10 +8,11 @@ type Directory struct {
 }
 
 type File struct {
-	Unk0 uint32
-	Unk1 uint32
-	Size uint32
-	Name string
+	NameOffset uint32
+	// 0x800 aligned (0x400?)
+	BufferSize uint32
+	Size       uint32
+	Name       string
 	// 32-byte header
 	HeaderFileSize   uint32
 	HeaderCompressed uint32

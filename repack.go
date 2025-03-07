@@ -89,6 +89,9 @@ func main() {
 			file.Size = uint32(len(fileContent))
 			file.HeaderFileSize = file.Size
 
+			// BufferSize向上取整到2048
+			file.BufferSize = (file.Size + 0x7FF) & ^uint32(0x7FF)
+
 			// 压缩标志位
 			file.HeaderCompressed = 0
 
@@ -104,8 +107,6 @@ func main() {
 			// 		return
 			// 	}
 			// 	writer.Close()
-
-			// 	fileContent = compressedContent.Bytes()[2:]
 
 			// 	// 压缩后大小
 			// 	file.HeaderCompressed = uint32(len(fileContent))

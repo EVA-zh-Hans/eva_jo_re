@@ -16,8 +16,8 @@ func RawToAbstractFile(rawEntry RawEntry, name string, header [32]byte) File {
 		panic("HeaderUnk1 is not zero")
 	}
 	return File{
-		Unk0:             rawEntry.Unk0,
-		Unk1:             rawEntry.Unk1,
+		NameOffset:       rawEntry.Unk0,
+		BufferSize:       rawEntry.Unk1,
 		Size:             rawEntry.Size,
 		Name:             name,
 		HeaderFileSize:   binary.LittleEndian.Uint32(header[4:8]),
@@ -41,8 +41,8 @@ func AbstractToRawDirectory(dir Directory, offset uint32, size uint32) RawDirect
 
 func AbstractToRawFile(file File) RawEntry {
 	return RawEntry{
-		Unk0:   file.Unk0,
-		Unk1:   file.Unk1,
+		Unk0:   file.NameOffset,
+		Unk1:   file.BufferSize,
 		Size:   file.Size,
 		Offset: file.OriginalOffset,
 	}
