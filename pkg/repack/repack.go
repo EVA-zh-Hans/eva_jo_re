@@ -97,17 +97,21 @@ func Repack(metadata string, output string, inputFolder string) {
 			// 记住文件偏移量
 			file.OriginalOffset = uint32(currentOffset)
 
-			// TODO: 对于TUT文件，进行替换？
+			// NOTE: 仅对NUT文件进行解压
+			if filepath.Ext(file.Name) == ".NUT" {
+				// 记住文件大小
+				file.Size = uint32(len(fileContent))
+				file.HeaderFileSize = file.Size
 
-			// 记住文件大小
-			file.Size = uint32(len(fileContent))
-			file.HeaderFileSize = file.Size
+				// BufferSize向上取整到2048
+				file.BufferSize = (file.Size + 0x7FF) & ^uint32(0x7FF)
 
-			// BufferSize向上取整到2048
-			file.BufferSize = (file.Size + 0x7FF) & ^uint32(0x7FF)
-
-			// 压缩标志位
-			file.HeaderCompressed = 0
+				// 压缩标志位
+				file.HeaderCompressed = 0
+			} else {
+				// All the size & flags Keep The same.
+				// TODO
+			}
 
 			// // TODO: 进行DEFLATE压缩
 			// if file.HeaderCompressed != 0 {

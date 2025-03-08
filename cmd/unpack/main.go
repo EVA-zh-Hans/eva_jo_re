@@ -8,6 +8,7 @@ import (
 	"io"
 	"os"
 	"path/filepath"
+	"strings"
 
 	"github.com/xeonliu/eva_jo/pkg/unpack"
 	"gopkg.in/yaml.v3"
@@ -70,8 +71,9 @@ func main() {
 			// Read the file
 			data := make([]byte, file.Size)
 
+			// NOTE: Only Decompress NUT
 			// Decompress if needed
-			if file.HeaderCompressed != 0 {
+			if file.HeaderCompressed != 0 && strings.HasSuffix(file.Name, ".NUT") {
 				data = make([]byte, file.HeaderCompressed)
 				_, err = f.Read(data)
 				// Decompress
