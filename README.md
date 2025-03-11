@@ -1,11 +1,31 @@
-# 文件构成
-+ 末尾是文件夹的索引
-+ 中间是文件的索引
-+ 开头是具体的文件
+# EVA_JO_RE
 
-+ 文件可能采取DEFLATE算法压缩，视文件头部而定
+Reverse Engineering & Translation Project of PSP Game `Evangelion: Jo`
 
-索引的数据结构参见`GitHub`，分析基本正确，但`NUT`似乎拥有子文件夹
+## Goal
+
+* Using Go to pack & unpack NEVA. PKG
+* Generate Patches using Go
+* Release a command-line program for users
+
+## Development
+
++ Using prxtool to Generate IDA Pro compatible file
++ Decompile Using IDA Pro
+
+### File Structure
+
+* 末尾是文件夹的索引
+* 中间是文件的索引
+* 开头是具体的文件
+
+* 文件可能采取`zlib`压缩，视文件头部而定
+
+索引的数据结构参见 [`jeffangelion/neva_tool`](https://github.com/jeffangelion/neva_tool)
+
+分析基本正确，但 `NUT` 似乎拥有子文件夹
+
+## Decompiled Functions
 
 ```C
 struct Param1
@@ -26,7 +46,8 @@ struct Param1
 };
 ```
 
-# 所有文件读取似乎均经过此处
+### 所有文件读取似乎均经过此处
+
 ```C
 int __fastcall sub_898B380(int a1, int a2, char a3)
 {
@@ -64,7 +85,7 @@ int __fastcall sub_898B380(int a1, int a2, char a3)
 }
 ```
 
-`898ba34`开始似乎调用了898ade0来计算目标地址。
+`898ba34` 开始似乎调用了898ade0来计算目标地址。
 
 ```C
 /**
@@ -115,7 +136,8 @@ int __fastcall sub_898ADE0(int a1, const char *a2, char a3)
 }
 ```
 
-# 加载文件：sub_898B520
+### 加载文件：sub_898B520
+
 ```C
 int __fastcall sub_898B520(Param1 *a1, unsigned __int8 a2, int a3, int a4, int a5, int a6, int a7, int a8)
 {
@@ -208,14 +230,23 @@ LABEL_16:
 }
 ```
 
-
-- **`dword_8AA270C`**  
+* **`dword_8AA270C`**  
     预定义的静态缓冲区基地址。若存在，优先用于存储数据，避免动态分配。
     
-- **`dword_8AA272C`**  
-    异步读取的临时缓冲区地址，数据先读至此，再复制到`pkg_buffer`。
+
+* **`dword_8AA272C`**  
+    异步读取的临时缓冲区地址，数据先读至此，再复制到 `pkg_buffer` 。
     
-- **`dword_8AA273C`**  
-    传递给`sub_898C0C0`的参数，为文件路径。
+
+* **`dword_8AA273C`**  
+    传递给 `sub_898C0C0` 的参数，为文件路径。
 
 TODO: 鉴于NUT文件大小不大，似乎可以考虑仅解压缩这一部分文件，其余部分保持不解压。
+
+### About `zlib`
+
+The `zlib` implementation in `Go` is different from the one in `C` , and may generate compressed files **incompatiable** with PSP
+
+It is suggested to use `zlib` in `C` or `Python` with Compression Level **6**
+
+Using Go to decompress is fine.
