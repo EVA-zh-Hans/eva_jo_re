@@ -66,7 +66,7 @@ func Repack(metadata string, output string, inputFolder string) {
 
 	f.WriteString("BPK0")
 	// Unknown Constant
-	f.Write([]byte{0x30, 0xAC, 0x25, 0x00})
+	f.Write([]byte{0xAC, 0x25, 0x00, 0x00})
 	binary.Write(f, binary.LittleEndian, uint32(dir_offset))
 	// dir_offset - entry_offset
 	f.Write([]byte{0x10, 0x34, 0x05, 0x00})

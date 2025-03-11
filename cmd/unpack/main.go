@@ -72,9 +72,12 @@ func main() {
 			data := make([]byte, file.Size)
 
 			// NOTE: Only Decompress NUT
+			if file.HeaderCompressed != 0 {
+				data = make([]byte, file.HeaderCompressed)
+			}
+
 			// Decompress if needed
 			if file.HeaderCompressed != 0 && strings.HasSuffix(file.Name, ".NUT") {
-				data = make([]byte, file.HeaderCompressed)
 				_, err = f.Read(data)
 				// Decompress
 				fmt.Println("Decompressing file:", file.Name)
