@@ -71,13 +71,13 @@ func main() {
 			// Read the file
 			data := make([]byte, file.Size)
 
-			// NOTE: Only Decompress NUT
+			// NOTE: Only Decompress NUT & XML files
 			if file.HeaderCompressed != 0 {
 				data = make([]byte, file.HeaderCompressed)
 			}
 
 			// Decompress if needed
-			if file.HeaderCompressed != 0 && strings.HasSuffix(file.Name, ".NUT") {
+			if file.HeaderCompressed != 0 && (strings.HasSuffix(file.Name, ".NUT") || strings.HasSuffix(file.Name, ".XML")) {
 				_, err = f.Read(data)
 				// Decompress
 				fmt.Println("Decompressing file:", file.Name)
