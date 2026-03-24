@@ -14,6 +14,7 @@ convert:
 
 # Make sure translation.json is in data/workspace
 all: extract gen_mapping convert inject repack
+	$(MAKE) unpack
 	$(MAKE) extract
 	$(MAKE) gen_mapping 
 	$(MAKE) convert 

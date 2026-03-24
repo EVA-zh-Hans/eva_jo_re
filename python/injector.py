@@ -111,27 +111,31 @@ class EvaInjectorUTF8:
         """根据后缀名执行正则替换"""
         
         if ext == ".nut":
-            # 匹配 im.event(角色, @?"原文")
-            # 模式解释：actor 分组抓角色名，prefix 抓 @，text 抓引号内容
-            pattern = r'im\.event\s*\(\s*(?P<actor>[^,]+),\s*(?P<prefix>@?)"(?P<text>.*?)"'
+            # 仅匹配 @"..." 原样字符串，不依赖具体调用名
+            pattern = r'(?P<prefix>@)"(?P<text>(?:\\.|[^"\\])*)"'
             
             def nut_sub(m):
                 orig = m.group('text')
                 trans = self.db.get(orig, orig)
-                return f'im.event({m.group("actor")}, {m.group("prefix")}"{trans}"'
+                return f'{m.group("prefix")}"{trans}"'
             
-            return re.sub(pattern, nut_sub, content, flags=re.DOTALL)
+            return re.sub(pattern, nut_sub, content)
 
         elif ext == ".xml":
             # 1. 替换标签内容 >原文<
-            content = re.sub(r'>(?P<text>[^<>]+)<', 
-                             lambda m: f">{self.db.get(m.group('text'), m.group('text'))}<", 
-                             content)
-            # 2. 替换 XML 属性内容 (name, text, title, value)
-            attr_pattern = r'\b(?P<attr>name|text|title|value)\s*=\s*"(?P<text>.*?)"'
-            content = re.sub(attr_pattern, 
-                             lambda m: f'{m.group("attr")}="{self.db.get(m.group("text"), m.group("text"))}"', 
-                             content)
+            content = re.sub(
+                r'>(?P<text>[^<>]+)<',
+                lambda m: f">{self.db.get(m.group('text'), m.group('text'))}<",
+                content,
+            )
+
+            # 2. 替换 XML 中所有双引号包裹文本
+            quote_pattern = r'"(?P<text>(?:\\.|[^"\\])*)"'
+            content = re.sub(
+                quote_pattern,
+                lambda m: f'"{self.db.get(m.group("text"), m.group("text"))}"',
+                content,
+            )
             return content
 
         return content

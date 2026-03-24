@@ -9,11 +9,12 @@ class EvaExtractor:
         self.raw_unpacked = self.workspace / "raw_unpacked"
         self.manifest_path = self.workspace / "manifest.json"
         
-        # 引擎正则
-        self.nut_pattern = re.compile(r'im\.event\s*\(\s*(?P<actor>[^,]+),\s*@?"(?P<text>.*?)"', re.DOTALL)
+        # NUT 文本正则：只提取 @"..." 原样字符串，不依赖具体调用名
+        # 文本捕获允许出现转义引号，避免被过早截断
+        self.nut_pattern = re.compile(r'@"(?P<text>(?:\\.|[^"\\])*)"')
+        # XML 文本正则：同时匹配标签内容和双引号包裹内容
         self.xml_content_pattern = re.compile(r'>(?P<text>[^<>]+)<')
-        # 新增：匹配 XML 属性中的日文 (如 name="日文" 或 text="日文")
-        self.xml_attr_pattern = re.compile(r'\b(?:name|text|title|value)\s*=\s*@?"(?P<text>[^"]+)"')
+        self.xml_quote_pattern = re.compile(r'"(?P<text>(?:\\.|[^"\\])*)"')
         
         self.jp_regex = re.compile(r'[\u3040-\u309F\u30A0-\u30FF\u4E00-\u9FAF]')
 
@@ -52,9 +53,9 @@ class EvaExtractor:
                 if ext == ".nut":
                     found_in_file = self._scan_content(lines, self.nut_pattern, "NUT")
                 elif ext == ".xml":
-                    # XML 同时抓取标签内容和属性内容
+                    # XML 同时抓取标签内容和双引号包裹文本
                     found_in_file += self._scan_content(lines, self.xml_content_pattern, "XML_VAL")
-                    found_in_file += self._scan_content(lines, self.xml_attr_pattern, "XML_ATTR")
+                    found_in_file += self._scan_content(lines, self.xml_quote_pattern, "XML_QUOTE")
 
                 # 将抓取到的结果合并到全局字典
                 for content, actor, line_idx in found_in_file:
