@@ -193,6 +193,7 @@ static FileBlob build_file_blob(const std::string& dir_utf8, const json& file_js
     /* ------------------------------------------------------------------ */
     std::string fn_utf8   = file_json["name"].get<std::string>();
     bool        is_text   = file_json["is_text"].get<bool>();
+    bool        is_jis2ucs2 = fn_utf8 == "JIS2UCS.BIN";
     bool        was_compressed = false;
     if (file_json.contains("was_compressed"))
         was_compressed = file_json["was_compressed"].get<bool>();
@@ -208,7 +209,7 @@ static FileBlob build_file_blob(const std::string& dir_utf8, const json& file_js
     fs::path patch_path = fs::path("data/patch")     / dir_utf8 / fn_utf8;
     fs::path work_path  = fs::path("data/workspace/raw_unpacked") / dir_utf8 / fn_utf8;
 
-    bool use_patch = (is_text && fs::exists(patch_path));
+    bool use_patch = ((is_text||is_jis2ucs2) && fs::exists(patch_path));
 
     /* Non-text files (binaries) always come from workspace */
     fs::path src_path = use_patch ? patch_path : work_path;

@@ -1,14 +1,16 @@
+import argparse
 import json
 import re
 from pathlib import Path
 
 class EvaInjectorUTF8:
-    def __init__(self):
+    def __init__(self, root=None, unpacked_dir=None, trans_json=None, patch_dir=None, file_types=None):
         # 自动定位项目根目录
-        self.root = Path(__file__).parent.parent
-        self.unpacked_dir = self.root / "data" / "workspace" / "raw_unpacked"
-        self.trans_json = self.root / "data" / "workspace" / "texts_to_translate_merged.json"
-        self.patch_dir = self.root / "data" / "patch"
+        self.root = Path(root).resolve() if root else Path(__file__).parent.parent
+        self.unpacked_dir = Path(unpacked_dir).resolve() if unpacked_dir else self.root / "data" / "workspace" / "raw_unpacked"
+        self.trans_json = Path(trans_json).resolve() if trans_json else self.root / "data" / "workspace" / "texts_to_translate_merged.json"
+        self.patch_dir = Path(patch_dir).resolve() if patch_dir else self.root / "data" / "patch"
+        self.file_types = file_types or ["nut", "xml"]
         
         self.db = {}
 
@@ -43,17 +45,30 @@ class EvaInjectorUTF8:
             for item in data:
                 orig = item['original']
                 trans = item.get('translation', '').strip()
+                # TODO: Translation 需要把 \\n 转换为 \n
+                trans = trans.replace("\\n", "\n")
                 # 如果 translation 字段有内容就用译文，否则用原文
                 self.db[orig] = trans if trans else orig
         print(f"[+] 成功载入 {len(self.db)} 条翻译数据")
         return True
 
     def run(self):
-        if not self.load_db(): return
+        if not self.load_db():
+            return
+
+        if not self.unpacked_dir.exists():
+            print(f"[-] 输入目录不存在: {self.unpacked_dir}")
+            return
 
         # 搜索所有文本文件
         files = []
-        for ext in ['*.nut', '*.NUT', '*.xml', '*.XML']:
+        ext_patterns = []
+        if "nut" in self.file_types:
+            ext_patterns.extend(['*.nut', '*.NUT'])
+        if "xml" in self.file_types:
+            ext_patterns.extend(['*.xml', '*.XML'])
+
+        for ext in ext_patterns:
             files.extend(list(self.unpacked_dir.rglob(ext)))
 
         if not files:
@@ -121,5 +136,55 @@ class EvaInjectorUTF8:
 
         return content
 
+
+def parse_args():
+    parser = argparse.ArgumentParser(description="将翻译文本注入到解包后的 NUT/XML 文件中")
+    parser.add_argument(
+        "--root",
+        type=Path,
+        default=None,
+        help="项目根目录（默认自动推断为脚本上级目录）",
+    )
+    parser.add_argument(
+        "-i",
+        "--input",
+        dest="unpacked_dir",
+        type=Path,
+        default=None,
+        help="解包文本目录（默认: data/workspace/raw_unpacked）",
+    )
+    parser.add_argument(
+        "-t",
+        "--translations",
+        dest="trans_json",
+        type=Path,
+        default=None,
+        help="翻译 JSON 文件（默认: data/workspace/texts_to_translate_merged.json）",
+    )
+    parser.add_argument(
+        "-o",
+        "--output",
+        dest="patch_dir",
+        type=Path,
+        default=None,
+        help="补丁输出目录（默认: data/patch）",
+    )
+    parser.add_argument(
+        "--types",
+        nargs="+",
+        choices=["nut", "xml"],
+        default=["nut", "xml"],
+        help="要处理的文件类型，可选 nut xml（默认同时处理）",
+    )
+    return parser.parse_args()
+
 if __name__ == "__main__":
-    EvaInjectorUTF8().run()
+    args = parse_args()
+    injector = EvaInjectorUTF8(
+        root=args.root,
+        unpacked_dir=args.unpacked_dir,
+        trans_json=args.trans_json,
+        patch_dir=args.patch_dir,
+        file_types=args.types,
+    )
+    injector.run()
