@@ -36,7 +36,7 @@ class XmlTests(unittest.TestCase):
             spans,
             {spans[0].ordinal: "中文&值", spans[1].ordinal: "正文"},
         )
-        self.assertIn('text="中文&amp;值"', rendered)
+        self.assertIn('text="中文&值"', rendered)
         self.assertIn(">正文</R>", rendered)
         self.assertIn("<!--壊れたコメント->", rendered)
 
@@ -44,6 +44,24 @@ class XmlTests(unittest.TestCase):
         source = "<ROOT><!--bad-><VALUE>日本語</VALUE></ROOT>"
         self.assertIsNotNone(xml.validation_error(source))
         self.assertEqual(len(xml.scan(source)), 1)
+
+    def test_preserves_game_attribute_values_verbatim(self):
+        source = '<R text="日本語"/>'
+        span = xml.scan(source)[0]
+        rendered = xml.replace(source, [span], {span.ordinal: "A&B <test> 'ok'"})
+        self.assertEqual(rendered, '<R text="A&B <test> \'ok\'"/>')
+
+    def test_rejects_double_quote_in_game_attribute(self):
+        source = '<R text="日本語"/>'
+        span = xml.scan(source)[0]
+        with self.assertRaisesRegex(xml.XmlError, "unsupported double quote"):
+            xml.replace(source, [span], {span.ordinal: 'A"B'})
+
+    def test_does_not_decode_entities_in_game_attributes(self):
+        source = '<R text="日本語&amp;"/>'
+        span = xml.scan(source)[0]
+        self.assertEqual(span.original, "日本語&amp;")
+        self.assertEqual(xml.replace(source, [span], {span.ordinal: span.original}), source)
 
 
 class ParaTranzTests(unittest.TestCase):

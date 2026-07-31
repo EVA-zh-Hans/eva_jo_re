@@ -68,8 +68,7 @@ def scan(text: str) -> list[TextSpan]:
             for match in ATTRIBUTE.finditer(tag_source):
                 ordinal += 1
                 raw = match.group(3)
-                logical = html.unescape(raw)
-                if not NON_ASCII.search(logical) or not logical.strip(" \t\r\n\u3000"):
+                if not NON_ASCII.search(raw) or not raw.strip(" \t\r\n\u3000"):
                     continue
                 start = opening + match.start(3)
                 finish = opening + match.end(3)
@@ -79,7 +78,7 @@ def scan(text: str) -> list[TextSpan]:
                     TextSpan(
                         start,
                         finish,
-                        logical,
+                        raw,
                         ordinal,
                         line,
                         f"Line: {line}\nElement: {tag}\nAttribute: {attribute}",
@@ -101,8 +100,16 @@ def replace(text: str, spans: list[TextSpan], translations: dict[int, str]) -> s
             if "]]>" in translation:
                 raise XmlError("CDATA translation contains ]]> terminator")
             rendered = translation
+        elif span.kind == "attribute":
+            if span.quote != '"':
+                raise XmlError("Game XML attributes must use double quotes")
+            if '"' in translation:
+                raise XmlError("Game XML attribute translation contains unsupported double quote")
+            if "\x00" in translation:
+                raise XmlError("Game XML attribute translation contains NUL")
+            rendered = translation
         else:
-            rendered = html.escape(translation, quote=span.kind == "attribute")
+            rendered = html.escape(translation, quote=False)
         result = result[: span.start] + rendered + result[span.end :]
     return result
 
