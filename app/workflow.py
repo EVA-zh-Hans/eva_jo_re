@@ -121,7 +121,12 @@ def build_image(
     generated.mkdir(parents=True, exist_ok=True)
     reports.mkdir(parents=True, exist_ok=True)
 
-    reserved = set().union(*(set(item.decoded.text) for item in files))
+    # Preserve every original glyph and every glyph used directly by the final
+    # text. A CP932 character in rendered translations must keep its original
+    # JIS2UCS entry instead of being reused as a substitution slot.
+    reserved = set().union(
+        *(set(item.decoded.text) | set(item.rendered) for item in files)
+    )
     cp932_outputs = [item.rendered for item in files if item.changed and item.decoded.encoding == "cp932"]
     required = font.required_substitutions(cp932_outputs)
     with Archive(pkg_path) as archive:
