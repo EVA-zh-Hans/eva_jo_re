@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_46c986e21a_0001_4e4a46a71f",
+    "original": "エヴァ零号機のアンビリカルケーブル、接続！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV0005.NUT\nLine: 16\nCall: DecideStart2"
+  },
+  {
+    "key": "e_46c986e21a_0002_0b1750f6b4",
+    "original": "<02>アンビリカルケーブル　接続！<//>\\nシンクロ率ダウン！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV0005.NUT\nLine: 38\nCall: DecideStart2"
+  },
+  {
+    "key": "e_46c986e21a_0003_fd5b819ea2",
+    "original": "エヴァ弐号機のアンビリカルケーブル、接続！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV0005.NUT\nLine: 60\nCall: DecideStart2"
+  },
+  {
+    "key": "e_46c986e21a_0004_ae9552e9f0",
+    "original": "エヴァ参号機のアンビリカルケーブル、接続！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV0005.NUT\nLine: 82\nCall: DecideStart2"
+  },
+  {
+    "key": "e_46c986e21a_0005_e22c820476",
+    "original": "エヴァ四号機のアンビリカルケーブル、接続！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV0005.NUT\nLine: 104\nCall: DecideStart2"
+  }
+]

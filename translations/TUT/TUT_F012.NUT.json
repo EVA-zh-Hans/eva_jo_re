@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_082ed43fc6_0001_e7ece6eedb",
+    "original": "キャラクターの態度",
+    "translation": "",
+    "context": "File: TUT/TUT_F012.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_082ed43fc6_0002_e7ece6eedb",
+    "original": "キャラクターの態度",
+    "translation": "",
+    "context": "File: TUT/TUT_F012.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_082ed43fc6_0003_f6b09b8c90",
+    "original": "注目度の意味は、各キャラクターの持つ<02>態度が<//>\\n<02>ポジティブ<//>か、<02>ネガティブ<//>かで変わります▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F012.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_082ed43fc6_0004_987340f18d",
+    "original": "<02>態度<//>は他の人と<02>会話<//>をする事で変動します▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F012.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_082ed43fc6_0005_4ac1f40e92",
+    "original": "他にも<02>戦闘の勝敗<//>、<02>模擬戦の結果<//>、<02>ダメージの回復<//>\\nなどで様々な人達からの<02>態度<//>が変化します",
+    "translation": "",
+    "context": "File: TUT/TUT_F012.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

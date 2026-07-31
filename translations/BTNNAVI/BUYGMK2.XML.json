@@ -1,0 +1,38 @@
+[
+  {
+    "key": "e_ef0d199a74_0005_cdbb89c977",
+    "original": "マップギミックを手配する",
+    "translation": "",
+    "context": "File: BTNNAVI/BUYGMK2.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_ef0d199a74_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/BUYGMK2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_ef0d199a74_0015_6ef4ab3371",
+    "original": "頁切替",
+    "translation": "",
+    "context": "File: BTNNAVI/BUYGMK2.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_ef0d199a74_0020_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/BUYGMK2.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_ef0d199a74_0025_8fc7f89916",
+    "original": "戻る",
+    "translation": "",
+    "context": "File: BTNNAVI/BUYGMK2.XML\nLine: 8\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_ef0d199a74_0030_28827c714d",
+    "original": "詳細切替",
+    "translation": "",
+    "context": "File: BTNNAVI/BUYGMK2.XML\nLine: 9\nElement: BTN\nAttribute: caption"
+  }
+]

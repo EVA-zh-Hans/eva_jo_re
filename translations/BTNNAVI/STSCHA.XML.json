@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_899967bffc_0005_b8d2f3086a",
+    "original": "キャラクター　ステータス",
+    "translation": "",
+    "context": "File: BTNNAVI/STSCHA.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_899967bffc_0015_8fc7f89916",
+    "original": "戻る",
+    "translation": "",
+    "context": "File: BTNNAVI/STSCHA.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_899967bffc_0020_78d51c574e",
+    "original": "キャラ切替",
+    "translation": "",
+    "context": "File: BTNNAVI/STSCHA.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  }
+]

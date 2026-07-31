@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_28fb2ba4ec_0005_cdbb89c977",
+    "original": "マップギミックを手配する",
+    "translation": "",
+    "context": "File: BTNNAVI/BUYGMK3.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_28fb2ba4ec_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/BUYGMK3.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_28fb2ba4ec_0015_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/BUYGMK3.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_91e93a3887_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/SAVE4.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_91e93a3887_0015_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/SAVE4.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  }
+]

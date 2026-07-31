@@ -1,0 +1,92 @@
+[
+  {
+    "key": "e_c2fcaa9fd6_0001_7ea6f3d562",
+    "original": "そして…",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0002_b80b71fb19",
+    "original": "普通の日々がはじまる",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0003_3518ba6f3e",
+    "original": "その日、ヒカリは年齢相応だが\\n精一杯のおしゃれをして",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0004_df3ac3e402",
+    "original": "そして大事な人を待っていた",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0005_7a05da42a6",
+    "original": "また会えたね",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: na54_0009_12_024_1"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0006_a7f878b8ce",
+    "original": "……",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_HIKARI"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0007_b5999fb8c4",
+    "original": "…………",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_HIKARI"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0008_cb25dbc346",
+    "original": "………………",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_HIKARI"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0009_b1f2cc52ed",
+    "original": "なーんて",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 53\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: na54_0009_12_025_1"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0010_d13e56a76c",
+    "original": "お弁当つくってきたんだ、食べよ？",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 54\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: na54_0009_12_025_2"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0011_557bde2f6a",
+    "original": "あなたが戦いで得たものは、",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0012_c3bb24b203",
+    "original": "どこにでもいそうな少女だった",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0013_4a91211c28",
+    "original": "あなたはそれで、何の不満もない",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 69\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0014_945289f770",
+    "original": "世界を守る理由には\\nそれで充分だと思うからだ",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_c2fcaa9fd6_0015_8d4795eec6",
+    "original": "おめでとう\\n人の補完はなされた",
+    "translation": "",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 74\nCall: im.event\nSpeaker: IMC_NONE"
+  }
+]

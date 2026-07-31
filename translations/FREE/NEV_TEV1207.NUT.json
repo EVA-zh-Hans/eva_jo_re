@@ -1,0 +1,44 @@
+[
+  {
+    "key": "e_0fe85de67b_0001_e11f7ed18d",
+    "original": "使徒、第３新東京市直上に出現！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1207.NUT\nLine: 198\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0011_10_001"
+  },
+  {
+    "key": "e_0fe85de67b_0002_b23fbe3f65",
+    "original": "どーなってんの？\\n富士の電波観測所は？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1207.NUT\nLine: 258\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0011_04_001"
+  },
+  {
+    "key": "e_0fe85de67b_0003_0d86780efd",
+    "original": "探知していません\\n真上にいきなり現れました",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1207.NUT\nLine: 262\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0011_10_002"
+  },
+  {
+    "key": "e_0fe85de67b_0004_258aaf9fef",
+    "original": "パターンオレンジ\\nＡ．Ｔ．フィールド反応無し",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1207.NUT\nLine: 300\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0011_09_001"
+  },
+  {
+    "key": "e_0fe85de67b_0005_c119957fde",
+    "original": "どういう事？\\nＡ．Ｔ．フィールドがないなんて新種の使徒！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1207.NUT\nLine: 314\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA03_0011_07_001"
+  },
+  {
+    "key": "e_0fe85de67b_0006_27e2ef2dd2",
+    "original": "マギは判断を保留しています",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1207.NUT\nLine: 346\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA03_0011_08_001"
+  },
+  {
+    "key": "e_0fe85de67b_0007_661e39492c",
+    "original": "何もかもが不明…とりあえず、様子をうかがいつつ、\\n市街地から引き離しましょう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1207.NUT\nLine: 377\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0011_04_002"
+  }
+]

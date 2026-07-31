@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_3cc4f1bbd5_0005_9df9009aba",
+    "original": "初期装備を変更する",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK12.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_3cc4f1bbd5_0010_75fca1d949",
+    "original": "進む",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK12.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  }
+]

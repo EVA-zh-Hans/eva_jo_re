@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_1e68f6d564_0005_8943d1fdd7",
+    "original": "マップギミック",
+    "translation": "",
+    "context": "File: BTNNAVI/GMK2.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_1e68f6d564_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/GMK2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_1e68f6d564_0015_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/GMK2.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_1e68f6d564_0020_8fc7f89916",
+    "original": "戻る",
+    "translation": "",
+    "context": "File: BTNNAVI/GMK2.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  }
+]

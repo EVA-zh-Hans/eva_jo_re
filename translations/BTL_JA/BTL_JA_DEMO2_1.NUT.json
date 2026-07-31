@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_9271f107d3_0001_1f3edce370",
+    "original": "ミサトさん、逃げて！！",
+    "translation": "",
+    "context": "File: BTL_JA/BTL_JA_DEMO2_1.NUT\nLine: 58\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0506_01_006"
+  },
+  {
+    "key": "e_9271f107d3_0002_a8cdc95aee",
+    "original": "動けっ…動けぇぇぇぇぇ！！",
+    "translation": "",
+    "context": "File: BTL_JA/BTL_JA_DEMO2_1.NUT\nLine: 96\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_007"
+  }
+]

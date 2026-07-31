@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_60bc52471f_0001_727b72daef",
+    "original": "使徒、殲滅を確認しました！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV0001_V.NUT\nLine: 30\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA05_0031_09_001"
+  },
+  {
+    "key": "e_60bc52471f_0002_c86156a22a",
+    "original": "エヴァシリーズ、全機沈黙しました！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV0001_V.NUT\nLine: 44\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA05_0018_10_001"
+  }
+]

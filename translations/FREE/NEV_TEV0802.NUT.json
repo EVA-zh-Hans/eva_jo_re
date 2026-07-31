@@ -1,0 +1,170 @@
+[
+  {
+    "key": "e_84c30bdf52_0001_57ce613a7f",
+    "original": "いやー、\\nとうとう明日は修学旅行や▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 202\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_0802_13_001"
+  },
+  {
+    "key": "e_84c30bdf52_0002_bfc918d3a4",
+    "original": "シンジ、お前の分まで楽しんで\\nきたるさかいな！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 206\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_0802_13_001_1"
+  },
+  {
+    "key": "e_84c30bdf52_0003_310e939bad",
+    "original": "残念だよなぁ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 210\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0802_14_002"
+  },
+  {
+    "key": "e_84c30bdf52_0004_1c2f6040c5",
+    "original": "まあ、人類の平和を担うエヴァのパイロットだもん\\nしょうがないよな！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 214\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0802_14_002_1"
+  },
+  {
+    "key": "e_84c30bdf52_0005_ebbd844a0e",
+    "original": "お土産、買ってくるから\\n楽しみにしててね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 218\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_0802_12_003"
+  },
+  {
+    "key": "e_84c30bdf52_0006_f80204a70e",
+    "original": "ほな、おやつ買いにいこ\\nお先するで、お二人さん",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 222\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_0802_13_004"
+  },
+  {
+    "key": "e_84c30bdf52_0007_54e28bc063",
+    "original": "いいなぁ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 268\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_005"
+  },
+  {
+    "key": "e_84c30bdf52_0008_551a39a1bc",
+    "original": "しょうがないよ\\n待機命令が出てるんだもの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 272\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0802_01_006"
+  },
+  {
+    "key": "e_84c30bdf52_0009_557e922705",
+    "original": "まーぁ、いいこちゃんだこと…\\nヘドがでそう▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 277\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_007"
+  },
+  {
+    "key": "e_84c30bdf52_0010_8de34a38b2",
+    "original": "ところでアンタ、なにやってるの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 281\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_007_1"
+  },
+  {
+    "key": "e_84c30bdf52_0011_a6e2ad5217",
+    "original": "理科の勉強だよ\\n遅れた分、取り戻さなきゃ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 321\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0802_01_008"
+  },
+  {
+    "key": "e_84c30bdf52_0012_bb0aa2ba60",
+    "original": "ふーん、こんなすうしきにとまどってるの？\\n…ちょっとかして",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 365\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_009"
+  },
+  {
+    "key": "e_84c30bdf52_0013_21b8a910b0",
+    "original": "これ、かなり難しい問題だよ\\nこんなの出来て、どうしてテストが出来ないの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 377\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0802_01_010"
+  },
+  {
+    "key": "e_84c30bdf52_0014_837534718a",
+    "original": "かんじ、うまくよめないし…\\nせつもんがわからないんだもん▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 426\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_011"
+  },
+  {
+    "key": "e_84c30bdf52_0015_4f285cbd94",
+    "original": "だいがくで、にほんごなんて\\nおそわらなかったし",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 430\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_011_1"
+  },
+  {
+    "key": "e_84c30bdf52_0016_0de957ccc4",
+    "original": "大学？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 434\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0802_01_012"
+  },
+  {
+    "key": "e_84c30bdf52_0017_265e01c793",
+    "original": "そ、きょねん、そつぎょうしたのよね\\nあ、コレなんてよむの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 439\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_013"
+  },
+  {
+    "key": "e_84c30bdf52_0018_4851e417ad",
+    "original": "え、あ…コレは、\\n熱膨張に関する問題で…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 443\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0802_01_014"
+  },
+  {
+    "key": "e_84c30bdf52_0019_6a90dfc8d1",
+    "original": "ねつぼうちょう？\\nようちなこと、やってるのね▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 448\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_015"
+  },
+  {
+    "key": "e_84c30bdf52_0020_cc92b3e347",
+    "original": "たんじゅんじゃない\\nモノってのは、あたためれば、ふくらんでおおきくなるし、▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 495\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_015_1"
+  },
+  {
+    "key": "e_84c30bdf52_0021_701f216a61",
+    "original": "ひやせば、ちぢんで、\\nちいさくなるってことじゃない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 498\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_015_2"
+  },
+  {
+    "key": "e_84c30bdf52_0022_9259dfd3f2",
+    "original": "まあ、そう…だね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 502\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0802_01_016"
+  },
+  {
+    "key": "e_84c30bdf52_0023_ce7d5c3f89",
+    "original": "もっとシンプルにかんがえりゃ、\\nモノゴトって、そんなにふくざつじゃないわよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 506\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_017"
+  },
+  {
+    "key": "e_84c30bdf52_0024_877cb0eb71",
+    "original": "…簡単に言うね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 510\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0802_01_018"
+  },
+  {
+    "key": "e_84c30bdf52_0025_bb1d879a18",
+    "original": "ほーらー、そうやっていつも、\\nかんがえなくていいことばかり、かんがえる▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 556\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_019"
+  },
+  {
+    "key": "e_84c30bdf52_0026_c4ab5f3802",
+    "original": "じぶんのことだけ、かんがえられるようになれば、\\nすこしはオツムもよくなるかもよ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 560\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_019_1"
+  },
+  {
+    "key": "e_84c30bdf52_0027_e179cc968c",
+    "original": "アスカはそうなの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 565\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0802_01_020"
+  },
+  {
+    "key": "e_84c30bdf52_0028_cb47ce1323",
+    "original": "アンタみたいに、ひとにきをつかう\\nヒマがあったらって、そのていどよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 569\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0802_02_021"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "key": "e_02088dcf6b_0001_8518ce2004",
+    "original": "私、なぜここにいるの？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 165\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1804_03_001"
+  },
+  {
+    "key": "e_02088dcf6b_0002_18f6a69efa",
+    "original": "私、なぜまた生きているの？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 215\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1804_03_002"
+  },
+  {
+    "key": "e_02088dcf6b_0003_6871e8a290",
+    "original": "何のために？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 267\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1804_03_003"
+  },
+  {
+    "key": "e_02088dcf6b_0004_3271f77a42",
+    "original": "誰のために？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 318\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1804_03_004"
+  },
+  {
+    "key": "e_02088dcf6b_0005_375efd68df",
+    "original": "フィフス・チルドレン、あのヒト…\\n私と同じ感じがする…どうして",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 346\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1804_03_005"
+  },
+  {
+    "key": "e_02088dcf6b_0006_bd6dfd26ca",
+    "original": "どう？\\n彼のデータ、入手出来た？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 394\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1804_04_006"
+  },
+  {
+    "key": "e_02088dcf6b_0007_52c205d2a5",
+    "original": "これです\\n伊吹二尉から、無断で借用したものです",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 398\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1804_09_007"
+  },
+  {
+    "key": "e_02088dcf6b_0008_d2c5a2f3a5",
+    "original": "すまないわね…\\nドロボーみたいな事ばかりやらせて▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 430\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1804_04_008"
+  },
+  {
+    "key": "e_02088dcf6b_0009_9a45a6e49d",
+    "original": "で…\\n何、これ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 461\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1804_04_008_1"
+  },
+  {
+    "key": "e_02088dcf6b_0010_d26e5c57f9",
+    "original": "マヤちゃんが公表出来ないわけですよ\\n理論上はありえない事なんですから",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 466\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1804_09_009"
+  },
+  {
+    "key": "e_02088dcf6b_0011_7b5da1141a",
+    "original": "そうね、謎は深まるばかりだわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 501\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1804_04_010"
+  },
+  {
+    "key": "e_02088dcf6b_0012_25249aeead",
+    "original": "エヴァとのシンクロ率を自由に設定できるとはね\\nそれも自分の意志で▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 505\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1804_04_010_1"
+  },
+  {
+    "key": "e_02088dcf6b_0013_cb691c20a9",
+    "original": "またも、\\nなりふりかまってらんないか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1804.NUT\nLine: 539\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1804_04_010_2"
+  }
+]

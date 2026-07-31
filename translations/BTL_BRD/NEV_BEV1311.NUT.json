@@ -1,0 +1,38 @@
+[
+  {
+    "key": "e_791eea3a3d_0001_6c07ea16c4",
+    "original": "シンジ、なぜ戦わない？",
+    "translation": "",
+    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 24\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_001"
+  },
+  {
+    "key": "e_791eea3a3d_0002_1af8fc7e17",
+    "original": "だって…人、人が乗ってるんだよ！\\n父さん！",
+    "translation": "",
+    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 25\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0016_01_002"
+  },
+  {
+    "key": "e_791eea3a3d_0003_7707865d29",
+    "original": "構わん\\nそいつは使徒だ、我々の敵だ",
+    "translation": "",
+    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 26\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_002"
+  },
+  {
+    "key": "e_791eea3a3d_0004_8f0ce67993",
+    "original": "でも、でも、出来ないよ！　助けなきゃ！\\n人殺しなんて出来ないよ！",
+    "translation": "",
+    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 27\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0016_01_004"
+  },
+  {
+    "key": "e_791eea3a3d_0005_ff4760fd58",
+    "original": "お前が死ぬぞ",
+    "translation": "",
+    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 28\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_003"
+  },
+  {
+    "key": "e_791eea3a3d_0006_dedfab8c08",
+    "original": "いいよ\\n人を殺すよりはいいっ！！",
+    "translation": "",
+    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 29\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0016_01_006"
+  }
+]

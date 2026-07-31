@@ -1,0 +1,332 @@
+[
+  {
+    "key": "e_fa541a707d_0001_51145f9795",
+    "original": "いい結婚式だったわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 198\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_001"
+  },
+  {
+    "key": "e_fa541a707d_0002_9d247e151e",
+    "original": "学生の頃と違って、\\nみんな家庭を持つ歳になったんだな…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 201\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_002"
+  },
+  {
+    "key": "e_fa541a707d_0003_f5bdd61326",
+    "original": "ホント、お互い最後の一人には\\nなりたくないわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 239\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1205_07_003"
+  },
+  {
+    "key": "e_fa541a707d_0004_15ce9018ea",
+    "original": "あなた達二人、\\nここらで結婚すれば？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 247\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1205_07_003_1"
+  },
+  {
+    "key": "e_fa541a707d_0005_ba87cf1f22",
+    "original": "リツコにしちゃ、\\n珍しいジョーダンね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 286\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_004"
+  },
+  {
+    "key": "e_fa541a707d_0006_2a36e7d3c5",
+    "original": "今は、あの子達の子守りで\\n手ェいっぱいよ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 293\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_004_1"
+  },
+  {
+    "key": "e_fa541a707d_0007_6272657d99",
+    "original": "チョッチ、ごめん\\n化粧直してくるわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 330\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_004_2"
+  },
+  {
+    "key": "e_fa541a707d_0008_83fc786f8d",
+    "original": "あら、逃げちゃ駄目よ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 369\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1205_07_005"
+  },
+  {
+    "key": "e_fa541a707d_0009_92681f4165",
+    "original": "ちゃんと戻ってくるわよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 375\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_006"
+  },
+  {
+    "key": "e_fa541a707d_0010_c85fe85fb1",
+    "original": "ミサト、今日ははしゃいでるわね\\nちょっと飲みすぎなんじゃない？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 419\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1205_07_007"
+  },
+  {
+    "key": "e_fa541a707d_0011_e17330ed41",
+    "original": "そうだな…\\n今日は浮かれるために飲んでるんだろ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 421\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_008"
+  },
+  {
+    "key": "e_fa541a707d_0012_e3971a539c",
+    "original": "いつもは自分を抑えるために\\n飲んでるんだろうけど",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 456\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_008_1"
+  },
+  {
+    "key": "e_fa541a707d_0013_a7fdcf0f02",
+    "original": "やっぱり、一緒に暮らしてた人は違うわね…\\n言葉の重みが",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 459\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1205_07_009"
+  },
+  {
+    "key": "e_fa541a707d_0014_f6b9358f79",
+    "original": "あれは暮らしというより共同生活だな\\nママゴトさ…現実は甘くない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 494\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_010"
+  },
+  {
+    "key": "e_fa541a707d_0015_fcdcf612f0",
+    "original": "それにしても、ミサトがスカートにヒール履くなんて\\n学生時代には考えられなかったわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 530\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1205_07_011"
+  },
+  {
+    "key": "e_fa541a707d_0016_1caa939e70",
+    "original": "ヒールを履くようになったのは\\n彼女と別れて…その後か",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 532\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_012"
+  },
+  {
+    "key": "e_fa541a707d_0017_42c39ba23f",
+    "original": "お互い、知らない時間と夜が\\n増えた事を知らされたよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 565\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_012_1"
+  },
+  {
+    "key": "e_fa541a707d_0018_460ad50a49",
+    "original": "ところで\\n京都、何しに行ってたの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 599\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1205_07_013"
+  },
+  {
+    "key": "e_fa541a707d_0019_fa043c42aa",
+    "original": "あれ？\\n出張したのは松代だよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 604\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_014"
+  },
+  {
+    "key": "e_fa541a707d_0020_33c7b85caf",
+    "original": "とぼけてもムダ\\nあまり深追いすると、ヤケドするわよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 606\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1205_07_015"
+  },
+  {
+    "key": "e_fa541a707d_0021_6717267fe8",
+    "original": "これは、友人としての忠告",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 644\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1205_07_015_1"
+  },
+  {
+    "key": "e_fa541a707d_0022_5223a598ee",
+    "original": "友人ね…\\n昔の事はさらりと返せる、キミは強いな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 649\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_016"
+  },
+  {
+    "key": "e_fa541a707d_0023_70af50f166",
+    "original": "あなた、\\nただ寂しかっただけでしょ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 684\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1205_07_017"
+  },
+  {
+    "key": "e_fa541a707d_0024_e9466956ec",
+    "original": "そう言うキミは？\\n今は寂しくない…？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 719\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_018"
+  },
+  {
+    "key": "e_fa541a707d_0025_45fa632dd7",
+    "original": "変わってないのね\\nその軽ぅ～いところ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 756\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_019"
+  },
+  {
+    "key": "e_fa541a707d_0026_ffdd35c629",
+    "original": "おっと、戻ってきたか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 795\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_020"
+  },
+  {
+    "key": "e_fa541a707d_0027_482253349d",
+    "original": "さて、そろそろ\\nおいとまするわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 829\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1205_07_021"
+  },
+  {
+    "key": "e_fa541a707d_0028_c26edd7ebd",
+    "original": "そう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 870\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_022"
+  },
+  {
+    "key": "e_fa541a707d_0029_8651062bc9",
+    "original": "残念だな\\nもう少しゆっくりできると思ったのに",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 875\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_023"
+  },
+  {
+    "key": "e_fa541a707d_0030_f6cbb1f708",
+    "original": "じゃ、ミサトの事\\nよろしくね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 913\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1205_07_024"
+  },
+  {
+    "key": "e_fa541a707d_0031_e7631692dc",
+    "original": "加持君、私…変わったかな？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1018\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_025"
+  },
+  {
+    "key": "e_fa541a707d_0032_98d8f0bc8c",
+    "original": "綺麗になった",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1023\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_026"
+  },
+  {
+    "key": "e_fa541a707d_0033_ae8c70f204",
+    "original": "ごめんね、\\nあの時一方的に別れ話して",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1067\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_027"
+  },
+  {
+    "key": "e_fa541a707d_0034_ae4afb8643",
+    "original": "他に好きな人が出来たってのは、あれウソ\\nバレてた？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1069\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_027_1"
+  },
+  {
+    "key": "e_fa541a707d_0035_0725c13f19",
+    "original": "…いや",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1071\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_028"
+  },
+  {
+    "key": "e_fa541a707d_0036_17f93bf6ee",
+    "original": "ただ、逃げただけなの\\n父親という呪縛から逃げ出しただけ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1112\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_029"
+  },
+  {
+    "key": "e_fa541a707d_0037_4be66cf94e",
+    "original": "………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1117\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_fa541a707d_0038_5dba3afe1f",
+    "original": "加持君、\\n私の父さんに似てる",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1158\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_031"
+  },
+  {
+    "key": "e_fa541a707d_0039_2380f13e62",
+    "original": "私、男に父親を求めていたのねって\\n気付いて…怖くなったの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1160\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_031_1"
+  },
+  {
+    "key": "e_fa541a707d_0040_5c08e0a71b",
+    "original": "…ゴメンね、酒の勢いでこんな話…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1197\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_031_2"
+  },
+  {
+    "key": "e_fa541a707d_0041_ebabb1ef75",
+    "original": "父を憎んでいた私が、\\n父によく似た人を好きになる",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1199\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_031_3"
+  },
+  {
+    "key": "e_fa541a707d_0042_8a0e853dca",
+    "original": "全てを吹っ切るつもりでネルフを選んだけど…\\nでも、それも父のいた組織",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1236\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_031_4"
+  },
+  {
+    "key": "e_fa541a707d_0043_6c987d7fb5",
+    "original": "結局、使徒に復讐する事で\\nみんな誤魔化してきたんだわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1272\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_031_5"
+  },
+  {
+    "key": "e_fa541a707d_0044_03cedc4c47",
+    "original": "その上…こうやって\\n都合のいい時ばっかり男にすがろうとする",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1310\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_031_6"
+  },
+  {
+    "key": "e_fa541a707d_0045_407c61cb6a",
+    "original": "一緒に暮らしていた時だって…そうやって\\nあなたを利用していただけかもしれないわ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1313\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_031_7"
+  },
+  {
+    "key": "e_fa541a707d_0046_600ea91f47",
+    "original": "もういい…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1351\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_032"
+  },
+  {
+    "key": "e_fa541a707d_0047_bc88a36488",
+    "original": "私…シンジ君と同じ\\n子供なのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1389\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_033"
+  },
+  {
+    "key": "e_fa541a707d_0048_d1c62d13ac",
+    "original": "なのに…嫌なところばかり\\n大人に…女になって…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1392\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_033_1"
+  },
+  {
+    "key": "e_fa541a707d_0049_d2220c75f5",
+    "original": "そんな自分に嫌気が差すわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1430\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_033_2"
+  },
+  {
+    "key": "e_fa541a707d_0050_e2317457c7",
+    "original": "もういい！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1471\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_034"
+  },
+  {
+    "key": "e_fa541a707d_0051_5f2e46dabe",
+    "original": "…………………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1507\nCall: im.event\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_fa541a707d_0052_103b330875",
+    "original": "俺は、それでも後悔していない\\n君と一緒に過ごした日々を",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1550\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_036"
+  },
+  {
+    "key": "e_fa541a707d_0053_bd58c5c2df",
+    "original": "加持君…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1555\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1205_04_037"
+  },
+  {
+    "key": "e_fa541a707d_0054_48cb00d730",
+    "original": "俺は、あの時の思い出だけでこれからも生きていける\\n何が起きようとも…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1560\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_038"
+  },
+  {
+    "key": "e_fa541a707d_0055_8189b7267e",
+    "original": "だから…もう言わなくていい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1205.NUT\nLine: 1576\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1205_11_038_1"
+  }
+]

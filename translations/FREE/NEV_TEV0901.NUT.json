@@ -1,0 +1,62 @@
+[
+  {
+    "key": "e_47402a57d4_0001_ff63591fb1",
+    "original": "使徒、第３新東京市に出現",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0901.NUT\nLine: 163\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0004_10_001"
+  },
+  {
+    "key": "e_47402a57d4_0002_0705e5f0c6",
+    "original": "かなりの巨体ですね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0901.NUT\nLine: 224\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0004_09_001"
+  },
+  {
+    "key": "e_47402a57d4_0003_c002779444",
+    "original": "サイケデリックなクモね\\n虫酸が走るわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0901.NUT\nLine: 228\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0004_04_001"
+  },
+  {
+    "key": "e_47402a57d4_0004_9fb7e0249f",
+    "original": "あの、目のようなところから、\\n何か液体らしきものが流れています",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0901.NUT\nLine: 243\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA03_0004_08_001"
+  },
+  {
+    "key": "e_47402a57d4_0005_61b05fdf75",
+    "original": "液体が落ちた箇所が腐食しているわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0901.NUT\nLine: 248\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA03_0004_07_001"
+  },
+  {
+    "key": "e_47402a57d4_0006_1976c575e7",
+    "original": "どうやら使徒の武器は、\\nあの強力な溶解液のようね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0901.NUT\nLine: 253\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA03_0004_07_001_1"
+  },
+  {
+    "key": "e_47402a57d4_0007_cb65869747",
+    "original": "タラタラおツユ流しちゃって\\n下品な攻撃だこと",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0901.NUT\nLine: 270\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0004_04_002"
+  },
+  {
+    "key": "e_47402a57d4_0008_cea2390cf5",
+    "original": "直上を目指しているという事は…あの液を使って、\\nジオフロントに侵入するつもりか…！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0901.NUT\nLine: 274\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0004_10_002"
+  },
+  {
+    "key": "e_47402a57d4_0009_e5e6fe111d",
+    "original": "ずいぶん地味な方法ね\\nでも、そうはさせないわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0901.NUT\nLine: 278\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0004_04_003"
+  },
+  {
+    "key": "e_47402a57d4_0010_9149321968",
+    "original": "エヴァ、発進準備！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0901.NUT\nLine: 299\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0004_04_003_1"
+  }
+]

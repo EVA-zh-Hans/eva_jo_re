@@ -1,0 +1,86 @@
+[
+  {
+    "key": "e_87590d723c_0001_1fbec0ddb5",
+    "original": "第３新東京市　中央区",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　東地区"
+  },
+  {
+    "key": "e_87590d723c_0002_c6a5aa6da9",
+    "original": "第３新東京市　東地区",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　西地区"
+  },
+  {
+    "key": "e_87590d723c_0003_11b350752e",
+    "original": "第３新東京市　西地区",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　南地区"
+  },
+  {
+    "key": "e_87590d723c_0004_c4ec54987c",
+    "original": "第３新東京市　南地区",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　北地区"
+  },
+  {
+    "key": "e_87590d723c_0005_e72089eb06",
+    "original": "第３新東京市　北地区",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 　　ジオフロント"
+  },
+  {
+    "key": "e_87590d723c_0006_8506ee0889",
+    "original": "　　ジオフロント",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 　　初号機ケイジ"
+  },
+  {
+    "key": "e_87590d723c_0007_6bfec2b23e",
+    "original": "　　初号機ケイジ",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26"
+  },
+  {
+    "key": "e_87590d723c_0008_e519684cc5",
+    "original": "あら、訓練ですか？\\n無茶はしないでくださいね",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 65\nCall: im.play\nSpeaker: IMC_MAYA"
+  },
+  {
+    "key": "e_87590d723c_0009_8da50e8143",
+    "original": "すみません…\\n今、できる模擬戦はありません▽",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 69\nCall: im.play\nSpeaker: IMC_MAYA"
+  },
+  {
+    "key": "e_87590d723c_0010_a44373a21d",
+    "original": "マップギミックを配置",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 142\nCall: MenuSetup\nVoice: スキルプログラムを実装"
+  },
+  {
+    "key": "e_87590d723c_0011_f828e90c60",
+    "original": "スキルプログラムを実装",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 142\nCall: MenuSetup\nVoice: 模擬戦を開始"
+  },
+  {
+    "key": "e_87590d723c_0012_cc66a6ad67",
+    "original": "模擬戦を開始",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 142\nCall: MenuSetup"
+  },
+  {
+    "key": "e_87590d723c_0013_830fa9bdce",
+    "original": "それでは、模擬戦を開始します",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 188\nCall: im.play\nSpeaker: IMC_MAYA"
+  },
+  {
+    "key": "e_87590d723c_0014_e6e1152fbf",
+    "original": "またいつでも来てください\\n早くエヴァに慣れてくださいね！",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 270\nCall: im.play\nSpeaker: IMC_MAYA"
+  }
+]

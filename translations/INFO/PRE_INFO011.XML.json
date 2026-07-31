@@ -1,0 +1,44 @@
+[
+  {
+    "key": "e_e518908f94_0005_bf22c69e27",
+    "original": "第３新東京市　北地区に出現予定",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 3\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_e518908f94_0009_44bef9284e",
+    "original": "歩行による移動、移動速度は速い",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 4\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_e518908f94_0013_6f1cbba0b2",
+    "original": "格闘攻撃が中心\\n腕の伸縮による中距離攻撃",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 5\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_e518908f94_0017_8a1941ac7c",
+    "original": "Ａ．Ｔ．フィールドを展開するガード",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 6\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_e518908f94_0021_f7d8032241",
+    "original": "攻撃の一環としてダッシュやジャンプ\\nでの移動をする",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 7\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_e518908f94_0025_b31da4e26f",
+    "original": "長射程の武器や兵装ビルによる\\n敵の近接攻撃範囲外からの\\nアウトレンジ攻撃",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 8\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_e518908f94_0029_cf63ea2f81",
+    "original": "ゼロエリア防壁周辺に強力な\\n兵装ビルを多数配置すると、\\n防壁にまで被害が及ぶ事がある",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 9\nElement: DETAIL\nAttribute: exp"
+  }
+]

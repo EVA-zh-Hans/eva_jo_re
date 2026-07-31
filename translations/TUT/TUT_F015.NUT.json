@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_e0cd81d626_0001_a196b0ab37",
+    "original": "日常生活の終了",
+    "translation": "",
+    "context": "File: TUT/TUT_F015.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_e0cd81d626_0002_a196b0ab37",
+    "original": "日常生活の終了",
+    "translation": "",
+    "context": "File: TUT/TUT_F015.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_e0cd81d626_0003_4680b18860",
+    "original": "戦闘の後などの平和な日常生活を終了し、\\nストーリーを進行させるためには、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F015.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_e0cd81d626_0004_a1845ca784",
+    "original": "<01>ミサトのマンション<//>で\\n<02>日常生活を終了する<//>コマンドを実行します",
+    "translation": "",
+    "context": "File: TUT/TUT_F015.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "key": "e_0f11d6c790_0001_4166d04c84",
+    "original": "聞こえる、アスカ？　シンクロ率が低下してるわよ\\nいつも通り、余計な事を考えずに",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 179\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1601_07_001"
+  },
+  {
+    "key": "e_0f11d6c790_0002_01c2d1f95e",
+    "original": "やってるわよ！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 254\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1601_02_002"
+  },
+  {
+    "key": "e_0f11d6c790_0003_95731398c2",
+    "original": "最近のアスカのシンクロ率、\\n下がる一方ですね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 265\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1601_08_003"
+  },
+  {
+    "key": "e_0f11d6c790_0004_908698c0c0",
+    "original": "無理ないわよ\\nあんな負け方しちゃ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 315\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1601_04_005"
+  },
+  {
+    "key": "e_0f11d6c790_0005_bc7f0afc9d",
+    "original": "…というより、シンジ君に負けたと\\n思い込んでる方が大きいわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 318\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1601_04_005_1"
+  },
+  {
+    "key": "e_0f11d6c790_0006_3d1b5f607a",
+    "original": "じんるいをまもる、エリートパイロット…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 361\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1601_02_006"
+  },
+  {
+    "key": "e_0f11d6c790_0007_257ce88a3f",
+    "original": "なのに…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 372\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1601_02_006_1"
+  },
+  {
+    "key": "e_0f11d6c790_0008_b88c67549c",
+    "original": "シトをたおしてきたのは、\\nほとんどがあのバカシンジ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 383\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1601_02_006_2"
+  },
+  {
+    "key": "e_0f11d6c790_0009_3d61323033",
+    "original": "わたし…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 394\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1601_02_006_3"
+  },
+  {
+    "key": "e_0f11d6c790_0010_e50ddb73e0",
+    "original": "ママ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 405\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1601_02_006_4"
+  },
+  {
+    "key": "e_0f11d6c790_0011_c4c1b6bb66",
+    "original": "シンクログラフ、\\n起動指数ギリギリです",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 441\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1601_08_007"
+  },
+  {
+    "key": "e_0f11d6c790_0012_daa1a68aca",
+    "original": "そう…\\n弐号機のコア、変更もやむなしかしらね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 473\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1601_07_008"
+  },
+  {
+    "key": "e_0f11d6c790_0013_6f1197bc9e",
+    "original": "あのアダムより生まれしモノ、\\nエヴァシリーズ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 547\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1602_04_001"
+  },
+  {
+    "key": "e_0f11d6c790_0014_7c463247b2",
+    "original": "セカンドインパクトを引き起こした原因たるものを\\n流用しなければ、私達は使徒に勝てない▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 576\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1602_04_001_1"
+  },
+  {
+    "key": "e_0f11d6c790_0015_cf8cdccf7c",
+    "original": "逆に生きるためには、\\n自分達を滅ぼそうとしたものをも利用する▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 605\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1602_04_001_2"
+  },
+  {
+    "key": "e_0f11d6c790_0016_f9645071f0",
+    "original": "それが人間なのね…\\nやはり、私はエヴァを憎んでいるのかもしれない▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 609\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1602_04_001_3"
+  },
+  {
+    "key": "e_0f11d6c790_0017_1b10b5c040",
+    "original": "父の仇か",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 639\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1602_04_001_4"
+  },
+  {
+    "key": "e_0f11d6c790_0018_1245c0956d",
+    "original": "葛城さん",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 644\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1602_09_002"
+  },
+  {
+    "key": "e_0f11d6c790_0019_ca0d2b1c08",
+    "original": "エヴァ拾参号機までの建造を開始？\\n世界７箇所で？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 686\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1602_04_003"
+  },
+  {
+    "key": "e_0f11d6c790_0020_4906f011e8",
+    "original": "上海経由の情報です\\nソースに信頼はおけます",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 689\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1602_09_004"
+  },
+  {
+    "key": "e_0f11d6c790_0021_21e2364ecb",
+    "original": "なぜこの時期に、量産を急ぐの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 692\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1602_04_005"
+  },
+  {
+    "key": "e_0f11d6c790_0022_9662859737",
+    "original": "第２次整備に向けて、予備戦力の\\n増強を急いでいるのでは？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 698\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1602_09_006_1"
+  },
+  {
+    "key": "e_0f11d6c790_0023_d538ba6a3f",
+    "original": "どうかしら",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 727\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1602_04_007"
+  },
+  {
+    "key": "e_0f11d6c790_0024_86800d5c13",
+    "original": "ここにしても、ドイツで建造中の伍、六号機の\\nパーツを回してもらってるのよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 756\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1602_04_007_1"
+  },
+  {
+    "key": "e_0f11d6c790_0025_27c36d76fe",
+    "original": "委員会の焦りらしきものを感じるわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 791\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1602_04_009"
+  },
+  {
+    "key": "e_0f11d6c790_0026_edacc3ded0",
+    "original": "では、委員会が今までのように単独ではなく、\\n複数同時展開のケースを設定したものでしょうか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 821\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1602_09_010"
+  },
+  {
+    "key": "e_0f11d6c790_0027_19cf2c30b6",
+    "original": "そうね、でも、非公式に行う理由がないわ、\\n何か別の目的があるのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1601.NUT\nLine: 850\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1602_04_011"
+  }
+]

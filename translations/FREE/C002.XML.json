@@ -1,0 +1,110 @@
+[
+  {
+    "key": "e_294dd5f2fe_0003_d40a6a7733",
+    "original": "アスカ",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 3\nElement: freechar\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0004_1ca13cf6f8",
+    "original": "惣流・アスカ・ラングレー",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 3\nElement: freechar\nAttribute: fullname"
+  },
+  {
+    "key": "e_294dd5f2fe_0031_2a742684d7",
+    "original": "立ち",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 15\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0036_b8647675c4",
+    "original": "歩き",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 16\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0041_c6d11b4270",
+    "original": "走り",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 17\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0046_a89b5f751c",
+    "original": "アイドル１",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 18\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0051_f2494a49ef",
+    "original": "アイドル２",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 19\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0056_8547f411a0",
+    "original": "アイドル３",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 20\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0061_97ca89c19b",
+    "original": "アイドル４",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 21\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0066_e3722e3a6d",
+    "original": "会話１",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 22\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0071_f6f6aac2c8",
+    "original": "会話２",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 23\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0076_9f16887161",
+    "original": "会話３",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 24\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0081_44937cd2e1",
+    "original": "会話４",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 25\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0086_450c7d13ad",
+    "original": "アップ会話１",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 26\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0091_52347dd07c",
+    "original": "アップ会話２",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 27\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0096_58d0f918ce",
+    "original": "アップ会話３",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 28\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0101_1cf8281639",
+    "original": "アップ会話４",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 29\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_294dd5f2fe_0106_87c76c08f1",
+    "original": "アップ会話５",
+    "translation": "",
+    "context": "File: FREE/C002.XML\nLine: 30\nElement: motion\nAttribute: name"
+  }
+]

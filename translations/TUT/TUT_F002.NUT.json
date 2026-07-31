@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_be94d36a77_0001_4ae9743b76",
+    "original": "マップ外への移動",
+    "translation": "",
+    "context": "File: TUT/TUT_F002.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_be94d36a77_0002_4ae9743b76",
+    "original": "マップ外への移動",
+    "translation": "",
+    "context": "File: TUT/TUT_F002.NUT\nLine: 23\nCall: DecideStart"
+  },
+  {
+    "key": "e_be94d36a77_0003_6e8a4808d4",
+    "original": "<02>マップの出口<//>では、<02>他のマップへ移動<//>するかを\\n確認されます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F002.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_be94d36a77_0004_e8acd5a88f",
+    "original": "はいを選択すると、<02>移動先を選ぶ<//>画面になります",
+    "translation": "",
+    "context": "File: TUT/TUT_F002.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_be94d36a77_0005_23fd8725ae",
+    "original": "<02>移動先の一覧<//>から、<07>方向キー<//>で行きたい場所を選び\\n$oボタンで決定すると<02>そのマップへ移動<//>できます",
+    "translation": "",
+    "context": "File: TUT/TUT_F002.NUT\nLine: 41\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

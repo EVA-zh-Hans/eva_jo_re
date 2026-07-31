@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_a05efa4e4a_0001_414adc354f",
+    "original": "シンジ君、ミサトさんと連絡がつかないんだ\\n家にいるのかな？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1508.NUT\nLine: 124\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1504_09_006"
+  },
+  {
+    "key": "e_a05efa4e4a_0002_f8db396f18",
+    "original": "いえ、本部じゃないんですか？\\n家にもいなかったんですけど",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1508.NUT\nLine: 148\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1504_01_007"
+  },
+  {
+    "key": "e_a05efa4e4a_0003_7badea1791",
+    "original": "…まさか▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1508.NUT\nLine: 176\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1504_09_008"
+  },
+  {
+    "key": "e_a05efa4e4a_0004_09a134582e",
+    "original": "あ、ゴメン…何でもない\\nきっと、そのうち戻ってくるよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1508.NUT\nLine: 181\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1504_09_009"
+  }
+]

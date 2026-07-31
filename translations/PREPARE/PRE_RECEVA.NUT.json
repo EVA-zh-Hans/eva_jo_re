@@ -1,0 +1,44 @@
+[
+  {
+    "key": "e_0b17fc3eb0_0001_154657c9df",
+    "original": "被害を受けた機体があったら、すぐに私に言いなさい\\nいつでも修理するわ",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECEVA.NUT\nLine: 43\nCall: im.play\nSpeaker: IMC_RITSUKO"
+  },
+  {
+    "key": "e_0b17fc3eb0_0002_74bed0a0c0",
+    "original": "…って、どれも被害はないわね▽",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECEVA.NUT\nLine: 47\nCall: im.play\nSpeaker: IMC_RITSUKO"
+  },
+  {
+    "key": "e_0b17fc3eb0_0003_1c25195964",
+    "original": "%d必要ですが、よろしいですか？",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECEVA.NUT\nLine: 99\nCall: DecideStart"
+  },
+  {
+    "key": "e_0b17fc3eb0_0004_b25479b024",
+    "original": "修理が完了しました",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECEVA.NUT\nLine: 137\nCall: DecideStart"
+  },
+  {
+    "key": "e_0b17fc3eb0_0005_7716001f4a",
+    "original": "<12>ネルフ関係者<//>から<12>シンジ<//>への注目度が<07>１<//>上がった\\n<12>ネルフ関係者<//>から<12>シンジ<//>への態度が<07>ポジティブ<//>に変化した",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECEVA.NUT\nLine: 148\nCall: DecideStart"
+  },
+  {
+    "key": "e_0b17fc3eb0_0006_9ea218db6c",
+    "original": "全ての修理が完了しました",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECEVA.NUT\nLine: 160\nCall: DecideStart"
+  },
+  {
+    "key": "e_0b17fc3eb0_0007_0b81363605",
+    "original": "エヴァは大事に扱うようにね\\nあなたも気をつけた方がいいわ",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECEVA.NUT\nLine: 189\nCall: im.play\nSpeaker: IMC_RITSUKO"
+  }
+]

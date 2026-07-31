@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_bfbe3532f0_0001_437a172d7b",
+    "original": "開発",
+    "translation": "",
+    "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 46\nCall: font1.set_string"
+  },
+  {
+    "key": "e_bfbe3532f0_0002_b7f76387ca",
+    "original": "実装",
+    "translation": "",
+    "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 47\nCall: font2.set_string"
+  },
+  {
+    "key": "e_bfbe3532f0_0003_5e473364b1",
+    "original": "開発したスキルプログラムを実装すれば\\nエヴァはもっと強くなるわよ",
+    "translation": "",
+    "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 78\nCall: im.play\nSpeaker: IMC_RITSUKO"
+  },
+  {
+    "key": "e_bfbe3532f0_0004_5e50355b1c",
+    "original": "スキルプログラムを開発すれば\\nエヴァはもっと強くなるわよ",
+    "translation": "",
+    "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 82\nCall: im.play\nSpeaker: IMC_RITSUKO"
+  },
+  {
+    "key": "e_bfbe3532f0_0005_af4d0b0afa",
+    "original": "またいらっしゃい",
+    "translation": "",
+    "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 191\nCall: im.play\nSpeaker: IMC_RITSUKO"
+  }
+]

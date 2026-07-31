@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_4e3761bee5_0005_9958036190",
+    "original": "エヴァンゲリオンを修理する",
+    "translation": "",
+    "context": "File: BTNNAVI/CUREEVA1.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_4e3761bee5_0010_75fca1d949",
+    "original": "進む",
+    "translation": "",
+    "context": "File: BTNNAVI/CUREEVA1.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  }
+]

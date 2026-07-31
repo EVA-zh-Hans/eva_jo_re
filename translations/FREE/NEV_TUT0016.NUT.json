@@ -1,0 +1,86 @@
+[
+  {
+    "key": "e_cc9e2e6c88_0001_d290f56de2",
+    "original": "最近の戦いぶり、まあまあ、ね\\nそろそろエヴァのソフトを更新してもいいみたい",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_cc9e2e6c88_0002_4886ff31a5",
+    "original": "ソフトってなんですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 125\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_cc9e2e6c88_0003_0873693380",
+    "original": "パイロットの思うとおりにエヴァは動くけれど、\\nそれだけじゃないのよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 129\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_cc9e2e6c88_0004_0743a5d23b",
+    "original": "照準の中に入れてクリック、\\nするとエヴァは熟練の兵士の動きでそれをやるわけ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 130\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_cc9e2e6c88_0005_c355218ea8",
+    "original": "…？",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_cc9e2e6c88_0006_28bc1ad712",
+    "original": "ま、パイロットの助けを行う\\nエヴァの制御プログラムがあるのよ、たくさんね▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 136\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_cc9e2e6c88_0007_7d9bf57f88",
+    "original": "これを<02>スキルプログラム<//>と言います",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 137\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_cc9e2e6c88_0008_cc9827baf0",
+    "original": "<02>スキルプログラム<//>…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_cc9e2e6c88_0009_8983fc1d0e",
+    "original": "<02>スキル<//>には種類とレベルがあるわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 143\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_cc9e2e6c88_0010_8329913f64",
+    "original": "容量に限界あるから、その範囲内で\\nやりくりしてエヴァに実装することになるわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 144\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_cc9e2e6c88_0011_d3e6dcf01e",
+    "original": "僕が選んでいいんですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 147\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_cc9e2e6c88_0012_ce029dc24b",
+    "original": "もちろん、それぐらいはね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 151\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_cc9e2e6c88_0013_08ba7c9575",
+    "original": "はいっ！　色々ためしてみます",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 154\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_cc9e2e6c88_0014_7e89030203",
+    "original": "そうね、<02>模擬戦<//>をしながら\\n調整していきましょう",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 157\nCall: im.play\nSpeaker: IMC_MISATO"
+  }
+]

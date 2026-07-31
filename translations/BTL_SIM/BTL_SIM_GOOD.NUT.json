@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_118f52831f_0001_c8af1581b2",
+    "original": "やった、倒した！！▽",
+    "translation": "",
+    "context": "File: BTL_SIM/BTL_SIM_GOOD.NUT\nLine: 40\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0073_01_001"
+  },
+  {
+    "key": "e_118f52831f_0002_03107dd06b",
+    "original": "ミサトさん、倒しましたよ！！",
+    "translation": "",
+    "context": "File: BTL_SIM/BTL_SIM_GOOD.NUT\nLine: 43\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0073_01_001_1"
+  },
+  {
+    "key": "e_118f52831f_0003_2c6d89322c",
+    "original": "上出来ィ！！\\n予想以上の腕前だわ！！▽",
+    "translation": "",
+    "context": "File: BTL_SIM/BTL_SIM_GOOD.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0073_04_001"
+  },
+  {
+    "key": "e_118f52831f_0004_a13be36efb",
+    "original": "お疲れさま、\\n今日の訓練は終わりよ",
+    "translation": "",
+    "context": "File: BTL_SIM/BTL_SIM_GOOD.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0073_04_001_1"
+  }
+]

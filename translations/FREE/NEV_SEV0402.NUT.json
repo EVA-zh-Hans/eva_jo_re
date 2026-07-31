@@ -1,0 +1,176 @@
+[
+  {
+    "key": "e_068e79ed10_0001_de4bb4d3cf",
+    "original": "綾波レイ１４才…",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 154\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_001_1"
+  },
+  {
+    "key": "e_068e79ed10_0002_e585859a33",
+    "original": "マルドゥックの報告書によって\\n選ばれた最初の適格者、第１の少女",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 157\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_001_2"
+  },
+  {
+    "key": "e_068e79ed10_0003_f938be5dc3",
+    "original": "すなわち、エヴァンゲリオン試作零号機、\\n専属操縦者…過去の経緯は白紙…全て抹消済み",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 160\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_001_3"
+  },
+  {
+    "key": "e_068e79ed10_0004_70f36a7fbb",
+    "original": "その綾波を助けるために…\\n父さんが",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 174\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0005_01_002"
+  },
+  {
+    "key": "e_068e79ed10_0005_3c69af0ddd",
+    "original": "にわかに、信じられないわね",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 177\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0005_04_003"
+  },
+  {
+    "key": "e_068e79ed10_0006_dd563107b8",
+    "original": "正規の報告書では削除されているけど、\\nまぎれもない事実よ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 201\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_004"
+  },
+  {
+    "key": "e_068e79ed10_0007_d56c2a1bd2",
+    "original": "そんな暴走事故を起こした零号機の\\n凍結解除、ちと性急すぎない？",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 233\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0005_04_005"
+  },
+  {
+    "key": "e_068e79ed10_0008_08f3cedd40",
+    "original": "使徒は再び現れた\\n戦力の増強は我々の急務よ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 237\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_006"
+  },
+  {
+    "key": "e_068e79ed10_0009_64595b1c0b",
+    "original": "それはそうだけど…",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 241\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0005_04_007"
+  },
+  {
+    "key": "e_068e79ed10_0010_ad4d1940a2",
+    "original": "レイの再起動実験は既に検証済み\\n零号機本体に問題ないわ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 245\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_008_1"
+  },
+  {
+    "key": "e_068e79ed10_0011_8394a23c70",
+    "original": "神経接続の調整が済めば…",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 248\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_008_2"
+  },
+  {
+    "key": "e_068e79ed10_0012_0db954708e",
+    "original": "即、再配備というわけね",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 251\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0005_04_009"
+  },
+  {
+    "key": "e_068e79ed10_0013_16a6225d53",
+    "original": "どう、彼との生活は？",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 300\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_010"
+  },
+  {
+    "key": "e_068e79ed10_0014_941be6f3f7",
+    "original": "まぁ、ね…少し、慣れた",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 303\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0005_04_011"
+  },
+  {
+    "key": "e_068e79ed10_0015_6da077f37c",
+    "original": "まだ緊張してんの？\\n男と暮らすの、初めてじゃないでしょ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 306\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_012"
+  },
+  {
+    "key": "e_068e79ed10_0016_e3140040f2",
+    "original": "８年前とは違うわよ！\\n今度のは恋愛じゃないし…",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 311\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0005_04_013"
+  },
+  {
+    "key": "e_068e79ed10_0017_f2ea59f131",
+    "original": "それは、どうかしら…\\nシンジ君、あなたがいるから残ったんじゃない？",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 314\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_014"
+  },
+  {
+    "key": "e_068e79ed10_0018_b7b5114fb8",
+    "original": "違うわ\\n多分、お父さんがいるからよ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 319\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0005_04_015"
+  },
+  {
+    "key": "e_068e79ed10_0020_a7f878b8ce",
+    "original": "……",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 326\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_068e79ed10_0021_82254d1c1a",
+    "original": "…碇司令、どうして実の息子に\\nあそこまで興味ないのかしら",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 362\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0005_04_019_1"
+  },
+  {
+    "key": "e_068e79ed10_0022_2fe20f5678",
+    "original": "レイとは話しているみたいなのに…\\nバランス悪いわねぇ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 365\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0005_04_019_2"
+  },
+  {
+    "key": "e_068e79ed10_0023_46066ebb2c",
+    "original": "最近の男はすべからく自分にしか興味ないのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 371\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_020"
+  },
+  {
+    "key": "e_068e79ed10_0024_ebf8cb5b8c",
+    "original": "女にはつらい時代になったわね",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 375\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0005_04_021"
+  },
+  {
+    "key": "e_068e79ed10_0025_85a4fe9d80",
+    "original": "さて、と\\n時間だし戻らなくちゃ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 414\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_022"
+  },
+  {
+    "key": "e_068e79ed10_0026_eeebab4ef1",
+    "original": "相変わらず、仕事の虫ねぇ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 419\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0005_04_023"
+  },
+  {
+    "key": "e_068e79ed10_0027_12dba33cfc",
+    "original": "ミサト、帰るならコレ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 440\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_024"
+  },
+  {
+    "key": "e_068e79ed10_0028_ae76a2e3d7",
+    "original": "シンジ君の正式なセキュリティカードと、\\n綾波レイの更新カード",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 443\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_025_1"
+  },
+  {
+    "key": "e_068e79ed10_0029_b84a827d5a",
+    "original": "さっき渡しそびれて…\\n明日、シンジ君に頼めるかしら？",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 446\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_025_2"
+  },
+  {
+    "key": "e_068e79ed10_0030_5981e4832c",
+    "original": "…いいけど",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 449\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0005_04_026"
+  }
+]

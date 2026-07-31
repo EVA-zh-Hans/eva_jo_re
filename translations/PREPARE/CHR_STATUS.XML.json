@@ -1,0 +1,128 @@
+[
+  {
+    "key": "e_1e9b88dbcd_0004_936088c47d",
+    "original": "ネルフ関係者から第３の少年と呼ばれて\\nいる、非常にナイーヴで内向的な少年\\nエヴァに乗ることで、父・碇ゲンドウに\\n認められようとする",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 5\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0006_31229f119a",
+    "original": "エヴァ開発当初から訓練を受けていた、\\n第１の少女\\n無口で、ほとんど感情を表さないが、\\nゲンドウのみに心を開く",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 6\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0008_621c5fb29d",
+    "original": "エヴァ弐号機の専属操縦者である第２の\\n少女　日本とドイツのクォーターだが、\\n国籍はアメリカ　\\nプライドが高く、負けず嫌いな少女",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 7\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0010_bd0daaa764",
+    "original": "エヴァパイロットとして戦闘不能と\\nなってしまったアスカに代わり、\\nゼーレから派遣されてきた第５の少年\\n不思議な魅力でシンジを惑わせる",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 8\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0012_b6367ec2ee",
+    "original": "第３新東京市第壱中学校２年生\\nシンジのクラスメートで、自称硬派\\n使徒との戦闘に妹が巻き込まれ負傷・\\n入院しており、いつも気にかけている",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 9\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0014_5b72eca216",
+    "original": "シンジやトウジの同級生\\nミリタリーマニアで、趣味はプラモデル\\nビデオなど多岐にわたる\\nエヴァのパイロットに憧れている",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 10\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0016_c689b9bb21",
+    "original": "シンジたちのクラスの学級委員長\\n責任感が強く真面目な少女\\nトウジに想いを寄せているが、\\n本人に言い出せずにいる",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 11\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0018_17f7ca0816",
+    "original": "ネルフ本部戦術作戦部作戦局第一課に\\n所属\\nネルフの作戦部長として戦闘指揮を行う\\nシンジたちエヴァパイロットの保護者",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 12\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0020_65bf5a70b4",
+    "original": "ネルフ本部技術開発部技術一課所属\\nエヴァンゲリオン開発責任者\\n理知的だが神経質なところもある\\nミサトとは学生のころからの友人",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 13\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0022_52122ef90c",
+    "original": "ネルフ特殊査察部に属し、アダムの搬送\\nなどネルフ内の機密に深く関わっている\\n飄々とした人物で、ミサトとは学生時代\\nに恋人関係にあった",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 14\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0024_f2000698fe",
+    "original": "シンジの父親であり、人類補完計画の\\n実行責任者\\n目的遂行のためには手段を選ばない\\n非情さを見せる",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 15\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0026_44323e36cf",
+    "original": "常にゲンドウの傍に立ち、\\n彼が不在のときはネルフの指揮をとる\\n性格は温和で、冷静\\n決断力にも富む",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 16\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0028_a2ce196ba5",
+    "original": "ネルフ本部中央作戦司令部情報局第二課\\n所属\\n発令所内で通信・情報分析を担当する\\n口数は少ない",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 17\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0030_1f05bf9c43",
+    "original": "ネルフ本部中央作戦司令部作戦局第一課\\n所属　ミサトの作戦立案を補佐する\\n発令所内では戦況分析などの\\nオペレーター業務を担当する",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 18\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0032_92ec6bf5ae",
+    "original": "ネルフ本部技術局第一課所属　\\n直属の上司は赤木リツコ\\n通常は発令所でのエヴァの操縦者を\\nモニターするオペレーターを務める",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 19\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0034_c74fb366b5",
+    "original": "新種の温泉ペンギン\\nミサトの同居人であり、彼女の\\nマンションにある冷蔵庫型の\\n特製居住スペースに住んでいる",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 20\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0037_cd5e43b524",
+    "original": "最初に完成した汎用人型決戦兵器\\n性能実験等への使用を目的に製作された\\n試作型エヴァである\\n起動実験時の暴走により凍結される",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 23\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0039_3c9cca2732",
+    "original": "２番目に完成した実戦試験用エヴァ\\n実戦に投入されたのはシンジが搭乗した\\n初号機が最初である\\n有線の電力供給で稼動する",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 24\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0041_29e5145163",
+    "original": "３番目に作られたエヴァであり、\\n制式タイプである\\n部品は日本製だが、その組み立ては\\nドイツにおいて行われた",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 25\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0043_d16326095a",
+    "original": "ネルフアメリカ支部で組み立てられた、\\n４番目のエヴァ\\nアメリカ第２支部の消滅に伴い、\\n日本に引き取られる",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 26\nElement: EXP\nAttribute: str"
+  },
+  {
+    "key": "e_1e9b88dbcd_0045_3127eab698",
+    "original": "最初に完成した汎用人型決戦兵器\\n使徒との戦いで大破し、その後改修され\\n再就役となる\\nその際、本体色が黄色から青色となる",
+    "translation": "",
+    "context": "File: PREPARE/CHR_STATUS.XML\nLine: 27\nElement: EXP\nAttribute: str"
+  }
+]

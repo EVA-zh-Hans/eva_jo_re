@@ -1,0 +1,182 @@
+[
+  {
+    "key": "e_6b8db7b9f7_0004_417371d958",
+    "original": "<07>アナログパッド<//>を入力した方向に\\nキャラクターを<02>移動<//>させる事が\\nできます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 5\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0007_03d29816e3",
+    "original": "マップの出口では、他のマップへ\\n移動するかを確認されます\\n\\nはいを選択すると、移動先を選ぶ\\n画面になります\\n\\n移動先の一覧から、<07>方向キー<//>で\\n行きたい場所を選び$oボタンで\\n決定するとそのマップへ移動\\nできます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 8\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0010_99bb4b46da",
+    "original": "なにか、あるいは誰かに近付くと\\n画面右下に$o・$#ボタンに対応\\nしたコマンドが表示されます\\n\\n$oボタンを押すと、<02>その場の状況\\nに応じたコマンド<//>を実行します\\n\\n会話の場合、話題が表示される\\nので$oボタンを押すだけで、簡単\\nにその人と話す事ができます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 11\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0013_b84fd48d11",
+    "original": "なにか、あるいは誰かに近付くと\\n画面右下に$o・$#ボタンに対応\\nしたコマンドが表示されます\\n\\n$#ボタンを押すと、<02>その時に可能\\nな全てのコマンドリスト<//>が表示\\nされます\\n\\n様々なコマンドの中から、自分の\\n好きなものを選択する事が\\nできます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 14\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0016_ae7ff2ca1f",
+    "original": "会話コマンドは、種類ごとに\\n色分けされています\\n\\n　<08>ピンク<//>　：キャライベント\\n　<07>緑<//>　　　：機能コマンド\\n　<02>黄色<//>　　：ヘルプ、説明セリフ\\n　<10>オレンジ<//>：戦闘情報\\n　白　　　：一般会話",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 17\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0019_6092103a34",
+    "original": "<02>注目度<//>とはキャラクターが持つ\\n興味や関心を表す数値です\\n\\n<02>注目度<//>によってキャラクターの\\nとる行動が変わります\\n\\n<02>注目度<//>の低い相手は無視をし、\\n高い相手には注目をし、更に高い\\n場合、近付いて話し掛けます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 20\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0022_3a3cd43891",
+    "original": "<02>注目度<//>は他の人と<02>会話<//>をする事で\\n変動します\\n\\n他にも<02>戦闘の勝敗<//>、<02>模擬戦の結果<//>\\n<02>ダメージの回復<//>などで様々な人達\\nからの<02>注目度<//>が変動します",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 23\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0025_c0038f396a",
+    "original": "<02>注目度<//>数値の意味は、\\n各キャラクターの持つ<02>態度<//>が\\n<02>ポジティブ<//>か、<02>ネガティブ<//>かに\\nよって変わります\\n\\n<02>ポジティブ<//>な相手には、\\n数値が高いと強い<07>好印象<//>を与え、\\n低ければ印象が弱くなります\\n逆に、<02>ネガティブ<//>な相手には、\\n数値が高いと強い<01>悪印象<//>を与え、\\n低ければ印象が弱くなります",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 26\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0028_67c7a84761",
+    "original": "<02>態度<//>は他の人と<02>会話<//>をする事で\\n変動します\\n\\n他にも<02>戦闘の勝敗<//>、<02>模擬戦の結果<//>\\n<02>ダメージの回復<//>などで様々な人達\\nの<02>態度<//>が変動します",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 29\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0031_3946cdd459",
+    "original": "態度が<02>ポジティブ<//>の場合、\\n数値の<02>増加<//>は関係が良くなるので\\n<07>緑色<//>で表示され、\\n逆に<02>減少<//>は関係が悪化するので\\n<01>赤色<//>で表示されます\\n\\n態度が<02>ネガティブ<//>の場合、\\n数値の<02>増加<//>は関係が悪化するので\\n<01>赤色<//>で表示され、\\n逆に<02>減少<//>は関係が良くなるので\\n<07>緑色<//>で表示されます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 32\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0034_d7855485b5",
+    "original": "各キャラクターはそれぞれ\\n好みの話題を持っています\\n\\nまた、好みは仲が良くなるごとに\\n少しずつ深い話題にシフトします\\n\\n各キャラクターの好みの話題を\\n選んで会話することで、<02>注目度<//>に\\n<02>ボーナス<//>を得たり、相手の<02>態度<//>を\\n<02>ポジティブ<//>にしたりする事が\\nできます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 35\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0037_7b931e0181",
+    "original": "日常のプレイ中に$^ボタンを\\n押すと<02>システムメニュー<//>が表示\\nされます\\n\\nそれぞれのコマンドで、様々な\\n機能を利用したり、情報を閲覧\\nする事ができます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 38\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0040_e8fe9f4bd6",
+    "original": "<02>キャラステータス<//>では、登場\\nキャラクターの様々なデータを\\n確認する事ができます\\n\\n<02>エヴァステータス<//>では、登場\\nした機体の様々なデータを確認\\nする事ができます\\n\\n<02>第３新東京市ステータス<//>では\\n第３新東京市各エリアの様々な\\nデータを確認する事ができます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 41\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0043_e35001c539",
+    "original": "<02>オプション<//>では、ゲームの\\nプレイ環境を設定します\\n\\n快適にプレイできるように、\\nあなた好みにカスタマイズする事\\nができます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 44\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0046_050dc84502",
+    "original": "<02>チュートリアル<//>では、生活や\\n戦闘などのガイダンスが説明\\nされています\\n\\n今後わからない事があったら、\\nプレイの方法とヒントを\\n<02>チュートリアル<//>で\\n確認しましょう",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 47\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0049_b6a10ef75a",
+    "original": "<02>タイトル画面へ<//>を選ぶと、\\nゲームが中断されてタイトル画面\\nに戻ります\\n\\nこの場合、ゲームデータはセーブ\\nされません\\n\\n<02>データをセーブ<//>する場合は、\\n<01>ミサトのマンション<//>に移動し、\\n<02>セーブする<//>コマンドを\\n実行します",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 50\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0052_f53ca3a9d6",
+    "original": "戦闘の後などの平和な日常生活を\\n終了し、ストーリーを進行させる\\nためには、<01>ミサトのマンション<//>で\\n<02>日常生活を終了する<//>コマンドを\\n実行します",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 53\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0055_63414c19f0",
+    "original": "<01>第３新東京市<//>や<01>ネルフ施設内<//>に\\nいる人達から、今回の戦闘に\\n役立つ話を聞く事ができます\\n\\n戦闘準備の手掛かりになるので、\\n色々な人達に積極的に話しかける\\n必要があります",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 56\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0058_28a092fc4c",
+    "original": "戦闘準備に必要な<02>情報を確認<//>\\nしたい場合は、\\n<12>青葉<//>に話しかけます\\n\\nそれまでに聞いた情報がリストで\\n一覧できます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 59\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0061_f0f3cad2c3",
+    "original": "使徒迎撃用の<02>マップギミックを\\n手配<//>する場合は、\\n<12>ミサト<//>に話しかけます\\n\\n戦闘で獲得した予算で、新たな\\nギミックを購入する事ができます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 62\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0064_eb5a7cdeab",
+    "original": "戦場である第３新東京市に手に\\n入れた<02>マップギミックを配置<//>する\\n場合は<12>ミサト<//>に話しかけます\\n\\n現在所有するマップギミックの\\nリストから、各エリアにある\\nスロットにギミックを\\n配置しましょう",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 65\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0067_cd2b6fbfc1",
+    "original": "配置の手順は、まず配置を行う\\n<02>エリア<//>を選びます\\n\\n次に各エリアのマップ上で、\\nギミックを配置する<02>スロット<//>を\\n選びます\\n\\n最後に、所有する\\nマップギミックのリストから、\\n<02>ギミック<//>を選択します",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 68\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0070_f1b13a8ba8",
+    "original": "エヴァが装備する<02>武器を調達<//>する\\n場合は、<12>日向<//>に話しかけます\\n\\n戦闘で獲得した予算で、新たな\\n武器を購入する事ができます\\n\\n購入した武器は、<02>マップギミック\\nの配置<//>の際に武器庫ビルに収納\\nして初めて、戦闘中に利用する事\\nができるので注意しましょう",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 71\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0073_acae242799",
+    "original": "これまで戦った使徒のデータを\\n利用して、シミュレーターによる\\n<02>模擬戦<//>を行います\\n<02>模擬戦<//>を開始するには、\\n<12>マヤ<//>に話しかけます\\n\\n<02>模擬戦<//>で得られた貴重なデータは\\nネルフの様々な活動に利用される\\nので、戦闘結果に応じた予算を\\n手に入れる事ができます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 74\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0076_695c89f850",
+    "original": "エヴァの性能を向上させる\\n<02>スキルプログラムを開発<//>する\\n場合は、<12>リツコ<//>に話しかけます\\n\\n戦闘で獲得した予算で、新たな\\nプログラムを手に入れる事が\\nできます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 77\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0079_3b05b21819",
+    "original": "エヴァ初号機に、開発した<02>スキル\\nプログラムを実装<//>する\\n場合は、<12>リツコ<//>に話しかけます\\n\\nまず、プログラムのリストから、\\n実装したいプログラムを選びます\\n\\n次に、各プログラム毎に\\n開発された１～３のレベルを\\n選択します",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 80\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0082_d263ded62a",
+    "original": "戦闘の準備が充分に整ったら、\\n<02>エヴァに搭乗し出撃<//>する事に\\nなります\\n\\n<01>初号機ケイジ<//>のエヴァの前に移動\\nすると<02>エヴァに乗る<//>という\\nコマンドが表示されるので、\\n$oボタンで決定する事により戦闘\\nが開始されます",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 83\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0085_811a7f22af",
+    "original": "戦闘でパイロットが傷付いた場合\\nには、<12>マヤ<//>に話しかけます\\n\\n戦闘で獲得した予算で、\\n<02>負傷を回復<//>します\\n\\n負傷は戦闘開始時の<02>シンクロ率<//>に\\n影響します",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 86\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0088_c4b4fc388b",
+    "original": "戦闘でエヴァがダメージを負った\\n場合には、<12>リツコ<//>に話しかけます\\n\\n戦闘で獲得した予算で、\\n<02>ダメージを回復<//>します\\n\\nエヴァのダメージは戦闘時の\\n<02>耐久力<//>に影響します",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 89\nElement: TUT\nAttribute: str"
+  },
+  {
+    "key": "e_6b8db7b9f7_0091_5e1683ac1c",
+    "original": "戦闘で第３新東京市が被災した時\\nには<12>ミサト<//>に話しかけます\\n\\n戦闘で獲得した予算で、<02>ダメージ\\nを回復<//>します\\n\\n第３新東京市のダメージは<02>戦闘後\\nに獲得できる予算<//>に影響します",
+    "translation": "",
+    "context": "File: BF/FREE_LOADING.XML\nLine: 92\nElement: TUT\nAttribute: str"
+  }
+]

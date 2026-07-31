@@ -1,0 +1,272 @@
+[
+  {
+    "key": "e_c218471a64_0001_20ff15ff1d",
+    "original": "ケイジに拘束、\\n大丈夫でしょうね？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 250\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_001"
+  },
+  {
+    "key": "e_c218471a64_0002_3c92c18d39",
+    "original": "内部に熱、電子、電磁波、他、化学エネルギー反応\\n無し、Ｓ２機関は完全停止しています",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 281\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1405_09_002"
+  },
+  {
+    "key": "e_c218471a64_0003_1fedfa532d",
+    "original": "にもかかわらず、\\nこの初号機は過去３度も動いたわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 285\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_003"
+  },
+  {
+    "key": "e_c218471a64_0004_a0d2306688",
+    "original": "目に見える状況だけでは、\\nうかつには触れないわよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 315\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_003_1"
+  },
+  {
+    "key": "e_c218471a64_0005_727bd9e54c",
+    "original": "うかつに手を出すと、何をされるかわからない\\n葛城さんと同じですね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 334\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1405_09_004"
+  },
+  {
+    "key": "e_c218471a64_0006_b5999fb8c4",
+    "original": "…………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 358\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_c218471a64_0007_34be169174",
+    "original": "…すみません",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 362\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1405_09_006"
+  },
+  {
+    "key": "e_c218471a64_0008_4ba48594c7",
+    "original": "いやはや、この展開は予想外ですな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 404\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1405_11_007"
+  },
+  {
+    "key": "e_c218471a64_0009_1bce2c93ab",
+    "original": "委員会、いえ、ゼーレの方には\\nどう、言い訳つけるつもりです？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 441\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1405_11_007_1"
+  },
+  {
+    "key": "e_c218471a64_0010_c0034eecbd",
+    "original": "初号機は我々の制御下ではなかった\\nこれは不慮の事故だよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 477\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1405_06_008"
+  },
+  {
+    "key": "e_c218471a64_0011_753bcf8f36",
+    "original": "よって、初号機は凍結\\n委員会の別命があるまではだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 481\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1405_05_009"
+  },
+  {
+    "key": "e_c218471a64_0012_fcaa59af44",
+    "original": "ご子息を取り込まれたままですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 508\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1405_11_010"
+  },
+  {
+    "key": "e_c218471a64_0013_f7d2b70482",
+    "original": "これがシンクロ率４００％の正体",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 540\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_011"
+  },
+  {
+    "key": "e_c218471a64_0014_faf5097a6b",
+    "original": "そんな…\\nシンジ君は一体どうなったのよ！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 543\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_012"
+  },
+  {
+    "key": "e_c218471a64_0015_9bd207b370",
+    "original": "エヴァ初号機に\\n取り込まれてしまったわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 569\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_013"
+  },
+  {
+    "key": "e_c218471a64_0016_b71716eed5",
+    "original": "何よ、それ！\\nエヴァって何なのよ！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 595\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_014"
+  },
+  {
+    "key": "e_c218471a64_0017_6c729d6c7d",
+    "original": "人の造り出した、人に近い形をした物体、\\nとしか言いようがないわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 620\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_015"
+  },
+  {
+    "key": "e_c218471a64_0018_3be798b335",
+    "original": "人の造り出した？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 646\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_016"
+  },
+  {
+    "key": "e_c218471a64_0019_db75f1f9e7",
+    "original": "あの時、南極で拾ったものをただコピーしただけ\\nじゃないの、オリジナルが聞いて呆れるわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 675\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_016_1"
+  },
+  {
+    "key": "e_c218471a64_0020_3328b319e5",
+    "original": "ただのコピーとは違うわ\\n人の意思が込められているもの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 679\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_017"
+  },
+  {
+    "key": "e_c218471a64_0021_1736842f4f",
+    "original": "これも誰かの意思だって言うの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 707\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_018"
+  },
+  {
+    "key": "e_c218471a64_0022_421ce3df21",
+    "original": "シンジ君のサルベージ計画？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 752\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_019"
+  },
+  {
+    "key": "e_c218471a64_0023_c26edd7ebd",
+    "original": "そう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 756\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_020"
+  },
+  {
+    "key": "e_c218471a64_0024_4a28d15ff0",
+    "original": "シンジ君の肉体は、自我境界線を失って、細胞が\\nエントリープラグの中を漂っている状態と推測されます",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 787\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1405_08_021"
+  },
+  {
+    "key": "e_c218471a64_0025_3e71eb3044",
+    "original": "シンジ君の精神、\\n魂とでも呼ぶべきものも一緒にね▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 791\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_022"
+  },
+  {
+    "key": "e_c218471a64_0026_96ada46738",
+    "original": "シンジ君を構成していた物質は\\n全てプラグ内に保存されているし▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 810\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_022_1a"
+  },
+  {
+    "key": "e_c218471a64_0027_50b1860b4d",
+    "original": "魂と呼ぶべきモノも、そこに存在している",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 813\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_022_1b"
+  },
+  {
+    "key": "e_c218471a64_0028_73ec7a3c46",
+    "original": "つまり、彼の身体を再構成し\\n精神を定着させるという計画なの▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 838\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_022_2"
+  },
+  {
+    "key": "e_c218471a64_0029_f8136a985c",
+    "original": "現に彼の自我イメージは、\\nプラグスーツを擬似的に実体化させているわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 842\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_022_3"
+  },
+  {
+    "key": "e_c218471a64_0030_ee5fcc063b",
+    "original": "サルベージ計画の要項、たった１ヶ月で\\n作成できるなんて、さっすが先輩ですね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 863\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1405_08_023"
+  },
+  {
+    "key": "e_c218471a64_0031_a222d2c290",
+    "original": "残念ながら、原案は私じゃないわ\\nこれは１０年前に、既に実験済みのデータなのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 894\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_024"
+  },
+  {
+    "key": "e_c218471a64_0032_9d020ad40c",
+    "original": "そんな事があったんですか？\\nエヴァの開発中に",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 925\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1405_08_025"
+  },
+  {
+    "key": "e_c218471a64_0033_2945ce6792",
+    "original": "まだ、ここに入る前の出来事よ、母さんは立ち会った\\nらしいけど、私は、そのデータしか知らないわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 956\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_026"
+  },
+  {
+    "key": "e_c218471a64_0034_31c826d10c",
+    "original": "その時の結果は、\\nどうだったんですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 960\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1405_08_027"
+  },
+  {
+    "key": "e_c218471a64_0035_e9b27771fb",
+    "original": "失敗したらしいわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 989\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_028"
+  },
+  {
+    "key": "e_c218471a64_0036_c7d983de08",
+    "original": "エヴァ、信号を拒絶！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 1047\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1405_08_029"
+  },
+  {
+    "key": "e_c218471a64_0037_382794fe77",
+    "original": "プラグ内、圧力上昇！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 1084\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1405_09_030"
+  },
+  {
+    "key": "e_c218471a64_0038_c6ccc4dade",
+    "original": "作業中止！\\n電源落として！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 1112\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1405_07_031"
+  },
+  {
+    "key": "e_c218471a64_0039_060258a5b6",
+    "original": "駄目です！\\nプラグが排出されます！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 1137\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1405_08_032"
+  },
+  {
+    "key": "e_c218471a64_0040_5df68ff47a",
+    "original": "シンジ君！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 1160\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_033"
+  },
+  {
+    "key": "e_c218471a64_0041_68d2664642",
+    "original": "人一人助けられなくて、\\n何が科学よ…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 1183\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_034"
+  },
+  {
+    "key": "e_c218471a64_0042_d8b7bcdde7",
+    "original": "シンジ君を返して！▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 1188\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_034_1"
+  },
+  {
+    "key": "e_c218471a64_0043_5369be094f",
+    "original": "返してよっ！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 1234\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_034_2"
+  },
+  {
+    "key": "e_c218471a64_0044_fed43248ce",
+    "original": "…！！▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 1268\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_035"
+  },
+  {
+    "key": "e_c218471a64_0045_ea70bebfcf",
+    "original": "シンジ君…\\nシンジ君！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 1287\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_035_1"
+  }
+]

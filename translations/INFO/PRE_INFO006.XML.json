@@ -1,0 +1,62 @@
+[
+  {
+    "key": "e_39d2f1db36_0005_c4371c48a1",
+    "original": "使徒の出現場所００６",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO006.XML\nLine: 3\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_39d2f1db36_0009_b753252c3a",
+    "original": "使徒の移動方法００６",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO006.XML\nLine: 4\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_39d2f1db36_0013_a73070adcb",
+    "original": "使徒の攻撃方法００６",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO006.XML\nLine: 5\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_39d2f1db36_0017_4ea5bff9f9",
+    "original": "使徒の防御方法００６",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO006.XML\nLine: 6\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_39d2f1db36_0021_456f202549",
+    "original": "その他特徴００６",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO006.XML\nLine: 7\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_39d2f1db36_0025_64aea9c658",
+    "original": "準備した方がいい事００６",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO006.XML\nLine: 8\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_39d2f1db36_0029_70d1b65c92",
+    "original": "準備しない方がいい事００６",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO006.XML\nLine: 9\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_39d2f1db36_0033_7a5f038487",
+    "original": "準備する必要が無い事００６",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO006.XML\nLine: 10\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_39d2f1db36_0037_5cf09ad3d5",
+    "original": "特殊操作００６",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO006.XML\nLine: 11\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_39d2f1db36_0041_4bba9060b3",
+    "original": "特殊戦闘システム００６",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO006.XML\nLine: 12\nElement: DETAIL\nAttribute: exp"
+  }
+]

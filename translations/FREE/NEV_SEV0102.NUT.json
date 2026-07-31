@@ -1,0 +1,116 @@
+[
+  {
+    "key": "e_61f3971a6b_0001_b6c4ebda3f",
+    "original": "第４の使徒襲来とその殲滅",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 151\nCall: im.event\nSpeaker: IMC_SEELE01\nVoice: na50_0001_20_001"
+  },
+  {
+    "key": "e_61f3971a6b_0002_8ada2e04d3",
+    "original": "そして３番目の子供の接収、\\n及びエヴァ初号機の初起動…概ね既定通りだな",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 156\nCall: im.event\nSpeaker: IMC_SEELE01\nVoice: na50_0001_20_002"
+  },
+  {
+    "key": "e_61f3971a6b_0003_806e8ea75f",
+    "original": "初号機本体の膨大な修理費は予定外だがね",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 191\nCall: im.event\nSpeaker: IMC_SEELE04\nVoice: na50_0001_42_003"
+  },
+  {
+    "key": "e_61f3971a6b_0004_7500a4f6dc",
+    "original": "凍結された零号機に比べれば、\\nさして問題ではなかろう",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 196\nCall: im.event\nSpeaker: IMC_SEELE05\nVoice: na50_0001_43_004-hikume"
+  },
+  {
+    "key": "e_61f3971a6b_0005_7ee5cc24e6",
+    "original": "エヴァ初号機の回収作業は終了しました\\n現在第６ケイジにて固定中▽",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 213\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na50_0001_08_005_1"
+  },
+  {
+    "key": "e_61f3971a6b_0006_3011a57370",
+    "original": "本日１０より検査開始の予定です",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 216\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na50_0001_08_005_2"
+  },
+  {
+    "key": "e_61f3971a6b_0007_d0e99b5945",
+    "original": "暴走時のレコーダーは？",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 219\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0001_04_006"
+  },
+  {
+    "key": "e_61f3971a6b_0008_89a4451931",
+    "original": "容量０です…\\n何も書き込まれていませんでした",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 222\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na50_0001_08_007"
+  },
+  {
+    "key": "e_61f3971a6b_0009_2bc72772e6",
+    "original": "結果、原因不明ね",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 225\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0001_04_008_1"
+  },
+  {
+    "key": "e_61f3971a6b_0010_91d863afe0",
+    "original": "兵器としての信頼性…\\nちとキビシすぎるわね",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 230\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0001_04_008_2"
+  },
+  {
+    "key": "e_61f3971a6b_0011_b2bb110219",
+    "original": "多少不具合でも、\\n第５の使徒出現時にまた役立てばよい",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 263\nCall: im.event\nSpeaker: IMC_SEELE01\nVoice: na50_0001_20_009"
+  },
+  {
+    "key": "e_61f3971a6b_0012_ffdd55e8d3",
+    "original": "ご心配なく▽",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 276\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na50_0001_05_010_1"
+  },
+  {
+    "key": "e_61f3971a6b_0013_e9db54e82d",
+    "original": "初号機の実戦配備に続き、弐号機と\\n付属パイロットもドイツにて実証評価試験中です",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 279\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na50_0001_05_010_2"
+  },
+  {
+    "key": "e_61f3971a6b_0014_8679f59e8c",
+    "original": "参号機以降の建造も計画通りにな",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 307\nCall: im.event\nSpeaker: IMC_SEELE04\nVoice: na50_0001_42_011"
+  },
+  {
+    "key": "e_61f3971a6b_0015_446c253a6b",
+    "original": "ネルフとエヴァの適切な運用は君の責務だ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 338\nCall: im.event\nSpeaker: IMC_SEELE03\nVoice: na50_0001_41_012_1"
+  },
+  {
+    "key": "e_61f3971a6b_0016_6e13017231",
+    "original": "くれぐれも失望させぬように頼むよ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 386\nCall: im.event\nSpeaker: IMC_SEELE03\nVoice: na50_0001_41_012_2"
+  },
+  {
+    "key": "e_61f3971a6b_0017_8fc1895fe4",
+    "original": "左様…使徒殲滅は\\nリリスとの契約の極一部に過ぎん",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 391\nCall: im.event\nSpeaker: IMC_SEELE06\nVoice: na50_0001_44_013"
+  },
+  {
+    "key": "e_61f3971a6b_0018_e83e6c27cb",
+    "original": "人類補完計画…その遂行こそが\\n我々の究極の願いだ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 409\nCall: im.event\nSpeaker: IMC_SEELE01\nVoice: na50_0001_20_014"
+  },
+  {
+    "key": "e_61f3971a6b_0019_58356068a6",
+    "original": "わかっております\\n全てはゼーレのシナリオ通りに…",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0102.NUT\nLine: 420\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na50_0001_05_015"
+  }
+]

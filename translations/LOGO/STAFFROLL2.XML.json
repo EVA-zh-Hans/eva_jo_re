@@ -1,0 +1,998 @@
+[
+  {
+    "key": "e_ab65c5f0f9_0007_7d7b130d69",
+    "original": "ヱヴァンゲリヲン：序",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 5\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0010_724e2aaf7e",
+    "original": "原作",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 7\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0013_690271daa2",
+    "original": "庵野 秀明",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 8\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0016_285f559997",
+    "original": "声ノ出演",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 10\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0019_e5eebf1d71",
+    "original": "緒方 恵美",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 11\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0022_c587d91ec9",
+    "original": "林原 めぐみ",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 12\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0025_ba9ce4689b",
+    "original": "宮村 優子",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 13\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0028_5acab18471",
+    "original": "三石 琴乃",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 14\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0031_34b8fd32f8",
+    "original": "山口 由里子",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 15\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0034_b4cb3d3ac2",
+    "original": "石田 彰",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 16\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0037_3601c73a2d",
+    "original": "立木 文彦",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 17\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0040_1714dd24dc",
+    "original": "清川 元夢",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 18\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0043_a1222bb3c7",
+    "original": "山寺 宏一",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 19\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0046_a5ec359f64",
+    "original": "長沢 美樹",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 20\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0049_61d675aca8",
+    "original": "子安 武人",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 21\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0052_ec529c8017",
+    "original": "結城 比呂",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 22\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0055_0264f2e178",
+    "original": "関 智一",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 23\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0058_657bacc481",
+    "original": "岩永 哲哉",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 24\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0061_58d72143da",
+    "original": "岩男 潤子",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 25\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0064_a0a8a84b7d",
+    "original": "麦人",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 26\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0067_4b2f0278cd",
+    "original": "永野 広一",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 28\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0070_15eb98175a",
+    "original": "川島 得愛",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 29\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0073_6c762224e1",
+    "original": "高木 礼子",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 30\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0076_da2dadcd3f",
+    "original": "制作",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 32\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0079_513f2be6fd",
+    "original": "株式会社ベック",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 33\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0082_eec6341295",
+    "original": "ゲームデザイン",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 35\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0085_ca3ba6b8cd",
+    "original": "芝村 裕吏",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 36\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0088_b4597fd486",
+    "original": "ディレクター",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 38\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0091_eda82f370a",
+    "original": "西山 武雄",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 39\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0094_115c5c82fe",
+    "original": "アートディレクター",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 41\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0097_829edbff0e",
+    "original": "林 圭一（ウニコ）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 42\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0100_431dddc6b8",
+    "original": "プランナー",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 44\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0103_71342afd6e",
+    "original": "小澤 友尚",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 45\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0106_b3170230c6",
+    "original": "福川 摂",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 46\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0109_1bc266ec2f",
+    "original": "プログラムチーフ",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 48\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0112_7ca6254e47",
+    "original": "田中 達大",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 49\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0115_cc2c2e230a",
+    "original": "プログラム",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 51\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0118_6a6886b512",
+    "original": "田中 良太",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 52\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0121_d5f313e4f5",
+    "original": "見崎 慎太郎",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 53\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0124_55ca8ebdb3",
+    "original": "菊地 俊（ウニコ）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 54\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0127_ad2e6cf979",
+    "original": "中村 直也",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 55\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0130_f5835044da",
+    "original": "山口 貴之",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 56\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0133_5aee2983e2",
+    "original": "グラフィックチーフ",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 58\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0136_b6d53f9c26",
+    "original": "守分 睦",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 59\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0139_e570b96edc",
+    "original": "グラフィック",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 61\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0142_33d86d30b5",
+    "original": "平原 幸子",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 62\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0145_359467015b",
+    "original": "中村 優子",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 63\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0148_9d35fa52ba",
+    "original": "パトリシオ・Ｊ・バスケス",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 64\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0151_ba88c406e9",
+    "original": "村野 嘉泰",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 65\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0154_f84169e08f",
+    "original": "櫻木 徹（ウニコ）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 66\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0157_fc3800c139",
+    "original": "伊藤 正彦（ウニコ）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 67\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0160_cc3c065fd4",
+    "original": "鴫原 雅大（ウニコ）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 68\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0163_531575b5f7",
+    "original": "本間 健次（スタジオアートディンク）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 70\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0166_e9810cff23",
+    "original": "宮入 健太（トライクレスト）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 71\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0169_1d1b0d23ad",
+    "original": "下田 大輔",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 72\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0172_699b73cf9b",
+    "original": "有限会社銀河",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 74\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0175_2b96a06d79",
+    "original": "宮本 一夫",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 75\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0178_a7219b4acb",
+    "original": "小野 一行",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 76\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0181_a8adbd83f4",
+    "original": "荒川 健治",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 77\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0184_6e254e9d02",
+    "original": "秋山 智哉",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 78\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0187_1e2c09372e",
+    "original": "株式会社キャトルコール",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 80\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0190_edf2cb6d58",
+    "original": "權 仁得",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 81\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0193_c208224836",
+    "original": "橋本 真澄",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 82\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0196_40f0da1ac5",
+    "original": "イベント制作協力",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 84\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0199_568aa95458",
+    "original": "株式会社マイクロビジョン",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 85\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0202_1725820480",
+    "original": "株式会社スクリプトアーツ",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 86\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0205_860c30879d",
+    "original": "有限会社Shift@R",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 87\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0208_7940636dab",
+    "original": "グローバル・テクノロジー・デザイン株式会社",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 88\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0211_9feb076ef8",
+    "original": "株式会社DigitalAmuse",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 89\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0214_6d398009d4",
+    "original": "イベント制作プロデュース",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 91\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0217_b4b0ed8757",
+    "original": "青沼 実",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 92\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0220_0370f3d80e",
+    "original": "清水 岳幸",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 93\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0223_ca223b30dc",
+    "original": "小椋 勉",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 94\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0226_7bd82eb725",
+    "original": "児島 明",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 95\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0229_cb495ff99e",
+    "original": "イベント制作監修",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 97\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0232_e929ce9d61",
+    "original": "井上 哲雄",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 98\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0235_339efb13d2",
+    "original": "イベント制作ディレクション",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 100\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0238_de7722f3e2",
+    "original": "鈴木 崇弘",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 101\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0241_93f7928f2e",
+    "original": "松倉 淳",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 102\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0244_c640351c86",
+    "original": "イベント演出・絵コンテ",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 104\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0247_c60e938f02",
+    "original": "永井 努",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 105\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0250_6e97d85a0c",
+    "original": "菊池 聖司 ",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 106\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0253_239478d266",
+    "original": "米倉 俵",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 107\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0256_6fbcbaa8ba",
+    "original": "渡辺 輝重",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 108\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0259_5ecb3d554d",
+    "original": "イベント制作デザイン",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 110\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0262_a405a22199",
+    "original": "梅本 鉄郎",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 111\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0265_328577792c",
+    "original": "高杉 和行",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 112\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0268_bfefc41bd4",
+    "original": "竹田 悟",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 113\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0271_32bb1e0ac6",
+    "original": "菅原 裕介",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 114\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0274_ccdcbc0d01",
+    "original": "鈴木 翔",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 115\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0277_0e47cedb1f",
+    "original": "淡路 理",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 116\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0280_4661d8ddfe",
+    "original": "掘河 佳久",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 117\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0283_b93b76215b",
+    "original": "平田 貴実子",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 118\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0286_504e1f2bce",
+    "original": "大塚 康之",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 119\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0289_a737da1248",
+    "original": "浅野 絵梨香",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 120\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0292_acf63ec107",
+    "original": "棚橋 崇",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 121\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0295_365495ea29",
+    "original": "池内 隆之",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 122\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0298_17794e004f",
+    "original": "西方 淳一",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 123\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0301_a553dc4e70",
+    "original": "森吉 篤樹",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 124\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0304_82655101d3",
+    "original": "天岸 裕輝",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 125\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0307_71723eb859",
+    "original": "林 茂生",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 126\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0310_7547953686",
+    "original": "中林 壮",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 127\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0313_18d46d4036",
+    "original": "平井 豊和",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 128\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0316_eb899e4fb7",
+    "original": "イベントチェック・スクリプター",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 130\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0319_14de1aecc6",
+    "original": "満永 琢巳",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 131\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0322_ce0e85d480",
+    "original": "横山 拓也",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 132\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0325_85f18e03fd",
+    "original": "橋本 晶裕",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 133\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0328_3d86ba02ba",
+    "original": "山内 淳",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 134\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0331_b1a3704ab5",
+    "original": "森田 純平",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 135\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0334_1fec10d7b0",
+    "original": "サウンド",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 137\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0337_ffcd231117",
+    "original": "山田 耕治",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 138\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0340_7ae666be3a",
+    "original": "中風 大輔（バッハッハ）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 140\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0343_6a0fc02f32",
+    "original": "赤間 友美（バッハッハ）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 141\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0346_1c303d3cbe",
+    "original": "原田 元気（バッハッハ）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 142\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0349_e13d8eb7d4",
+    "original": "土居 祥平（バッハッハ）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 143\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0352_e1891e3911",
+    "original": "ボイス演出",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 145\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0355_142bd63738",
+    "original": "田中 英行（オーディオ・タナカ）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 146\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0358_b8e70e3795",
+    "original": "ボイス録音",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 148\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0361_e6cd1e626e",
+    "original": "神保 直史（オーディオ・タナカ）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 149\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0364_2f549a5e31",
+    "original": "収録スタジオ",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 151\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0367_be996f9358",
+    "original": "タバック",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 152\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0370_4e32071f97",
+    "original": "キャスティング協力",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 154\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0373_1003b9ce3e",
+    "original": "遠山 恵（大沢事務所）",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 155\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0376_f63a4e2243",
+    "original": "デバッグ／品質管理",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 157\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0379_f2e84b4757",
+    "original": "ベック品質管理室",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 158\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0382_84cdd54561",
+    "original": "國田 一勧",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 159\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0385_b3962261b5",
+    "original": "安藤 賢昇",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 160\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0388_719e9188e6",
+    "original": "山崎 なぎさ",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 162\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0391_ebc17ab8e1",
+    "original": "中谷 奈津美",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 163\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0394_2c52c226ec",
+    "original": "中村 孝則",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 164\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0397_5dd3801911",
+    "original": "千葉 望晴",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 165\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0400_8dccce6357",
+    "original": "小澤 瑠奈",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 166\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0403_d7cbaec3b4",
+    "original": "稲川 由布子",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 167\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0406_d29911aaa9",
+    "original": "“PlayStation 2”版制作",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 169\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0409_1e2c09372e",
+    "original": "株式会社キャトルコール",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 170\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0412_a20df93c04",
+    "original": "桑原 弘稔",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 171\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0415_2c9aa8474a",
+    "original": "渡辺 靖",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 172\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0418_856bdc7561",
+    "original": "山本 良博",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 173\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0421_fe02be8cbb",
+    "original": "制作協力",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 175\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0424_685477aff1",
+    "original": "高梨 誠",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 176\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0427_75f82f1623",
+    "original": "磯貝 健夫",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 177\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0430_92aafeb22f",
+    "original": "フォント協力",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 179\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0433_3264aab9ad",
+    "original": "株式会社フォントワークスジャパン",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 180\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0436_7773c17dcf",
+    "original": "プロモーション",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 182\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0439_5888cc3eb3",
+    "original": "黒澤 豪",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 183\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0442_4578d4a35a",
+    "original": "盛一 美央",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 184\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0445_9e478c0f83",
+    "original": "セールス",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 186\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0448_1eff6673af",
+    "original": "西澤 冬樹",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 187\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0451_33ad7bf625",
+    "original": "佐伯 博史",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 188\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0454_a3e7fa1af3",
+    "original": "熊田 直樹",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 189\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0457_9ecc7a7e14",
+    "original": "八木 正忠",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 190\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0460_f4da0b54e1",
+    "original": "山崎 秀之",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 191\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0463_615a8456dc",
+    "original": "田村 麻希子",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 192\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0466_9d35f540c7",
+    "original": "協力",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 194\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0469_cc67b32dc6",
+    "original": "株式会社ガイナックス",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 195\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0472_925754e1c3",
+    "original": "神村 靖宏",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 196\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0475_9661b540bb",
+    "original": "プロデューサー",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 198\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0478_0bb2278dbc",
+    "original": "後藤 能孝",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 199\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0481_55ffdaf091",
+    "original": "岡本 吉弘",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 200\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0484_0f6ea59ec7",
+    "original": "大野 聡",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 201\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0487_7c03f13d55",
+    "original": "エグゼクティブプロデューサー",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 203\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0490_c83cdcce32",
+    "original": "鵜之澤 伸",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 204\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0493_5544845d9e",
+    "original": "灘 俊宏",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 205\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0496_29778a1159",
+    "original": "$cカラー",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 207\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0500_5b76d662de",
+    "original": "$cGAINAX・カラー／ProjectEVA",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 208\nElement: INFO\nAttribute: name"
+  },
+  {
+    "key": "e_ab65c5f0f9_0504_bc8c15d457",
+    "original": "$cGAINAX・カラー／EVA製作委員会",
+    "translation": "",
+    "context": "File: LOGO/STAFFROLL2.XML\nLine: 209\nElement: INFO\nAttribute: name"
+  }
+]

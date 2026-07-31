@@ -1,0 +1,86 @@
+[
+  {
+    "key": "e_8b600e200d_0001_7ea6f3d562",
+    "original": "そして…",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_8b600e200d_0002_b80b71fb19",
+    "original": "普通の日々がはじまる",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_8b600e200d_0003_a7f878b8ce",
+    "original": "……",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_KAJI"
+  },
+  {
+    "key": "e_8b600e200d_0004_b5999fb8c4",
+    "original": "…………",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_KAJI"
+  },
+  {
+    "key": "e_8b600e200d_0005_cb25dbc346",
+    "original": "………………",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_KAJI"
+  },
+  {
+    "key": "e_8b600e200d_0006_9b3eb33844",
+    "original": "元気そうだな、よかった",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_016"
+  },
+  {
+    "key": "e_8b600e200d_0007_544fe973ca",
+    "original": "ああ、終わったことさ\\nまあ、言うなら君の勝ちってことだな",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_017"
+  },
+  {
+    "key": "e_8b600e200d_0008_b79316dd6a",
+    "original": "つまんない仕事でもはじめようと思ってね…\\n手伝いが欲しい",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 53\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_018_1"
+  },
+  {
+    "key": "e_8b600e200d_0009_999e9c900e",
+    "original": "…まあ、住み込みのアルバイトあたりでどうだい？",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 54\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_018_2"
+  },
+  {
+    "key": "e_8b600e200d_0010_557bde2f6a",
+    "original": "あなたが戦いで得たものは、",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_8b600e200d_0011_f7d12cb101",
+    "original": "ひねくれてるのかどうか\\n良くわからない青年だった",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_8b600e200d_0012_b2e8c04b2b",
+    "original": "まあ、いつかは慣れるし\\n分るだろうと、あなたは思った",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 69\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_8b600e200d_0013_eda9b155a8",
+    "original": "まだまだ、人生は長いのだから…",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_8b600e200d_0014_8d4795eec6",
+    "original": "おめでとう\\n人の補完はなされた",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 74\nCall: im.event\nSpeaker: IMC_NONE"
+  }
+]

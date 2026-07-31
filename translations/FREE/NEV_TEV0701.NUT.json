@@ -1,0 +1,158 @@
+[
+  {
+    "key": "e_01859d735d_0001_23f0074050",
+    "original": "本日未明、紀伊半島沖に\\n使徒を確認",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 199\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0003_08_001"
+  },
+  {
+    "key": "e_01859d735d_0002_ab556c1b5e",
+    "original": "同時刻、エヴァでこれを\\n上陸地点にて阻止する作戦を立案、実行",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 215\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0003_08_002"
+  },
+  {
+    "key": "e_01859d735d_0003_b025959f9a",
+    "original": "予定時刻、目標と戦闘開始",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 232\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0003_08_004"
+  },
+  {
+    "key": "e_01859d735d_0004_e46b311ad7",
+    "original": "しかし、目標の分離攻撃により\\nエヴァ二体の連携は崩れ、",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 248\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0003_08_005"
+  },
+  {
+    "key": "e_01859d735d_0005_60e83c48d2",
+    "original": "エヴァ初号機、敗退…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 264\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0003_08_006"
+  },
+  {
+    "key": "e_01859d735d_0006_a2b12b5d82",
+    "original": "エヴァ弐号機、同じく敗退…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 280\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0003_08_007"
+  },
+  {
+    "key": "e_01859d735d_0007_a40d8e46d8",
+    "original": "現在目標は、国連軍のＮ２地雷によって\\n組織の２０％を損失▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 296\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0003_08_008"
+  },
+  {
+    "key": "e_01859d735d_0008_85bbbbedec",
+    "original": "しかし活動再開まで、そう時間は\\nかからないと考えられます",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 301\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0003_08_008_1"
+  },
+  {
+    "key": "e_01859d735d_0009_78936fa31d",
+    "original": "情けない…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 338\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA02_0003_06_001"
+  },
+  {
+    "key": "e_01859d735d_0010_cefa96381d",
+    "original": "ブザマね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 341\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0003_07_001"
+  },
+  {
+    "key": "e_01859d735d_0011_f607f3ca28",
+    "original": "わたしのせいじゃないわ！！　バカシンジさえ、\\nわたしのあしをひっぱらなければ、かててたのよ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 363\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA02_0003_02_001"
+  },
+  {
+    "key": "e_01859d735d_0012_3c47aed038",
+    "original": "なっ…アスカだって作戦を無視して\\n僕のせいにするなんてずるいじゃないか！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 367\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0003_01_001"
+  },
+  {
+    "key": "e_01859d735d_0013_a2c29617a6",
+    "original": "黙らっしゃーーーい！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 388\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0003_04_001"
+  },
+  {
+    "key": "e_01859d735d_0014_c127c6eae1",
+    "original": "…ハァ\\n…とは言ってもねェどうすりゃいいのかしら…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 396\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0702_04_001"
+  },
+  {
+    "key": "e_01859d735d_0015_efac1392fb",
+    "original": "方法がない…わけじゃないわよ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 400\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0702_07_002"
+  },
+  {
+    "key": "e_01859d735d_0016_a2ffbbb020",
+    "original": "さっすが赤木リツコ博士\\n持つべきものは心優しき旧友ね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 424\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0702_04_003"
+  },
+  {
+    "key": "e_01859d735d_0017_5ca739037f",
+    "original": "残念ながら、\\n旧友のピンチを救うのは私じゃないわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 428\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0702_07_004"
+  },
+  {
+    "key": "e_01859d735d_0018_a43edd2bb4",
+    "original": "このアイディアは加持君よ\\nほら、ここに作戦要項があるわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 432\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0702_07_004_1"
+  },
+  {
+    "key": "e_01859d735d_0019_cbcf6ee011",
+    "original": "加持が？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 453\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0702_04_005"
+  },
+  {
+    "key": "e_01859d735d_0020_36bfe11641",
+    "original": "アイツ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 457\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0702_04_006"
+  },
+  {
+    "key": "e_01859d735d_0021_da0238e784",
+    "original": "…アンタ達、いいわね、\\nよく聞いて▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 500\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0702_04_007"
+  },
+  {
+    "key": "e_01859d735d_0022_6fd6e58932",
+    "original": "この使徒の弱点は一つ、分離中の核に対する\\n二点同時の荷重攻撃、これしかないわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 519\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0702_04_007_1"
+  },
+  {
+    "key": "e_01859d735d_0023_b05b7498bc",
+    "original": "つまり、エヴァ二体のタイミングを\\n合わせた攻撃手段しかないのよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 540\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0702_04_007_2"
+  },
+  {
+    "key": "e_01859d735d_0024_58355d71b7",
+    "original": "二人の協調、完璧なユニゾンが\\n必要なの▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 543\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0702_04_007_3"
+  },
+  {
+    "key": "e_01859d735d_0025_df9c638d91",
+    "original": "ユニゾンが高いパイロット二人による、\\n同時荷重攻撃により、目標を殲滅します▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 565\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0702_04_009_2"
+  },
+  {
+    "key": "e_01859d735d_0026_96cee77f4f",
+    "original": "以上解散！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 568\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0702_04_009_3"
+  }
+]

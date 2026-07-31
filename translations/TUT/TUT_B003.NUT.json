@@ -1,0 +1,212 @@
+[
+  {
+    "key": "e_5ca4bf3b5f_0001_1b8fd3c997",
+    "original": "攻撃について",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0002_1b8fd3c997",
+    "original": "攻撃について",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 23\nCall: DecideStart"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0003_b900bd6485",
+    "original": "$Lボタンを押し続ける\\nと武器を<02>構え<//>る事ができます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0004_5557539a16",
+    "original": "武器を<02>構え<//>ながら<02>移動<//>、<02>回避行動<//>、\\n<02>ガード<//>をする事ができます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0005_957b870525",
+    "original": "<02>構え<//>中は使徒がエヴァの<02>ロック可能範囲内<//>に\\nいる場合、<02>ロック<//>する事ができます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 30\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0006_63933a3f0c",
+    "original": "<02>ロック可能範囲<//>は<02>ロックスキル<//>を\\n<02>実装<//>する事で広げる事もできます",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 31\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0007_1895a656de",
+    "original": "<02>格闘武器<//>の場合、武器を<02>構え<//>た状態から、\\nボタン入力で<02>格闘攻撃<//>を行います▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 43\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0008_27d12c1345",
+    "original": "<02>ロック<//>している場合は使徒に向かって\\n攻撃を繰り出します▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 44\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0009_a5944f9730",
+    "original": "<02>構え<//>た状態でなくても、\\n<02>格闘攻撃<//>を行う事ができますが、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 45\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0010_4e7127ec11",
+    "original": "その場合は使徒を<02>ロック<//>する事ができません",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0011_96c5d54a0a",
+    "original": "<02>格闘武器<//>では、連続してボタンを入力する事で\\n<02>連続技<//>を繰り出す事ができる武器があります▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 59\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0012_46cbd2cf1f",
+    "original": "入力するボタンによって繰り出す攻撃が\\n変化しますので色々試してみてください",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 60\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0013_3ea597a38f",
+    "original": "<02>格闘武器<//>は攻撃を続ける事で<02>耐久度<//>が減少し、\\n本来の性能を発揮する事ができなくなってしまいます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 72\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0014_927dd2450a",
+    "original": "武器の現在の<02>耐久度<//>は\\n武器の<02>アイコン<//>で確認する事ができます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 73\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0015_752036263b",
+    "original": "<02>格闘武器スキル<//>を<02>実装<//>する事で\\n<02>耐久度<//>の減少速度を遅くする事もできます",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 74\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0016_2f239e1afe",
+    "original": "<02>耐久度<//>が減少した武器は<02>攻撃力<//>が\\n本来の性能から大幅に減少しているため、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 87\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0017_5fe42911c0",
+    "original": "<02>武器庫ビル<//>で武器を<02>換装<//>したり、",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 88\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0018_15bf6e6900",
+    "original": "武器を廃棄して、対応しましょう▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 100\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0019_84de72c8ed",
+    "original": "$Rボタンを押しながら\\n$^ボタンと$oボタンを同時に押す事で▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 101\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0020_f93c4217a0",
+    "original": "武器を廃棄する事ができます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 102\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0021_7f1ad51e1e",
+    "original": "廃棄した武器は消失してしまいますが、\\n<02>模擬戦闘<//>では消失する事はありません",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 103\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0022_70e14daf4e",
+    "original": "<02>射撃武器<//>の場合、武器を<02>構え<//>た状態から\\n$oボタンで<02>射撃攻撃<//>を行います▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 115\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0023_2c3f86ce4a",
+    "original": "<02>ロック<//>している場合は\\n使徒の方向に向かって<02>射撃<//>します▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 116\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0024_292e7c9f4e",
+    "original": "<02>構え<//>た状態でなくても、\\n<02>射撃攻撃<//>を行う事ができますが、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 117\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0025_09c680bd0f",
+    "original": "その場合は使徒を<02>ロック<//>する事ができません▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 118\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0026_7b9f569ebc",
+    "original": "また、<02>構え<//>ていない状態では$^ボタンで、\\n<02>格闘攻撃<//>を繰り出す事もできます",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 119\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0027_e81ed6d121",
+    "original": "<02>射撃武器<//>では<02>装填弾数<//>を撃ちきると▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 132\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0028_fd8d5510c5",
+    "original": "<02>リロード<//>が発生し、<02>リロード<//>が終了するまでは、\\n<02>射撃<//>をする事ができなくなります▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0029_ccee2972c3",
+    "original": "画面右下に表示されている、\\n<02>リロードゲージ<//>に注意しましょう",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 134\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0030_82191336d6",
+    "original": "<02>射撃武器<//>は<02>移動<//>しながら\\n<02>射撃<//>する事ができる武器があります▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 147\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0031_7faf069bb7",
+    "original": "<02>移動<//>しながらの<02>射撃<//>は停止中に比べて、\\n弾道が安定しませんので注意してください",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0032_3b994ac4d1",
+    "original": "<07>方向キー<//>を入力する事で\\n<02>照準<//>を移動して<02>射撃<//>する事ができます",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 162\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0033_87d279b58c",
+    "original": "<02>構え<//>ながら$^ボタンで<02>\\nスコープ視点<//>で<02>射撃<//>する事も可能です。",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 175\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0034_00328b1619",
+    "original": "<02>射撃武器スキル<//>を<02>実装<//>する事で、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 187\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5ca4bf3b5f_0035_98e241bf33",
+    "original": "弾道の安定性の向上<//>、\\n<02>リロード<//>の短縮化をする事もできます",
+    "translation": "",
+    "context": "File: TUT/TUT_B003.NUT\nLine: 188\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

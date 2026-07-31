@@ -1,0 +1,50 @@
+[
+  {
+    "key": "e_40d26cf9aa_0001_bdd4aceedf",
+    "original": "セントラルドグマ、\\n１０番から１５番まで開放",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 38\nCall: im.event\nSpeaker: IMC_F_STAFF\nVoice: NA05_0091_18_001"
+  },
+  {
+    "key": "e_40d26cf9aa_0002_9692c6a22f",
+    "original": "第６マルボルジェ、零号機通過",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_M_STAFF\nVoice: NA05_0091_17_002"
+  },
+  {
+    "key": "e_40d26cf9aa_0003_ad63b1c35e",
+    "original": "続いて、１６番から２０番、開放",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 44\nCall: im.event\nSpeaker: IMC_M_STAFF\nVoice: NA05_0091_17_003"
+  },
+  {
+    "key": "e_40d26cf9aa_0004_df31efd0ac",
+    "original": "うぅ…ううぅああああ！！",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 62\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na13_0017_02_010"
+  },
+  {
+    "key": "e_40d26cf9aa_0005_b8fe2073d2",
+    "original": "敵の指向性兵器なの！？",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0017_04_001"
+  },
+  {
+    "key": "e_40d26cf9aa_0006_67df4775bb",
+    "original": "いえ、熱エネルギー反応なし！",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: na13_0017_10_003"
+  },
+  {
+    "key": "e_40d26cf9aa_0007_fc1950a2b0",
+    "original": "心理グラフが乱れています！\\n精神汚染が始まります！",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 73\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na13_0017_08_005"
+  },
+  {
+    "key": "e_40d26cf9aa_0008_f79a4f2eff",
+    "original": "使徒が心理攻撃！？\\nまさか、使徒に人の心が理解できるの？",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na13_0017_07_007"
+  }
+]

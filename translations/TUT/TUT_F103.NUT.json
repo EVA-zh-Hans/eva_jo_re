@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_86d29790d2_0001_f5c2e4bfba",
+    "original": "マップギミックの手配",
+    "translation": "",
+    "context": "File: TUT/TUT_F103.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_86d29790d2_0002_f5c2e4bfba",
+    "original": "マップギミックの手配",
+    "translation": "",
+    "context": "File: TUT/TUT_F103.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_86d29790d2_0003_a87a8027dc",
+    "original": "使徒を迎撃する為の<02>マップギミックを手配<//>する場合は\\n<12>ミサト<//>に話しかけます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F103.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_86d29790d2_0004_51fcdf831e",
+    "original": "<02>戦闘で獲得した予算<//>で、\\n新たな<02>ギミックを購入<//>する事ができます",
+    "translation": "",
+    "context": "File: TUT/TUT_F103.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

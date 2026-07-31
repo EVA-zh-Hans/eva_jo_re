@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_9251946fec_0005_c782a5b6f3",
+    "original": "データセーブ",
+    "translation": "",
+    "context": "File: BTNNAVI/SAVE1.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_9251946fec_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/SAVE1.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_9251946fec_0015_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/SAVE1.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_9251946fec_0020_8fc7f89916",
+    "original": "戻る",
+    "translation": "",
+    "context": "File: BTNNAVI/SAVE1.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  }
+]

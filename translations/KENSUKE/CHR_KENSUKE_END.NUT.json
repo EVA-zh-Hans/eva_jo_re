@@ -1,0 +1,56 @@
+[
+  {
+    "key": "e_decec20d83_0001_7ea6f3d562",
+    "original": "そして…",
+    "translation": "",
+    "context": "File: KENSUKE/CHR_KENSUKE_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_decec20d83_0002_b80b71fb19",
+    "original": "普通の日々がはじまる",
+    "translation": "",
+    "context": "File: KENSUKE/CHR_KENSUKE_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_decec20d83_0003_36a29d49db",
+    "original": "ケンスケは空を見た後、１、２と数えて、\\nそして笑顔になった",
+    "translation": "",
+    "context": "File: KENSUKE/CHR_KENSUKE_END.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_decec20d83_0004_a76b6768ed",
+    "original": "これでヒーローゴッコ終わり\\nまた学生に逆戻りだな",
+    "translation": "",
+    "context": "File: KENSUKE/CHR_KENSUKE_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_015_1"
+  },
+  {
+    "key": "e_decec20d83_0005_f6fb72d819",
+    "original": "帰ろうぜ…いいビデオみせるよ\\n少しは、お前に似てるって",
+    "translation": "",
+    "context": "File: KENSUKE/CHR_KENSUKE_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_015_2"
+  },
+  {
+    "key": "e_decec20d83_0006_557bde2f6a",
+    "original": "あなたが戦いで得たものは、",
+    "translation": "",
+    "context": "File: KENSUKE/CHR_KENSUKE_END.NUT\nLine: 62\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_decec20d83_0007_099bb08e09",
+    "original": "同い年のいい友達だった",
+    "translation": "",
+    "context": "File: KENSUKE/CHR_KENSUKE_END.NUT\nLine: 63\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_decec20d83_0008_72e62fcf8b",
+    "original": "あなたは空を見た後、１、２と数えて、\\nそして笑顔になった",
+    "translation": "",
+    "context": "File: KENSUKE/CHR_KENSUKE_END.NUT\nLine: 64\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_decec20d83_0009_8d4795eec6",
+    "original": "おめでとう\\n人の補完はなされた",
+    "translation": "",
+    "context": "File: KENSUKE/CHR_KENSUKE_END.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_NONE"
+  }
+]

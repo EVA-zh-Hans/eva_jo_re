@@ -1,0 +1,98 @@
+[
+  {
+    "key": "e_20f20e72b8_0001_62ab316ca1",
+    "original": "未確認物体、衛星軌道上に突如出現しました！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 226\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0012_10_001"
+  },
+  {
+    "key": "e_20f20e72b8_0002_5316372941",
+    "original": "衛星軌道上？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 256\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0012_04_001"
+  },
+  {
+    "key": "e_20f20e72b8_0003_dcd7b150a3",
+    "original": "パターン青、使徒です！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 277\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0012_09_001"
+  },
+  {
+    "key": "e_20f20e72b8_0004_3651e2e226",
+    "original": "使徒、映像出ます\\n最大望遠です",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 309\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0012_10_002"
+  },
+  {
+    "key": "e_20f20e72b8_0005_35e4dd76c4",
+    "original": "衛星軌道から動きませんね\\nここから一定距離を保っています",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 325\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0012_09_002"
+  },
+  {
+    "key": "e_20f20e72b8_0006_13c5cdfcf9",
+    "original": "…ってことは、降下接近の機会をうかがってるのか、\\nその必要もなく、ここを破壊できるのか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 348\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0012_04_003"
+  },
+  {
+    "key": "e_20f20e72b8_0007_8dd020d46b",
+    "original": "こちらの射程距離内まで近づいてくれないと、\\nどうしようもないわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 391\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA03_0012_07_001"
+  },
+  {
+    "key": "e_20f20e72b8_0008_f44cada29b",
+    "original": "…そうね、まずは様子をうかがいましょう\\nレイは？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 416\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1603_04_001"
+  },
+  {
+    "key": "e_20f20e72b8_0009_f7843367c7",
+    "original": "零号機共に順調\\n行けます！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 453\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1603_08_002"
+  },
+  {
+    "key": "e_20f20e72b8_0010_00b9109557",
+    "original": "了解、零号機発進\\n弐号機アスカはバックアップとして、発進準備！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 474\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1603_04_003"
+  },
+  {
+    "key": "e_20f20e72b8_0011_e747d8b887",
+    "original": "あの…\\n初号機は出さないんですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 513\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1603_09_012"
+  },
+  {
+    "key": "e_20f20e72b8_0012_b68690f717",
+    "original": "凍結なのよ\\n碇司令の絶対命令でね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 537\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1603_04_013"
+  },
+  {
+    "key": "e_20f20e72b8_0013_3cd82f0608",
+    "original": "レイ、ドグマを降りて槍を使え",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 561\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0091_05_001"
+  },
+  {
+    "key": "e_20f20e72b8_0014_6cc0191f6f",
+    "original": "しかし、アダムとエヴァの接触は\\nサードインパクトを引き起こす可能性が！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 588\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na16_0017_04_001"
+  },
+  {
+    "key": "e_20f20e72b8_0015_ddb50f6f44",
+    "original": "構わん、ロンギヌスの槍を使え\\nレイ、頼んだぞ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 619\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0091_05_002"
+  },
+  {
+    "key": "e_20f20e72b8_0016_1c853a5dba",
+    "original": "うそ、欺瞞なのね…セカンドインパクトは\\n使徒の接触が原因ではないのね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1603.NUT\nLine: 646\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na16_0017_04_002"
+  }
+]

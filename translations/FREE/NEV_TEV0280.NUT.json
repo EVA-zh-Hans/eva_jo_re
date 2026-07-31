@@ -1,0 +1,50 @@
+[
+  {
+    "key": "e_7459af2baf_0001_b697e395a1",
+    "original": "ここも知らない天井か…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0280.NUT\nLine: 124\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_020_1"
+  },
+  {
+    "key": "e_7459af2baf_0002_4e465d15f9",
+    "original": "当り前か…この街で知ってるとこなんて\\nどこにもないもんな…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0280.NUT\nLine: 128\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_020_2"
+  },
+  {
+    "key": "e_7459af2baf_0003_9b5de0e63f",
+    "original": "シンジ君\\nここはあなたの家なのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0280.NUT\nLine: 162\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_017"
+  },
+  {
+    "key": "e_7459af2baf_0004_2f465c24ac",
+    "original": "…なんでここにいるんだろう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0280.NUT\nLine: 192\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_022"
+  },
+  {
+    "key": "e_7459af2baf_0005_b7d1ba487b",
+    "original": "シンジ君…開けるわよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0280.NUT\nLine: 244\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_023"
+  },
+  {
+    "key": "e_7459af2baf_0006_181abb67eb",
+    "original": "ひとつ言い忘れていたけど…\\nあなたは人にほめられる立派な事をしたのよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0280.NUT\nLine: 272\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_024_1"
+  },
+  {
+    "key": "e_7459af2baf_0007_3f08ba23aa",
+    "original": "胸をはっていいわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0280.NUT\nLine: 275\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_024_2"
+  },
+  {
+    "key": "e_7459af2baf_0008_04c08f3ef3",
+    "original": "おやすみ、シンジ君\\n…がんばってね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0280.NUT\nLine: 280\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_024_3"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "key": "e_fe0335b314_0001_4e8336bc12",
+    "original": "あら、ていでん？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 268\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA02_0015_02_001"
+  },
+  {
+    "key": "e_fe0335b314_0002_66aca681bf",
+    "original": "ほんとだ、停電みたいだね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 272\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0015_01_001"
+  },
+  {
+    "key": "e_fe0335b314_0003_861d43c75b",
+    "original": "あんたバカァ？\\nなに、のんきなこといってるのよ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 296\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA02_0015_02_002"
+  },
+  {
+    "key": "e_fe0335b314_0004_1cd69f48ec",
+    "original": "さて、今のうちに仕事を\\nやらせてもらおうか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 321\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA02_0015_11_001"
+  },
+  {
+    "key": "e_fe0335b314_0005_f8bd21d564",
+    "original": "だめだ、外とも回線が繋がらない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 369\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0015_10_001"
+  },
+  {
+    "key": "e_fe0335b314_0006_b601afbe9a",
+    "original": "まいったな、こんな時に\\n使徒が現れたら大変だぞ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 373\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0015_09_001"
+  },
+  {
+    "key": "e_fe0335b314_0007_e3f45787c8",
+    "original": "空調もストップか…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 401\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA02_0015_06_001"
+  },
+  {
+    "key": "e_fe0335b314_0008_8d229bca11",
+    "original": "なあに、問題は無い",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 417\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0015_05_001"
+  },
+  {
+    "key": "e_fe0335b314_0009_6116f021e9",
+    "original": "ちょっとぉぉぉ…\\n何でこんな時にトイレに行きたくなるのよ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 444\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0015_04_002"
+  },
+  {
+    "key": "e_fe0335b314_0010_7b59738b22",
+    "original": "だめです\\n電源遮断の原因が特定出来ません",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 474\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0015_08_002"
+  },
+  {
+    "key": "e_fe0335b314_0011_92ca6450ca",
+    "original": "機械的な故障でないのならば、\\n…人為的…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 478\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0015_07_002"
+  },
+  {
+    "key": "e_fe0335b314_0012_ec0fb18d3b",
+    "original": "使徒の存在、確認できずか…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 511\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0015_10_002"
+  },
+  {
+    "key": "e_fe0335b314_0013_8dc74f6c77",
+    "original": "出来れば今日くらい、使徒には\\n休んでいてもらいたいもんだよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 515\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0015_09_002"
+  },
+  {
+    "key": "e_fe0335b314_0014_79b92db3c5",
+    "original": "碇…\\nこの騒ぎは仕組まれたものだぞ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 544\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA02_0015_06_002"
+  },
+  {
+    "key": "e_fe0335b314_0015_02298ff013",
+    "original": "かまわん、泳がせておけ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 548\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0015_05_002"
+  },
+  {
+    "key": "e_fe0335b314_0016_4ac0e5ec83",
+    "original": "ぐずぐずしないで、こんどはこっちよ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 586\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA02_0015_02_003"
+  },
+  {
+    "key": "e_fe0335b314_0017_e302f665e8",
+    "original": "そこはさっき通ったよ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 592\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0015_01_002"
+  },
+  {
+    "key": "e_fe0335b314_0018_1e56d5ffd6",
+    "original": "つべこべいわないで、さっさといくのよ！\\nあぁ～、あっつい、あせだくよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 614\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA02_0015_02_004"
+  },
+  {
+    "key": "e_fe0335b314_0019_40c1b81cab",
+    "original": "あら、でんきがもどった？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 653\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA02_0015_02_005"
+  },
+  {
+    "key": "e_fe0335b314_0020_2165d1f7ac",
+    "original": "だから言ったじゃない、\\nそのうち回復するって！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 658\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0015_01_003"
+  },
+  {
+    "key": "e_fe0335b314_0021_688d7f73a9",
+    "original": "うるさいわね！　アンタのそのノーテンキなところ、\\nほんっとムカツクわッ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 681\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA02_0015_02_006"
+  },
+  {
+    "key": "e_fe0335b314_0022_52ffbf99f6",
+    "original": "…ついた\\nよし、使徒の確認を急ごう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 730\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0015_10_003"
+  },
+  {
+    "key": "e_fe0335b314_0023_057a6ce9d9",
+    "original": "使徒の存在は確認できず…\\nはあ、よかった、何も起きてなかった…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 734\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0015_09_003"
+  },
+  {
+    "key": "e_fe0335b314_0024_a2c3b3df95",
+    "original": "やっとエレベーターが開いたわ…\\nトイレ、トイレ…あらっ！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 770\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0015_04_003"
+  },
+  {
+    "key": "e_fe0335b314_0025_ba82a70ed7",
+    "original": "ちょっと、なんでこんな時に\\nトイレのドアが開かないのよ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 794\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0015_04_004"
+  },
+  {
+    "key": "e_fe0335b314_0026_6e047ee4a7",
+    "original": "誰よ、入ってるの！！\\nさっさと、出なさいよ～！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0903.NUT\nLine: 799\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0015_04_004_1"
+  }
+]

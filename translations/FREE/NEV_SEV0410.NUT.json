@@ -1,0 +1,80 @@
+[
+  {
+    "key": "e_283225ec42_0001_0d05caf477",
+    "original": "綾波は、なぜコレに乗るの？",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 71\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_001"
+  },
+  {
+    "key": "e_283225ec42_0002_25394843d6",
+    "original": "…絆だから",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_002"
+  },
+  {
+    "key": "e_283225ec42_0003_cf3c4c9390",
+    "original": "絆？",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 79\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_003"
+  },
+  {
+    "key": "e_283225ec42_0004_eb72d2a99b",
+    "original": "そう、絆",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 82\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_004"
+  },
+  {
+    "key": "e_283225ec42_0005_cb97019e3b",
+    "original": "父さんとの？",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 85\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_005"
+  },
+  {
+    "key": "e_283225ec42_0006_bef9c8bb4b",
+    "original": "…みんなとの",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 88\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_006"
+  },
+  {
+    "key": "e_283225ec42_0007_9303a479a9",
+    "original": "強いんだな…綾波は",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 91\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_007"
+  },
+  {
+    "key": "e_283225ec42_0008_a3e3e060a6",
+    "original": "私には、他に何もないもの",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 94\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_008"
+  },
+  {
+    "key": "e_283225ec42_0009_a2fcec0687",
+    "original": "他に何もないって？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 97\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_009"
+  },
+  {
+    "key": "e_283225ec42_0010_a7f878b8ce",
+    "original": "……",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 100\nCall: im.event\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_283225ec42_0011_8c19a162dc",
+    "original": "時間よ\\n行きましょ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 109\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_010"
+  },
+  {
+    "key": "e_283225ec42_0012_a74d56693f",
+    "original": "綾波…",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 112\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_011"
+  },
+  {
+    "key": "e_283225ec42_0013_deccdf98ee",
+    "original": "さよなら",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 115\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_012"
+  }
+]

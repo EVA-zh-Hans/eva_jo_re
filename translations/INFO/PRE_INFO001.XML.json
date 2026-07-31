@@ -1,0 +1,50 @@
+[
+  {
+    "key": "e_bc459e4cb4_0005_18f2d51fdf",
+    "original": "第３新東京市　西地区に飛来予定",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO001.XML\nLine: 3\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_bc459e4cb4_0009_01f8412b94",
+    "original": "浮遊による移動、移動速度は遅い",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO001.XML\nLine: 4\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_bc459e4cb4_0013_500f80472b",
+    "original": "触手による攻撃、体当たり等、\\n主に近～中距離の直接攻撃",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO001.XML\nLine: 5\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_bc459e4cb4_0017_8a1941ac7c",
+    "original": "Ａ．Ｔ．フィールドを展開するガード",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO001.XML\nLine: 6\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_bc459e4cb4_0021_21950cfe81",
+    "original": "エヴァより高く飛行する事がある",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO001.XML\nLine: 7\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_bc459e4cb4_0025_93b267dbec",
+    "original": "飛行時には格闘攻撃ができなくなる\\nので、射撃武器は準備する",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO001.XML\nLine: 8\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_bc459e4cb4_0029_cf63ea2f81",
+    "original": "ゼロエリア防壁周辺に強力な\\n兵装ビルを多数配置すると、\\n防壁にまで被害が及ぶ事がある",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO001.XML\nLine: 9\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_bc459e4cb4_0033_4052bea3f2",
+    "original": "西地区、中央区以外のマップに\\nギミックを配置しても\\n無駄になってしまう",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO001.XML\nLine: 10\nElement: DETAIL\nAttribute: exp"
+  }
+]

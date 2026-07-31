@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_abc7cbad66_0001_fea7b655b4",
+    "original": "キャラクターの移動",
+    "translation": "",
+    "context": "File: TUT/TUT_F001.NUT\nLine: 8\nCall: StartNavi"
+  },
+  {
+    "key": "e_abc7cbad66_0002_fea7b655b4",
+    "original": "キャラクターの移動",
+    "translation": "",
+    "context": "File: TUT/TUT_F001.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_abc7cbad66_0003_a3a3011196",
+    "original": "<07>アナログパッド<//>で入力した方向に、\\nキャラクターを<02>移動<//>させる事ができます",
+    "translation": "",
+    "context": "File: TUT/TUT_F001.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

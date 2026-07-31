@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_425bc177cb_0001_1cbd7516e7",
+    "original": "うっ…くっ…！",
+    "translation": "",
+    "context": "File: BTL_SCH/BTL_SCH_D1.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA52_0001_01_008"
+  },
+  {
+    "key": "e_425bc177cb_0002_32ee2a4243",
+    "original": "シンジ君、しっかりして！\\n早く、早く起き上がるのよ！",
+    "translation": "",
+    "context": "File: BTL_SCH/BTL_SCH_D1.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA52_0002_04_009"
+  },
+  {
+    "key": "e_425bc177cb_0003_61c04838c4",
+    "original": "う…",
+    "translation": "",
+    "context": "File: BTL_SCH/BTL_SCH_D1.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA52_0003_01_001"
+  }
+]

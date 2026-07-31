@@ -1,0 +1,170 @@
+[
+  {
+    "key": "e_d0ed79a2ae_0001_b480e9471c",
+    "original": "おはよう、シンジ君\\nよく眠れた？",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 150\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0002_6ee860e439",
+    "original": "まあ、何とか…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 153\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_d0ed79a2ae_0003_1e6ef0c045",
+    "original": "すごい度胸ね～\\n眠れないかと思ったけど…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 156\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0004_a5bee37a97",
+    "original": "ま、いいわ\\nそろそろ出かけましょうか",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 157\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0005_9ffaaed6af",
+    "original": "どこへですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 160\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_d0ed79a2ae_0006_d2a8e8d977",
+    "original": "ネルフ本部よ！\\n急いで戦い方くらいは、教えないといけないから",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 164\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0007_db5c3d656c",
+    "original": "さてと、今日はこれから\\nエヴァでの戦い方を教えます",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 215\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0008_7e09bdbbaf",
+    "original": "また、アレに乗らないと\\nいけないんですね…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 218\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_d0ed79a2ae_0009_e19a6b102d",
+    "original": "まさか素手で\\n戦うわけにはいかないでしょ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 221\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0010_2c9595717c",
+    "original": "…そりゃ、そうですけど\\nそうですよね…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 224\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_d0ed79a2ae_0011_27c4c1ccdc",
+    "original": "心配しない！▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 228\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0012_28b3e5e094",
+    "original": "例えまぐれだとしても、\\nあなたは使徒を倒したのよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 229\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0013_5fe6920f59",
+    "original": "それも才能のウチ、\\n自信を持ちなさい▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 230\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0014_5fca007101",
+    "original": "ここにいるみんなが、\\nあなたをサポートするわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 231\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0015_a40c9ad683",
+    "original": "…わかりました",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 234\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_d0ed79a2ae_0016_d7a2a6eedd",
+    "original": "よろしい！▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 237\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0017_f646d86d37",
+    "original": "じゃ、実際に戦ってみましょうか▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 238\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0018_aa570c9e58",
+    "original": "最低限のこととして、\\n$RボタンでＡ．Ｔ．フィールドを展開しガード▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 240\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0019_b9ff58c958",
+    "original": "ガードしないと、簡単に死んじゃうわよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 241\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0020_fe580769a4",
+    "original": "$oボタン、$^ボタンで攻撃▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 242\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0021_c662f4cbea",
+    "original": "攻撃する時は構えるといいけど、\\n構えると動きが鈍くなるわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 243\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0022_d1815b96c7",
+    "original": "構えるには$Lボタンの長押しよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 244\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0023_41e887e39f",
+    "original": "あと、予備電源が切れたら、\\n活動停止になるから気をつけてね▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 245\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0024_292be3755f",
+    "original": "じゃ、はじめるわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 246\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0025_92d8902e31",
+    "original": "えー、それだけですか！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 249\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_d0ed79a2ae_0026_3f1b2503c6",
+    "original": "そうよ、戦ってみなければ、\\nなんにもわからないでしょ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 252\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d0ed79a2ae_0027_a66449288e",
+    "original": "ひどいですよ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 255\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_d0ed79a2ae_0028_d5b0502d75",
+    "original": "いっぱい教えても覚えきれないだけ\\nはじめて！",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0003_1.NUT\nLine: 259\nCall: im.play\nSpeaker: IMC_MISATO"
+  }
+]

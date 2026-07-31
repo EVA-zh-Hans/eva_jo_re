@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_83e67945da_0001_cc6c165864",
+    "original": "あら、何も開発されてないわね",
+    "translation": "",
+    "context": "File: PREPARE/PRE_SETSKILL.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_RITSUKO"
+  },
+  {
+    "key": "e_83e67945da_0002_00035df266",
+    "original": "実装状況をクリアしますが、よろしいですか？",
+    "translation": "",
+    "context": "File: PREPARE/PRE_SETSKILL.NUT\nLine: 170\nCall: DecideStart"
+  }
+]

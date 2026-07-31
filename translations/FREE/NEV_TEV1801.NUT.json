@@ -1,0 +1,188 @@
+[
+  {
+    "key": "e_d63e891b8a_0001_c25a144c10",
+    "original": "これでゼーレの死海文書に\\n記述されている使徒は、あと一つ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 248\nCall: im.event\nSpeaker: IMC_COMMITTEE2\nVoice: NA10_1801_37_002"
+  },
+  {
+    "key": "e_d63e891b8a_0002_f31b8ae2db",
+    "original": "約束の時は近い▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 251\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1801_20_003"
+  },
+  {
+    "key": "e_d63e891b8a_0003_948fae9a15",
+    "original": "その道程は長く、\\n犠牲も大きかったがな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 254\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1801_20_004"
+  },
+  {
+    "key": "e_d63e891b8a_0004_cda906432f",
+    "original": "左様…ロンギヌスの槍に続き、\\nエヴァ零号機の損失",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 283\nCall: im.event\nSpeaker: IMC_COMMITTEE2\nVoice: NA10_1801_37_005"
+  },
+  {
+    "key": "e_d63e891b8a_0005_b92d9a6948",
+    "original": "碇の解任には、\\n充分過ぎる理由だな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 286\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1801_36_006"
+  },
+  {
+    "key": "e_d63e891b8a_0006_ceaf6ff2c1",
+    "original": "冬月を無事に返した\\n意味のわからぬ男でもあるまいに",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 314\nCall: im.event\nSpeaker: IMC_COMMITTEE3\nVoice: NA10_1801_38_007"
+  },
+  {
+    "key": "e_d63e891b8a_0007_2b20cfe023",
+    "original": "エヴァシリーズ、\\n既に８体まで用意されつつある",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 317\nCall: im.event\nSpeaker: IMC_COMMITTEE4\nVoice: NA10_1801_39_008"
+  },
+  {
+    "key": "e_d63e891b8a_0008_3cd72fa9cb",
+    "original": "残るはあと、４体か",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 354\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1801_36_009"
+  },
+  {
+    "key": "e_d63e891b8a_0009_10c28a5735",
+    "original": "第３新東京市の消滅は、計画を進めるよき材料になる\\n完成を急がせろ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 357\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1801_20_010"
+  },
+  {
+    "key": "e_d63e891b8a_0010_bd91c904a5",
+    "original": "約束の時は、その日となる",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 389\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1801_20_010_1"
+  },
+  {
+    "key": "e_d63e891b8a_0011_ff1564f20e",
+    "original": "トウジもケンスケも、みんな家を失って\\nどこかへ行ってしまった▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 435\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA08_0004_01_001"
+  },
+  {
+    "key": "e_d63e891b8a_0012_e341d8aa88",
+    "original": "友達は…友達と呼べる人達は\\nいなくなってしまった、…誰も▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 438\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA08_0004_01_001_1"
+  },
+  {
+    "key": "e_d63e891b8a_0013_f6d5060b8a",
+    "original": "母さん、アスカ、ミサトさん\\n僕はどうしたら…どうすればいい…？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 468\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA08_0004_01_001_2"
+  },
+  {
+    "key": "e_d63e891b8a_0014_4f90a892c2",
+    "original": "歌はいいね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 529\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA08_0004_15_001"
+  },
+  {
+    "key": "e_d63e891b8a_0015_6c27c421d7",
+    "original": "歌は心を潤してくれる\\nリリンの生み出した文化の極みだよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 533\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA08_0004_15_002"
+  },
+  {
+    "key": "e_d63e891b8a_0016_938aad79aa",
+    "original": "そう、思わないかい？\\n碇シンジ君",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 537\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA08_0004_15_002_1"
+  },
+  {
+    "key": "e_d63e891b8a_0017_8bfe077e5d",
+    "original": "僕の名を…？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 566\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA08_0004_01_003"
+  },
+  {
+    "key": "e_d63e891b8a_0018_473e5d8348",
+    "original": "知らないものはいないさ、失礼だが、\\n君は自分の立場を少しは知った方がいいと思うよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 569\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA08_0004_15_003"
+  },
+  {
+    "key": "e_d63e891b8a_0019_98aaa1828a",
+    "original": "そう、かな？\\n…あの、君は？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 573\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA08_0004_01_004"
+  },
+  {
+    "key": "e_d63e891b8a_0020_2033e2942b",
+    "original": "僕はカヲル、渚カヲル…\\n君と同じ仕組まれた子供、フィフス・チルドレンさ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 577\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA08_0004_15_004"
+  },
+  {
+    "key": "e_d63e891b8a_0021_1d2b7a5edb",
+    "original": "フィフス・チルドレン？　君が？\\nあの…渚、君",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 581\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA08_0004_01_005"
+  },
+  {
+    "key": "e_d63e891b8a_0022_c6d6af651e",
+    "original": "カヲルでいいよ\\n碇君",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 609\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA08_0004_15_005"
+  },
+  {
+    "key": "e_d63e891b8a_0023_5ed0e8ea3a",
+    "original": "僕も、あの、\\nシ、シンジでいいよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 636\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA08_0004_01_006"
+  },
+  {
+    "key": "e_d63e891b8a_0024_34b503db23",
+    "original": "現在、フィフス・チルドレンは\\nシンジ君と接触中の模様です",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 674\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA08_0004_09_001"
+  },
+  {
+    "key": "e_d63e891b8a_0025_7f185ceeb1",
+    "original": "委員会が直に送ってきた、\\nこの少年の資料は何なのよ…？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 707\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA08_0004_04_001"
+  },
+  {
+    "key": "e_d63e891b8a_0026_dd2431364e",
+    "original": "経歴その他、全てが抹消済み…全てが謎よ？\\nどういう事かしら",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 710\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA08_0004_04_001_1"
+  },
+  {
+    "key": "e_d63e891b8a_0027_f685e253ca",
+    "original": "このデータを見て下さい、彼とエヴァとの\\nシンクロ率のデータが異常な数値を示しています▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 740\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA08_0004_08_001"
+  },
+  {
+    "key": "e_d63e891b8a_0028_527c0ff492",
+    "original": "これは一体…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 768\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA08_0004_08_001_1"
+  },
+  {
+    "key": "e_d63e891b8a_0029_b0f27d8f8d",
+    "original": "このまま何も起きないわけはないわね…\\nま、じっくり観察させてもらうわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 771\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA08_0004_04_002"
+  },
+  {
+    "key": "e_d63e891b8a_0030_dafa812842",
+    "original": "マルドゥック機関を通さず\\n適任者として送り込まれた少年…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 807\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA08_0004_06_001"
+  },
+  {
+    "key": "e_d63e891b8a_0031_303ee769c5",
+    "original": "ゼーレからの贈り物か…計画の前倒しを\\n老人は狙っているようだ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1801.NUT\nLine: 811\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA08_0004_05_001"
+  }
+]

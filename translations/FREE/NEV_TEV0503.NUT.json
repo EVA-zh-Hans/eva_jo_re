@@ -1,0 +1,146 @@
+[
+  {
+    "key": "e_04fc4c1502_0001_583af8641b",
+    "original": "あら、シンジ君\\n今、レイのハーモニクステストをやってるの▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 137\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_0503_08_001"
+  },
+  {
+    "key": "e_04fc4c1502_0002_2499f8089c",
+    "original": "よかったら、見学していかない？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 140\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_0503_08_001_1"
+  },
+  {
+    "key": "e_04fc4c1502_0003_3a00e9e266",
+    "original": "ハーモニクステスト？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 167\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0503_01_002"
+  },
+  {
+    "key": "e_04fc4c1502_0004_f70df9c1bc",
+    "original": "そうよ、あなたも定期的に\\n行う事になるんだから▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 170\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_0503_08_003"
+  },
+  {
+    "key": "e_04fc4c1502_0005_073c2ad7d3",
+    "original": "案内するわ\\nついて来てね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 197\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_0503_08_003_1"
+  },
+  {
+    "key": "e_04fc4c1502_0006_8131220227",
+    "original": "センパイ、シンジ君です",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 260\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_0503_08_004"
+  },
+  {
+    "key": "e_04fc4c1502_0007_869bb526e8",
+    "original": "もうすぐ、レイのテストが終わるわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 263\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0503_07_005"
+  },
+  {
+    "key": "e_04fc4c1502_0008_9e476d76c0",
+    "original": "シンジ君も、近々テストを行う予定よ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 266\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0503_07_005_1"
+  },
+  {
+    "key": "e_04fc4c1502_0009_a1f3895220",
+    "original": "その、テストって何ですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 294\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0503_01_006"
+  },
+  {
+    "key": "e_04fc4c1502_0010_9b9227740d",
+    "original": "学校のテストなんかよりは簡単よ\\nそういえば、学校はどう？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 297\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_0503_08_009"
+  },
+  {
+    "key": "e_04fc4c1502_0011_2af7c1b60e",
+    "original": "まあ、それなりに▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 300\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0503_01_010"
+  },
+  {
+    "key": "e_04fc4c1502_0012_71a23d5dde",
+    "original": "授業では、セカンドインパクトの話ばっかりですけど\\nみんな知ってる話なのに…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 303\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0503_01_010_1"
+  },
+  {
+    "key": "e_04fc4c1502_0013_1cc858e85f",
+    "original": "あ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 306\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_0503_08_011"
+  },
+  {
+    "key": "e_04fc4c1502_0014_8e3e5eed77",
+    "original": "確かに、公式での話はみんな知っているわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 309\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0503_07_012"
+  },
+  {
+    "key": "e_04fc4c1502_0015_c4f726d4d4",
+    "original": "巨大隕石の落下による大惨事が\\nセカンドインパクトだと言う事を",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 334\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0503_07_012_1"
+  },
+  {
+    "key": "e_04fc4c1502_0016_25b027efb8",
+    "original": "えっ…公式でって…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 369\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0503_01_013"
+  },
+  {
+    "key": "e_04fc4c1502_0017_0cc44cbb47",
+    "original": "本当のセカンドインパクトは\\nそんな事が原因ではないのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 372\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_0503_08_014"
+  },
+  {
+    "key": "e_04fc4c1502_0018_d602e86185",
+    "original": "１５年前、人類は最初の「使徒」と呼称する\\n人型の物体を南極で発見したの▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 397\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0503_07_015"
+  },
+  {
+    "key": "e_04fc4c1502_0019_4e97199083",
+    "original": "でも、その調査中に原因不明の\\n大爆発を起こしたのよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 400\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0503_07_015_1"
+  },
+  {
+    "key": "e_04fc4c1502_0020_6c10736d1d",
+    "original": "それが、セカンドインパクトの正体",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 457\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0503_07_015_2"
+  },
+  {
+    "key": "e_04fc4c1502_0021_ee9ff3dedf",
+    "original": "じゃあ…\\n僕達がエヴァで戦うってのは",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 496\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0503_01_016"
+  },
+  {
+    "key": "e_04fc4c1502_0022_e5933710af",
+    "original": "予想されるサードインパクトを\\n未然に防ぐ事が目的よ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 499\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0503_07_017"
+  },
+  {
+    "key": "e_04fc4c1502_0023_d8dadf1e62",
+    "original": "そのためのネルフと\\nエヴァンゲリオンなのだから",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 525\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0503_07_017_1"
+  },
+  {
+    "key": "e_04fc4c1502_0024_37382786fe",
+    "original": "…そうなん…ですか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0503.NUT\nLine: 553\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0503_01_018"
+  }
+]

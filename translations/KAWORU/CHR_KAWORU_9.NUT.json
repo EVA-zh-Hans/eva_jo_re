@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_da2b726dbd_0001_5f79b49efa",
+    "original": "僕は歌をまもろうと思う\\nそれにどんな意味があるかはわからないけれど▽",
+    "translation": "",
+    "context": "File: KAWORU/CHR_KAWORU_9.NUT\nLine: 41\nCall: im.event2\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_016_1"
+  },
+  {
+    "key": "e_da2b726dbd_0002_fdec487fd0",
+    "original": "いや、これが好きってことか\\nそれだけでいいか",
+    "translation": "",
+    "context": "File: KAWORU/CHR_KAWORU_9.NUT\nLine: 44\nCall: im.event2\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_016_2"
+  }
+]

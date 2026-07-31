@@ -1,0 +1,98 @@
+[
+  {
+    "key": "e_21c1a8834c_0001_e3c4e6fade",
+    "original": "わたし、かてなかったんだ\\nエヴァで…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 192\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1701_02_001"
+  },
+  {
+    "key": "e_21c1a8834c_0002_372f21c83b",
+    "original": "もう、わたしのかちなんて\\nなくなったの、どこにも…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 196\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1701_02_001_1"
+  },
+  {
+    "key": "e_21c1a8834c_0003_b9a84877d9",
+    "original": "キライ、だいっきらい\\nみんなきらいなの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 201\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1701_02_002"
+  },
+  {
+    "key": "e_21c1a8834c_0004_10863e7b75",
+    "original": "でも、いちばんきらいなのは、\\nわたし…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 205\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1701_02_002_1"
+  },
+  {
+    "key": "e_21c1a8834c_0005_7eff093a11",
+    "original": "もう、どうでもよくなっちゃった\\nなにもかも",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 210\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1701_02_003"
+  },
+  {
+    "key": "e_21c1a8834c_0006_8a4df6b968",
+    "original": "ロンギヌスの槍、\\n回収は我らの手では不可能だよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 267\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1702_36_001"
+  },
+  {
+    "key": "e_21c1a8834c_0007_276bc77c26",
+    "original": "ロンギヌスの槍、\\nなぜ使用した",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 318\nCall: im.event\nSpeaker: IMC_COMMITTEE2\nVoice: NA10_1702_37_002"
+  },
+  {
+    "key": "e_21c1a8834c_0008_e13c9ed545",
+    "original": "エヴァシリーズ、\\nまだ予定にはそろっていないのだぞ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 321\nCall: im.event\nSpeaker: IMC_COMMITTEE3\nVoice: NA10_1702_38_003"
+  },
+  {
+    "key": "e_21c1a8834c_0009_dc09414b71",
+    "original": "使徒殲滅を優先させました\\nやむを得ない事象です",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 324\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1702_05_004"
+  },
+  {
+    "key": "e_21c1a8834c_0010_9b9b99aceb",
+    "original": "やむを得ないか？\\n言い訳にはもっと説得力を持たせたまえ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 327\nCall: im.event\nSpeaker: IMC_COMMITTEE4\nVoice: NA10_1702_39_005"
+  },
+  {
+    "key": "e_21c1a8834c_0011_71bcb3ba61",
+    "original": "最近の君の行動には、目に余るものがあるな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 330\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1702_36_006"
+  },
+  {
+    "key": "e_21c1a8834c_0012_549e4a136b",
+    "original": "冬月、審議中だぞ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 377\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1702_05_007"
+  },
+  {
+    "key": "e_21c1a8834c_0013_06a72ea61b",
+    "original": "…わかった",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 381\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1702_05_007_1"
+  },
+  {
+    "key": "e_21c1a8834c_0014_5cceeb7541",
+    "original": "使徒が現在、接近中です\\n続きはまた後程",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 425\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1702_05_007_2"
+  },
+  {
+    "key": "e_21c1a8834c_0015_869093e28f",
+    "original": "その時、君の席が残っていたらな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 430\nCall: im.event\nSpeaker: IMC_COMMITTEE2\nVoice: NA10_1702_37_008"
+  },
+  {
+    "key": "e_21c1a8834c_0016_c669b2ef52",
+    "original": "碇、ゼーレを裏切る気か",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1701.NUT\nLine: 466\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1702_20_009"
+  }
+]

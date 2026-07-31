@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_a172a51a8c_0005_5b717728bb",
+    "original": "オプション",
+    "translation": "",
+    "context": "File: BTNNAVI/OPT1.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_a172a51a8c_0010_e711699511",
+    "original": "項目選択",
+    "translation": "",
+    "context": "File: BTNNAVI/OPT1.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_a172a51a8c_0015_aa770b041d",
+    "original": "設定切替",
+    "translation": "",
+    "context": "File: BTNNAVI/OPT1.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_a172a51a8c_0020_bca84ea5c6",
+    "original": "キャンセル",
+    "translation": "",
+    "context": "File: BTNNAVI/OPT1.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  }
+]

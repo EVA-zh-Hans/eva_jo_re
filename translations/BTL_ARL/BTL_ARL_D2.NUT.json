@@ -1,0 +1,56 @@
+[
+  {
+    "key": "e_9c152c1ff5_0001_4789ff661f",
+    "original": "碇、まだ早いのではないか？",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 38\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_001"
+  },
+  {
+    "key": "e_9c152c1ff5_0002_baa9957763",
+    "original": "委員会はエヴァシリーズの量産に着手した…\\nチャンスだ冬月",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_002"
+  },
+  {
+    "key": "e_9c152c1ff5_0003_d71ee0340a",
+    "original": "しかし、な…",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 44\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_003"
+  },
+  {
+    "key": "e_9c152c1ff5_0004_d91d3eca9f",
+    "original": "時計の針は元に戻らない\\nだが自らの力で進める事はできる",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_004"
+  },
+  {
+    "key": "e_9c152c1ff5_0005_ea31f3a667",
+    "original": "老人達が黙ってないぞ",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_005"
+  },
+  {
+    "key": "e_9c152c1ff5_0006_e215fbfbba",
+    "original": "ゼーレが動く前に、全て済まさねばならん\\n今、弐号機を失うのは得策ではない",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_006"
+  },
+  {
+    "key": "e_9c152c1ff5_0007_ea9a05c2ee",
+    "original": "かといって、ロンギヌスの槍を\\nゼーレの許可なく使用するのは、面倒だぞ",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 75\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_007"
+  },
+  {
+    "key": "e_9c152c1ff5_0008_2260fd6b5f",
+    "original": "理由は存在すればいい\\nそれ以上の意味はない",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 91\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_008"
+  },
+  {
+    "key": "e_9c152c1ff5_0009_89230e1ce2",
+    "original": "理由？\\nお前が欲しいのは、口実だろう？",
+    "translation": "",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 107\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_009"
+  }
+]

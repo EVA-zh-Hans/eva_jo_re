@@ -1,0 +1,38 @@
+[
+  {
+    "key": "e_3c1fc2c74d_0001_85299f14f7",
+    "original": "注目度ボーナス",
+    "translation": "",
+    "context": "File: TUT/TUT_F014.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_3c1fc2c74d_0002_85299f14f7",
+    "original": "注目度ボーナス",
+    "translation": "",
+    "context": "File: TUT/TUT_F014.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_3c1fc2c74d_0003_0962110aa4",
+    "original": "各キャラクターはそれぞれ好みの話題を持っています▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F014.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_3c1fc2c74d_0004_c55a334a20",
+    "original": "また、好みは仲が良くなるごとに\\n少しずつ深い話題にシフトします▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F014.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_3c1fc2c74d_0005_6f5d12ac1a",
+    "original": "好みの話題を選んで会話することで\\n<02>注目度<//>にボーナスを得たり、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F014.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_3c1fc2c74d_0006_fa1229de78",
+    "original": "相手の<02>態度<//>をポジティブにしたりする事ができます",
+    "translation": "",
+    "context": "File: TUT/TUT_F014.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "key": "e_a4df461428_0003_e26f7a13f8",
+    "original": "減少した耐久力の一部は<02>ヘイフリック<//>\nとなり、赤色のゲージで表示されます\n<02>ヘイフリック<//>になった部分の耐久力は、\n新たにダメージを受けなければ、\n徐々に回復していきます",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 4\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0005_d5e591b838",
+    "original": "<02>Ａ．Ｔ．<//>が０になると<02>バニッシュ<//>の\n状態になり、<02>Ａ．Ｔ．<//>を消費する行動は\nできなくなってしまいます\n<02>バニッシュ<//>の状態は\nしばらく時間が経過すると回復します",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 10\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0007_7826db756a",
+    "original": "電源が切断されている状態では、\n<02>予備電源<//>の残量が<02>活動限界時間<//>として\n表示されます\n<02>活動限界時間<//>が０になると、\n活動限界となり、戦闘不能になります",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 16\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0009_eb8a47189e",
+    "original": "使徒の攻撃を受けると電源が\n切断されてしまう場合があります\n切断した電源は、<02>電源ビル<//>に近づいて、\n$#ボタンで再接続する事ができます",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 22\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0011_003dfa69ed",
+    "original": "$Lボタンを押し続ける事で武器を\n構えて使徒を<02>ロック<//>する事ができます\nただし、移動速度は通常時に比べて遅く\nなってしまうので注意が必要です",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 27\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0013_71c581ee34",
+    "original": "<07>アナログパッド<//>＋$xボタンで<02>Ａ．Ｔ．<//>を\n消費し、<02>回避行動<//>をする事ができます\n装備している武器によって、\n<02>回避行動<//>で移動する距離は変化します",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 32\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0015_90bdb7cc2b",
+    "original": "停止中に$Rボタンで<02>ガード<//>できます\n<02>ガード<//>中は<02>Ａ．Ｔ．<//>を徐々に\n消費します\nまた、<02>ガード<//>した攻撃の貫通力に\n応じて、<02>Ａ．Ｔ．<//>を消費します",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 37\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0017_255feae544",
+    "original": "<02>観測ビル<//>が配置されたマップで戦闘を\nすると、使徒を<02>分析<//>する事ができます\n<02>分析<//>が完了すると、使徒の現在の、\n<02>耐久力<//>、<02>Ａ．Ｔ．<//>、<02>弱点部位<//>、\n<02>有効武器<//>が分かるようになります",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 43\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0019_03f8b6aa0a",
+    "original": "<02>ガード<//>している使徒に密着して\n$Rボタンで、<02>Ａ．Ｔ．<//>を急激に\n減らす事ができる、<02>浸食<//>が発動します\n使徒を<02>バニッシュ<//>の状態に\n追い込みましょう",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 49\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0021_9626bd93ae",
+    "original": "<02>格闘攻撃<//>はボタンを連続して\n入力する事で連続技になる物が\n多くあります\n武器によってボタンの組み合わせは、\n異なるので、色々試してみましょう",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 55\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0023_af50e2da75",
+    "original": "<02>格闘武器<//>は攻撃を続ける事で<02>耐久度<//>が\n減少し、本来の性能を発揮する事が\nできなくなってしまいます\n現在の<02>耐久度<//>は画面右下の\nアイコンで確認する事ができます",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 61\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0025_8843f536b4",
+    "original": "<02>射撃武器<//>では、<02>装填弾数<//>を撃ちきると\n<02>リロード<//>が発生し、終了するまでは、\n射撃をする事ができなくなります\n画面右下に表示されている、\n<02>リロードゲージ<//>に注意しましょう",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 67\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0027_f6edb88f2d",
+    "original": "<02>スキル<//>を<02>実装<//>する事で\n<02>エヴァ<//>を強化する事ができます\n自分の戦い方に合せた<02>スキル<//>を\n<02>開発<//>し、<02>実装<//>する事が勝利への近道です",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 73\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0029_9c244b2214",
+    "original": "<02>ＱＴコマンド<//>が表示されたら、指定の\nボタンを制限時間内に入力してください\n制限時間はボタンの周囲のゲージで\n表示されます",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 78\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0031_78f4b2228c",
+    "original": "<02>ヘイフリック<//>の幅は<02>シンクロ率<//>によって\n変化します\n常に高い<02>シンクロ率<//>を維持する事が\nできれば、同じ攻撃を受けても\n多くの<02>ヘイフリック<//>を確保できます",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 83\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0033_8e6206c28b",
+    "original": "<02>ヘイフリックスキル<//>を<02>実装<//>する事で、\n<02>ヘイフリック<//>の性能を強化できます\nＬｖが高い程、効果は大きくなります\n・<02>ヘイフリック<//>の回復速度向上",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 89\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0035_290fb6e1c1",
+    "original": "<02>バニッシュ<//>中は<02>Ａ．Ｔ．<//>を消費する\n行動ができなくなる上に、使徒から\n攻撃を受けると、ダメージが増大します\n<02>バニッシュ<//>の状態が回復するまで、\n使徒から距離をとるのも戦略の１つです",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 94\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0037_403008429a",
+    "original": "<02>シンクロ率<//>は、<02>ヘイフリック<//>の幅や、\nエヴァの攻撃力に影響するため、\n高い状態を維持する事が重要です\n<02>シンクロ率<//>は使徒に攻撃する事で\n上昇し、逆に何もしないと下降します",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 100\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0039_1f0ed87ada",
+    "original": "<02>シンクロ率<//>はエヴァで使徒に攻撃したり\n<02>ジャストガード<//>を成功させる事で上昇し\nまた、<02>電源ケーブル<//>を切断する事で\n一時的に上昇させる事もできます\n逆に、電源を接続すると下降します",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 106\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0041_5301d96f01",
+    "original": "<02>予備電源スキル<//>を<02>実装<//>する事で、\nエヴァの<02>予備電源<//>の性能を強化できます\nＬｖが高い程、効果は大きくなります\n・<02>活動限界時間<//>の延長",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 112\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0043_049964da98",
+    "original": "<02>ロックスキル<//>を<02>実装<//>する事で、\nエヴァの<02>ロック<//>性能を強化できます\nＬｖが高い程、効果は大きくなります\n・<02>ロック<//>可能距離の延長",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 117\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0045_d10a084d5e",
+    "original": "<02>回避スキル<//>を<02>実装<//>する事で、\nエヴァの<02>回避性能<//>を強化できます\nＬｖが高い程、効果は大きくなります\n・<02>回避行動<//>時の<02>Ａ．Ｔ．<//>消費量減少\n・<02>回避行動<//>時の無敵時間が延長",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 122\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0047_98936f3326",
+    "original": "<02>ガードスキル<//>を<02>実装<//>する事で、\nエヴァの<02>ガード<//>性能を強化できます\nＬｖが高い程、効果は大きくなります\n・<02>ガード<//>中の<02>Ａ．Ｔ．<//>消費量減少\n・攻撃<02>ガード<//>時の<02>Ａ．Ｔ．<//>消費量減少",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 128\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0049_65251958fe",
+    "original": "攻撃を受ける寸前に<02>ガード<//>する事で\n<02>ジャストガード<//>が発生します\n衝撃が大きな攻撃を<02>ガード<//>しても、\n反動が小さくなる上に、<02>ガード<//>時に\n<02>Ａ．Ｔ．<//>を消費しません",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 134\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0051_12da0d24ba",
+    "original": "使徒の攻撃から逃れるには、\n<02>回避行動<//>と<02>ガード<//>が有効です\nそれぞれに短所、長所があるので、\n装備している武器や戦闘の状況に応じて\n使い分ける事が重要です",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 140\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0053_2b297117de",
+    "original": "複数の<02>観測ビル<//>を配置する事で\n<02>分析<//>速度は向上します\nＬｖの高い<02>観測ビル<//>は、１つでも\n<02>分析<//>速度の向上が望めます",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 146\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0055_c2c1d320b6",
+    "original": "装備している武器は、$Rボタンを\n押しながら、$oボタン＋$^ボタンで\n廃棄する事ができます\n廃棄した武器は消失してしまいますが、\n<02>模擬戦闘<//>では消失する事はありません",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 151\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0057_a605866596",
+    "original": "<02>武器庫ビル<//>に近づいて、$#ボタンで格納\nされている武器の換装ができます\n<02>換装<//>時にはエヴァが装備していた武器は\n廃棄されますので注意してください",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 157\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0059_9eadc2814c",
+    "original": "使徒が<02>ガード<//>を解除するまで<02>浸食<//>を\n続けてしまうと、エヴァが弾かれ、\n隙が発生してしまいます\n使徒が<02>ガード<//>を解除する兆候を\n見逃さないようにしましょう",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 162\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0061_925a211b60",
+    "original": "<02>格闘武器スキル<//>を<02>実装<//>する事で、\n<02>格闘攻撃<//>の性能を強化できます\nＬｖが高い程、効果は大きくなります\n・武器の<02>耐久度<//>が減少しにくくなる",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 168\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0063_e3fd23bbce",
+    "original": "<02>射撃武器<//>は、移動しながら\n射撃する事ができる武器があります\n移動しながらの射撃は停止中に比べて、\n弾道が安定しませんので\n注意してください",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 173\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0065_37ffd4fab0",
+    "original": "<02>射撃武器スキル<//>を<02>実装<//>する事で、\n<02>射撃攻撃<//>の性能を強化できます\nＬｖが高い程、効果は大きくなります\n・弾道の安定性の向上\n・<02>リロード<//>の短縮化",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 179\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0067_01265a3719",
+    "original": "<02>兵装ビル<//>が攻撃を実行するには使徒を\n<02>捕捉時間<//>が経過するまで<02>捕捉範囲<//>内に\n留まらせる必要があります\n<02>兵装ビル<//>の<02>捕捉範囲<//>は、画面右上の\n<02>ミニマップ<//>で確認する事ができます",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 185\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0069_5f9b67a88f",
+    "original": "<02>兵装ビル<//>の攻撃はエヴァも\nダメージを受けてしまうため、\n使徒と<02>兵装ビル<//>の位置関係や、\n<02>兵装ビル<//>の情報は常に意識しましょう",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 191\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0071_7389645957",
+    "original": "<02>観測ビル<//>による<02>分析<//>が完了すると、\n<02>ポーズメニュー<//>で使徒の弱点が\n確認できるようになります\n弱点を攻撃する事でダメージが増加し、\n<02>ダウン<//>し易くなります",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 196\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0073_731dfbd3dc",
+    "original": "使徒を<02>ダウン<//>させる事で<02>Ａ．Ｔ．<//>を\n大幅に減少させる事ができます\n<02>分析<//>によって判明した弱点を重点的に\n狙う事で、効率よく<02>ダウン<//>させる事が\nできるでしょう",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 202\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0075_590940ca22",
+    "original": "<02>Ａ．Ｔ．<//>が０になると使徒は\n<02>バニッシュ<//>の状態になります\n<02>バニッシュ<//>中は使徒へのダメージが\n増大するため、いかに<02>バニッシュ<//>の\n状態にするかが戦闘のポイントです",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 208\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0077_c24a20d443",
+    "original": "使徒の<02>Ａ．Ｔ．<//>が残っている状態の場合\nエヴァの攻撃は、使徒にほとんど\n届いていないと言って良いでしょう\n<02>バニッシュ<//>の状態にする事で、本来の\nダメージを使徒に与える事ができます",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 214\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0079_2c4e374818",
+    "original": "<02>バニッシュ<//>中の使徒は挙動が\n変化する場合があります\nまた、使徒の攻撃力も\n増大する傾向にあります\n反撃に注意して攻撃しましょう",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 220\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0081_01503d05f9",
+    "original": "<02>演習ナイフ<//>\nエヴァのもっとも基本的な<02>格闘武器<//>\n演習用で実戦には向かないが、\nエヴァの基本武装となる系統であり、\n全武器中で最高の機動力を誇る",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 226\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0083_f2f8d22cc9",
+    "original": "<02>トマホーク<//>\n安価な<02>格闘武器<//>\n<02>叩きつけ<//>は隙は大きいものの\n当てる事ができれば大ダメージとなる",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 232\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0085_f3b749b898",
+    "original": "<02>グレイヴ<//>\n貫通力に優れた<02>格闘武器<//>\n耐久性が低いのが問題\n<02>下段突き<//>と<02>中段突き<//>をフレキシブルに\n切り替える事が可能",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 237\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0087_3da1c6cf24",
+    "original": "<02>実験実体剣<//>\nエヴァ用に開発されつつある剣\n残念ながら未だ完璧から程遠い\n<02>居合い斬り<//>は、長時間の溜めが発生して\nしまうが、強力な一撃となる",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 243\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0089_1f25a1105c",
+    "original": "<02>ノコギリ型兵器<//>\n威力を増すために工夫された<02>格闘武器<//>\n派生する連続技を持たないが、\n一撃の威力は高い",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 249\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0091_12f85c9742",
+    "original": "<02>カウンターソード<//>\n<02>格闘攻撃<//>による連続技に加えて、\n<02>射撃攻撃<//>による連射も可能な特殊な武器",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 254\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0093_96d37a20b1",
+    "original": "<02>マステマ<//>\n究極の武器、重量も最大\n全体に配置されたブレードよる<02>格闘攻撃<//>\nガトリング砲による<02>射撃攻撃<//>が可能",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 258\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0095_99e81801fe",
+    "original": "表示される<02>ＱＴコマンド<//>を入力して\n<02>照準<//>を使徒の<02>コア<//>に合わせ続けて\nください\n入力に失敗すると、照準が\n外れていってしまいます",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 263\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0097_c8cc7d7af0",
+    "original": "<07>アナログパッド<//>を操作して、<02>照準<//>を\n使徒の<02>コア<//>に合せ続けてください\n<02>照準<//>が赤くなったら$oボタンで、\n発射できます",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 269\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0099_de1e259bac",
+    "original": "表示される<02>ＱＴコマンド<//>を入力して\nＪ．Ａ．に追いついてください\n入力に失敗すると、エヴァの<02>Ａ．Ｔ．<//>が\n減少してしまいます",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 274\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0101_e5fee678f0",
+    "original": "使徒の<02>最終落下予測地点<//>に移動して、\n<02>Ａ．Ｔ．フィールドを全開<//>に\nしてください\n<02>落下予測地点<//>は<02>ミニマップ<//>に表示され、\n一定時間ごとに更新されます",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 279\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0103_0ec428befc",
+    "original": "<02>エヴァ零号機<//>の到着まで、\n地上にて待機する作戦です\n衛星軌道上からの使徒の攻撃に\n注意してください",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 285\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0105_9770b826b4",
+    "original": "表示される<02>ＱＴコマンド<//>を入力して\n使徒の攻撃を回避し、\nさらに、攻撃を加えてください",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 290\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0107_9770b826b4",
+    "original": "表示される<02>ＱＴコマンド<//>を入力して\n使徒の攻撃を回避し、\nさらに、攻撃を加えてください",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 294\nElement: BF\nAttribute: str"
+  },
+  {
+    "key": "e_a4df461428_0109_dfe9aff3e4",
+    "original": "連続して現れる<02>エヴァ量産機<//>９体を\n全て殲滅してください",
+    "translation": "",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 298\nElement: BF\nAttribute: str"
+  }
+]

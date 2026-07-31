@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_c27f56f0e2_0001_5c0cfc2df6",
+    "original": "エヴァ零号機、限界です！\\nエントリープラグ、緊急射出します！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV9903.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_001"
+  },
+  {
+    "key": "e_c27f56f0e2_0002_8b3708fef4",
+    "original": "エヴァ初号機、限界です！\\nエントリープラグ、緊急射出します！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV9903.NUT\nLine: 83\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_002"
+  },
+  {
+    "key": "e_c27f56f0e2_0003_b58cdb8a6a",
+    "original": "エヴァ弐号機、限界です！\\nエントリープラグ、緊急射出します！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV9903.NUT\nLine: 118\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_003"
+  },
+  {
+    "key": "e_c27f56f0e2_0004_6b37072dcd",
+    "original": "エヴァ参号機、限界です！\\nエントリープラグ、緊急射出します！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV9903.NUT\nLine: 153\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_004"
+  },
+  {
+    "key": "e_c27f56f0e2_0005_87b9be0768",
+    "original": "エヴァ四号機、限界です！\\nエントリープラグ、緊急射出します！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV9903.NUT\nLine: 188\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_005"
+  }
+]

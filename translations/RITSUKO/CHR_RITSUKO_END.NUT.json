@@ -1,0 +1,80 @@
+[
+  {
+    "key": "e_809da56bee_0001_7ea6f3d562",
+    "original": "そして…",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_809da56bee_0002_b80b71fb19",
+    "original": "普通の日々がはじまる",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_809da56bee_0003_79dbca4858",
+    "original": "リツコはたばこを吸おうとして、やめた",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_809da56bee_0004_4637633597",
+    "original": "これから忙しくなるわ",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na54_0005_07_012_1"
+  },
+  {
+    "key": "e_809da56bee_0005_0f369f12f5",
+    "original": "使徒やエヴァの残した技術的影響はとても巨大で、\\n私が一生研究しても足らないと思うわ",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na54_0005_07_012_2"
+  },
+  {
+    "key": "e_809da56bee_0006_da7ee6bf93",
+    "original": "使徒がいなくなっても、使徒は影響を残し続ける\\n人間は、これまでと違うどこかにいくことになるわ",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na54_0005_07_012_3"
+  },
+  {
+    "key": "e_809da56bee_0007_6adb468e2f",
+    "original": "リツコはたばこを捨てた",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_809da56bee_0008_e488857392",
+    "original": "自分を痛めつけてもしょうがないわね\\nまずはお茶にしましょう",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na54_0005_07_013"
+  },
+  {
+    "key": "e_809da56bee_0009_557bde2f6a",
+    "original": "あなたが戦いで得たものは、",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_809da56bee_0010_ca76052a39",
+    "original": "一人の研究者だった",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_809da56bee_0011_4a91211c28",
+    "original": "あなたはそれで、何の不満もない",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_809da56bee_0012_92dd394958",
+    "original": "実のところ、研究者としての部分以外が\\n一番重要だし、研究とかはおまけだと思うからだ",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_809da56bee_0013_8d4795eec6",
+    "original": "おめでとう\\n人の補完はなされた",
+    "translation": "",
+    "context": "File: RITSUKO/CHR_RITSUKO_END.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_NONE"
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "key": "e_6901d3dfdb_0001_5badbb5731",
+    "original": "ストーリー",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup\nVoice: 模擬戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0002_621d8cc344",
+    "original": "模擬戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup\nVoice: 日常"
+  },
+  {
+    "key": "e_6901d3dfdb_0003_f648d6712c",
+    "original": "日常",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup\nVoice: ロード"
+  },
+  {
+    "key": "e_6901d3dfdb_0004_763e7f2b1a",
+    "original": "ロード",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup\nVoice: オプション"
+  },
+  {
+    "key": "e_6901d3dfdb_0005_5b717728bb",
+    "original": "オプション",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup\nVoice: リアルバトル"
+  },
+  {
+    "key": "e_6901d3dfdb_0006_21f64de98c",
+    "original": "リアルバトル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup"
+  },
+  {
+    "key": "e_6901d3dfdb_0007_16dda72729",
+    "original": "ＮＥＷ ＧＡＭＥ",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 197\nCall: MenuSetup\nVoice: ＣＯＮＴＩＮＵＥ"
+  },
+  {
+    "key": "e_6901d3dfdb_0008_63a14f9f1d",
+    "original": "ＣＯＮＴＩＮＵＥ",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 197\nCall: MenuSetup\nVoice: ＯＰＴＩＯＮ"
+  },
+  {
+    "key": "e_6901d3dfdb_0009_7fa555c1b3",
+    "original": "ＯＰＴＩＯＮ",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 197\nCall: MenuSetup"
+  },
+  {
+    "key": "e_6901d3dfdb_0010_849842466f",
+    "original": "第壱話「使徒、襲来」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第弐話「見知らぬ、天井」"
+  },
+  {
+    "key": "e_6901d3dfdb_0011_d22a98a631",
+    "original": "第弐話「見知らぬ、天井」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第参話「鳴らない、電話」"
+  },
+  {
+    "key": "e_6901d3dfdb_0012_c7a65062dc",
+    "original": "第参話「鳴らない、電話」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第四話「レイ、心の向こうに」"
+  },
+  {
+    "key": "e_6901d3dfdb_0013_da7a0b87f7",
+    "original": "第四話「レイ、心の向こうに」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第伍話「人の造りしもの」"
+  },
+  {
+    "key": "e_6901d3dfdb_0014_abb3f91448",
+    "original": "第伍話「人の造りしもの」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第六話「アスカ、来日」"
+  },
+  {
+    "key": "e_6901d3dfdb_0015_c39880e73c",
+    "original": "第六話「アスカ、来日」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第七話「瞬間、心、重ねて」"
+  },
+  {
+    "key": "e_6901d3dfdb_0016_0c55de58a9",
+    "original": "第七話「瞬間、心、重ねて」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第八話「マグマダイバー」"
+  },
+  {
+    "key": "e_6901d3dfdb_0017_bac683b9fc",
+    "original": "第八話「マグマダイバー」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第九話「静止した闇の中で」"
+  },
+  {
+    "key": "e_6901d3dfdb_0018_70c18e297c",
+    "original": "第九話「静止した闇の中で」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第拾話「奇跡の価値は」"
+  },
+  {
+    "key": "e_6901d3dfdb_0019_493be4fee3",
+    "original": "第拾話「奇跡の価値は」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第拾壱話「使徒、侵入」"
+  },
+  {
+    "key": "e_6901d3dfdb_0020_f5b1d69459",
+    "original": "第拾壱話「使徒、侵入」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第拾弐話「死に至る病、そして」"
+  },
+  {
+    "key": "e_6901d3dfdb_0021_f3e81c0223",
+    "original": "第拾弐話「死に至る病、そして」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第拾参話「四人目の適格者」"
+  },
+  {
+    "key": "e_6901d3dfdb_0022_8809c005b7",
+    "original": "第拾参話「四人目の適格者」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第拾四話「男の戦い」"
+  },
+  {
+    "key": "e_6901d3dfdb_0023_e07a874444",
+    "original": "第拾四話「男の戦い」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第拾伍話「嘘と沈黙」"
+  },
+  {
+    "key": "e_6901d3dfdb_0024_7140a72d9a",
+    "original": "第拾伍話「嘘と沈黙」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第拾六話「せめて、人間らしく」"
+  },
+  {
+    "key": "e_6901d3dfdb_0025_48b61d5756",
+    "original": "第拾六話「せめて、人間らしく」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第拾七話「涙」"
+  },
+  {
+    "key": "e_6901d3dfdb_0026_4939cc50df",
+    "original": "第拾七話「涙」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第拾八話「最後のシ者」"
+  },
+  {
+    "key": "e_6901d3dfdb_0027_9b84c29636",
+    "original": "第拾八話「最後のシ者」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup\nVoice: 第拾九話「まごころを、君に」"
+  },
+  {
+    "key": "e_6901d3dfdb_0028_3369d9e56b",
+    "original": "第拾九話「まごころを、君に」",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 260\nCall: MenuSetup"
+  },
+  {
+    "key": "e_6901d3dfdb_0029_e525cb1081",
+    "original": "水の迎撃作戦初級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦初級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0030_059ad8e3fc",
+    "original": "水の迎撃作戦初級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦中級"
+  },
+  {
+    "key": "e_6901d3dfdb_0031_8ce7761887",
+    "original": "水の迎撃作戦中級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦中級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0032_f42f817321",
+    "original": "水の迎撃作戦中級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦中級３"
+  },
+  {
+    "key": "e_6901d3dfdb_0033_3e11a46559",
+    "original": "水の迎撃作戦中級３",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦中級４"
+  },
+  {
+    "key": "e_6901d3dfdb_0034_cb548d38b8",
+    "original": "水の迎撃作戦中級４",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦中級５"
+  },
+  {
+    "key": "e_6901d3dfdb_0035_577eebc529",
+    "original": "水の迎撃作戦中級５",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦中級６"
+  },
+  {
+    "key": "e_6901d3dfdb_0036_ee4638bb14",
+    "original": "水の迎撃作戦中級６",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦上級"
+  },
+  {
+    "key": "e_6901d3dfdb_0037_296f2c9be1",
+    "original": "水の迎撃作戦上級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦上級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0038_31f8e0efd9",
+    "original": "水の迎撃作戦上級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦上級３"
+  },
+  {
+    "key": "e_6901d3dfdb_0039_16c14d4448",
+    "original": "水の迎撃作戦上級３",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦上級４"
+  },
+  {
+    "key": "e_6901d3dfdb_0040_21ff6e54c0",
+    "original": "水の迎撃作戦上級４",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦超級"
+  },
+  {
+    "key": "e_6901d3dfdb_0041_9c8ff1eaec",
+    "original": "水の迎撃作戦超級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦超級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0042_584eb916f7",
+    "original": "水の迎撃作戦超級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦超級３"
+  },
+  {
+    "key": "e_6901d3dfdb_0043_1575ca191f",
+    "original": "水の迎撃作戦超級３",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦神級"
+  },
+  {
+    "key": "e_6901d3dfdb_0044_66e519583b",
+    "original": "水の迎撃作戦神級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦中級"
+  },
+  {
+    "key": "e_6901d3dfdb_0045_9a912e5001",
+    "original": "昼の迎撃作戦中級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦中級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0046_f8b9dbe1a3",
+    "original": "昼の迎撃作戦中級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦中級３"
+  },
+  {
+    "key": "e_6901d3dfdb_0047_08e01a2954",
+    "original": "昼の迎撃作戦中級３",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦中級４"
+  },
+  {
+    "key": "e_6901d3dfdb_0048_4d6401bf62",
+    "original": "昼の迎撃作戦中級４",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦中級５"
+  },
+  {
+    "key": "e_6901d3dfdb_0049_3252e2b37f",
+    "original": "昼の迎撃作戦中級５",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦中級６"
+  },
+  {
+    "key": "e_6901d3dfdb_0050_80e1683528",
+    "original": "昼の迎撃作戦中級６",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦上級"
+  },
+  {
+    "key": "e_6901d3dfdb_0051_bdb2dbd1ba",
+    "original": "昼の迎撃作戦上級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦上級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0052_e6bb1a996f",
+    "original": "昼の迎撃作戦上級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦上級３"
+  },
+  {
+    "key": "e_6901d3dfdb_0053_28d9905fab",
+    "original": "昼の迎撃作戦上級３",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦上級４"
+  },
+  {
+    "key": "e_6901d3dfdb_0054_2e7a98b9cc",
+    "original": "昼の迎撃作戦上級４",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦超級"
+  },
+  {
+    "key": "e_6901d3dfdb_0055_f1359fe91c",
+    "original": "昼の迎撃作戦超級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦超級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0056_77dcce2e18",
+    "original": "昼の迎撃作戦超級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦神級"
+  },
+  {
+    "key": "e_6901d3dfdb_0057_b4ec205bdc",
+    "original": "昼の迎撃作戦神級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦中級"
+  },
+  {
+    "key": "e_6901d3dfdb_0058_c8dde1e9cc",
+    "original": "音楽の迎撃作戦中級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦中級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0059_d3e45c40d8",
+    "original": "音楽の迎撃作戦中級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦中級３"
+  },
+  {
+    "key": "e_6901d3dfdb_0060_603af91662",
+    "original": "音楽の迎撃作戦中級３",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦中級４"
+  },
+  {
+    "key": "e_6901d3dfdb_0061_3cd5fd4f14",
+    "original": "音楽の迎撃作戦中級４",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦中級５"
+  },
+  {
+    "key": "e_6901d3dfdb_0062_27715e7c53",
+    "original": "音楽の迎撃作戦中級５",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦中級６"
+  },
+  {
+    "key": "e_6901d3dfdb_0063_85b9277373",
+    "original": "音楽の迎撃作戦中級６",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦上級"
+  },
+  {
+    "key": "e_6901d3dfdb_0064_ab59ac0bc2",
+    "original": "音楽の迎撃作戦上級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦上級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0065_1da7ddd562",
+    "original": "音楽の迎撃作戦上級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦上級３"
+  },
+  {
+    "key": "e_6901d3dfdb_0066_7688e365de",
+    "original": "音楽の迎撃作戦上級３",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦上級４"
+  },
+  {
+    "key": "e_6901d3dfdb_0067_5fb1c8b800",
+    "original": "音楽の迎撃作戦上級４",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦超級"
+  },
+  {
+    "key": "e_6901d3dfdb_0068_a584b5f2a2",
+    "original": "音楽の迎撃作戦超級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦超級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0069_753cfb2f4d",
+    "original": "音楽の迎撃作戦超級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦神級"
+  },
+  {
+    "key": "e_6901d3dfdb_0070_d4c0fbda8a",
+    "original": "音楽の迎撃作戦神級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 雨の迎撃作戦中級"
+  },
+  {
+    "key": "e_6901d3dfdb_0071_6fd82bf0ad",
+    "original": "雨の迎撃作戦中級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 雨の迎撃作戦上級"
+  },
+  {
+    "key": "e_6901d3dfdb_0072_ea6db872b6",
+    "original": "雨の迎撃作戦上級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 雨の迎撃作戦超級"
+  },
+  {
+    "key": "e_6901d3dfdb_0073_0dade2d78a",
+    "original": "雨の迎撃作戦超級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 雨の迎撃作戦神級"
+  },
+  {
+    "key": "e_6901d3dfdb_0074_2366f590bb",
+    "original": "雨の迎撃作戦神級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞の迎撃作戦中級"
+  },
+  {
+    "key": "e_6901d3dfdb_0075_894139ee44",
+    "original": "霞の迎撃作戦中級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞の迎撃作戦中級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0076_df781a2927",
+    "original": "霞の迎撃作戦中級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞の迎撃作戦中級３"
+  },
+  {
+    "key": "e_6901d3dfdb_0077_05a4406df5",
+    "original": "霞の迎撃作戦中級３",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞の迎撃作戦上級"
+  },
+  {
+    "key": "e_6901d3dfdb_0078_ebbac4a681",
+    "original": "霞の迎撃作戦上級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞の迎撃作戦上級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0079_aaf1db61f8",
+    "original": "霞の迎撃作戦上級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞の迎撃作戦上級３"
+  },
+  {
+    "key": "e_6901d3dfdb_0080_15a8aefb02",
+    "original": "霞の迎撃作戦上級３",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞の迎撃作戦超級"
+  },
+  {
+    "key": "e_6901d3dfdb_0081_1bb5aabfc5",
+    "original": "霞の迎撃作戦超級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞の迎撃作戦超級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0082_8f2a29818c",
+    "original": "霞の迎撃作戦超級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞の迎撃作戦神級"
+  },
+  {
+    "key": "e_6901d3dfdb_0083_1adeb7f85d",
+    "original": "霞の迎撃作戦神級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦中級"
+  },
+  {
+    "key": "e_6901d3dfdb_0084_448997c88c",
+    "original": "力の迎撃作戦中級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦中級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0085_7726e4fb86",
+    "original": "力の迎撃作戦中級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦上級"
+  },
+  {
+    "key": "e_6901d3dfdb_0086_9e28f2eb9e",
+    "original": "力の迎撃作戦上級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦上級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0087_15670b587e",
+    "original": "力の迎撃作戦上級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦上級３"
+  },
+  {
+    "key": "e_6901d3dfdb_0088_002009ec36",
+    "original": "力の迎撃作戦上級３",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦上級４"
+  },
+  {
+    "key": "e_6901d3dfdb_0089_209b3c4b0a",
+    "original": "力の迎撃作戦上級４",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦超級"
+  },
+  {
+    "key": "e_6901d3dfdb_0090_ee95c4c32b",
+    "original": "力の迎撃作戦超級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦超級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0091_cee7806f54",
+    "original": "力の迎撃作戦超級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦神級"
+  },
+  {
+    "key": "e_6901d3dfdb_0092_539c166d60",
+    "original": "力の迎撃作戦神級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 子宮の迎撃作戦中級"
+  },
+  {
+    "key": "e_6901d3dfdb_0093_8ce2196525",
+    "original": "子宮の迎撃作戦中級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 子宮の迎撃作戦中級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0094_8d255ff746",
+    "original": "子宮の迎撃作戦中級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 子宮の迎撃作戦上級"
+  },
+  {
+    "key": "e_6901d3dfdb_0095_ebb3a09320",
+    "original": "子宮の迎撃作戦上級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 子宮の迎撃作戦上級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0096_1426c0ee2a",
+    "original": "子宮の迎撃作戦上級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 子宮の迎撃作戦超級"
+  },
+  {
+    "key": "e_6901d3dfdb_0097_a276258132",
+    "original": "子宮の迎撃作戦超級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 子宮の迎撃作戦神級"
+  },
+  {
+    "key": "e_6901d3dfdb_0098_c5fb8ee8d2",
+    "original": "子宮の迎撃作戦神級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 自由の迎撃作戦上級"
+  },
+  {
+    "key": "e_6901d3dfdb_0099_7ab0c88909",
+    "original": "自由の迎撃作戦上級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 自由の迎撃作戦上級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0100_4742c0d98c",
+    "original": "自由の迎撃作戦上級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 自由の迎撃作戦超級"
+  },
+  {
+    "key": "e_6901d3dfdb_0101_45ac3c850e",
+    "original": "自由の迎撃作戦超級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 自由の迎撃作戦神級"
+  },
+  {
+    "key": "e_6901d3dfdb_0102_74abcd0e66",
+    "original": "自由の迎撃作戦神級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量産機迎撃作戦上級"
+  },
+  {
+    "key": "e_6901d3dfdb_0103_cb4d84f25f",
+    "original": "量産機迎撃作戦上級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量産機迎撃作戦上級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0104_619d6951f4",
+    "original": "量産機迎撃作戦上級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量産機迎撃作戦超級"
+  },
+  {
+    "key": "e_6901d3dfdb_0105_0a771afe71",
+    "original": "量産機迎撃作戦超級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量産機迎撃作戦超級２"
+  },
+  {
+    "key": "e_6901d3dfdb_0106_0f0f330da1",
+    "original": "量産機迎撃作戦超級２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量産機迎撃作戦神級"
+  },
+  {
+    "key": "e_6901d3dfdb_0107_09c91719db",
+    "original": "量産機迎撃作戦神級",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の大行進"
+  },
+  {
+    "key": "e_6901d3dfdb_0108_c7c65f7917",
+    "original": "水の大行進",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼水連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0109_c2f906ad7e",
+    "original": "昼水連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音水連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0110_60052f450a",
+    "original": "音水連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の大行進２"
+  },
+  {
+    "key": "e_6901d3dfdb_0111_c0becac36a",
+    "original": "水の大行進２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼音水連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0112_ef25df929a",
+    "original": "昼音水連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼音力連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0113_6fa367a024",
+    "original": "昼音力連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音の大行進"
+  },
+  {
+    "key": "e_6901d3dfdb_0114_f199b60689",
+    "original": "音の大行進",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼音水力連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0115_277340a924",
+    "original": "昼音水力連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞子力水音連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0116_b5548ef0a5",
+    "original": "霞子力水音連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水音子力力連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0117_bc901d4e3a",
+    "original": "水音子力力連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量弐量霞量連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0118_1071444509",
+    "original": "量弐量霞量連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼力連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0119_3710654037",
+    "original": "昼力連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水音連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0120_570f349488",
+    "original": "水音連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 弐霞量連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0121_bc2472a787",
+    "original": "弐霞量連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力子弐連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0122_ad1f902379",
+    "original": "力子弐連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼水音霞連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0123_0601744b93",
+    "original": "昼水音霞連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量弐量霞量連続作戦２"
+  },
+  {
+    "key": "e_6901d3dfdb_0124_d930cbcaad",
+    "original": "量弐量霞量連続作戦２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼音弐連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0125_40479efe7a",
+    "original": "昼音弐連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水霞力連続作戦"
+  },
+  {
+    "key": "e_6901d3dfdb_0126_7bc86ad788",
+    "original": "水霞力連続作戦",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量の大行進"
+  },
+  {
+    "key": "e_6901d3dfdb_0127_1fd3cca256",
+    "original": "量の大行進",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量の大行進２"
+  },
+  {
+    "key": "e_6901d3dfdb_0128_e89e3dca3f",
+    "original": "量の大行進２",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup"
+  },
+  {
+    "key": "e_6901d3dfdb_0129_f5b928a73b",
+    "original": "サキエル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: シャムシエル"
+  },
+  {
+    "key": "e_6901d3dfdb_0130_061ce7e64d",
+    "original": "シャムシエル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: ラミエル"
+  },
+  {
+    "key": "e_6901d3dfdb_0131_943bbde429",
+    "original": "ラミエル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: ＪＡ"
+  },
+  {
+    "key": "e_6901d3dfdb_0132_83fd17a828",
+    "original": "ＪＡ",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: ガギエル"
+  },
+  {
+    "key": "e_6901d3dfdb_0133_091397b548",
+    "original": "ガギエル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: イスラフェル"
+  },
+  {
+    "key": "e_6901d3dfdb_0134_3ec19cb368",
+    "original": "イスラフェル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: サンダルフォン"
+  },
+  {
+    "key": "e_6901d3dfdb_0135_1d3b1a8910",
+    "original": "サンダルフォン",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: マトリエル"
+  },
+  {
+    "key": "e_6901d3dfdb_0136_f90624a274",
+    "original": "マトリエル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: サハクイエル"
+  },
+  {
+    "key": "e_6901d3dfdb_0137_b2bd88edc2",
+    "original": "サハクイエル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: イロウル"
+  },
+  {
+    "key": "e_6901d3dfdb_0138_1622016955",
+    "original": "イロウル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: レリエル"
+  },
+  {
+    "key": "e_6901d3dfdb_0139_f6bbf33640",
+    "original": "レリエル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: バルディエル"
+  },
+  {
+    "key": "e_6901d3dfdb_0140_19860fbb85",
+    "original": "バルディエル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: ゼルエル"
+  },
+  {
+    "key": "e_6901d3dfdb_0141_978416386d",
+    "original": "ゼルエル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: アラエル"
+  },
+  {
+    "key": "e_6901d3dfdb_0142_0889c9d497",
+    "original": "アラエル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: アルミサエル"
+  },
+  {
+    "key": "e_6901d3dfdb_0143_621b4e1669",
+    "original": "アルミサエル",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: タブリス"
+  },
+  {
+    "key": "e_6901d3dfdb_0144_79c59e5379",
+    "original": "タブリス",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: 量産機"
+  },
+  {
+    "key": "e_6901d3dfdb_0145_2e0a2fdd3e",
+    "original": "量産機",
+    "translation": "",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup"
+  }
+]

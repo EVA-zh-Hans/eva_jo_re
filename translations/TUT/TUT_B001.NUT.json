@@ -1,0 +1,206 @@
+[
+  {
+    "key": "e_46b065e55a_0001_de3da09a02",
+    "original": "エヴァの基本ステータス",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_46b065e55a_0002_de3da09a02",
+    "original": "エヴァの基本ステータス",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 22\nCall: DecideStart"
+  },
+  {
+    "key": "e_46b065e55a_0003_38dd1b92fd",
+    "original": "<02>耐久力<//>は、エヴァがダメージに耐えられる力です▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0004_444366feaf",
+    "original": "これがゼロになるとエヴァは\\n戦闘不能になってしまいます",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0005_48a7120a9d",
+    "original": "<02>装甲スキル<//>を<02>実装<//>する事で、\\nエヴァの防御力を高める事もできます",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0006_b729db76dd",
+    "original": "減少した<02>耐久力<//>の一部は\\n自己修復が可能な<02>ヘイフリック<//>となり、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 42\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0007_0499266313",
+    "original": "続けてダメージを受けずにいる事ができれば、\\nこの領域までのダメージは徐々に回復していきます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 43\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0008_6e7002843b",
+    "original": "エヴァとの<02>シンクロ率<//>が高い程、\\n<02>ヘイフリック<//>の幅は大きくなります",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 56\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0009_3ec8220560",
+    "original": "<02>ヘイフリックスキル<//>を<02>実装<//>する事で、\\n回復速度を速める事もできます",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 57\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0010_6f63b120db",
+    "original": "<02>Ａ．Ｔ．<//>は<02>ダッシュ<//>や<02>回避行動<//>など、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 69\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0011_1fb035e966",
+    "original": "<02>Ａ．Ｔ．<//>を必要とする行動をしたり、\\n使徒の攻撃を受けたりする事で消費します▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 70\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0012_d7e4f5e1c8",
+    "original": "消費する行動を止めれば、\\n<02>Ａ．Ｔ．<//>は自然に回復します",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 71\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0013_495dae09d1",
+    "original": "<02>Ａ．Ｔ．<//>を全て消費してしまうと、\\n<02>バニッシュ<//>の状態になり、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 84\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0014_4c81e1f3eb",
+    "original": "それらの行動ができなくなってしまう上に、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 85\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0015_0e0ad926c5",
+    "original": "エヴァを守る<02>Ａ．Ｔ．フィールド<//>が\\n消失してしまうため▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 86\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0016_b3c8f29887",
+    "original": "その間に攻撃を受けると、\\n大ダメージになる恐れがあります",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 87\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0017_093a44a8f7",
+    "original": "この事は使徒に対しても同じことが言えます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 101\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0018_6e5a6dcc8a",
+    "original": "使徒の<02>Ａ．Ｔ．<//>がゼロになり、\\n<02>バニッシュ<//>の状態になると▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 102\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0019_2fe80f44d9",
+    "original": "通常時とは比較にならない\\nダメージを与える事ができます",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 103\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0020_dee5626cee",
+    "original": "パイロットとエヴァの<02>シンクロ率<//>は、\\n何もしない状態では徐々に減少していきます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 116\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0021_76f99dd712",
+    "original": "また、エヴァがダメージを受けると、\\nその記憶はパイロットにもフィードバックされ、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 117\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0022_9db39157b3",
+    "original": "<02>シンクロ率<//>が落ちてしまいます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 118\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0023_69772751ee",
+    "original": "逆に使徒にダメージを与えると、\\n気分が高揚して<02>シンクロ率<//>は上昇します▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 119\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0024_27a842341e",
+    "original": "電源を切断する事でも一時的に\\n<02>シンクロ率<//>を上昇させる事もできます",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 120\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0025_e9145d6f6f",
+    "original": "<02>シンクロ率<//>はエヴァの<02>攻撃力<//>と、\\n<02>ヘイフリック<//>の幅に直接影響するため、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0026_f3153fcc72",
+    "original": "できるだけ高く維持する事を心がけてください",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 134\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0027_4c5e486927",
+    "original": "エヴァは第３新東京市に\\n設置されている<02>電源ビル<//>から▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 146\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0028_5b17d5b435",
+    "original": "エヴァの背中に接続されている\\n<02>アンビリカルケーブル<//>を介して▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 147\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0029_995c18c693",
+    "original": "電力を供給して動いています▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0030_121b7e8cf7",
+    "original": "戦闘中に電源が切断された場合でも、\\nエヴァは<02>予備電源<//>を使用して活動する事ができます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 149\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0031_106a198f14",
+    "original": "<02>予備電源<//>で活動できる時間は、\\n<02>活動限界時間<//>として表示されます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 150\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0032_336a181404",
+    "original": "<02>活動限界時間<//>がゼロになると、\\nエヴァの活動は停止し▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 151\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0033_dbfb2b9fd5",
+    "original": "戦闘不能になってしまいますので、\\n気をつけてください",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 152\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_46b065e55a_0034_7a74e09905",
+    "original": "<02>予備電源スキル<//>を<02>実装<//>する事で、\\n<02>活動限界時間<//>を延長する事もできます",
+    "translation": "",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 153\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

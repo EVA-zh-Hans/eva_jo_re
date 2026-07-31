@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_f6aa95c530_0001_9c92079669",
+    "original": "ペンペンはパラソルやロッキングチェアを持ち出して\\nバカンスをしようとしている",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_6.NUT\nLine: 41\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_f6aa95c530_0003_c06e4bb3d9",
+    "original": "頭いいね",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_6.NUT\nLine: 44\nCall: im.question\nSpeaker: IMC_NONE\nVoice: 微笑む"
+  },
+  {
+    "key": "e_f6aa95c530_0004_37b2e533a8",
+    "original": "微笑む",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_6.NUT\nLine: 44\nCall: im.question\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_f6aa95c530_0005_a5b8535324",
+    "original": "ペンペンは黙って休んでいる",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_6.NUT\nLine: 53\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_f6aa95c530_0006_a5b8535324",
+    "original": "ペンペンは黙って休んでいる",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_6.NUT\nLine: 61\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

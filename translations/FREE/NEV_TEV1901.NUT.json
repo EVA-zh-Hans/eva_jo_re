@@ -1,0 +1,80 @@
+[
+  {
+    "key": "e_343a6704d8_0001_6bfb5152c9",
+    "original": "約束の時が来た、ロンギヌスの槍を失った今、\\nリリスによる補完は出来ぬ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 146\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1901_20_001"
+  },
+  {
+    "key": "e_343a6704d8_0002_df79f663ef",
+    "original": "唯一、リリスの分身たる、\\nエヴァ初号機による遂行を願うぞ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 195\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1901_20_001_1"
+  },
+  {
+    "key": "e_343a6704d8_0003_e8a2f73f16",
+    "original": "ゼーレのシナリオとは違いますが",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 199\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1901_05_002"
+  },
+  {
+    "key": "e_343a6704d8_0004_ff3b408225",
+    "original": "人は、エヴァを生み出す為に\\nその存在があったのです",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 203\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1901_06_003"
+  },
+  {
+    "key": "e_343a6704d8_0005_81e2a202f2",
+    "original": "人は、新たな世界へと進むべきなのです\\nその為のエヴァシリーズです",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 257\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1901_05_004"
+  },
+  {
+    "key": "e_343a6704d8_0006_e6a3eba719",
+    "original": "我らはヒトの形を捨ててまで、\\nエヴァという名の箱舟に乗る事はない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 296\nCall: im.event\nSpeaker: IMC_SEELE06\nVoice: NA10_1901_44_005"
+  },
+  {
+    "key": "e_343a6704d8_0007_c9408c0526",
+    "original": "これは通過儀礼なのだ\\n閉塞した人類が再生するための",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 335\nCall: im.event\nSpeaker: IMC_SEELE05\nVoice: NA10_1901_43_006"
+  },
+  {
+    "key": "e_343a6704d8_0008_d56932bd9a",
+    "original": "滅びの宿命は、新生の喜びでもある",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 384\nCall: im.event\nSpeaker: IMC_SEELE07\nVoice: NA10_1901_45_007"
+  },
+  {
+    "key": "e_343a6704d8_0009_939141c0c4",
+    "original": "神もヒトも全ての生命が「死」を以って\\nやがて一つになる為に",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 388\nCall: im.event\nSpeaker: IMC_SEELE06\nVoice: NA10_1901_44_008"
+  },
+  {
+    "key": "e_343a6704d8_0010_5b142ea001",
+    "original": "死は何も生みませんよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 439\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1901_05_009"
+  },
+  {
+    "key": "e_343a6704d8_0011_4875ff441f",
+    "original": "死は、君達に与えよう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 492\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1901_20_010"
+  },
+  {
+    "key": "e_343a6704d8_0012_4e7f76684a",
+    "original": "人は、生きていこうとするところに\\nその存在がある▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 508\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1901_06_011"
+  },
+  {
+    "key": "e_343a6704d8_0013_8b68d500a8",
+    "original": "それが、自らエヴァに残った\\n彼女の願いだからな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 533\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1901_06_011_1"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_b6aa0e8022_0001_af9251beaf",
+    "original": "君達には未来が必要だ",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO2.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_015"
+  },
+  {
+    "key": "e_b6aa0e8022_0002_a501733eef",
+    "original": "………………………",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO2.NUT\nLine: 55\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_016"
+  },
+  {
+    "key": "e_b6aa0e8022_0003_b0bb3e2260",
+    "original": "ありがとう\\n君に逢えて嬉しかったよ",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO2.NUT\nLine: 58\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_017"
+  }
+]

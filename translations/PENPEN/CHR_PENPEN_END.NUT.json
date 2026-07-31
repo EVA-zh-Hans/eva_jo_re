@@ -1,0 +1,74 @@
+[
+  {
+    "key": "e_4b822445b7_0001_7ea6f3d562",
+    "original": "そして…",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_4b822445b7_0002_b80b71fb19",
+    "original": "普通の日々がはじまる",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_4b822445b7_0003_4d0772cd79",
+    "original": "クー",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_014"
+  },
+  {
+    "key": "e_4b822445b7_0004_28b380c30b",
+    "original": "すっかり仲良しになったわね\\nどう、あなたの家でかってみる？",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na54_0014_04_015"
+  },
+  {
+    "key": "e_4b822445b7_0005_225c1ccafd",
+    "original": "よかったわね、ペンペン",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na54_0014_04_016"
+  },
+  {
+    "key": "e_4b822445b7_0006_4d0772cd79",
+    "original": "クー",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_017"
+  },
+  {
+    "key": "e_4b822445b7_0007_557bde2f6a",
+    "original": "あなたが戦いで得たものは、",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_END.NUT\nLine: 64\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_4b822445b7_0008_5e86aab384",
+    "original": "新種の温泉ペンギンであった",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_END.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_4b822445b7_0009_4a91211c28",
+    "original": "あなたはそれで、何の不満もない",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_END.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_4b822445b7_0010_8d4795eec6",
+    "original": "おめでとう\\n人の補完はなされた",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_END.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_4b822445b7_0011_4d0772cd79",
+    "original": "クー",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_END.NUT\nLine: 74\nCall: im.event\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_018"
+  },
+  {
+    "key": "e_4b822445b7_0012_3232540a79",
+    "original": "クーー",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_END.NUT\nLine: 75\nCall: im.event\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_019"
+  }
+]

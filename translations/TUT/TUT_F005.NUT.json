@@ -1,0 +1,44 @@
+[
+  {
+    "key": "e_2a4d4fb4fc_0001_e52dd925d8",
+    "original": "注目度",
+    "translation": "",
+    "context": "File: TUT/TUT_F005.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_2a4d4fb4fc_0002_e52dd925d8",
+    "original": "注目度",
+    "translation": "",
+    "context": "File: TUT/TUT_F005.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_2a4d4fb4fc_0003_6d73b5055e",
+    "original": "<02>注目度<//>とはキャラクターが持つ\\n<02>興味や関心を表す数値<//>です▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F005.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_2a4d4fb4fc_0004_696052cc27",
+    "original": "<02>注目度<//>によって<02>キャラクターの\\nとる行動が変わります<//>▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F005.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_2a4d4fb4fc_0005_f89d2c74a3",
+    "original": "<02>注目度<//>の低い相手は<02>無視<//>をし、高い相手には\\n<02>注目<//>をし、更に高い場合、<02>近付いて話し掛けます<//>▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F005.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_2a4d4fb4fc_0006_b7b0b660d7",
+    "original": "<02>注目度<//>は他の人と<02>会話<//>をする事で変動します▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F005.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_2a4d4fb4fc_0007_6ab72e532f",
+    "original": "他にも<02>戦闘の勝敗<//>、<02>模擬戦の結果<//>、<02>ダメージの\\n回復<//>などで様々な人達からの<02>注目度が変化<//>します",
+    "translation": "",
+    "context": "File: TUT/TUT_F005.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

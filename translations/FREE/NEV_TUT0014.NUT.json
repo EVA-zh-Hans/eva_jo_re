@@ -1,0 +1,302 @@
+[
+  {
+    "key": "e_5861eed22a_0001_38f0ac6f25",
+    "original": "んー…やっぱ、エヴァだけじゃ\\n打撃力が足りてないか…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 121\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0002_469fb728e9",
+    "original": "最近の使徒、強いですもんね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 124\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0003_4b70040ab8",
+    "original": "ま、それでも勝たなきゃいけないところが、\\nつらいところね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 128\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0004_622638fc91",
+    "original": "そう…ですよね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 131\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0005_b7e05432d3",
+    "original": "とはいえ、エヴァの数も\\nそう簡単には揃わない…か▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 135\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0006_c0553350ee",
+    "original": "決めた！\\n足りない分はエヴァ以外で補います",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 137\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0007_87d6ce0f02",
+    "original": "えー",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0008_202300a255",
+    "original": "あら、不満そうね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 143\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0009_621b1869f7",
+    "original": "だって最初の説明のほうで\\nエヴァでないと使徒、倒せないって…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 146\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0010_31b15c5703",
+    "original": "それはそうよ！　だってエヴァじゃなければ\\n<02>バニッシュ<//>は難しいもの▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 149\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0011_8fbc3f9004",
+    "original": "使徒の<02>Ａ．Ｔ．フィールド<//>をどうにかしない限り、\\nどうにもならないわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 150\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0012_1d1bf4e6da",
+    "original": "ですよね…え、でもそれなら",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 153\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0013_679203be5a",
+    "original": "全部をエヴァでやる必要はないってだけよ\\n手伝わせればいい",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 157\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0014_b6757ade4e",
+    "original": "国連軍…ですか",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 160\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0015_5f55ca0021",
+    "original": "まあ、ちょーっち政治的に動かしにくいから\\nそれはナシかな▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 164\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0016_a43f4de3cd",
+    "original": "建物を使うわ\\n第３新東京市は、ネルフの管轄だから",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 166\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0017_8895d22d36",
+    "original": "…世界の危機なのに",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 169\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0018_a3ddbac60b",
+    "original": "それでも身内の足を引っ張れるのが、\\n人間なのよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 172\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0019_2b8cbc1173",
+    "original": "シンちゃんが大人になったら、\\nそんなことしない世界作って▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 174\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0020_41763c763d",
+    "original": "そしたら、私、\\nそこで幸せに余生を過ごすわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 175\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0021_832e482efa",
+    "original": "…そこまで年齢はなれてないですよね？",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 178\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0022_12c668d5e7",
+    "original": "４０過ぎまで仕事したくないわよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 181\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0023_a7f878b8ce",
+    "original": "……",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 184\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0024_e6440b3b85",
+    "original": "いや、そこで黙らないで",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 188\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0025_87d6ce0f02",
+    "original": "えー",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 191\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0026_d8244c9a8b",
+    "original": "えーじゃないでしょ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 195\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0027_ada03bb6b8",
+    "original": "いや、まあ、それはともかく\\n建物で対応します",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 196\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0028_93bd9ca708",
+    "original": "建物なんかで\\nどうにかなるんですか",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 199\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0029_f7b7718326",
+    "original": "逆よ！　固定物なら、戦車や航空機では\\n装備できないような大重量の武器が扱えるわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 202\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0030_290d5dbe6c",
+    "original": "それこそ、エヴァの助けになるくらいのね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 203\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0031_5b9d8d3caf",
+    "original": "でも動けませんよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 206\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0032_0c929b79a1",
+    "original": "エヴァで追い込めばいいじゃない\\n誘い込んでもいいわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 210\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0033_cdeae8d48e",
+    "original": "あ…！",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 213\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0034_0b716302d2",
+    "original": "もー…\\n若いんだから頭使うように",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 216\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0035_af8364bc9c",
+    "original": "そこまで年齢はなれてないですよね？",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 219\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0036_a6d1d5fb78",
+    "original": "妙にこだわるわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 223\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0037_93d48477d6",
+    "original": "…べっつに",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 226\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0038_868b2d841f",
+    "original": "ま、いいけどね▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 230\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0039_6e07640dbe",
+    "original": "とにかく、とりあえずそれでシミュレーション…\\n<02>模擬戦<//>を繰り返して本番のために建設を進めましょう▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 231\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0040_8bc2a1487a",
+    "original": "情報収集用のビルとか、色々便利なのもあるから",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 232\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0041_22dcedba79",
+    "original": "はい…\\nよろしくお願いします…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 235\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0042_77c5331753",
+    "original": "あなたが建築計画立てるのよ\\nこのへんこれーって、私に指示する▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 238\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0043_4c79330ab3",
+    "original": "あとは私がやるわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 239\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0044_b7309b1bed",
+    "original": "僕には無理ですよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 242\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0045_bb41a8f506",
+    "original": "実際に戦わない私が\\n適当に建物建てるよりはましよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 245\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0046_d5ef87a2a8",
+    "original": "いいから協力する",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 247\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0047_6971a249d0",
+    "original": "…えー",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 250\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0048_03df3835c0",
+    "original": "返事",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 253\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5861eed22a_0049_f62751e08a",
+    "original": "はい…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 256\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5861eed22a_0050_eca97964a2",
+    "original": "よしよし、おねえさん嬉しいわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0014.NUT\nLine: 260\nCall: im.play\nSpeaker: IMC_MISATO"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_3bf6259540_0001_301e03ff14",
+    "original": "会話の始め方",
+    "translation": "",
+    "context": "File: TUT/TUT_F003.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_3bf6259540_0002_301e03ff14",
+    "original": "会話の始め方",
+    "translation": "",
+    "context": "File: TUT/TUT_F003.NUT\nLine: 23\nCall: DecideStart"
+  },
+  {
+    "key": "e_3bf6259540_0003_29fe79868a",
+    "original": "なにか、あるいは誰かに近付くと、画面右下に\\n$o・$#ボタンに対応した<02>コマンド<//>が表示されます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F003.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_3bf6259540_0004_521cd0d28c",
+    "original": "$oボタンを押すと、<02>その場の状況に応じた\\nコマンド<//>を実行します",
+    "translation": "",
+    "context": "File: TUT/TUT_F003.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_3bf6259540_0005_c6a58146dd",
+    "original": "<02>会話<//>の場合、<02>話題<//>が表示されるので$oボタンを\\n押すだけで、簡単にその人と話す事ができます",
+    "translation": "",
+    "context": "File: TUT/TUT_F003.NUT\nLine: 41\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

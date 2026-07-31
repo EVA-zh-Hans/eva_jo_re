@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_9ed6bc02d7_0001_cc6c165864",
+    "original": "あら、何も開発されてないわね",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BUYSKILL.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_RITSUKO"
+  },
+  {
+    "key": "e_9ed6bc02d7_0002_1c25195964",
+    "original": "%d必要ですが、よろしいですか？",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BUYSKILL.NUT\nLine: 83\nCall: DecideStart"
+  },
+  {
+    "key": "e_9ed6bc02d7_0003_5f03311bbb",
+    "original": "スキル実装リストに追加されました",
+    "translation": "",
+    "context": "File: PREPARE/PRE_BUYSKILL.NUT\nLine: 115\nCall: DecideStart"
+  }
+]

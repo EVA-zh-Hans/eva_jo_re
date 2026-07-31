@@ -1,0 +1,44 @@
+[
+  {
+    "key": "e_ccb9b58af6_0001_8519fb5c37",
+    "original": "ミサトさんは？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 147\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_024"
+  },
+  {
+    "key": "e_ccb9b58af6_0002_fd22b1a944",
+    "original": "まだ、連絡取れない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 181\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1310_03_025"
+  },
+  {
+    "key": "e_ccb9b58af6_0003_b26afb99db",
+    "original": "そんな、どうしよう？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 214\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_026"
+  },
+  {
+    "key": "e_ccb9b58af6_0004_999123e7ff",
+    "original": "なに、グジグジいってんのよ！　いま、わたしたちが\\nしんぱいしたって、なにもならないでしょ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 248\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1310_02_027"
+  },
+  {
+    "key": "e_ccb9b58af6_0005_857bc22c2b",
+    "original": "でも、使徒相手に僕らだけで…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 283\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_028"
+  },
+  {
+    "key": "e_ccb9b58af6_0006_303cc371c1",
+    "original": "今は、碇司令が\\n直接指揮をとってるわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 317\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1310_03_029"
+  },
+  {
+    "key": "e_ccb9b58af6_0007_8a92ea3ee9",
+    "original": "父さんが？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 351\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_030"
+  }
+]

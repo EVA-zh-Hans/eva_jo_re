@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_d4aaecfbb5_0001_9f275e4d88",
+    "original": "戦闘の始め方",
+    "translation": "",
+    "context": "File: TUT/TUT_F109.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_d4aaecfbb5_0002_9f275e4d88",
+    "original": "戦闘の始め方",
+    "translation": "",
+    "context": "File: TUT/TUT_F109.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_d4aaecfbb5_0003_c678e66809",
+    "original": "戦闘の準備が充分に整ったら、\\n<02>エヴァに搭乗し出撃<//>する事になります▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F109.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_d4aaecfbb5_0004_999b793d35",
+    "original": "<01>初号機ケイジ<//>のエヴァの前に移動すると\\n<02>エヴァに乗る<//>というコマンドが表示されるので、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F109.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_d4aaecfbb5_0005_98812b5ea7",
+    "original": "$oボタンで決定する事により<02>戦闘が開始されます<//>",
+    "translation": "",
+    "context": "File: TUT/TUT_F109.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

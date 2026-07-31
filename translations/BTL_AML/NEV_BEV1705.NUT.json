@@ -1,0 +1,38 @@
+[
+  {
+    "key": "e_6656ee3533_0001_8d269a074f",
+    "original": "目標、零号機と物理的接触！",
+    "translation": "",
+    "context": "File: BTL_AML/NEV_BEV1705.NUT\nLine: 57\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1704_10_002"
+  },
+  {
+    "key": "e_6656ee3533_0002_73d431c3c8",
+    "original": "零号機のＡ．Ｔ．フィールドは！？",
+    "translation": "",
+    "context": "File: BTL_AML/NEV_BEV1705.NUT\nLine: 60\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1704_04_003"
+  },
+  {
+    "key": "e_6656ee3533_0003_fdda10ee70",
+    "original": "展開中！\\nしかし、使徒に浸食されています！",
+    "translation": "",
+    "context": "File: BTL_AML/NEV_BEV1705.NUT\nLine: 63\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1704_08_004"
+  },
+  {
+    "key": "e_6656ee3533_0004_4deba59950",
+    "original": "使徒が積極的に１次的な接触を試みているの？\\n零号機と…",
+    "translation": "",
+    "context": "File: BTL_AML/NEV_BEV1705.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1704_07_005"
+  },
+  {
+    "key": "e_6656ee3533_0005_e89f37e184",
+    "original": "危険です！\\n零号機の生体部品が侵されています！",
+    "translation": "",
+    "context": "File: BTL_AML/NEV_BEV1705.NUT\nLine: 71\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1704_08_006"
+  },
+  {
+    "key": "e_6656ee3533_0006_7bd898ffea",
+    "original": "初号機の凍結を現時刻を以って解除\\n直ちに出撃させろ",
+    "translation": "",
+    "context": "File: BTL_AML/NEV_BEV1705.NUT\nLine: 99\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1704_05_013"
+  }
+]

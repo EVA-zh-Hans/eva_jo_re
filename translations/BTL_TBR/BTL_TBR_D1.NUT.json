@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_62e6a49d5e_0001_93d4101d6a",
+    "original": "カヲル君！\\nまって！",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_D1.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_008"
+  },
+  {
+    "key": "e_62e6a49d5e_0002_6eab930c94",
+    "original": "目標、反応消えました\\n使徒…殲滅しました",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_D1.NUT\nLine: 78\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na52_0100_09_018"
+  }
+]

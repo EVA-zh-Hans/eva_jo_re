@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_6e7bac56c5_0005_59980e6260",
+    "original": "マップギミックを配置する",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK8.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_6e7bac56c5_0010_75fca1d949",
+    "original": "進む",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK8.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  }
+]

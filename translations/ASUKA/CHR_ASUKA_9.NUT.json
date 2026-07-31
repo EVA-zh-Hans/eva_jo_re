@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_98872c0351_0001_1d2daa47bc",
+    "original": "ねえ、キスしてみようか",
+    "translation": "",
+    "context": "File: ASUKA/CHR_ASUKA_9.NUT\nLine: 91\nCall: im.event2\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_1"
+  },
+  {
+    "key": "e_98872c0351_0002_5103e47258",
+    "original": "なに、そのかお…",
+    "translation": "",
+    "context": "File: ASUKA/CHR_ASUKA_9.NUT\nLine: 99\nCall: im.event2\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_2"
+  },
+  {
+    "key": "e_98872c0351_0003_62f719c47a",
+    "original": "…もういい\\nわたしがおかしかった、ばっかみたい",
+    "translation": "",
+    "context": "File: ASUKA/CHR_ASUKA_9.NUT\nLine: 102\nCall: im.event2\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_3"
+  },
+  {
+    "key": "e_98872c0351_0004_9bedba5c9b",
+    "original": "アスカは涙を浮かべている…",
+    "translation": "",
+    "context": "File: ASUKA/CHR_ASUKA_9.NUT\nLine: 107\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

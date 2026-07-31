@@ -1,0 +1,434 @@
+[
+  {
+    "key": "e_a9bd4e8593_0001_80d3d5e8bb",
+    "original": "じゃあ、出張でしばらく家を空けるけど、\\n戸締りとかヨロシクね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 190\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1309_04_001"
+  },
+  {
+    "key": "e_a9bd4e8593_0002_085461344c",
+    "original": "あの、松代ですか？\\n参号機の起動実験なんでしょ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 237\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1309_01_002"
+  },
+  {
+    "key": "e_a9bd4e8593_0003_f6130f61c6",
+    "original": "知ってるの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 242\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1309_04_003"
+  },
+  {
+    "key": "e_a9bd4e8593_0004_a7acfe537a",
+    "original": "あの、パイロットは\\n決まったんですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 275\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1309_01_004"
+  },
+  {
+    "key": "e_a9bd4e8593_0005_10ba6ded4c",
+    "original": "ミサト、急いで\\nまだ支度してるの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 308\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1309_07_006"
+  },
+  {
+    "key": "e_a9bd4e8593_0006_37f9e43ce0",
+    "original": "じゃあ…帰ったら話すわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 312\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1309_04_007"
+  },
+  {
+    "key": "e_a9bd4e8593_0007_5f2e46dabe",
+    "original": "…………………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 345\nCall: im.event\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_a9bd4e8593_0008_451f8f090e",
+    "original": "そう、じゃあシンジ君は\\nまだパイロットが誰か知らないわけね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 373\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1309_07_009"
+  },
+  {
+    "key": "e_a9bd4e8593_0009_7c01d2591a",
+    "original": "とうとう言い出せなかったわ\\n四号機の事故の後でもあるし",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 398\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1309_04_010"
+  },
+  {
+    "key": "e_a9bd4e8593_0010_f9e5416845",
+    "original": "しっかりしなさいよ\\n自分で保護者、買って出たんじゃない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 402\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1309_07_011"
+  },
+  {
+    "key": "e_a9bd4e8593_0011_bdb856fe9a",
+    "original": "そうなんだけどねぇ…\\n彼が自分からシンジ君に言い出すかもしれないし…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 430\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1309_04_012"
+  },
+  {
+    "key": "e_a9bd4e8593_0012_a9700a8ee9",
+    "original": "それはないわね\\n人に自慢するほど、喜んでもなかったもの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 459\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1309_07_013"
+  },
+  {
+    "key": "e_a9bd4e8593_0013_5f2e46dabe",
+    "original": "…………………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 486\nCall: im.event\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_a9bd4e8593_0014_e95afadfe9",
+    "original": "入院治療中の妹を本部の医学部に転院させてくれって\\n言うのが彼が出した条件だったのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 489\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1309_07_015"
+  },
+  {
+    "key": "e_a9bd4e8593_0015_cb25dbc346",
+    "original": "………………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 499\nCall: im.event\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_a9bd4e8593_0016_a7b188c90f",
+    "original": "さあ、行くわよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 502\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1309_07_017"
+  },
+  {
+    "key": "e_a9bd4e8593_0017_cb25dbc346",
+    "original": "………………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 537\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1309_13_018"
+  },
+  {
+    "key": "e_a9bd4e8593_0018_b417f96be8",
+    "original": "す…鈴原",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 540\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1309_12_019"
+  },
+  {
+    "key": "e_a9bd4e8593_0019_3410a9fbf3",
+    "original": "何や、委員長やないけ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 563\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1309_13_020"
+  },
+  {
+    "key": "e_a9bd4e8593_0020_b2e7cc96f2",
+    "original": "また…妹さんのお見舞い？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 566\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1309_12_021"
+  },
+  {
+    "key": "e_a9bd4e8593_0021_5035f9efdf",
+    "original": "うんにゃ、ちょっとな…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 594\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1309_13_022"
+  },
+  {
+    "key": "e_a9bd4e8593_0022_a05bf61899",
+    "original": "委員長こそ、何でここおるん\\nこっちは、お前ンとこから学校と反対方向やんか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 598\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1309_13_022_1"
+  },
+  {
+    "key": "e_a9bd4e8593_0023_f1dfd16c75",
+    "original": "…そ、そっちこそ\\n通学カバンも持たずに学校サボる気なの…！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 627\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1309_12_023"
+  },
+  {
+    "key": "e_a9bd4e8593_0024_31f3e89ea9",
+    "original": "ちゃうわ…お前にも、そのうち話すし…\\nほな、行くわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 631\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1309_13_024"
+  },
+  {
+    "key": "e_a9bd4e8593_0025_6c666894b0",
+    "original": "あ…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 660\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1309_12_025"
+  },
+  {
+    "key": "e_a9bd4e8593_0026_ee255eb9c6",
+    "original": "待って！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 664\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1309_12_025_1"
+  },
+  {
+    "key": "e_a9bd4e8593_0027_5f7b71236a",
+    "original": "説教やったら、帰って聞くわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 693\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1309_13_026"
+  },
+  {
+    "key": "e_a9bd4e8593_0028_fd23fb0a2c",
+    "original": "そうじゃなくって、コレっ！\\nお弁当…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 722\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1309_12_027"
+  },
+  {
+    "key": "e_a9bd4e8593_0029_9e3806a18d",
+    "original": "鈴原が、いつもコンビニ弁当ばっかりだから…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 734\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1309_12_029_1"
+  },
+  {
+    "key": "e_a9bd4e8593_0030_765ff7c408",
+    "original": "は…そか…おおきに…\\nせやけど、要らんわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 763\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1309_13_030"
+  },
+  {
+    "key": "e_a9bd4e8593_0031_416971cf3d",
+    "original": "え…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 768\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1309_12_031"
+  },
+  {
+    "key": "e_a9bd4e8593_0032_bb7c434242",
+    "original": "何か…胸一杯でなぁ\\n食われへんと思う▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 772\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1309_13_032"
+  },
+  {
+    "key": "e_a9bd4e8593_0033_c2289e47f1",
+    "original": "せやから…\\nまた今度作っといてくれよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 776\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1309_13_032_1"
+  },
+  {
+    "key": "e_a9bd4e8593_0034_8dfe6a1c5d",
+    "original": "う、うん",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 806\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1309_12_033"
+  },
+  {
+    "key": "e_a9bd4e8593_0035_aac527338b",
+    "original": "じゃあな、委員長…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 810\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1309_13_034"
+  },
+  {
+    "key": "e_a9bd4e8593_0036_9e8607d80a",
+    "original": "機体の準備も順調ね\\nこれだと即、実戦も可能だわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 855\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1310_07_001"
+  },
+  {
+    "key": "e_a9bd4e8593_0037_415c7987b5",
+    "original": "ふぅん、そう\\nよかったわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 894\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1310_04_002"
+  },
+  {
+    "key": "e_a9bd4e8593_0038_744390f0d9",
+    "original": "気のない返事ね、この機体も納入されれば、\\nあなたの直轄部隊に配属されるのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 898\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1310_07_003"
+  },
+  {
+    "key": "e_a9bd4e8593_0039_002986b9a0",
+    "original": "エヴァを４機も独占…か\\nその気になれば、世界を滅ぼせるわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 902\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1310_04_004"
+  },
+  {
+    "key": "e_a9bd4e8593_0040_aff100303a",
+    "original": "フォース・チルドレン、到着しました\\n起動実験の開始、お願いします",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 906\nCall: im.event\nSpeaker: IMC_MATSUYO\nVoice: NA02_0007_18_006"
+  },
+  {
+    "key": "e_a9bd4e8593_0041_63b3203b0d",
+    "original": "そうか\\n今日が、参号機の起動実験なんだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 947\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1310_14_005"
+  },
+  {
+    "key": "e_a9bd4e8593_0042_8dd8ffb329",
+    "original": "うん\\nミサトさんも松代に行ってるよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 951\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_006"
+  },
+  {
+    "key": "e_a9bd4e8593_0043_cbdf14421a",
+    "original": "いいなぁ\\n誰が乗るのかなぁ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 983\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1310_14_007"
+  },
+  {
+    "key": "e_a9bd4e8593_0044_03d70285db",
+    "original": "トウジの奴かな\\n今日、休んでるし",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 988\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1310_14_007_1"
+  },
+  {
+    "key": "e_a9bd4e8593_0045_aafb655b1e",
+    "original": "…まさか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1020\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_008"
+  },
+  {
+    "key": "e_a9bd4e8593_0046_2525aa3cb1",
+    "original": "エントリープラグ挿入、\\nメインロック解除",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1065\nCall: im.event\nSpeaker: IMC_MATSUYO\nVoice: NA02_0007_50_001"
+  },
+  {
+    "key": "e_a9bd4e8593_0047_0ba3a7c598",
+    "original": "フォース・チルドレンがこの子と言うことは、\\nエヴァ参号機のコアは…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1101\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA02_0007_11_003"
+  },
+  {
+    "key": "e_a9bd4e8593_0048_9f76abb11e",
+    "original": "…そんな事、\\n私にはわかりません！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1105\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0007_08_001"
+  },
+  {
+    "key": "e_a9bd4e8593_0049_df5a34b048",
+    "original": "すまんな、転校生、ワシはお前を殴らないかん\\n殴っとかな、気が済まへんのや▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1188\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1310_13_009"
+  },
+  {
+    "key": "e_a9bd4e8593_0050_586169e771",
+    "original": "お前のせいで妹は…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1191\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1310_13_009_1"
+  },
+  {
+    "key": "e_a9bd4e8593_0051_a6ee9c385a",
+    "original": "僕だって、\\n乗りたくて乗ってるわけじゃないのに…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1199\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_010"
+  },
+  {
+    "key": "e_a9bd4e8593_0052_ced450ed73",
+    "original": "どうしたの！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1269\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1310_07_011"
+  },
+  {
+    "key": "e_a9bd4e8593_0053_75c71ab759",
+    "original": "中枢神経に異常発生",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1285\nCall: im.event\nSpeaker: IMC_MATSUYO\nVoice: NA02_0007_50_002"
+  },
+  {
+    "key": "e_a9bd4e8593_0054_278ac5254e",
+    "original": "実験中止、回路切断！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1288\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0007_07_010"
+  },
+  {
+    "key": "e_a9bd4e8593_0055_f3d1180951",
+    "original": "駄目です、神経切断失敗！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1303\nCall: im.event\nSpeaker: IMC_MATSUYO\nVoice: NA02_0007_50_003"
+  },
+  {
+    "key": "e_a9bd4e8593_0056_352db52c24",
+    "original": "緊急活動停止信号を発信！\\nエントリープラグを強制射出！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1306\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0007_07_011"
+  },
+  {
+    "key": "e_a9bd4e8593_0057_8127a66afd",
+    "original": "駄目です！\\n停止信号及びプラグ排出コード認識されません！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1321\nCall: im.event\nSpeaker: IMC_MATSUYO\nVoice: NA02_0007_50_004"
+  },
+  {
+    "key": "e_a9bd4e8593_0058_041007b7b6",
+    "original": "何ですって！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1324\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0007_07_012"
+  },
+  {
+    "key": "e_a9bd4e8593_0059_bfc66929cb",
+    "original": "松代で爆発事故！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1464\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1310_06_012"
+  },
+  {
+    "key": "e_a9bd4e8593_0060_9ea54f0f86",
+    "original": "被害は？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1467\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1310_05_013"
+  },
+  {
+    "key": "e_a9bd4e8593_0061_28de8788d8",
+    "original": "地下の仮設ケイジは消滅しましたが、幸い、\\n第２実験場の施設は原形を留めています",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1470\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1310_09_014"
+  },
+  {
+    "key": "e_a9bd4e8593_0062_859dbcec30",
+    "original": "連絡は未だ取れません\\nですが、生存者の可能性は、大です",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1473\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1310_10_015"
+  },
+  {
+    "key": "e_a9bd4e8593_0063_5c7bab7f70",
+    "original": "救助部隊を直ちに派遣\\n戦自が介入する前に全て処理しろ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1476\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1310_05_016"
+  },
+  {
+    "key": "e_a9bd4e8593_0064_aecbe4cbd4",
+    "original": "了解",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1479\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1310_10_017"
+  },
+  {
+    "key": "e_a9bd4e8593_0065_6de8c818d3",
+    "original": "事故現場に未確認物体を発見\\n映像、捉えました",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1482\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1310_09_018"
+  },
+  {
+    "key": "e_a9bd4e8593_0066_956af6331d",
+    "original": "やはり、これか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1508\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1310_06_019"
+  },
+  {
+    "key": "e_a9bd4e8593_0067_a3a33f14e3",
+    "original": "活動停止信号を発信\\nエントリープラグを強制射出",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1535\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1310_05_020"
+  },
+  {
+    "key": "e_a9bd4e8593_0068_376f84fdc9",
+    "original": "駄目です！\\n停止信号及びプラグ排出コード、認識しません",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1538\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1310_08_021"
+  },
+  {
+    "key": "e_a9bd4e8593_0069_5f3642a536",
+    "original": "パイロットは？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1541\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1310_05_022"
+  },
+  {
+    "key": "e_a9bd4e8593_0070_f34f032b9a",
+    "original": "呼吸、心拍の反応はありますが、\\n恐らく…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1544\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1310_09_023"
+  },
+  {
+    "key": "e_a9bd4e8593_0071_169f501e5f",
+    "original": "エヴァ参号機は現時刻をもって破棄、\\n目標を使徒と識別して対処する",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1583\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0007_05_001_1"
+  },
+  {
+    "key": "e_a9bd4e8593_0072_d2fe3ba4c1",
+    "original": "迎撃地点にエヴァ全機緊急配置！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1586\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0007_05_001_2"
+  }
+]

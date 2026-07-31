@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_014508e97b_0001_d7f53bd419",
+    "original": "パイロットの治療",
+    "translation": "",
+    "context": "File: TUT/TUT_F110.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_014508e97b_0002_d7f53bd419",
+    "original": "パイロットの治療",
+    "translation": "",
+    "context": "File: TUT/TUT_F110.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_014508e97b_0003_8dcea3aa27",
+    "original": "戦闘で<02>パイロットが傷付いた場合<//>には、\\n<12>マヤ<//>に話しかけます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F110.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_014508e97b_0004_23ebe6b99b",
+    "original": "<02>戦闘で獲得した予算<//>で、<02>負傷を回復<//>します\\n<02>負傷<//>は<02>戦闘開始時のシンクロ率<//>に影響します",
+    "translation": "",
+    "context": "File: TUT/TUT_F110.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

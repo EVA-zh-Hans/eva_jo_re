@@ -1,0 +1,410 @@
+[
+  {
+    "key": "e_c3d9ec5e59_0001_9efa8203c8",
+    "original": "先程、第２東京から\\nＡ－８０１が出ました",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 224\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0042_09_001"
+  },
+  {
+    "key": "e_c3d9ec5e59_0002_921583d04b",
+    "original": "特務機関ネルフの特例による\\n法的保護の破棄",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 228\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0042_09_001_1"
+  },
+  {
+    "key": "e_c3d9ec5e59_0003_eaebfa61f9",
+    "original": "及び指揮権の日本国政府への委譲です",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 232\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0042_09_001_2"
+  },
+  {
+    "key": "e_c3d9ec5e59_0004_06e787102d",
+    "original": "やはり人間の敵は、同じ人間だったか…\\nゼーレは総力を上げているな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 271\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_001"
+  },
+  {
+    "key": "e_c3d9ec5e59_0005_d2eca03ef6",
+    "original": "戦自、約一個師団を投入か",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 292\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_002"
+  },
+  {
+    "key": "e_c3d9ec5e59_0006_95f30eaced",
+    "original": "奴らの目的は、本部施設及び、\\n残るエヴァ２体の直接占拠だな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 321\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_002_1"
+  },
+  {
+    "key": "e_c3d9ec5e59_0007_1a3b4868ec",
+    "original": "ああ…リリス、\\nそしてアダムさえ我らにある",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 325\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1903_05_003"
+  },
+  {
+    "key": "e_c3d9ec5e59_0008_48c492a1ae",
+    "original": "老人達が焦るわけだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 329\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_004"
+  },
+  {
+    "key": "e_c3d9ec5e59_0009_2488d52265",
+    "original": "冬月先生、後を頼みます",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 364\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1903_05_005"
+  },
+  {
+    "key": "e_c3d9ec5e59_0010_d0460786a6",
+    "original": "…わかっている\\nユイ君によろしくな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 368\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_006"
+  },
+  {
+    "key": "e_c3d9ec5e59_0011_4a09b73180",
+    "original": "何の音…さっきから一体、\\n何が起こってるんだ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 436\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0042_01_024"
+  },
+  {
+    "key": "e_c3d9ec5e59_0012_3ca439cb0d",
+    "original": "いたぞ！　エヴァ搭乗パイロットだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 457\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_007"
+  },
+  {
+    "key": "e_c3d9ec5e59_0013_85954c0db3",
+    "original": "………！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 473\nCall: im.event\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_c3d9ec5e59_0014_ce243d1638",
+    "original": "これより、排除する",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 476\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_008"
+  },
+  {
+    "key": "e_c3d9ec5e59_0015_a34cd99541",
+    "original": "…悪く思うなよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 479\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_008_1"
+  },
+  {
+    "key": "e_c3d9ec5e59_0016_1e329ba8af",
+    "original": "待たせたわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 620\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_030"
+  },
+  {
+    "key": "e_c3d9ec5e59_0017_3ae2f02bbb",
+    "original": "ミサトさん…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 624\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0042_01_028"
+  },
+  {
+    "key": "e_c3d9ec5e59_0018_559033107f",
+    "original": "戦略自衛隊がここを占拠するために\\n侵攻してきたのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 649\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_031"
+  },
+  {
+    "key": "e_c3d9ec5e59_0019_410dc22c13",
+    "original": "発令所まで戻りましょう、\\nちょっと待ってね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 652\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_031_1"
+  },
+  {
+    "key": "e_c3d9ec5e59_0020_b6816202f9",
+    "original": "こちら葛城、パイロットに接触\\nただ今より帰還します",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 686\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_031_2"
+  },
+  {
+    "key": "e_c3d9ec5e59_0021_4be66cf94e",
+    "original": "………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 689\nCall: im.event\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_c3d9ec5e59_0022_47363d7168",
+    "original": "何…何ですって…！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 724\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_031_4"
+  },
+  {
+    "key": "e_c3d9ec5e59_0023_74e068fd65",
+    "original": "ええ、全部で９機エヴァ量産機、エヴァシリーズです\\nただ今、ネルフ直上を旋回中",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 750\nCall: im.event\nSpeaker: IMC_F_STAFF\nVoice: NA02_0042_18_011"
+  },
+  {
+    "key": "e_c3d9ec5e59_0024_117465c499",
+    "original": "エヴァ量産機が投入されたそうよ\\n数は９機、あなたの手で全て消滅させるのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 831\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_033"
+  },
+  {
+    "key": "e_c3d9ec5e59_0025_bf60a877d3",
+    "original": "９機…？\\nそんな数を相手に…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 835\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_007"
+  },
+  {
+    "key": "e_c3d9ec5e59_0026_454afcc139",
+    "original": "サードインパクトを起こすつもりなのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 874\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_008"
+  },
+  {
+    "key": "e_c3d9ec5e59_0027_fbee9c4b40",
+    "original": "使徒ではなく、エヴァシリーズを使ってね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 878\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_008_1"
+  },
+  {
+    "key": "e_c3d9ec5e59_0028_acbc665b3a",
+    "original": "１５年前のセカンドインパクトは\\n人間に仕組まれたものだったわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 882\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_008_2"
+  },
+  {
+    "key": "e_c3d9ec5e59_0029_25fd9e020f",
+    "original": "けどそれは他の使徒が覚醒する前にアダムを卵へと\\n還元する事で被害を最小限に食い止める為だったのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 941\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_009"
+  },
+  {
+    "key": "e_c3d9ec5e59_0030_a1272fec4b",
+    "original": "私達人間もね、アダムと同じリリスと呼ばれる\\n生命体の源から生まれた１８番目の使徒なのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 995\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_009_1"
+  },
+  {
+    "key": "e_c3d9ec5e59_0031_5072d8349a",
+    "original": "他の使徒達は別の可能性だったの\\nヒトの形を捨てた人類の…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1031\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_010"
+  },
+  {
+    "key": "e_c3d9ec5e59_0032_afd9e3bd5e",
+    "original": "ただ、お互いを拒絶するしかなかった\\n悲しい存在だったけどね、同じ人間同士も",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1076\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_010_1"
+  },
+  {
+    "key": "e_c3d9ec5e59_0033_cdb9d354f8",
+    "original": "いい、シンジ君…\\nエヴァシリーズを全て消滅させるのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1118\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_010_2"
+  },
+  {
+    "key": "e_c3d9ec5e59_0034_d07065c78e",
+    "original": "生き残る手段はそれしかないわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1122\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_010_3"
+  },
+  {
+    "key": "e_c3d9ec5e59_0035_3ca439cb0d",
+    "original": "いたぞ！　エヴァ搭乗パイロットだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1158\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_009"
+  },
+  {
+    "key": "e_c3d9ec5e59_0036_83fc4bd99a",
+    "original": "発見次第、片づけろ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1177\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_010"
+  },
+  {
+    "key": "e_c3d9ec5e59_0037_e1695d8155",
+    "original": "伏せてっ！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1201\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_037"
+  },
+  {
+    "key": "e_c3d9ec5e59_0038_c369378a22",
+    "original": "今よ、走りなさい！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1311\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_038"
+  },
+  {
+    "key": "e_c3d9ec5e59_0039_a7f878b8ce",
+    "original": "……",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1418\nCall: im.event\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_c3d9ec5e59_0040_ff0398f8dd",
+    "original": "怪我、ないみたいね…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1423\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_039"
+  },
+  {
+    "key": "e_c3d9ec5e59_0041_7bea9d4b8b",
+    "original": "…血が",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1454\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0042_01_037"
+  },
+  {
+    "key": "e_c3d9ec5e59_0042_23ed79ef6a",
+    "original": "私なら大丈夫、\\n待ってて、このエレベーターでケイジに行けるから…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1490\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_040"
+  },
+  {
+    "key": "e_c3d9ec5e59_0043_2417992ea4",
+    "original": "いい、シンジ君\\nここから先はもう、あなた一人よ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1518\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_011"
+  },
+  {
+    "key": "e_c3d9ec5e59_0044_cf5bd9d4ea",
+    "original": "全て一人で決めなさい\\n誰の助けもなく",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1549\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_011_1"
+  },
+  {
+    "key": "e_c3d9ec5e59_0045_399d02b8c5",
+    "original": "僕は…駄目だ\\n駄目なんですよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1553\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_012"
+  },
+  {
+    "key": "e_c3d9ec5e59_0046_dfe777ee7c",
+    "original": "僕には、人の為にできる事なんて何もないんだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1564\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_012_4"
+  },
+  {
+    "key": "e_c3d9ec5e59_0047_f05d385cdf",
+    "original": "優しさなんか、かけらもない\\nズルくて臆病なだけだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1578\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_012_5"
+  },
+  {
+    "key": "e_c3d9ec5e59_0048_1a0c5032c0",
+    "original": "僕には人を傷つける事しか出来ないんだ\\nだったら、何もしない方がいい！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1582\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_012_6"
+  },
+  {
+    "key": "e_c3d9ec5e59_0049_f54f6f9ae5",
+    "original": "自分が嫌いなのね\\nだから、人も傷つける",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1629\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013"
+  },
+  {
+    "key": "e_c3d9ec5e59_0050_ea594cf96a",
+    "original": "自分が傷つくより、人を傷つけた方が\\n心が痛い事を知っているから",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1633\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013_1"
+  },
+  {
+    "key": "e_c3d9ec5e59_0051_79b46c1657",
+    "original": "でも、どんな思いが待っていても、\\nそれはあなたが自分一人で決めた事だわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1636\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013_2"
+  },
+  {
+    "key": "e_c3d9ec5e59_0052_697a6334b8",
+    "original": "価値のある事なのよ、シンジ君\\nあなた自身の事なのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1639\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013_3"
+  },
+  {
+    "key": "e_c3d9ec5e59_0053_884c9c20a5",
+    "original": "誤魔化さずに、自分にできる事を考え\\n償いは自分でやりなさい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1642\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013_4"
+  },
+  {
+    "key": "e_c3d9ec5e59_0054_7c6412f938",
+    "original": "…ミサトさんだって、他人のくせに！\\n何もわかってないくせにっ！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1691\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_014"
+  },
+  {
+    "key": "e_c3d9ec5e59_0055_051dd77b7c",
+    "original": "他人だから、\\nどうだってぇのよ！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1737\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_015"
+  },
+  {
+    "key": "e_c3d9ec5e59_0056_0f1b9872ff",
+    "original": "あんた、このままやめるつもり！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1754\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_015_1"
+  },
+  {
+    "key": "e_c3d9ec5e59_0057_fc8ab3f63f",
+    "original": "今ここで何もしなかったら、私、許さないからね！\\n一生あんたを許さないからね！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1791\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_015_2"
+  },
+  {
+    "key": "e_c3d9ec5e59_0058_e36a8f0fa4",
+    "original": "今の自分が絶対じゃないわ、後で間違いに気付き、\\n後悔する、私はその繰り返しだった",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1795\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_016"
+  },
+  {
+    "key": "e_c3d9ec5e59_0059_73cf591598",
+    "original": "ヌカ喜びと自己嫌悪を重ねるだけ…\\nでも、その度に前に進めた気がする",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1799\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_016_1"
+  },
+  {
+    "key": "e_c3d9ec5e59_0060_2fc13f7a19",
+    "original": "いい、シンジ君",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1803\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_017"
+  },
+  {
+    "key": "e_c3d9ec5e59_0061_005678c0bc",
+    "original": "もう一度エヴァに乗ってケリをつけなさい\\nエヴァに乗っていた自分に",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1850\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_017_1"
+  },
+  {
+    "key": "e_c3d9ec5e59_0062_4b07fb43b6",
+    "original": "何の為にここに来たのか、何の為にここにいるのか\\n今の自分の答えを見つけなさい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1854\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_017_2"
+  },
+  {
+    "key": "e_c3d9ec5e59_0063_b6a22c9885",
+    "original": "そしてケリをつけたら、必ず戻ってくるのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1858\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_017_3"
+  },
+  {
+    "key": "e_c3d9ec5e59_0064_3eded3b63b",
+    "original": "約束よ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1901\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_018"
+  },
+  {
+    "key": "e_c3d9ec5e59_0065_273d0bc96e",
+    "original": "…うん",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1905\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_019"
+  },
+  {
+    "key": "e_c3d9ec5e59_0066_69b8c5c370",
+    "original": "行ってらっしゃい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1939\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_020"
+  },
+  {
+    "key": "e_c3d9ec5e59_0067_0b4e3d0440",
+    "original": "大人のキスよ\\n帰ったら続きをしましょう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1949\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_021"
+  },
+  {
+    "key": "e_c3d9ec5e59_0068_24d814d999",
+    "original": "……………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1969\nCall: im.event\nSpeaker: IMC_SHINJI"
+  }
+]

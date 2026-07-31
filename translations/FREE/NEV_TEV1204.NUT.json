@@ -1,0 +1,56 @@
+[
+  {
+    "key": "e_4aa3b3cb37_0001_7b94d473f6",
+    "original": "シンジ君、今日は遅くなるから\\n先に寝ててちょうだいね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1204.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1204_04_001"
+  },
+  {
+    "key": "e_4aa3b3cb37_0002_99dcc1b587",
+    "original": "お仕事ですか？\\n大変ですね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1204.NUT\nLine: 202\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1204_01_002"
+  },
+  {
+    "key": "e_4aa3b3cb37_0003_370a084938",
+    "original": "ううん、今日は違うの\\n大学の友人の結婚式よ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1204.NUT\nLine: 238\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1204_04_003"
+  },
+  {
+    "key": "e_4aa3b3cb37_0004_6d07857e6e",
+    "original": "ふうん…\\nじゃあ、カジさんもいっしょなワケ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1204.NUT\nLine: 275\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1204_02_004"
+  },
+  {
+    "key": "e_4aa3b3cb37_0005_59767edac4",
+    "original": "ええ、リツコもね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1204.NUT\nLine: 311\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1204_04_005"
+  },
+  {
+    "key": "e_4aa3b3cb37_0006_8733a21c7f",
+    "original": "なるべく、はやく\\nかえってきなさいよっ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1204.NUT\nLine: 348\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1204_02_006"
+  },
+  {
+    "key": "e_4aa3b3cb37_0007_b0777b7651",
+    "original": "何で、そんなに怒るの？\\nいつも、ミサトさんの帰りなんて気にしないのに",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1204.NUT\nLine: 384\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1204_01_007"
+  },
+  {
+    "key": "e_4aa3b3cb37_0008_e197d3f18c",
+    "original": "うるさい、バカッ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1204.NUT\nLine: 422\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1204_02_008"
+  },
+  {
+    "key": "e_4aa3b3cb37_0009_73b2f2ae8c",
+    "original": "じゃ、私はもう出るから\\n戸締りヨロシクね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1204.NUT\nLine: 463\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1204_04_009"
+  }
+]

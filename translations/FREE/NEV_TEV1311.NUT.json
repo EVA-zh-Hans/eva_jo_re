@@ -1,0 +1,50 @@
+[
+  {
+    "key": "e_b1c440bac2_0001_cbabc8916c",
+    "original": "目標…\\n目標の使徒って…エヴァじゃないですか！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1311.NUT\nLine: 140\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1311_01_001"
+  },
+  {
+    "key": "e_b1c440bac2_0002_07600ebcc6",
+    "original": "あれはもう、\\nエヴァ参号機ではない…使徒だ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1311.NUT\nLine: 159\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1311_05_002"
+  },
+  {
+    "key": "e_b1c440bac2_0003_bdfa26e3bd",
+    "original": "プラグがみえる…パイロットは、あのなかなんだわ…\\nまさかシトにのっとられるなんてね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1311.NUT\nLine: 187\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1311_02_003"
+  },
+  {
+    "key": "e_b1c440bac2_0004_00ded02c4b",
+    "original": "そんな！\\nじゃあ、あの中には僕達と同じような子供が…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1311.NUT\nLine: 217\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1311_01_004"
+  },
+  {
+    "key": "e_b1c440bac2_0005_2789aa14ec",
+    "original": "シンジ、目標は接近中だ\\nお前が倒せ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1311.NUT\nLine: 237\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1311_05_012"
+  },
+  {
+    "key": "e_b1c440bac2_0006_d8caa957ce",
+    "original": "でも、目標って言ったって▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1311.NUT\nLine: 267\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1311_01_013"
+  },
+  {
+    "key": "e_b1c440bac2_0007_8c5a47c27f",
+    "original": "人が乗ってるんじゃないの？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1311.NUT\nLine: 270\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1311_01_013_1"
+  },
+  {
+    "key": "e_b1c440bac2_0008_c7ff7c4bee",
+    "original": "同い年の子供が…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1311.NUT\nLine: 273\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1311_01_013_2"
+  }
+]

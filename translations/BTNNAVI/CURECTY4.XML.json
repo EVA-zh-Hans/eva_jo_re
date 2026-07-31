@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_54646f61b9_0005_f6b3b282cd",
+    "original": "都市の復興を支援する",
+    "translation": "",
+    "context": "File: BTNNAVI/CURECTY4.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_54646f61b9_0010_75fca1d949",
+    "original": "進む",
+    "translation": "",
+    "context": "File: BTNNAVI/CURECTY4.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  }
+]

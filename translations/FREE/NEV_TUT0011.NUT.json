@@ -1,0 +1,80 @@
+[
+  {
+    "key": "e_7274987360_0001_b66a629392",
+    "original": "本格的な訓練、ですか",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_7274987360_0002_7687b23a9f",
+    "original": "ええ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 125\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_7274987360_0003_ccfc1be554",
+    "original": "これまでの訓練が本格的でなかったかといえば、\\nもちろんそんなことはないけれど",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 126\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_7274987360_0004_05e3823c93",
+    "original": "はあ…わかりました",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 129\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_7274987360_0005_3e74497744",
+    "original": "理由、きかないのね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_7274987360_0006_d4b68852c0",
+    "original": "でも、決まったことなんですよね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 136\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_7274987360_0007_e42d216ff4",
+    "original": "そりゃそうだけど…ごめん▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_7274987360_0008_a478753bbd",
+    "original": "命令する立場なのに自発的に動いて欲しいって、\\n虫のいいことだと思ってる",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 141\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_7274987360_0009_c73a3406c5",
+    "original": "…じゃあ、あの、\\nなんで、今なんですか",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 144\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_7274987360_0010_b51fd96c88",
+    "original": "敵の…使徒の調査と研究を進めるうちに、\\n敵が進化してることがわかったの▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_7274987360_0011_0e540c0fbf",
+    "original": "使徒は前より強くなる\\n前とは同じ手を、使ってこない",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 149\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_7274987360_0012_a217f567a8",
+    "original": "…必死なんですね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 152\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_7274987360_0013_8e3e6d0f19",
+    "original": "多分ね…\\nそして必死なのはこっちも同じ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 155\nCall: im.play\nSpeaker: IMC_MISATO"
+  }
+]

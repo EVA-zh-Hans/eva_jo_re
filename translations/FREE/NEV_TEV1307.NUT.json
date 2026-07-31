@@ -1,0 +1,164 @@
+[
+  {
+    "key": "e_78f426bccc_0001_0b70514e50",
+    "original": "２年Ａ組の鈴原トウジ、鈴原トウジ\\n至急、校長室まで",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 206\nCall: im.event\nSpeaker: IMC_SCHOOL_BORAD\nVoice: NA10_1307_75_001"
+  },
+  {
+    "key": "e_78f426bccc_0002_8f63b986c0",
+    "original": "何や？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 210\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1307_13_002"
+  },
+  {
+    "key": "e_78f426bccc_0003_6db7e28c90",
+    "original": "何か、やったの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 240\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_003"
+  },
+  {
+    "key": "e_78f426bccc_0004_e672263ca7",
+    "original": "心当たりないわ\\nほな、ちょい行って来る",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 244\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1307_13_004"
+  },
+  {
+    "key": "e_78f426bccc_0005_4be66cf94e",
+    "original": "………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 275\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1307_12_005"
+  },
+  {
+    "key": "e_78f426bccc_0006_9c34f4e86d",
+    "original": "何だろうね、トウジ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 306\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_006"
+  },
+  {
+    "key": "e_78f426bccc_0007_5cc1d48742",
+    "original": "さー？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 310\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_007"
+  },
+  {
+    "key": "e_78f426bccc_0008_1afb39ef91",
+    "original": "ところでさ、シンジ\\nちょいと気になる情報を仕入れたんだけど",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 340\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_008"
+  },
+  {
+    "key": "e_78f426bccc_0009_2b64a88fe3",
+    "original": "エヴァ参号機？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 414\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_009"
+  },
+  {
+    "key": "e_78f426bccc_0010_58e638e3a3",
+    "original": "そう、アメリカで建造中だった奴さ\\n完成したんだろ？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 448\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_010"
+  },
+  {
+    "key": "e_78f426bccc_0011_6fbecc4baf",
+    "original": "隠さなきゃならない事情もわかるけど\\nなあ、教えてくれよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 451\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_010_1"
+  },
+  {
+    "key": "e_78f426bccc_0012_5e22e70178",
+    "original": "ホントに聞いてないよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 454\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_011"
+  },
+  {
+    "key": "e_78f426bccc_0013_f7bbc6a286",
+    "original": "松代の第２実験場で\\n起動実験をやるって噂、知らないのか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 458\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_012"
+  },
+  {
+    "key": "e_78f426bccc_0014_2f0e97b727",
+    "original": "知らないよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 486\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_013"
+  },
+  {
+    "key": "e_78f426bccc_0015_55b12e4c79",
+    "original": "パイロットはまだ\\n決まってないんだろ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 491\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_014"
+  },
+  {
+    "key": "e_78f426bccc_0016_60e3f52537",
+    "original": "わからないよ、そんなの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 521\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_015"
+  },
+  {
+    "key": "e_78f426bccc_0017_91183f2620",
+    "original": "俺にやらせてくんないかなぁ、ミサトさん▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 525\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_016"
+  },
+  {
+    "key": "e_78f426bccc_0018_506395b5be",
+    "original": "な、シンジからも頼んでくれよ！\\n乗りたいんだよ、エヴァに",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 555\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_016_1"
+  },
+  {
+    "key": "e_78f426bccc_0019_d89fc1551a",
+    "original": "ホントに知らないんだよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 586\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_017"
+  },
+  {
+    "key": "e_78f426bccc_0020_28c3759383",
+    "original": "…………………▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 614\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_78f426bccc_0021_fcf5f3ef7c",
+    "original": "じゃ、四号機が欠番になった話は？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 648\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_018_1"
+  },
+  {
+    "key": "e_78f426bccc_0022_1fcbc32d26",
+    "original": "何、それ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 676\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_019"
+  },
+  {
+    "key": "e_78f426bccc_0023_c535daf5e0",
+    "original": "ホントにこれも知らないのか？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 704\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_020"
+  },
+  {
+    "key": "e_78f426bccc_0024_fa1f3c0ea1",
+    "original": "第２支部ごと吹き飛んだって、\\nパパのところは大騒ぎだったみたいだぜ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 708\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_020_1"
+  },
+  {
+    "key": "e_78f426bccc_0025_c3b5dabe41",
+    "original": "ミサトさんからは、何も聞いてない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 736\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_021"
+  },
+  {
+    "key": "e_78f426bccc_0026_6630b00b49",
+    "original": "言わないって事は、\\n知らなくてもいい事なんだろ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 769\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_022_1"
+  },
+  {
+    "key": "e_78f426bccc_0027_bc86309858",
+    "original": "すまなかったな、変な事聞いて\\nしかし、トウジの奴遅いなぁ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1307.NUT\nLine: 773\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_023"
+  }
+]

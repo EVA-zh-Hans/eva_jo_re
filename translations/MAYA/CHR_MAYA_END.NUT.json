@@ -1,0 +1,80 @@
+[
+  {
+    "key": "e_cebc5eede3_0001_7ea6f3d562",
+    "original": "そして…",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_cebc5eede3_0002_fff5ec6752",
+    "original": "ねえ、キス、しませんか",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na54_0006_08_017"
+  },
+  {
+    "key": "e_cebc5eede3_0003_b80b71fb19",
+    "original": "普通の日々がはじまる",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_cebc5eede3_0004_7ef34970ca",
+    "original": "…髪伸ばそうかな\\n色々体験して、内面も変わった気がするし",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na54_0006_08_018_1"
+  },
+  {
+    "key": "e_cebc5eede3_0005_a7f878b8ce",
+    "original": "……",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MAYA"
+  },
+  {
+    "key": "e_cebc5eede3_0006_b5999fb8c4",
+    "original": "…………",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MAYA"
+  },
+  {
+    "key": "e_cebc5eede3_0007_cb25dbc346",
+    "original": "………………",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_MAYA"
+  },
+  {
+    "key": "e_cebc5eede3_0008_a00ef127a5",
+    "original": "笑って、いいんだよ？",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na54_0006_08_018_2"
+  },
+  {
+    "key": "e_cebc5eede3_0009_557bde2f6a",
+    "original": "あなたが戦いで得たものは、",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_cebc5eede3_0010_1d51304e1f",
+    "original": "いい笑顔を浮かべるお姉さんだった",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_cebc5eede3_0011_5edcb66923",
+    "original": "かつては引っ込み思案であったが、\\n今はそうでない",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_cebc5eede3_0012_d2a02abd16",
+    "original": "あなたはそれを嬉しく思った",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_cebc5eede3_0013_8d4795eec6",
+    "original": "おめでとう\\n人の補完はなされた",
+    "translation": "",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_NONE"
+  }
+]

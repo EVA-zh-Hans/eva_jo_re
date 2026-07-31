@@ -1,0 +1,122 @@
+[
+  {
+    "key": "e_a2744e7344_0001_73fea238e9",
+    "original": "長旅ご苦労様でした\\nロンギヌスの槍、ケイジへの移送終了しました",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 232\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1101_07_001"
+  },
+  {
+    "key": "e_a2744e7344_0002_12f585fb00",
+    "original": "わかった\\n後の作業はレイに引き継ぐ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0016_05_002"
+  },
+  {
+    "key": "e_a2744e7344_0003_ad88636fcd",
+    "original": "レイ、後は任せた",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 318\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0016_05_003"
+  },
+  {
+    "key": "e_a2744e7344_0004_ee1015bd5b",
+    "original": "はい、碇司令",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 321\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA02_0016_03_001"
+  },
+  {
+    "key": "e_a2744e7344_0005_587c1fa604",
+    "original": "どう？\\nマギの診察は終わった？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 455\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_001"
+  },
+  {
+    "key": "e_a2744e7344_0006_ffd166a0b0",
+    "original": "あと、少しよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 459\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_002"
+  },
+  {
+    "key": "e_a2744e7344_0007_aa6376465a",
+    "original": "さすがね\\n同じものが３つあって大変なのに",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 463\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_003"
+  },
+  {
+    "key": "e_a2744e7344_0008_1c1dd64348",
+    "original": "三基とも自己診断モードに\\n入りました▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 485\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1102_08_004"
+  },
+  {
+    "key": "e_a2744e7344_0009_6e9e28c13e",
+    "original": "第１２７次定期検診、終了、異常なし",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 526\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1102_08_004_1"
+  },
+  {
+    "key": "e_a2744e7344_0010_aecbe4cbd4",
+    "original": "了解",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 530\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_005"
+  },
+  {
+    "key": "e_a2744e7344_0011_46fb25bc39",
+    "original": "ね、少しは教えてよマギの事",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 569\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_006"
+  },
+  {
+    "key": "e_a2744e7344_0012_8b09fde96a",
+    "original": "長い話よ…\\nそのわりに面白くない話",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 573\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_007"
+  },
+  {
+    "key": "e_a2744e7344_0013_aa732300cc",
+    "original": "人格移植ＯＳって知ってる？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 613\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_008"
+  },
+  {
+    "key": "e_a2744e7344_0014_198442a4ae",
+    "original": "ええ、第７世代の有機コンピュータに個人の人格を\\n移植して思考させるシステム▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 663\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_009"
+  },
+  {
+    "key": "e_a2744e7344_0015_f5f4a21475",
+    "original": "エヴァの操縦にも使われている\\n技術よね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 667\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_009_1"
+  },
+  {
+    "key": "e_a2744e7344_0016_13bcc494ab",
+    "original": "…の、第一号らしいわ\\n母さんが開発した技術だから",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 671\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_010"
+  },
+  {
+    "key": "e_a2744e7344_0017_bbc96a095a",
+    "original": "…お母さんのパターンを\\n移植したの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 707\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_011"
+  },
+  {
+    "key": "e_a2744e7344_0018_aba5c45387",
+    "original": "そうね\\n私はシステムアップしただけよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 711\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_012"
+  },
+  {
+    "key": "e_a2744e7344_0019_e29785ce8b",
+    "original": "基礎理論と本体を作ったのは\\n母さんなの▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 753\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_012_1"
+  },
+  {
+    "key": "e_a2744e7344_0020_4bfa8a4257",
+    "original": "マギは…言ってみれば、\\n母さんそのものなのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 757\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_012_2"
+  }
+]

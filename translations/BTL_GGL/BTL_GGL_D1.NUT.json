@@ -1,0 +1,62 @@
+[
+  {
+    "key": "e_0fc5880217_0001_9387b3321e",
+    "original": "あぁぁ…まるで釣りだわ",
+    "translation": "",
+    "context": "File: BTL_GGL/BTL_GGL_D1.NUT\nLine: 40\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0030_04_010_1"
+  },
+  {
+    "key": "e_0fc5880217_0002_39b198d6dd",
+    "original": "…釣り！？　そうだわ…\\nアスカ、よく聞いて！",
+    "translation": "",
+    "context": "File: BTL_GGL/BTL_GGL_D1.NUT\nLine: 43\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0030_04_010_2"
+  },
+  {
+    "key": "e_0fc5880217_0003_fe216c2c65",
+    "original": "これから戦艦２隻を自沈させて、\\n使徒の体内に突入させます",
+    "translation": "",
+    "context": "File: BTL_GGL/BTL_GGL_D1.NUT\nLine: 61\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0030_04_010_3"
+  },
+  {
+    "key": "e_0fc5880217_0004_1e93618cd3",
+    "original": "艦首主砲塔の直接砲撃、\\n更に自爆、目標を撃破します",
+    "translation": "",
+    "context": "File: BTL_GGL/BTL_GGL_D1.NUT\nLine: 64\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0030_04_010_4"
+  },
+  {
+    "key": "e_0fc5880217_0005_f893ef2242",
+    "original": "それまでに、弐号機で\\n目標の口を開口させるのよ！",
+    "translation": "",
+    "context": "File: BTL_GGL/BTL_GGL_D1.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0030_04_010_5"
+  },
+  {
+    "key": "e_0fc5880217_0006_8a941a9d95",
+    "original": "オッケー！！\\nシトのくちをあけさせるのね！",
+    "translation": "",
+    "context": "File: BTL_GGL/BTL_GGL_D1.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na52_0030_02_011"
+  },
+  {
+    "key": "e_0fc5880217_0007_55134cecf0",
+    "original": "ひらけ、ひらけ、ひらけ…",
+    "translation": "",
+    "context": "File: BTL_GGL/BTL_GGL_D1.NUT\nLine: 87\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na52_0030_02_012"
+  },
+  {
+    "key": "e_0fc5880217_0008_d4243da82a",
+    "original": "開け、開け、開けッ！！",
+    "translation": "",
+    "context": "File: BTL_GGL/BTL_GGL_D1.NUT\nLine: 90\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0030_01_013"
+  },
+  {
+    "key": "e_0fc5880217_0009_e9375d7f76",
+    "original": "ひらけぇぇぇぇぇえ！！",
+    "translation": "",
+    "context": "File: BTL_GGL/BTL_GGL_D1.NUT\nLine: 93\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na13_0031_02_002"
+  },
+  {
+    "key": "e_0fc5880217_0010_f27d42dfed",
+    "original": "撃て！！",
+    "translation": "",
+    "context": "File: BTL_GGL/BTL_GGL_D1.NUT\nLine: 124\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0030_04_014"
+  }
+]

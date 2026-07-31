@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_8c8cf66fd6_0001_5d862cef62",
+    "original": "出来そこないの群体として、既に行き詰まった人類を\\n完全な単体としての生物へと人工進化させる補完計画▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1902.NUT\nLine: 116\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1902_04_001"
+  },
+  {
+    "key": "e_8c8cf66fd6_0002_256cff2733",
+    "original": "まさに理想の世界ね…\\nその為にまだ、委員会は使うつもりなんだわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1902.NUT\nLine: 120\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1902_04_001_1"
+  },
+  {
+    "key": "e_8c8cf66fd6_0003_ca15894455",
+    "original": "アダムやネルフではなく、\\nあのエヴァを…加持君の予想通りにね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1902.NUT\nLine: 144\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1902_04_001_2"
+  }
+]

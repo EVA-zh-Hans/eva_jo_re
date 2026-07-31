@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_8473ff47ca_0001_179e9a38a0",
+    "original": "駄目です、あと３、２、１！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1108.NUT\nLine: 140\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0081_10_005"
+  },
+  {
+    "key": "e_8473ff47ca_0002_17f57c756d",
+    "original": "カスパーがやられました！！\\n人工知能により自律爆破が決議されました！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1108.NUT\nLine: 172\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0081_10_005_1"
+  },
+  {
+    "key": "e_8473ff47ca_0003_323c87cc15",
+    "original": "負けた…完敗だわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1108.NUT\nLine: 194\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0081_07_004"
+  },
+  {
+    "key": "e_8473ff47ca_0004_423c79265a",
+    "original": "マギ、自律自爆を実行します！\\n自爆装置、稼動しました！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1108.NUT\nLine: 226\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0081_08_006"
+  }
+]

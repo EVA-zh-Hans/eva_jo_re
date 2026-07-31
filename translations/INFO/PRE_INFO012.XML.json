@@ -1,0 +1,38 @@
+[
+  {
+    "key": "e_b0342b2799_0005_6a365bb492",
+    "original": "第３新東京市　ジオフロントを目指し\\n侵攻中",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO012.XML\nLine: 3\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_b0342b2799_0009_01f8412b94",
+    "original": "浮遊による移動、移動速度は遅い",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO012.XML\nLine: 4\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_b0342b2799_0013_ae730878bf",
+    "original": "折りたたみ式の両腕による攻撃\\n両腕の伸縮による中距離攻撃\\n目から高速の光弾",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO012.XML\nLine: 5\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_b0342b2799_0017_8a1941ac7c",
+    "original": "Ａ．Ｔ．フィールドを展開するガード",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO012.XML\nLine: 6\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_b0342b2799_0021_527b292af6",
+    "original": "空中に浮かび上がる場合がある",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO012.XML\nLine: 7\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_b0342b2799_0025_a16177aa4e",
+    "original": "第３新東京市の損壊を気にする必要が\\n無いので大火力の兵装ビル・武器の\\n配置が可能",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO012.XML\nLine: 8\nElement: DETAIL\nAttribute: exp"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "key": "e_de83e8d437_0001_f47fa0f571",
+    "original": "マップギミックの配置",
+    "translation": "",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_de83e8d437_0002_f47fa0f571",
+    "original": "マップギミックの配置",
+    "translation": "",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 23\nCall: DecideStart"
+  },
+  {
+    "key": "e_de83e8d437_0003_83a1e43b84",
+    "original": "戦場である<01>第３新東京市<//>に\\n手に入れた<02>マップギミックを配置<//>する場合は、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_de83e8d437_0004_6bbaf74300",
+    "original": "<12>ミサト<//>に話しかけます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_de83e8d437_0005_ac555433d6",
+    "original": "現在所有するギミックのリストから、各エリアにある\\nスロットに<02>ギミックを配置<//>しましょう▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 30\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_de83e8d437_0006_9334a9fdb3",
+    "original": "配置の手順は、まず<01>第３新東京市<//>の各エリアから\\n<02>配置を行うエリア<//>を選びます",
+    "translation": "",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 31\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_de83e8d437_0007_c327942da8",
+    "original": "<02>エリア<//>を選択すると<02>マップ<//>が表示されます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 43\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_de83e8d437_0008_69cc4a7ccf",
+    "original": "各エリアのマップ上で、\\nギミックを<02>配置するスロット<//>を選びます",
+    "translation": "",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 44\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_de83e8d437_0009_39844a9230",
+    "original": "<02>スロット<//>を選択すると、<02>現在所有する\\nマップギミック<//>の一覧が表示されます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 56\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_de83e8d437_0010_d147b6b753",
+    "original": "戦略的な戦闘を行うためには、<02>情報収集<//>で集めた\\n情報に従い、<02>的確な配置<//>をする必要があります",
+    "translation": "",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 57\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "key": "e_09b1107782_0001_1e1f98fb09",
+    "original": "戦闘で負傷したパイロットはいる？\\nここで治療ができますよ",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 44\nCall: im.play\nSpeaker: IMC_MAYA"
+  },
+  {
+    "key": "e_09b1107782_0002_81ad0b6c7e",
+    "original": "…って誰もケガしてないですね▽",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 48\nCall: im.play\nSpeaker: IMC_MAYA"
+  },
+  {
+    "key": "e_09b1107782_0003_1c25195964",
+    "original": "%d必要ですが、よろしいですか？",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 100\nCall: DecideStart"
+  },
+  {
+    "key": "e_09b1107782_0004_2624b71f15",
+    "original": "治療が完了しました",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 140\nCall: DecideStart"
+  },
+  {
+    "key": "e_09b1107782_0005_500eadaa45",
+    "original": "<12>レイ<//>から<12>シンジ<//>への注目度が<07>３<//>上がった",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 156\nCall: DecideStart"
+  },
+  {
+    "key": "e_09b1107782_0006_7892d1c850",
+    "original": "<12>レイ<//>から<12>シンジ<//>への注目度が<07>３<//>上がった\\n<12>レイ<//>から<12>シンジ<//>への態度が<07>ポジティブ<//>に変化した",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 157\nCall: DecideStart"
+  },
+  {
+    "key": "e_09b1107782_0007_9eb661bd22",
+    "original": "<12>アスカ<//>から<12>シンジ<//>への注目度が<07>３<//>上がった",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 163\nCall: DecideStart"
+  },
+  {
+    "key": "e_09b1107782_0008_99a7ed64a6",
+    "original": "<12>アスカ<//>から<12>シンジ<//>への注目度が<07>３<//>上がった\\n<12>アスカ<//>から<12>シンジ<//>への態度が<07>ポジティブ<//>に変化した",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 164\nCall: DecideStart"
+  },
+  {
+    "key": "e_09b1107782_0009_f00e0a55bf",
+    "original": "全員完治しました",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 179\nCall: DecideStart"
+  },
+  {
+    "key": "e_09b1107782_0010_0542177e3a",
+    "original": "健康維持もパイロットの仕事よ\\n気をつけて下さいね",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 208\nCall: im.play\nSpeaker: IMC_MAYA"
+  }
+]

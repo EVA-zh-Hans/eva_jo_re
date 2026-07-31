@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_baa6319b96_0001_7a89a1a053",
+    "original": "…鈴原がね、自分にもしなにかあったら、\\nあなたに伝えてくれって",
+    "translation": "",
+    "context": "File: TOJI/CHR_TOJI_11.NUT\nLine: 41\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0011_12_012_1"
+  },
+  {
+    "key": "e_baa6319b96_0002_0b1613783a",
+    "original": "お前は悪くない、いじょ\\n笑顔じゅーよー、じゃな…だって",
+    "translation": "",
+    "context": "File: TOJI/CHR_TOJI_11.NUT\nLine: 44\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0011_12_012_2"
+  },
+  {
+    "key": "e_baa6319b96_0003_feee82f8d5",
+    "original": "ばかだよね…\\nほんとばかだよね…",
+    "translation": "",
+    "context": "File: TOJI/CHR_TOJI_11.NUT\nLine: 47\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0011_12_012_3"
+  }
+]

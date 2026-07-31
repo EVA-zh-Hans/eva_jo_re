@@ -1,0 +1,44 @@
+[
+  {
+    "key": "e_857f565f85_0001_1fbec0ddb5",
+    "original": "第３新東京市　中央区",
+    "translation": "",
+    "context": "File: SYSTEM/MAP_STATUS.NUT\nLine: 11\nVoice: 第３新東京市　東地区"
+  },
+  {
+    "key": "e_857f565f85_0002_c6a5aa6da9",
+    "original": "第３新東京市　東地区",
+    "translation": "",
+    "context": "File: SYSTEM/MAP_STATUS.NUT\nLine: 11\nVoice: 第３新東京市　西地区"
+  },
+  {
+    "key": "e_857f565f85_0003_11b350752e",
+    "original": "第３新東京市　西地区",
+    "translation": "",
+    "context": "File: SYSTEM/MAP_STATUS.NUT\nLine: 11\nVoice: 第３新東京市　南地区"
+  },
+  {
+    "key": "e_857f565f85_0004_c4ec54987c",
+    "original": "第３新東京市　南地区",
+    "translation": "",
+    "context": "File: SYSTEM/MAP_STATUS.NUT\nLine: 11\nVoice: 第３新東京市　北地区"
+  },
+  {
+    "key": "e_857f565f85_0005_e72089eb06",
+    "original": "第３新東京市　北地区",
+    "translation": "",
+    "context": "File: SYSTEM/MAP_STATUS.NUT\nLine: 11\nVoice: 　　ジオフロント"
+  },
+  {
+    "key": "e_857f565f85_0006_8506ee0889",
+    "original": "　　ジオフロント",
+    "translation": "",
+    "context": "File: SYSTEM/MAP_STATUS.NUT\nLine: 11\nVoice: 　　初号機ケイジ"
+  },
+  {
+    "key": "e_857f565f85_0007_6bfec2b23e",
+    "original": "　　初号機ケイジ",
+    "translation": "",
+    "context": "File: SYSTEM/MAP_STATUS.NUT\nLine: 11"
+  }
+]

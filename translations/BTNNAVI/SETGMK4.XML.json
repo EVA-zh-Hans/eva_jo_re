@@ -1,0 +1,44 @@
+[
+  {
+    "key": "e_ef570caf1d_0005_59980e6260",
+    "original": "マップギミックを配置する",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK4.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_ef570caf1d_0015_6af4009be8",
+    "original": "マップ切替",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK4.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_ef570caf1d_0020_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK4.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_ef570caf1d_0025_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK4.XML\nLine: 8\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_ef570caf1d_0030_8fc7f89916",
+    "original": "戻る",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK4.XML\nLine: 9\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_ef570caf1d_0035_28827c714d",
+    "original": "詳細切替",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK4.XML\nLine: 10\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_ef570caf1d_0040_94969a4abb",
+    "original": "格納",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK4.XML\nLine: 11\nElement: BTN\nAttribute: caption"
+  }
+]

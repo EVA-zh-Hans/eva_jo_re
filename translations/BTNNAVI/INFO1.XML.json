@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_f0bf5aa752_0005_70eee01765",
+    "original": "情報を確認する",
+    "translation": "",
+    "context": "File: BTNNAVI/INFO1.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_f0bf5aa752_0010_75fca1d949",
+    "original": "進む",
+    "translation": "",
+    "context": "File: BTNNAVI/INFO1.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  }
+]

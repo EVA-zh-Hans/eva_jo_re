@@ -1,0 +1,140 @@
+[
+  {
+    "key": "e_af5df8cbf8_0003_b166649dcd",
+    "original": "マヤ",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 3\nElement: freechar\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0004_14324258cb",
+    "original": "伊吹マヤ",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 3\nElement: freechar\nAttribute: fullname"
+  },
+  {
+    "key": "e_af5df8cbf8_0021_2a742684d7",
+    "original": "立ち",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 12\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0025_b8647675c4",
+    "original": "歩き",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 13\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0029_c6d11b4270",
+    "original": "走り",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 14\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0033_ba3d207da1",
+    "original": "座り会話",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 15\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0037_2ff650c062",
+    "original": "座り",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 16\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0041_d87d049939",
+    "original": "作業",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 17\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0045_2ff650c062",
+    "original": "座り",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 18\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0049_2ff650c062",
+    "original": "座り",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 19\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0053_a89b5f751c",
+    "original": "アイドル１",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 20\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0057_f2494a49ef",
+    "original": "アイドル２",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 21\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0061_8547f411a0",
+    "original": "アイドル３",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 22\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0065_97ca89c19b",
+    "original": "アイドル４",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 23\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0069_e3722e3a6d",
+    "original": "会話１",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 24\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0073_f6f6aac2c8",
+    "original": "会話２",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 25\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0077_9f16887161",
+    "original": "会話３",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 26\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0081_44937cd2e1",
+    "original": "会話４",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 27\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0085_450c7d13ad",
+    "original": "アップ会話１",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 28\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0090_52347dd07c",
+    "original": "アップ会話２",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 29\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0095_58d0f918ce",
+    "original": "アップ会話３",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 30\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0100_1cf8281639",
+    "original": "アップ会話４",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 31\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_af5df8cbf8_0105_87c76c08f1",
+    "original": "アップ会話５",
+    "translation": "",
+    "context": "File: FREE/C014.XML\nLine: 32\nElement: motion\nAttribute: name"
+  }
+]

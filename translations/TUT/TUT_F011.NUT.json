@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_8ca43a0a45_0001_b2c50167b2",
+    "original": "会話コマンドの色分け",
+    "translation": "",
+    "context": "File: TUT/TUT_F011.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_8ca43a0a45_0002_b2c50167b2",
+    "original": "会話コマンドの色分け",
+    "translation": "",
+    "context": "File: TUT/TUT_F011.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_8ca43a0a45_0003_b47c1610f2",
+    "original": "会話コマンドは、種類ごとに色分けされています\\n　<08>ピンク<//>：キャライベント▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F011.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_8ca43a0a45_0004_b0bffa231e",
+    "original": "　<07>緑<//>：機能コマンド\\n　<02>黄色<//>：ヘルプ、説明セリフ▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F011.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_8ca43a0a45_0005_b8ba919679",
+    "original": "　<10>オレンジ<//>：戦闘情報\\n　白：一般会話",
+    "translation": "",
+    "context": "File: TUT/TUT_F011.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

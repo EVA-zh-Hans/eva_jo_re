@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_487f6c1d9f_0005_47fb885a32",
+    "original": "スキルプログラムを実装する",
+    "translation": "",
+    "context": "File: BTNNAVI/SETSKL5.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_487f6c1d9f_0010_75fca1d949",
+    "original": "進む",
+    "translation": "",
+    "context": "File: BTNNAVI/SETSKL5.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  }
+]

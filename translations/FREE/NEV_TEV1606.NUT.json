@@ -1,0 +1,38 @@
+[
+  {
+    "key": "e_12b13da258_0001_899b5fdfbf",
+    "original": "リツコさん、アスカは！？\\nアスカは、大丈夫なんですか…？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1606.NUT\nLine: 148\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1606_01_001"
+  },
+  {
+    "key": "e_12b13da258_0002_5a06d616d6",
+    "original": "命に別状は無いわ\\nただね…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1606.NUT\nLine: 172\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1606_07_002"
+  },
+  {
+    "key": "e_12b13da258_0003_24d814d999",
+    "original": "……………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1606.NUT\nLine: 177\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_12b13da258_0004_2776f09c77",
+    "original": "精神に大きなダメージを受けたのよ\\nあの使徒との戦いでね…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1606.NUT\nLine: 181\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1606_07_004"
+  },
+  {
+    "key": "e_12b13da258_0005_76ac3d749a",
+    "original": "とにかく長期的に、様子を見ていくしかないわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1606.NUT\nLine: 208\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1606_07_008"
+  },
+  {
+    "key": "e_12b13da258_0006_d8ea3f17c3",
+    "original": "アスカが…そんな…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1606.NUT\nLine: 229\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1606_01_009"
+  }
+]

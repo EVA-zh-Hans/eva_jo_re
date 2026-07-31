@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_b5bcb542ea_0005_ccb2fd9185",
+    "original": "人間関係",
+    "translation": "",
+    "context": "File: BTNNAVI/RANK2.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_b5bcb542ea_0010_656987c9ba",
+    "original": "スクロール",
+    "translation": "",
+    "context": "File: BTNNAVI/RANK2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_b5bcb542ea_0015_3f0ef26076",
+    "original": "切り替え",
+    "translation": "",
+    "context": "File: BTNNAVI/RANK2.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_b5bcb542ea_0020_8fc7f89916",
+    "original": "戻る",
+    "translation": "",
+    "context": "File: BTNNAVI/RANK2.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  }
+]

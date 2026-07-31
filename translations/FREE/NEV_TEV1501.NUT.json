@@ -1,0 +1,158 @@
+[
+  {
+    "key": "e_b86c9bc39b_0001_d65dfd0691",
+    "original": "あの時、エヴァに乗ったあと…\\n僕はどうなっていたんだろう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 157\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0087_01_001"
+  },
+  {
+    "key": "e_b86c9bc39b_0002_f0e4622d5d",
+    "original": "エントリープラグの中にいたはずなんだ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 175\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0087_01_002"
+  },
+  {
+    "key": "e_b86c9bc39b_0003_005767f478",
+    "original": "誰かに会ったような気がする\\n誰に会ったんだろう、誰かに会ったはずだ…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 195\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0087_01_002_1"
+  },
+  {
+    "key": "e_b86c9bc39b_0004_0ad426905b",
+    "original": "綾波…？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 214\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0087_01_003"
+  },
+  {
+    "key": "e_b86c9bc39b_0005_104df58914",
+    "original": "アスカ…？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 238\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0087_01_010"
+  },
+  {
+    "key": "e_b86c9bc39b_0006_e73cccca0f",
+    "original": "ミサトさん…？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 262\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0087_01_011"
+  },
+  {
+    "key": "e_b86c9bc39b_0007_8771c365b5",
+    "original": "ううん、違う…\\nあの時、僕は、母さんのにおい…を感じた",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0087_01_003_1"
+  },
+  {
+    "key": "e_b86c9bc39b_0008_3607e95aae",
+    "original": "セカンドインパクトの後に\\n生きていくのか、この子は…この地獄に…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 305\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0087_05_001"
+  },
+  {
+    "key": "e_b86c9bc39b_0009_b50a446ced",
+    "original": "あら、生きて行こうと思えば、\\nどこだって天国になるわよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 308\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA02_0087_22_001"
+  },
+  {
+    "key": "e_b86c9bc39b_0010_0ed86dc99f",
+    "original": "だって、生きているんですもの\\n幸せになるチャンスはどこにでもあるわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 318\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA02_0087_22_001_1"
+  },
+  {
+    "key": "e_b86c9bc39b_0011_1e36573c11",
+    "original": "そうか、そうだったな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 323\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0087_05_002"
+  },
+  {
+    "key": "e_b86c9bc39b_0012_f96e563541",
+    "original": "父さん…\\n母さん…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 339\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0087_01_004"
+  },
+  {
+    "key": "e_b86c9bc39b_0013_33b172c517",
+    "original": "シンジ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 356\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA02_0087_22_002"
+  },
+  {
+    "key": "e_b86c9bc39b_0014_fb5347a5c5",
+    "original": "母さん…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 361\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0087_01_005"
+  },
+  {
+    "key": "e_b86c9bc39b_0015_9d9fbe9ff7",
+    "original": "シンちゃん…\\n泣いてばかりね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 366\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA02_0087_22_003"
+  },
+  {
+    "key": "e_b86c9bc39b_0016_fb5347a5c5",
+    "original": "母さん…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 371\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0087_01_006"
+  },
+  {
+    "key": "e_b86c9bc39b_0017_0f54c1a95f",
+    "original": "人類補完計画…\\nどこまで進んでるの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 429\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1502_04_001"
+  },
+  {
+    "key": "e_b86c9bc39b_0018_5c78ee7802",
+    "original": "……………………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 432\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_b86c9bc39b_0019_ef0a2ba4f9",
+    "original": "人を滅ぼすアダム…\\nなぜ、地下に保護されているの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 451\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1502_04_003"
+  },
+  {
+    "key": "e_b86c9bc39b_0020_e70c1e4b33",
+    "original": "ネルフ、そして碇司令の\\n本当の目的は何？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 454\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1502_04_007_1"
+  },
+  {
+    "key": "e_b86c9bc39b_0021_d0635263ef",
+    "original": "こっちが知りたいさ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 457\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1502_11_008"
+  },
+  {
+    "key": "e_b86c9bc39b_0022_809a4e18eb",
+    "original": "あッ…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 476\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1502_04_009"
+  },
+  {
+    "key": "e_b86c9bc39b_0023_31da780bc2",
+    "original": "ちょっと、変なもの入れないでよ！▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 479\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1502_04_009_1"
+  },
+  {
+    "key": "e_b86c9bc39b_0024_f9ea295bc0",
+    "original": "こんな時に、もう…何よ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 499\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1502_04_009_2"
+  },
+  {
+    "key": "e_b86c9bc39b_0025_41b0d32960",
+    "original": "プレゼントさ、８年ぶりの▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 518\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1502_11_010"
+  },
+  {
+    "key": "e_b86c9bc39b_0026_9f04b246e6",
+    "original": "最後かもしれないがな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1501.NUT\nLine: 535\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1502_11_010_1"
+  }
+]

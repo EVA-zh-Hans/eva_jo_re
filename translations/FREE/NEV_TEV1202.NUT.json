@@ -1,0 +1,116 @@
+[
+  {
+    "key": "e_7bf450ae05_0001_f2c5eba1d3",
+    "original": "あーもー、今日は日直や…\\nしかも、こんな般若娘と一緒やがな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 173\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1202_13_001"
+  },
+  {
+    "key": "e_7bf450ae05_0002_1afc36be9c",
+    "original": "わたしだって、アンタみたいな\\nさるとくむのはゴメンよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 227\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1202_02_002"
+  },
+  {
+    "key": "e_7bf450ae05_0003_ab9d36234e",
+    "original": "でェ、シンジ\\nハンニャってなによ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 232\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1202_02_002_1"
+  },
+  {
+    "key": "e_7bf450ae05_0004_5c8203f113",
+    "original": "え…？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 237\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1202_01_003"
+  },
+  {
+    "key": "e_7bf450ae05_0005_159db7d7ef",
+    "original": "オッソロシイ顔した鬼女ってイミだよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 246\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1202_14_004"
+  },
+  {
+    "key": "e_7bf450ae05_0006_c8189e3d0a",
+    "original": "ハァ？\\nめェ、くさってんじゃないの？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 256\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1202_02_005"
+  },
+  {
+    "key": "e_7bf450ae05_0007_9a0c23ca9f",
+    "original": "このわたしのどこみて、\\nおにおんな、なんていってんのよ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 261\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1202_02_005_1"
+  },
+  {
+    "key": "e_7bf450ae05_0008_07403ddaae",
+    "original": "ほーれ、その顔じゃ！\\nそのうち、ツノ生えてくるんとちゃうか～、般若～！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 267\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1202_13_006"
+  },
+  {
+    "key": "e_7bf450ae05_0009_351c36ca5b",
+    "original": "バカ鈴原！！\\nまた騒いだりして！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 313\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1202_12_007"
+  },
+  {
+    "key": "e_7bf450ae05_0010_0084370785",
+    "original": "おわっ、般若が増えた！？\\nこうなったら、逃げるが勝ちや！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 317\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1202_13_008"
+  },
+  {
+    "key": "e_7bf450ae05_0011_336bbc0c4e",
+    "original": "あっ、鈴原っ！\\n逃げ足ばっかり速いんだから！▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 323\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1202_12_009"
+  },
+  {
+    "key": "e_7bf450ae05_0012_5f2e46dabe",
+    "original": "…………………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 331\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1202_12_010"
+  },
+  {
+    "key": "e_7bf450ae05_0013_0fc8bf5c4f",
+    "original": "委員長…どうしたの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 335\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1202_01_011"
+  },
+  {
+    "key": "e_7bf450ae05_0014_9f607f11d5",
+    "original": "え、ううん…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 338\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1202_12_012"
+  },
+  {
+    "key": "e_7bf450ae05_0015_b511b8c435",
+    "original": "ちょっとっ、バカシンジ！\\nさっしてやんなさいよ、ヒカリはね…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 344\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1202_02_013"
+  },
+  {
+    "key": "e_7bf450ae05_0016_3096d9951b",
+    "original": "あ、わ、私…いつも怒ってばっかりだから、\\n般若なんて言われても仕方が無いし",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 350\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1202_12_014"
+  },
+  {
+    "key": "e_7bf450ae05_0017_e8f2f3e4aa",
+    "original": "どうして、顔が赤いの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 354\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1202_01_015"
+  },
+  {
+    "key": "e_7bf450ae05_0018_27255742a1",
+    "original": "アンタ、バカァ？\\nまったくもー…ドンカン！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 359\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1202_02_016"
+  },
+  {
+    "key": "e_7bf450ae05_0019_3523c5a3ec",
+    "original": "…？\\nえぇぇ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 362\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1202_01_017"
+  }
+]

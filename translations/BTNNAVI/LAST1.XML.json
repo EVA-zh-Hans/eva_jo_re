@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_d1b3516b2d_0005_6ab6e42d29",
+    "original": "戦闘を開始する",
+    "translation": "",
+    "context": "File: BTNNAVI/LAST1.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_d1b3516b2d_0010_75fca1d949",
+    "original": "進む",
+    "translation": "",
+    "context": "File: BTNNAVI/LAST1.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_1f85c732b9_0001_5795e16f2e",
+    "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV9905.NUT\nLine: 21\nCall: DecideStart2"
+  },
+  {
+    "key": "e_1f85c732b9_0002_5795e16f2e",
+    "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV9905.NUT\nLine: 38\nCall: DecideStart2"
+  },
+  {
+    "key": "e_1f85c732b9_0003_5795e16f2e",
+    "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV9905.NUT\nLine: 55\nCall: DecideStart2"
+  },
+  {
+    "key": "e_1f85c732b9_0004_5795e16f2e",
+    "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV9905.NUT\nLine: 72\nCall: DecideStart2"
+  },
+  {
+    "key": "e_1f85c732b9_0005_5795e16f2e",
+    "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV9905.NUT\nLine: 89\nCall: DecideStart2"
+  }
+]

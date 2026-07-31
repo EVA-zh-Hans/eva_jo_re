@@ -1,0 +1,338 @@
+[
+  {
+    "key": "e_3f7694ec14_0005_cccc495b2f",
+    "original": "使徒の殲滅",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 7\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0006_f8a3706339",
+    "original": "エヴァ初号機の耐久力０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 7\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0009_931128cf15",
+    "original": "使徒の殲滅\\n使徒のゼロエリア侵攻阻止",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 9\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0010_43d13fbb51",
+    "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 9\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0011_e67b1b8bab",
+    "original": "使徒の殲滅\\nゼロエリア防衛",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 9\nElement: MAIN\nAttribute: win2"
+  },
+  {
+    "key": "e_3f7694ec14_0012_a2ff463631",
+    "original": "ゼロエリア破壊\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 9\nElement: MAIN\nAttribute: fail2"
+  },
+  {
+    "key": "e_3f7694ec14_0015_0897f63292",
+    "original": "使徒のコアを撃ちぬいて殲滅",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 11\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0016_46abe201ee",
+    "original": "コアの狙撃失敗",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 11\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0019_a02506fd2f",
+    "original": "Ｊ．Ａ．の停止",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 13\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0020_29399e0c07",
+    "original": "エヴァ初号機のＡ．Ｔ．０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 13\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0023_cccc495b2f",
+    "original": "使徒の殲滅",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 15\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0024_3cb4827c30",
+    "original": "エヴァ弐号機の耐久力０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 15\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0027_931128cf15",
+    "original": "使徒の殲滅\\n使徒のゼロエリア侵攻阻止",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 17\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0028_43d13fbb51",
+    "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 17\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0029_e67b1b8bab",
+    "original": "使徒の殲滅\\nゼロエリア防衛",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 17\nElement: MAIN\nAttribute: win2"
+  },
+  {
+    "key": "e_3f7694ec14_0030_a2ff463631",
+    "original": "ゼロエリア破壊\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 17\nElement: MAIN\nAttribute: fail2"
+  },
+  {
+    "key": "e_3f7694ec14_0033_cccc495b2f",
+    "original": "使徒の殲滅",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 19\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0034_3cb4827c30",
+    "original": "エヴァ弐号機の耐久力０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 19\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0037_931128cf15",
+    "original": "使徒の殲滅\\n使徒のゼロエリア侵攻阻止",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 21\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0038_43d13fbb51",
+    "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 21\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0039_e67b1b8bab",
+    "original": "使徒の殲滅\\nゼロエリア防衛",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 21\nElement: MAIN\nAttribute: win2"
+  },
+  {
+    "key": "e_3f7694ec14_0040_a2ff463631",
+    "original": "ゼロエリア破壊\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 21\nElement: MAIN\nAttribute: fail2"
+  },
+  {
+    "key": "e_3f7694ec14_0043_cccc495b2f",
+    "original": "使徒の殲滅",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 23\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0044_ae8ef63ae1",
+    "original": "使徒の落下\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 23\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0047_1242f779cc",
+    "original": "マギへの使徒侵入阻止",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 25\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0048_04c7781417",
+    "original": "マギを乗っ取られる",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 25\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0051_cccc495b2f",
+    "original": "使徒の殲滅",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 27\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0052_43d13fbb51",
+    "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 27\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0055_931128cf15",
+    "original": "使徒の殲滅\\n使徒のゼロエリア侵攻阻止",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 29\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0056_43d13fbb51",
+    "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 29\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0057_e67b1b8bab",
+    "original": "使徒の殲滅\\nゼロエリア防衛",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 29\nElement: MAIN\nAttribute: win2"
+  },
+  {
+    "key": "e_3f7694ec14_0058_a2ff463631",
+    "original": "ゼロエリア破壊\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 29\nElement: MAIN\nAttribute: fail2"
+  },
+  {
+    "key": "e_3f7694ec14_0061_cccc495b2f",
+    "original": "使徒の殲滅",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 31\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0062_43d13fbb51",
+    "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 31\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0065_cccc495b2f",
+    "original": "使徒の殲滅",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 33\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0066_fbfeb6676b",
+    "original": "エヴァ弐号機の耐久力０\\nエヴァ弐号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 33\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0069_cccc495b2f",
+    "original": "使徒の殲滅",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 35\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0070_43d13fbb51",
+    "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 35\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0073_cccc495b2f",
+    "original": "使徒の殲滅",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 37\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0074_43d13fbb51",
+    "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 37\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0077_a9fa59ef1f",
+    "original": "エヴァシリーズ全９機撃破",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 39\nElement: MAIN\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0078_43d13fbb51",
+    "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 39\nElement: MAIN\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0082_482745de82",
+    "original": "目標の殲滅",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 45\nElement: DMY\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0083_43d13fbb51",
+    "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 45\nElement: DMY\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0086_3947faa472",
+    "original": "目標の殲滅\\n目標のゼロエリア侵攻阻止",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 47\nElement: DMY\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0087_49b6b1b433",
+    "original": "目標のゼロエリア侵攻\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 47\nElement: DMY\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0090_3947faa472",
+    "original": "目標の殲滅\\n目標のゼロエリア侵攻阻止",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 49\nElement: DMY\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0091_43d13fbb51",
+    "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 49\nElement: DMY\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0092_9067e957e7",
+    "original": "目標の殲滅\\nゼロエリア防衛",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 49\nElement: DMY\nAttribute: win2"
+  },
+  {
+    "key": "e_3f7694ec14_0093_a2ff463631",
+    "original": "ゼロエリア破壊\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 49\nElement: DMY\nAttribute: fail2"
+  },
+  {
+    "key": "e_3f7694ec14_0096_6a867ab5b5",
+    "original": "指定時間まで\\n目標のゼロエリア侵攻阻止",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 51\nElement: DMY\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0097_49b6b1b433",
+    "original": "目標のゼロエリア侵攻\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 51\nElement: DMY\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0100_a50a7f86d5",
+    "original": "指定時間まで\\nゼロエリア防衛",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 53\nElement: DMY\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0101_a2ff463631",
+    "original": "ゼロエリア破壊\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 53\nElement: DMY\nAttribute: fail"
+  },
+  {
+    "key": "e_3f7694ec14_0104_a9fa59ef1f",
+    "original": "エヴァシリーズ全９機撃破",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 56\nElement: DMY\nAttribute: win"
+  },
+  {
+    "key": "e_3f7694ec14_0105_43d13fbb51",
+    "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
+    "translation": "",
+    "context": "File: BF/PURPOSE.XML\nLine: 56\nElement: DMY\nAttribute: fail"
+  }
+]

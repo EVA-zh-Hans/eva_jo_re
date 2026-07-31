@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_2c4ccc5384_0005_e82644fac1",
+    "original": "第３新東京市　ステータス",
+    "translation": "",
+    "context": "File: BTNNAVI/STSCITY.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_2c4ccc5384_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/STSCITY.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_2c4ccc5384_0015_8fc7f89916",
+    "original": "戻る",
+    "translation": "",
+    "context": "File: BTNNAVI/STSCITY.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_2c4ccc5384_0020_28827c714d",
+    "original": "詳細切替",
+    "translation": "",
+    "context": "File: BTNNAVI/STSCITY.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "key": "e_12a2451150_0005_2de562d000",
+    "original": "第３新東京市　中央区上空\\n衛星軌道上に出現",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO013.XML\nLine: 3\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_12a2451150_0009_b7a3a77e2f",
+    "original": "衛星軌道上より移動しない",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO013.XML\nLine: 4\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_12a2451150_0013_4525ee3451",
+    "original": "上空からの超長射程攻撃",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO013.XML\nLine: 5\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_12a2451150_0017_39ef071c59",
+    "original": "時間の経過ごとに敵からの攻撃は\\n激しくなる",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO013.XML\nLine: 6\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_12a2451150_0021_386ba943b2",
+    "original": "通常の攻撃は不可能なため、\\n武器庫ビル、兵装ビルは配置しても\\n意味がない",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO013.XML\nLine: 7\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_12a2451150_0025_c7da9bd877",
+    "original": "アスカの搭乗する弐号機での戦闘\\nロンギヌスの槍到着までの時間稼ぎ\\nとにかく避け続ける",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO013.XML\nLine: 8\nElement: DETAIL\nAttribute: exp"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_e71bfba7e2_0001_176474bb0f",
+    "original": "情報収集",
+    "translation": "",
+    "context": "File: TUT/TUT_F101.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_e71bfba7e2_0002_176474bb0f",
+    "original": "情報収集",
+    "translation": "",
+    "context": "File: TUT/TUT_F101.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_e71bfba7e2_0003_c187ab70db",
+    "original": "<01>第３新東京市<//>や<01>ネルフ施設内<//>にいる人達から、\\n<02>今回の戦闘に役立つ話<//>を聞く事ができます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F101.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_e71bfba7e2_0004_4e56c5b09e",
+    "original": "<02>戦闘準備の手掛かり<//>になるので、色々な人達に\\n積極的に話しかける必要があります▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F101.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_e71bfba7e2_0005_d3947978f3",
+    "original": "<02>戦闘情報<//>コマンドはリスト中で\\n<10>オレンジ<//>の文字で表示されます",
+    "translation": "",
+    "context": "File: TUT/TUT_F101.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

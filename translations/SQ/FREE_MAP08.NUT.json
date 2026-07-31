@@ -1,0 +1,104 @@
+[
+  {
+    "key": "e_7310b555e3_0001_a1d5863e1a",
+    "original": "新たな模擬戦が追加されました",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 57\nCall: DecideStart"
+  },
+  {
+    "key": "e_7310b555e3_0002_9554d185f6",
+    "original": "新たなスキルが追加されました",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 66\nCall: DecideStart"
+  },
+  {
+    "key": "e_7310b555e3_0003_af9c5988bb",
+    "original": "新たな武器が追加されました",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 75\nCall: DecideStart"
+  },
+  {
+    "key": "e_7310b555e3_0004_92e91c83a2",
+    "original": "新たなギミックが追加されました",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 84\nCall: DecideStart"
+  },
+  {
+    "key": "e_7310b555e3_0005_780c0307e0",
+    "original": "ペンペンと話す",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 102\nCall: OpenMenuNoWait\nVoice: 移動する"
+  },
+  {
+    "key": "e_7310b555e3_0006_5f965ad66c",
+    "original": "移動する",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 102\nCall: OpenMenuNoWait\nVoice: セーブする"
+  },
+  {
+    "key": "e_7310b555e3_0007_6ce09ac47e",
+    "original": "セーブする",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 102\nCall: OpenMenuNoWait"
+  },
+  {
+    "key": "e_7310b555e3_0008_780c0307e0",
+    "original": "ペンペンと話す",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 107\nCall: OpenMenuNoWait\nVoice: 日常生活を終了する"
+  },
+  {
+    "key": "e_7310b555e3_0009_cdcee9f30e",
+    "original": "日常生活を終了する",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 107\nCall: OpenMenuNoWait\nVoice: 移動する"
+  },
+  {
+    "key": "e_7310b555e3_0010_5f965ad66c",
+    "original": "移動する",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 107\nCall: OpenMenuNoWait\nVoice: セーブする"
+  },
+  {
+    "key": "e_7310b555e3_0011_6ce09ac47e",
+    "original": "セーブする",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 107\nCall: OpenMenuNoWait"
+  },
+  {
+    "key": "e_7310b555e3_0012_5f965ad66c",
+    "original": "移動する",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 115\nCall: OpenMenuNoWait\nVoice: セーブする"
+  },
+  {
+    "key": "e_7310b555e3_0013_6ce09ac47e",
+    "original": "セーブする",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 115\nCall: OpenMenuNoWait"
+  },
+  {
+    "key": "e_7310b555e3_0014_cdcee9f30e",
+    "original": "日常生活を終了する",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 120\nCall: OpenMenuNoWait\nVoice: 移動する"
+  },
+  {
+    "key": "e_7310b555e3_0015_5f965ad66c",
+    "original": "移動する",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 120\nCall: OpenMenuNoWait\nVoice: セーブする"
+  },
+  {
+    "key": "e_7310b555e3_0016_6ce09ac47e",
+    "original": "セーブする",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 120\nCall: OpenMenuNoWait"
+  },
+  {
+    "key": "e_7310b555e3_0017_98e9e77ff5",
+    "original": "今日はもう休もうかな",
+    "translation": "",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 215\nCall: im.play\nSpeaker: IMC_SHINJI"
+  }
+]

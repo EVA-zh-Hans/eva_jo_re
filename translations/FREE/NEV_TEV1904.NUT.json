@@ -1,0 +1,602 @@
+[
+  {
+    "key": "e_93504af1d6_0001_96f83e898c",
+    "original": "遂に、我等の願いが始まる",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 171\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1904_20_001"
+  },
+  {
+    "key": "e_93504af1d6_0002_f0c9c40b48",
+    "original": "我等人類に福音をもたらす、真の姿に",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 204\nCall: im.event\nSpeaker: IMC_SEELE04\nVoice: NA10_1904_42_002"
+  },
+  {
+    "key": "e_93504af1d6_0003_7a269a0e05",
+    "original": "等しき死と祈りを以って、\\n人々を真の姿に",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 207\nCall: im.event\nSpeaker: IMC_SEELE07\nVoice: NA10_1904_45_003"
+  },
+  {
+    "key": "e_93504af1d6_0004_60da476ce6",
+    "original": "それは、魂の安らぎである",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 210\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1904_20_004"
+  },
+  {
+    "key": "e_93504af1d6_0005_2eee48285a",
+    "original": "では、儀式を始めよう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 236\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1904_20_004_1"
+  },
+  {
+    "key": "e_93504af1d6_0006_40fd78a321",
+    "original": "エヴァ初号機、\\n量産機に拘引されていきます",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 298\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1904_09_005"
+  },
+  {
+    "key": "e_93504af1d6_0007_b20478cd75",
+    "original": "高度１万２千、さらに上昇中！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 302\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1904_10_006"
+  },
+  {
+    "key": "e_93504af1d6_0008_6ac624e4dc",
+    "original": "ゼーレめ、\\n初号機をヨリシロとするつもりか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 306\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1904_06_007"
+  },
+  {
+    "key": "e_93504af1d6_0009_e5a549f5dc",
+    "original": "エヴァシリーズ、\\nＳ２機関を解放！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 310\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1904_10_008"
+  },
+  {
+    "key": "e_93504af1d6_0010_919dbe62c1",
+    "original": "次元測定値が反転！\\nマイナスを示しています",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 314\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1904_09_009"
+  },
+  {
+    "key": "e_93504af1d6_0011_6d5b48b74e",
+    "original": "観測不能\\n数値化出来ません",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 318\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1904_09_009_1"
+  },
+  {
+    "key": "e_93504af1d6_0012_359448a5b2",
+    "original": "アンチＡ．Ｔ．フィールドか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 322\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1904_06_010"
+  },
+  {
+    "key": "e_93504af1d6_0013_b3e0f741ff",
+    "original": "全ての現象が、１５年前と酷似してる",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 326\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1904_08_011"
+  },
+  {
+    "key": "e_93504af1d6_0014_cf52362fbf",
+    "original": "じゃあ、これって、\\nやっぱりサードインパクトの前兆なの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 330\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1904_08_011_1"
+  },
+  {
+    "key": "e_93504af1d6_0015_3140c4ef83",
+    "original": "人類の生命の源たるリリスの卵、黒き月",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 334\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1904_06_012"
+  },
+  {
+    "key": "e_93504af1d6_0016_ca313394af",
+    "original": "今更、その殻の中へと還る事は望まぬ\\nだが、それもリリス次第か",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 338\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1904_06_012_1"
+  },
+  {
+    "key": "e_93504af1d6_0017_41d17fbd5e",
+    "original": "アダムとリリスの、禁じられた融合",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 396\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA09_0002_05_001"
+  },
+  {
+    "key": "e_93504af1d6_0018_744599119b",
+    "original": "欠けた心の補完…\\n不要な身体を捨て、全ての魂を今、ひとつに▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 433\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA09_0002_05_003"
+  },
+  {
+    "key": "e_93504af1d6_0019_c09a7790dd",
+    "original": "そして、ユイのもとへ行こう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 438\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA09_0002_05_004"
+  },
+  {
+    "key": "e_93504af1d6_0020_4be66cf94e",
+    "original": "………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 441\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_93504af1d6_0021_aa1d64d7b7",
+    "original": "始めよう、レイ\\nＡ．Ｔ．フィールドを、心の壁を解き放つのだ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 472\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA09_0002_05_005"
+  },
+  {
+    "key": "e_93504af1d6_0022_694516398a",
+    "original": "どうした、レイ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 484\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1905_05_001"
+  },
+  {
+    "key": "e_93504af1d6_0023_4dfbe75df4",
+    "original": "私はあなたの人形じゃない▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 511\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1905_03_002"
+  },
+  {
+    "key": "e_93504af1d6_0024_cbee45f49b",
+    "original": "私はあなたじゃないもの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 545\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1905_03_002_1"
+  },
+  {
+    "key": "e_93504af1d6_0025_f56ae4b2e8",
+    "original": "頼む！\\n待ってくれレイ！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 570\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1905_05_003"
+  },
+  {
+    "key": "e_93504af1d6_0026_23981dff7c",
+    "original": "だめ\\n碇君が呼んでる",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 595\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1905_03_004"
+  },
+  {
+    "key": "e_93504af1d6_0027_6ae526b4b4",
+    "original": "レイ！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 619\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1905_05_005"
+  },
+  {
+    "key": "e_93504af1d6_0028_42e905cf33",
+    "original": "闇の入り口、そして、闇の終わり\\nそこは、私が還る場所▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 639\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA09_0002_03_004"
+  },
+  {
+    "key": "e_93504af1d6_0029_42212ee59d",
+    "original": "…ただいま",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 644\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA09_0002_03_004_1"
+  },
+  {
+    "key": "e_93504af1d6_0030_1b73e5a0ab",
+    "original": "ターミナルドグマより、高エネルギー体が上昇中！\\n人の影なのか、これは？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 695\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA09_0002_10_009"
+  },
+  {
+    "key": "e_93504af1d6_0031_6d042bbb53",
+    "original": "分析パターン青！\\nまさか、使徒！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 713\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA09_0002_09_010"
+  },
+  {
+    "key": "e_93504af1d6_0032_daf5db72e9",
+    "original": "いや、違う\\nヒト、人間です！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 718\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA09_0002_09_010_1"
+  },
+  {
+    "key": "e_93504af1d6_0033_e5a136015e",
+    "original": "レ…イ…？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 741\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1904_08_018"
+  },
+  {
+    "key": "e_93504af1d6_0034_2ad6525f4a",
+    "original": "ひ…ぃぁ、いやあああぁああ！\\nいいぃやああああああ！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 746\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1904_08_018_1"
+  },
+  {
+    "key": "e_93504af1d6_0035_80e7fa3792",
+    "original": "綾波…レイ！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 759\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_019"
+  },
+  {
+    "key": "e_93504af1d6_0036_01b4924864",
+    "original": "………………………………………………………………\\n…………………………………………………………！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 762\nCall: im.event\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_93504af1d6_0037_3cbc9c3f7d",
+    "original": "うわああああああああああああ！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 765\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_019_2"
+  },
+  {
+    "key": "e_93504af1d6_0038_f1d7bbc20e",
+    "original": "エヴァンゲリオン初号機パイロットの\\n欠けた自我を以って、人々の補完を",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 789\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1904_20_020"
+  },
+  {
+    "key": "e_93504af1d6_0039_4cfaaa1bd4",
+    "original": "三度の報いの時が、今…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 792\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1904_20_020_1"
+  },
+  {
+    "key": "e_93504af1d6_0040_294b191f91",
+    "original": "使徒の持つ生命の実と、\\nヒトの持つ知恵の実、その両方を手に入れた",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 829\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1904_06_021"
+  },
+  {
+    "key": "e_93504af1d6_0041_e06eefabbe",
+    "original": "そして今や、命の胎芽たる\\n生命の樹へと還元している",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 834\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1904_06_021_1"
+  },
+  {
+    "key": "e_93504af1d6_0042_ad56baad9d",
+    "original": "この先に、サードインパクトの無からヒトを\\n救う箱舟となるか、ヒトを滅ぼす悪魔となるのか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 839\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1904_06_022"
+  },
+  {
+    "key": "e_93504af1d6_0043_0eba459a8c",
+    "original": "未来は碇の息子に委ねられたな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 844\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1904_06_022_1"
+  },
+  {
+    "key": "e_93504af1d6_0044_10ce3a23e4",
+    "original": "エヴァシリーズの\\nＡ．Ｔ．フィールドが共鳴！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 858\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1904_10_023"
+  },
+  {
+    "key": "e_93504af1d6_0045_50cf78f04b",
+    "original": "更に、増幅しています！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 884\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1904_09_024"
+  },
+  {
+    "key": "e_93504af1d6_0046_e96722e426",
+    "original": "リリスよりのアンチＡ．Ｔ．フィールド、\\nさらに拡大！　物質化されます！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 906\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1904_10_025"
+  },
+  {
+    "key": "e_93504af1d6_0047_ba800e53dd",
+    "original": "アンチＡ．Ｔ．フィールド、\\n臨界点を突破！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 928\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1904_09_026"
+  },
+  {
+    "key": "e_93504af1d6_0048_c708706e3d",
+    "original": "駄目です！\\nこのままでは個体生命の形が維持出来ません！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 950\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1904_10_027"
+  },
+  {
+    "key": "e_93504af1d6_0049_4bd63320a8",
+    "original": "ガフの部屋が開く…世界の始まりと終局の扉が\\n遂に開いてしまうか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 975\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1904_06_028"
+  },
+  {
+    "key": "e_93504af1d6_0050_cd665082f9",
+    "original": "何を願うの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1098\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_029"
+  },
+  {
+    "key": "e_93504af1d6_0051_e24340acc3",
+    "original": "綾波？\\nここは？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1126\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_030"
+  },
+  {
+    "key": "e_93504af1d6_0052_b8adc01ede",
+    "original": "ここはＬＣＬの海\\n生命の源の海の中",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1131\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_031"
+  },
+  {
+    "key": "e_93504af1d6_0053_6f3528a307",
+    "original": "Ａ．Ｔ．フィールドを失った、\\n自分の形を失った世界",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1136\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_032"
+  },
+  {
+    "key": "e_93504af1d6_0054_c599666cab",
+    "original": "どこまでが自分で、どこからが他人なのかわからない\\nあいまいな世界",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1141\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_032_1"
+  },
+  {
+    "key": "e_93504af1d6_0055_b46dc38a02",
+    "original": "どこまでも自分で、どこにも自分が居なくなってる\\n脆弱な世界",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1146\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_033"
+  },
+  {
+    "key": "e_93504af1d6_0056_a516d1d474",
+    "original": "僕は死んだの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1151\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_034"
+  },
+  {
+    "key": "e_93504af1d6_0057_7ec382cfd6",
+    "original": "いいえ、\\n全てが一つになっているだけ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1156\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_035"
+  },
+  {
+    "key": "e_93504af1d6_0058_8a4454446e",
+    "original": "これがあなたの望んだ世界、そのものよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1161\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_035_1"
+  },
+  {
+    "key": "e_93504af1d6_0059_f2b0ac6c92",
+    "original": "でも、これは違う\\n違うと思う",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1166\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_036"
+  },
+  {
+    "key": "e_93504af1d6_0060_8f3fd9e24e",
+    "original": "他人の存在を今一度望めば、\\n再び心の壁が全ての人々を引き離すわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1171\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_036_1"
+  },
+  {
+    "key": "e_93504af1d6_0061_01bcdec1fc",
+    "original": "また、他人の恐怖が始まるのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1176\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_036_2"
+  },
+  {
+    "key": "e_93504af1d6_0062_6108c74ba6",
+    "original": "…いいんだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1181\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_037"
+  },
+  {
+    "key": "e_93504af1d6_0063_e7a2dbe5af",
+    "original": "…ありがとう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1191\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_038"
+  },
+  {
+    "key": "e_93504af1d6_0064_ec67b28def",
+    "original": "あそこではイヤな事しかなかった気がする",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1196\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_039"
+  },
+  {
+    "key": "e_93504af1d6_0065_61547342f1",
+    "original": "だから、きっと逃げ出してもよかったんだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1199\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_039_1"
+  },
+  {
+    "key": "e_93504af1d6_0066_69c86fe025",
+    "original": "でも、逃げたところにもいい事はなかった",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1204\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_040"
+  },
+  {
+    "key": "e_93504af1d6_0067_7be26a22b4",
+    "original": "だって僕が居ないもの\\n誰も居ないのと同じだもの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1209\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_040_1"
+  },
+  {
+    "key": "e_93504af1d6_0068_13870d2ad7",
+    "original": "再びＡ．Ｔ．フィールドが、\\n君や他人を傷つけてもいいのかい？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1224\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA10_1904_15_041"
+  },
+  {
+    "key": "e_93504af1d6_0069_2c37eba1d4",
+    "original": "構わない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1229\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_042"
+  },
+  {
+    "key": "e_93504af1d6_0070_219b335941",
+    "original": "でも、僕の心の中にいる君達は、\\n…何？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1234\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_042_1"
+  },
+  {
+    "key": "e_93504af1d6_0071_50db95d12b",
+    "original": "希望なのよ\\nヒトは互いにわかり合えるかもしれない、という事の",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1242\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_043"
+  },
+  {
+    "key": "e_93504af1d6_0072_558505f223",
+    "original": "好きだという言葉と共にね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1251\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA10_1904_15_044"
+  },
+  {
+    "key": "e_93504af1d6_0073_f7fa0215a6",
+    "original": "だけどそれは見せかけなんだ、自分勝手な\\n思い込みなんだ、祈りみたいなものなんだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1260\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_045"
+  },
+  {
+    "key": "e_93504af1d6_0074_7ee2e96b3c",
+    "original": "ずっと続くはずはないんだ、いつかは裏切られるんだ\\n僕を見捨てるんだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1263\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_045_1"
+  },
+  {
+    "key": "e_93504af1d6_0075_424f814058",
+    "original": "でも僕は、もう一度会いたいと思った",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1268\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_046"
+  },
+  {
+    "key": "e_93504af1d6_0076_ed0534f594",
+    "original": "その時の気持ちは、本当だと思うから",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1271\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_046_1"
+  },
+  {
+    "key": "e_93504af1d6_0077_0d9e35f4ac",
+    "original": "現実は知らないところに\\n夢は現実の中に",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1283\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA10_1904_15_047"
+  },
+  {
+    "key": "e_93504af1d6_0078_cc50b960a9",
+    "original": "そして、真実は心の中にある",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1288\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_048"
+  },
+  {
+    "key": "e_93504af1d6_0079_699d3563aa",
+    "original": "ヒトの心が自分自身の形を\\n造り出しているからね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1293\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA10_1904_15_049"
+  },
+  {
+    "key": "e_93504af1d6_0080_b4ce23a129",
+    "original": "そして、新たなイメージが\\nそのヒトの心も形も変えていくわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1302\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_050"
+  },
+  {
+    "key": "e_93504af1d6_0081_a621eaae91",
+    "original": "イメージが、想像する力が、自分達の未来を、\\n時の流れを造り出しているもの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1307\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_050_1"
+  },
+  {
+    "key": "e_93504af1d6_0082_fafe139cc8",
+    "original": "ただ、ヒトは自分自身の意思で動かなければ、\\n何も変わらない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1312\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA10_1904_15_051"
+  },
+  {
+    "key": "e_93504af1d6_0083_d847524dc1",
+    "original": "だから、見失った自分は、\\n自分の力で取り戻すのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1317\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_052"
+  },
+  {
+    "key": "e_93504af1d6_0084_297a7691ec",
+    "original": "例え、自分の言葉を失っても\\n他人の言葉に取り込まれても",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1322\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_052_1"
+  },
+  {
+    "key": "e_93504af1d6_0085_266fda7f0a",
+    "original": "自らの心で、自分自身をイメージ出来れば\\n誰もがヒトの形に戻れるわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1327\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1904_03_052_2"
+  },
+  {
+    "key": "e_93504af1d6_0086_bf22232942",
+    "original": "心配ないわよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1340\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA10_1904_22_053"
+  },
+  {
+    "key": "e_93504af1d6_0087_5710287e33",
+    "original": "全ての生命には復元しようとする力がある\\n生きていこうとする心がある",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1345\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA10_1904_22_053_1"
+  },
+  {
+    "key": "e_93504af1d6_0088_d19162afe6",
+    "original": "生きていこうとさえ思えば…\\nどこだって天国になるわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1350\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA10_1904_22_053_2"
+  },
+  {
+    "key": "e_93504af1d6_0089_635a32c168",
+    "original": "だって、生きているんですもの\\n幸せになるチャンスは、どこにでもあるわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1355\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA10_1904_22_054"
+  },
+  {
+    "key": "e_93504af1d6_0090_c57d77dafe",
+    "original": "太陽と、月と、地球がある限り、\\n大丈夫…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1360\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA10_1904_22_054_1"
+  },
+  {
+    "key": "e_93504af1d6_0091_9f43cd6008",
+    "original": "もういいのね？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1519\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA10_1904_22_055"
+  },
+  {
+    "key": "e_93504af1d6_0092_16433900b2",
+    "original": "幸せがどこにあるのか…\\nまだわからない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1523\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_056"
+  },
+  {
+    "key": "e_93504af1d6_0093_9184d264cc",
+    "original": "だけど、ここにいて、生まれて来てどうだったのかは\\nこれからも考え続ける",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1526\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_056_1"
+  },
+  {
+    "key": "e_93504af1d6_0094_499034bfbd",
+    "original": "だけど、それも当たり前の事に\\n何度も気付くだけなんだ、自分が自分でいるために",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1531\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_057"
+  },
+  {
+    "key": "e_93504af1d6_0095_f948125b07",
+    "original": "でも、母さんは…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1536\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_057_1"
+  },
+  {
+    "key": "e_93504af1d6_0096_66ff7f7fa0",
+    "original": "母さんはどうするの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1541\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_057_2"
+  },
+  {
+    "key": "e_93504af1d6_0097_ca059a46e5",
+    "original": "シンジや父さんや…\\nみんなが生きた証",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1546\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA10_1904_22_058"
+  },
+  {
+    "key": "e_93504af1d6_0098_6fc12b217c",
+    "original": "生きていこうとするその証のために…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1551\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA10_1904_22_058_1"
+  },
+  {
+    "key": "e_93504af1d6_0099_ba8a3f3af6",
+    "original": "うん、母さん…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1556\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_059"
+  },
+  {
+    "key": "e_93504af1d6_0100_4da40b4eba",
+    "original": "さよなら…母さん…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 1561\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1904_01_059_1"
+  }
+]

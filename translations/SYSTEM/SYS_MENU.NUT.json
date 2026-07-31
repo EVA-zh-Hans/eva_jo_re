@@ -1,0 +1,44 @@
+[
+  {
+    "key": "e_5076d999ed_0001_6a4815a2dc",
+    "original": "キャラステータス",
+    "translation": "",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: エヴァステータス"
+  },
+  {
+    "key": "e_5076d999ed_0002_0bf5f59ebe",
+    "original": "エヴァステータス",
+    "translation": "",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: 第３新東京市ステータス"
+  },
+  {
+    "key": "e_5076d999ed_0003_bf8d233703",
+    "original": "第３新東京市ステータス",
+    "translation": "",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: オプション"
+  },
+  {
+    "key": "e_5076d999ed_0004_5b717728bb",
+    "original": "オプション",
+    "translation": "",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: チュートリアル"
+  },
+  {
+    "key": "e_5076d999ed_0005_c5974713b0",
+    "original": "チュートリアル",
+    "translation": "",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: タイトル画面へ"
+  },
+  {
+    "key": "e_5076d999ed_0006_dab13c9db8",
+    "original": "タイトル画面へ",
+    "translation": "",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup"
+  },
+  {
+    "key": "e_5076d999ed_0007_ad00bf5b37",
+    "original": "セーブされませんが、よろしいですか？",
+    "translation": "",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 43\nCall: DecideStart"
+  }
+]

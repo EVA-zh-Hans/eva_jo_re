@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_982b2b970e_0001_cdb3c46620",
+    "original": "カジさん、どこにいるの？\\nアンタ、しってる？　ここさいきん、みないんだけど",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 150\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1504_02_001"
+  },
+  {
+    "key": "e_982b2b970e_0002_efcfa84359",
+    "original": "ううん？\\nミサトさんなら知ってるんじゃない？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 156\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1504_01_002"
+  },
+  {
+    "key": "e_982b2b970e_0003_13687b2bea",
+    "original": "そのミサトもいないから\\nアンタにきいてるんじゃないの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 161\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1504_02_003"
+  },
+  {
+    "key": "e_982b2b970e_0004_91694baf97",
+    "original": "一緒なんじゃないのかな？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1504_01_004"
+  },
+  {
+    "key": "e_982b2b970e_0005_c42c4d5f22",
+    "original": "だったら、よけいこまるのよ！！\\nバカ！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 171\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1504_02_005"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "key": "e_58ee56a01b_0001_ba6419878c",
+    "original": "使徒、消失しました！",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na14_0002_09_012"
+  },
+  {
+    "key": "e_58ee56a01b_0002_b471f59a40",
+    "original": "消えた！？\\nどういう事！？",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 46\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0002_07_014"
+  },
+  {
+    "key": "e_58ee56a01b_0003_5df68ff47a",
+    "original": "シンジ君！！",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 81\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0009_04_039"
+  },
+  {
+    "key": "e_58ee56a01b_0004_f91dfcf00c",
+    "original": "じゃあ、あの影の部分が\\n使徒の本体なわけ？",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 111\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0003_04_016"
+  },
+  {
+    "key": "e_58ee56a01b_0005_aa49ee5612",
+    "original": "直径６８０メートル、\\n厚さ約３ナノメートルのね▽",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 114\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0003_07_019"
+  },
+  {
+    "key": "e_58ee56a01b_0006_404b0cd4d7",
+    "original": "その極薄の空間を、内向きのＡ．Ｔ．フィールドで支え、\\n内部はディラックの海と呼ばれる虚数空間…▽",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 117\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0003_07_019_1"
+  },
+  {
+    "key": "e_58ee56a01b_0007_3ad57d43f3",
+    "original": "…多分、別の宇宙に繋がって\\nいるんじゃないかしら？",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 120\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0003_07_019_2"
+  },
+  {
+    "key": "e_58ee56a01b_0008_a99cd1045b",
+    "original": "あの球体みたいなものは？",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 123\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0003_04_022"
+  },
+  {
+    "key": "e_58ee56a01b_0009_bb86aeb3cd",
+    "original": "本体の虚数回路が閉じれば消えてしまう\\n上空の物体こそ影にすぎないわ",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 126\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0003_07_025"
+  },
+  {
+    "key": "e_58ee56a01b_0010_4803c32867",
+    "original": "エヴァを取り込んだ、\\n黒い影が目標か",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 129\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0003_04_028"
+  },
+  {
+    "key": "e_58ee56a01b_0011_44d37b4caf",
+    "original": "ここは、どこなんだろう▽",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 151\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0003_01_001"
+  },
+  {
+    "key": "e_58ee56a01b_0012_6e9162abc8",
+    "original": "外は真っ白だし、\\nレーダー電波やソナーは返ってこない…",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 154\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0003_01_001_1"
+  },
+  {
+    "key": "e_58ee56a01b_0013_5d853774fe",
+    "original": "空間が広すぎるんだ",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 157\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0003_01_001_2"
+  },
+  {
+    "key": "e_58ee56a01b_0014_a4864f6c20",
+    "original": "システムを生命維持モードに\\n切り替えてから、…もう１２時間▽",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 160\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0003_01_002"
+  },
+  {
+    "key": "e_58ee56a01b_0015_ea4a532a53",
+    "original": "僕の命も、あと４、５時間か…",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 163\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0003_01_002_1"
+  },
+  {
+    "key": "e_58ee56a01b_0016_cb25dbc346",
+    "original": "………………",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_58ee56a01b_0017_9ebf0f14e4",
+    "original": "エヴァの強制サルベージ！？",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 187\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0006_04_001"
+  },
+  {
+    "key": "e_58ee56a01b_0018_56dfb4d618",
+    "original": "可能と思われる唯一の方法よ▽",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 190\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0006_07_004"
+  },
+  {
+    "key": "e_58ee56a01b_0019_543850895e",
+    "original": "９２２個、現存する全てのＮ２爆雷を\\n中心部に投下▽",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 193\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0006_07_004_1"
+  },
+  {
+    "key": "e_58ee56a01b_0020_8dd819f5d7",
+    "original": "その瞬間的エネルギー量により、使徒が形成している\\nディラックの海を破壊するしかないわ",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 196\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0006_07_004_2"
+  },
+  {
+    "key": "e_58ee56a01b_0021_88c8744390",
+    "original": "でも、これではエヴァの機体がどうなるか、\\nパイロットがどうなるか…救出作戦とは言えないわ",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 199\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0006_04_007"
+  },
+  {
+    "key": "e_58ee56a01b_0022_c3fab9908b",
+    "original": "作戦は、エヴァの機体回収を最優先とします▽",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 202\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0006_07_010"
+  },
+  {
+    "key": "e_58ee56a01b_0023_1bebd49059",
+    "original": "例えボディが寸断されていても構わないわ",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 205\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0006_07_010_1"
+  },
+  {
+    "key": "e_58ee56a01b_0024_0fea131b62",
+    "original": "この際、パイロットの生死は問いません",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 210\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0006_07_010_2"
+  },
+  {
+    "key": "e_58ee56a01b_0025_6035408c25",
+    "original": "………………………\\nもう、保温も酸素の循環も切れてる",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 232\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0008_01_001"
+  },
+  {
+    "key": "e_58ee56a01b_0026_b5e6a5ae78",
+    "original": "…寒い…",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 235\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0008_01_002"
+  },
+  {
+    "key": "e_58ee56a01b_0027_aac163503c",
+    "original": "駄目だ、スーツも限界か…",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 238\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0008_01_003"
+  },
+  {
+    "key": "e_58ee56a01b_0028_4d0a8cafe2",
+    "original": "ここまでか…\\nもう疲れた、何もかも",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 252\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0008_01_004"
+  },
+  {
+    "key": "e_58ee56a01b_0029_3077c19f76",
+    "original": "もういいの？",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 257\nCall: im.event\nSpeaker: IMC_YUI\nVoice: na14_0008_22_005"
+  },
+  {
+    "key": "e_58ee56a01b_0030_543e528cc1",
+    "original": "お母さん？",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 262\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0008_01_006"
+  },
+  {
+    "key": "e_58ee56a01b_0031_3077c19f76",
+    "original": "もういいの？",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 279\nCall: im.event\nSpeaker: IMC_YUI\nVoice: na14_0008_22_007"
+  },
+  {
+    "key": "e_58ee56a01b_0032_e91996df12",
+    "original": "会いたい▽",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 284\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0008_01_009"
+  },
+  {
+    "key": "e_58ee56a01b_0033_6082002cc6",
+    "original": "もう、一度",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 287\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0008_01_009_1"
+  },
+  {
+    "key": "e_58ee56a01b_0034_dea8e94f17",
+    "original": "何てものを…\\n何てものをコピーしたの、私達は…",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 488\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0008_07_038"
+  },
+  {
+    "key": "e_58ee56a01b_0035_15d9b8a69b",
+    "original": "エヴァが、ただの第１使徒の\\nコピーじゃない事はわかる▽",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 491\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0008_04_039"
+  },
+  {
+    "key": "e_58ee56a01b_0036_95950046ec",
+    "original": "でも、ネルフは使徒を全て倒した後\\nエヴァをどうするつもりなの…",
+    "translation": "",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 494\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0008_04_039_1"
+  }
+]

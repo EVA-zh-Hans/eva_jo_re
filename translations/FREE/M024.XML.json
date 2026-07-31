@@ -1,0 +1,74 @@
+[
+  {
+    "key": "e_6abd04a6d2_0002_78edc80a5f",
+    "original": "女民０４",
+    "translation": "",
+    "context": "File: FREE/M024.XML\nLine: 2\nElement: freechar\nAttribute: name"
+  },
+  {
+    "key": "e_6abd04a6d2_0018_2a742684d7",
+    "original": "立ち",
+    "translation": "",
+    "context": "File: FREE/M024.XML\nLine: 11\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_6abd04a6d2_0022_b8647675c4",
+    "original": "歩き",
+    "translation": "",
+    "context": "File: FREE/M024.XML\nLine: 12\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_6abd04a6d2_0026_c6d11b4270",
+    "original": "走り",
+    "translation": "",
+    "context": "File: FREE/M024.XML\nLine: 13\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_6abd04a6d2_0030_a89b5f751c",
+    "original": "アイドル１",
+    "translation": "",
+    "context": "File: FREE/M024.XML\nLine: 14\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_6abd04a6d2_0034_f2494a49ef",
+    "original": "アイドル２",
+    "translation": "",
+    "context": "File: FREE/M024.XML\nLine: 15\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_6abd04a6d2_0038_8547f411a0",
+    "original": "アイドル３",
+    "translation": "",
+    "context": "File: FREE/M024.XML\nLine: 16\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_6abd04a6d2_0042_97ca89c19b",
+    "original": "アイドル４",
+    "translation": "",
+    "context": "File: FREE/M024.XML\nLine: 17\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_6abd04a6d2_0046_e3722e3a6d",
+    "original": "会話１",
+    "translation": "",
+    "context": "File: FREE/M024.XML\nLine: 18\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_6abd04a6d2_0050_f6f6aac2c8",
+    "original": "会話２",
+    "translation": "",
+    "context": "File: FREE/M024.XML\nLine: 19\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_6abd04a6d2_0054_9f16887161",
+    "original": "会話３",
+    "translation": "",
+    "context": "File: FREE/M024.XML\nLine: 20\nElement: motion\nAttribute: name"
+  },
+  {
+    "key": "e_6abd04a6d2_0058_44937cd2e1",
+    "original": "会話４",
+    "translation": "",
+    "context": "File: FREE/M024.XML\nLine: 21\nElement: motion\nAttribute: name"
+  }
+]

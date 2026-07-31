@@ -1,0 +1,98 @@
+[
+  {
+    "key": "e_f07b1d3fe5_0001_c2f5063331",
+    "original": "綾波…来てたんだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 152\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1002_01_001"
+  },
+  {
+    "key": "e_f07b1d3fe5_0002_dc9efafc20",
+    "original": "シンクロテストがあったから",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 187\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1002_03_002"
+  },
+  {
+    "key": "e_f07b1d3fe5_0003_17b5edbd76",
+    "original": "今日は…\\n父さんと一緒じゃないんだね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1002_01_003"
+  },
+  {
+    "key": "e_f07b1d3fe5_0004_6c98ab2d4a",
+    "original": "なぜ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 225\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1002_03_004"
+  },
+  {
+    "key": "e_f07b1d3fe5_0005_62e46f985c",
+    "original": "いつも一緒に\\nいるように見えるから…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 263\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1002_01_005"
+  },
+  {
+    "key": "e_f07b1d3fe5_0006_71ef0dfe0b",
+    "original": "ごめん…\\n憶測だけでそんな事を言って",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 266\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1002_01_005_1"
+  },
+  {
+    "key": "e_f07b1d3fe5_0007_e19e14b5ae",
+    "original": "でも、綾波の方が…\\n僕より父さんの事は詳しいんじゃないかな▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 269\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1002_01_005_2"
+  },
+  {
+    "key": "e_f07b1d3fe5_0008_9b47b93e43",
+    "original": "いっぱい話…してるじゃないか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 272\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1002_01_005_3"
+  },
+  {
+    "key": "e_f07b1d3fe5_0009_3f28071fc4",
+    "original": "そう…かしら？\\n仕事の話しかしないわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 310\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1002_03_006"
+  },
+  {
+    "key": "e_f07b1d3fe5_0010_9a565f349f",
+    "original": "私も何も知らない…碇司令の事\\n碇君の方が…きっと知ってる",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 313\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1002_03_006_1"
+  },
+  {
+    "key": "e_f07b1d3fe5_0011_6c86c20394",
+    "original": "そんな事ないよ\\n僕はまだ…何も知らない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 353\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1002_01_007"
+  },
+  {
+    "key": "e_f07b1d3fe5_0012_04ccdc7063",
+    "original": "ここで父さんが何をしてるのか、\\nどこにいるかとか…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 356\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1002_01_007_1"
+  },
+  {
+    "key": "e_f07b1d3fe5_0013_c6fd98129a",
+    "original": "碇司令は今、\\n南極に行っているわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 392\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1002_03_008"
+  },
+  {
+    "key": "e_f07b1d3fe5_0014_73374816ca",
+    "original": "私が知っているのは、\\nそういう事だけ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 428\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1002_03_010"
+  },
+  {
+    "key": "e_f07b1d3fe5_0015_bb9d57f4e1",
+    "original": "それ以上の事は、\\n何も知らないわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 431\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1002_03_010_1"
+  },
+  {
+    "key": "e_f07b1d3fe5_0016_5f2e46dabe",
+    "original": "…………………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 435\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1002_01_011"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "key": "e_d92c4023da_0001_c5bbc18c1b",
+    "original": "くそ…くそッ、くそッ！！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1404_01_001"
+  },
+  {
+    "key": "e_d92c4023da_0002_15516ac611",
+    "original": "エヴァ初号機、活動停止！！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 39\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0004_08_001"
+  },
+  {
+    "key": "e_d92c4023da_0003_2766a1694c",
+    "original": "動け！　動け！　動いてよ！▽",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 42\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1404_01_002"
+  },
+  {
+    "key": "e_d92c4023da_0004_a5d65b86b6",
+    "original": "今動かなきゃ、みんな死んじゃうんだ！\\nお願いだから動いてよ！！▽",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 45\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1404_01_002_1"
+  },
+  {
+    "key": "e_d92c4023da_0005_3c19c38dfc",
+    "original": "動け！　動いてよ！\\nもう誰も、誰も傷つけたくないんだ！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1404_01_002_2"
+  },
+  {
+    "key": "e_d92c4023da_0006_c852f2a372",
+    "original": "……！？",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 58\nCall: im.event\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_d92c4023da_0007_a908898f36",
+    "original": "…！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 94\nCall: im.event\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_d92c4023da_0008_2ea7ca1f8f",
+    "original": "初号機、再起動！！▽",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 108\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0004_08_002"
+  },
+  {
+    "key": "e_d92c4023da_0009_2fff7f88c4",
+    "original": "まさか…そんな！\\nシンクロ率が４００％を超えています！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 111\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0004_08_002_1"
+  },
+  {
+    "key": "e_d92c4023da_0010_a174bb9ee8",
+    "original": "やはり、…目覚めたのね\\n…彼女が",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 118\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA05_0004_07_002"
+  },
+  {
+    "key": "e_d92c4023da_0011_49a9887a32",
+    "original": "使徒を…食ってる？",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 179\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0004_04_002"
+  },
+  {
+    "key": "e_d92c4023da_0012_8bcb9cbaa8",
+    "original": "うっ…",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 184\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0004_08_003"
+  },
+  {
+    "key": "e_d92c4023da_0013_3df826f552",
+    "original": "はじまったな",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 199\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA05_0004_06_003"
+  },
+  {
+    "key": "e_d92c4023da_0014_59505adc56",
+    "original": "ああ、全ては、これからだ",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 220\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0004_05_001"
+  }
+]

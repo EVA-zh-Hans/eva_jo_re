@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_5122a6ee5f_0001_43536546bf",
+    "original": "スキルプログラムが開発されていません",
+    "translation": "",
+    "context": "File: PREPARE/PRE_SETSKILL2.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5122a6ee5f_0002_00035df266",
+    "original": "実装状況をクリアしますが、よろしいですか？",
+    "translation": "",
+    "context": "File: PREPARE/PRE_SETSKILL2.NUT\nLine: 167\nCall: DecideStart"
+  }
+]

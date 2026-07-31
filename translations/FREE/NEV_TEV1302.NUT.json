@@ -1,0 +1,128 @@
+[
+  {
+    "key": "e_9005323ca4_0001_c687761098",
+    "original": "今回の事件の唯一の当事者であり、被験者である\\n初号機パイロットの直接尋問を拒否したそうだな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 159\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_001"
+  },
+  {
+    "key": "e_9005323ca4_0002_2c353a5980",
+    "original": "はい\\n彼の情緒は大変不安定です▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 203\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_002"
+  },
+  {
+    "key": "e_9005323ca4_0003_78d746e165",
+    "original": "今ここに立つ事が、良策とは思えません",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 207\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_002_1"
+  },
+  {
+    "key": "e_9005323ca4_0004_de4e8343bc",
+    "original": "では、聞こう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 248\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1302_36_003_1"
+  },
+  {
+    "key": "e_9005323ca4_0005_d9cbd84c14",
+    "original": "使徒が我々人類に\\nコンタクトを試みたのではないのかね？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 252\nCall: im.event\nSpeaker: IMC_COMMITTEE2\nVoice: NA10_1302_37_004"
+  },
+  {
+    "key": "e_9005323ca4_0006_a03594081f",
+    "original": "被験者の報告では、それは感じ取れません▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 298\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_005"
+  },
+  {
+    "key": "e_9005323ca4_0007_94f2daa347",
+    "original": "イレギュラーな事件だと推定されます",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 302\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_005_1"
+  },
+  {
+    "key": "e_9005323ca4_0008_c746370be6",
+    "original": "彼の記憶が正しいとすればな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 346\nCall: im.event\nSpeaker: IMC_COMMITTEE3\nVoice: NA10_1302_38_006"
+  },
+  {
+    "key": "e_9005323ca4_0009_84e1586a2f",
+    "original": "エヴァのＡＣレコーダーは作動していなかった\\n確認は取れまい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 389\nCall: im.event\nSpeaker: IMC_COMMITTEE3\nVoice: NA10_1302_38_008"
+  },
+  {
+    "key": "e_9005323ca4_0010_e55aa9461c",
+    "original": "第１２使徒は人間の精神、\\n心に興味を持ったのか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 393\nCall: im.event\nSpeaker: IMC_COMMITTEE4\nVoice: NA10_1302_39_009"
+  },
+  {
+    "key": "e_9005323ca4_0011_18b221ac11",
+    "original": "その返答は出来かねます",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 440\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_010"
+  },
+  {
+    "key": "e_9005323ca4_0012_362edd4e10",
+    "original": "果たして使徒に「心」の概念があるのか、\\n人間の思考が理解できるのか、全く不明ですから",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 444\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_010_1"
+  },
+  {
+    "key": "e_9005323ca4_0013_9a72e97c44",
+    "original": "今回の事件には使徒がエヴァを取り込もうとした、\\nという新しい要素がある",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 495\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1302_36_011"
+  },
+  {
+    "key": "e_9005323ca4_0014_6f7696f7b1",
+    "original": "これが予測され得る第１３使徒以降と\\nリンクする可能性は？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 499\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1302_36_011_1"
+  },
+  {
+    "key": "e_9005323ca4_0015_56bf688eca",
+    "original": "これまでのパターンから、\\n使徒同士の組織的な繋がりは、ほぼ否定されています",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 548\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_012"
+  },
+  {
+    "key": "e_9005323ca4_0016_b8970e66f9",
+    "original": "左様、単独行動のパターンである事は\\n明らかだ、これまではな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 592\nCall: im.event\nSpeaker: IMC_COMMITTEE2\nVoice: NA10_1302_37_013"
+  },
+  {
+    "key": "e_9005323ca4_0017_6f8f8b10fe",
+    "original": "以上だ、下がりたまえ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 643\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_017"
+  },
+  {
+    "key": "e_9005323ca4_0018_8f90d85ec1",
+    "original": "はい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 647\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_018"
+  },
+  {
+    "key": "e_9005323ca4_0019_db81ca5eb0",
+    "original": "どう思うかね？　碇君…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 664\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_019"
+  },
+  {
+    "key": "e_9005323ca4_0020_75834de47d",
+    "original": "使徒は知恵をつけ始めています\\n残された時間は…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 683\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1302_05_020"
+  },
+  {
+    "key": "e_9005323ca4_0021_36b91dd0f2",
+    "original": "あとわずか、という事か",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 721\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_021"
+  }
+]

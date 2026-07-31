@@ -1,0 +1,98 @@
+[
+  {
+    "key": "e_5b080e5b5e_0001_9889b25971",
+    "original": "お疲れさま！\\nなんとか使徒を撃退できたわね▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 120\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5b080e5b5e_0002_49ef6d6f5e",
+    "original": "今は貴重な「ひとときの平和」ってやつかしら",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 121\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5b080e5b5e_0003_122b3ec172",
+    "original": "…ええ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 124\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5b080e5b5e_0004_64f1aef17d",
+    "original": "褒めてあげたいのは山々だけど、\\nこういう時こそ気を引き締めないとね▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 128\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5b080e5b5e_0005_f23d5a407a",
+    "original": "戦闘で負った、あなたやエヴァ、そして\\n第３新東京市の<02>ダメージを回復<//>する必要があるし、▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 129\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5b080e5b5e_0006_1c5c44aa1d",
+    "original": "その費用が足りない場合は、<02>模擬戦<//>を行う事で\\nその戦果に応じた対価が支給されるわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 130\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5b080e5b5e_0007_e697ecb339",
+    "original": "忙しいんですね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5b080e5b5e_0008_9b042007af",
+    "original": "もちろんネルフのスタッフみんなが\\nあなたをサポートするわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 137\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5b080e5b5e_0009_f62751e08a",
+    "original": "はい…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5b080e5b5e_0010_aac25c9cf3",
+    "original": "ま、大変な話ばかりしてても\\nしょうがないわね▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 144\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5b080e5b5e_0011_909ddce050",
+    "original": "そうだ！　戦闘が終わったから、\\nシェルターへの避難勧告も解除されているわよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 146\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5b080e5b5e_0012_4ff82d1db3",
+    "original": "中学生らしく、友達とおしゃべりでもして、\\n仲良くしてきたら？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 147\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5b080e5b5e_0013_8e2da372e5",
+    "original": "きっといい気晴らしになるわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5b080e5b5e_0014_928afa8923",
+    "original": "そして、充～分に平和な日々を満喫したら\\nここに帰って来て<02>日常生活を終了する<//>を選ぶといいわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 149\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_5b080e5b5e_0015_3373cb4dc7",
+    "original": "そしたら、\\nまた戦う事になるんだ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 152\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_5b080e5b5e_0016_d5cd27df71",
+    "original": "ほらほら！　早速気が滅入っちゃってるわよ！\\n早く明るい日の光でも浴びてらっしゃい！",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0020.NUT\nLine: 155\nCall: im.play\nSpeaker: IMC_MISATO"
+  }
+]

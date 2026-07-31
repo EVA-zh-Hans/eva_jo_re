@@ -1,0 +1,56 @@
+[
+  {
+    "key": "e_16b13d9aea_0001_0d08296740",
+    "original": "綾波、綾波！\\n大丈夫か！？",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 84\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0411_01_001"
+  },
+  {
+    "key": "e_16b13d9aea_0002_cb25dbc346",
+    "original": "………………",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 95\nCall: im.event\nSpeaker: IMC_REI"
+  },
+  {
+    "key": "e_16b13d9aea_0003_8f76c895d0",
+    "original": "自分には…自分には、\\n他に何もないなんてそんな事言うなよ…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 110\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0411_01_003"
+  },
+  {
+    "key": "e_16b13d9aea_0004_6834e5472e",
+    "original": "さよならなんて、\\nそんな悲しい事言うなよっ！",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 113\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0411_01_003_1"
+  },
+  {
+    "key": "e_16b13d9aea_0005_d92f4dddf6",
+    "original": "何、泣いているの…？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 116\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0411_03_004"
+  },
+  {
+    "key": "e_16b13d9aea_0006_9a8a90273e",
+    "original": "ごめんなさい▽",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 121\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0411_03_005"
+  },
+  {
+    "key": "e_16b13d9aea_0007_ac09d3db71",
+    "original": "こういう時、どんな顔を\\nすればいいのかわからないの",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 126\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0411_03_005_1"
+  },
+  {
+    "key": "e_16b13d9aea_0008_2a2e27b5a3",
+    "original": "…笑えば…いいと思うよ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 137\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0411_01_006"
+  },
+  {
+    "key": "e_16b13d9aea_0009_98739b95cc",
+    "original": "……！",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 150\nCall: im.event\nSpeaker: IMC_REI"
+  }
+]

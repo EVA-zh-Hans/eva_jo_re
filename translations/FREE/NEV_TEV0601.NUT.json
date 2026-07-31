@@ -1,0 +1,308 @@
+[
+  {
+    "key": "e_c5de083e88_0001_37b456d5bc",
+    "original": "シンジ君、明日はお出かけよ♪",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 164\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0601_04_001"
+  },
+  {
+    "key": "e_c5de083e88_0002_04521d71af",
+    "original": "どこか、行くんですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 205\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0601_01_002"
+  },
+  {
+    "key": "e_c5de083e88_0003_789a15a9fa",
+    "original": "横須賀沖の太平洋上、国連艦隊\\nオーバー・ザ・レインボウよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 209\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0601_04_003"
+  },
+  {
+    "key": "e_c5de083e88_0004_3ef1ca53d1",
+    "original": "明日は早いから、\\n今日は早めに休んでね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 213\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0601_04_003_1"
+  },
+  {
+    "key": "e_c5de083e88_0005_4386f87cbd",
+    "original": "…？\\nはい…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 217\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0601_01_004"
+  },
+  {
+    "key": "e_c5de083e88_0006_502213ddb1",
+    "original": "シンちゃん、\\nちょっと早いけど出かけるわよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 322\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0604_04_001"
+  },
+  {
+    "key": "e_c5de083e88_0007_22ccfc96ef",
+    "original": "太平洋上の国連艦隊なんて、\\nどうやって行くんですか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 358\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0604_01_002"
+  },
+  {
+    "key": "e_c5de083e88_0008_4f05bccf67",
+    "original": "国連軍のヘリを用意してあるわ\\nさ、行きましょ！　彼女と仲良くできるといいわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 363\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0604_04_003"
+  },
+  {
+    "key": "e_c5de083e88_0009_5435884065",
+    "original": "えっ…\\n何の事なんですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 388\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0604_01_004"
+  },
+  {
+    "key": "e_c5de083e88_0010_03feed4904",
+    "original": "わぁ…すごい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 439\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0602_01_001"
+  },
+  {
+    "key": "e_c5de083e88_0011_4c9cd918bd",
+    "original": "あれが、国連所属の太平洋艦隊\\n今日はあの船で、太平洋をクルージングよ♪",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 442\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0602_04_002"
+  },
+  {
+    "key": "e_c5de083e88_0012_e75eda7508",
+    "original": "ヘロォ～、ミサト！！\\nひっさしぶりじゃない、げんきしてた？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 536\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA08_0002_02_004"
+  },
+  {
+    "key": "e_c5de083e88_0013_3aba6899df",
+    "original": "モチ元気よ、あなたも元気そうね！\\nようこそ、日本へ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 573\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA08_0002_04_003"
+  },
+  {
+    "key": "e_c5de083e88_0014_a58194902e",
+    "original": "彼女がエヴァ弐号機パイロット、\\n惣流・アスカ・ラングレーよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 609\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA08_0002_04_003_1"
+  },
+  {
+    "key": "e_c5de083e88_0015_e8362b2275",
+    "original": "よ、よろしく…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 637\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA08_0002_01_001"
+  },
+  {
+    "key": "e_c5de083e88_0016_8ac5c4a160",
+    "original": "あン？\\nアンタ、なんなのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 677\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA08_0002_02_006"
+  },
+  {
+    "key": "e_c5de083e88_0017_ec0ebf1192",
+    "original": "アンタ？\\n僕は…碇…シンジ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 720\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA08_0002_01_002"
+  },
+  {
+    "key": "e_c5de083e88_0018_a5950ab108",
+    "original": "君と同じ、初号機パイロットなんだ\\n…一応",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 725\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA08_0002_01_002_1"
+  },
+  {
+    "key": "e_c5de083e88_0019_f9f342878f",
+    "original": "ハーァ？　アンタが、しょごうきパイロット？\\nウワサのサード・チルドレン？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 759\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA08_0002_02_007"
+  },
+  {
+    "key": "e_c5de083e88_0020_25dcf2311b",
+    "original": "…そう、だけど",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 773\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA08_0002_01_003"
+  },
+  {
+    "key": "e_c5de083e88_0021_e6cc9d364c",
+    "original": "なんかつまんないコね～\\nこんなのがサード・チルドレンだなんてガッカリよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 806\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA08_0002_02_008"
+  },
+  {
+    "key": "e_c5de083e88_0022_17a5f6abf5",
+    "original": "しかし、いきなりの実戦で\\n彼のシンクロ率は、軽く４０は超えたそうだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 811\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0602_11_003"
+  },
+  {
+    "key": "e_c5de083e88_0023_57ae1bd380",
+    "original": "カジさん♪",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 844\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0602_02_004"
+  },
+  {
+    "key": "e_c5de083e88_0024_879468ff5c",
+    "original": "げっ…！？\\nなっ…なんでアンタがこんなところにいるのよ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 883\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0602_04_005"
+  },
+  {
+    "key": "e_c5de083e88_0025_b37ecb4c52",
+    "original": "よう、相変わらずだな\\n俺は彼女の随伴でね、ドイツからの出張さ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 888\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0602_11_006"
+  },
+  {
+    "key": "e_c5de083e88_0026_9dae3d7484",
+    "original": "うかつだったわ…\\n充分考えられる事態だったのに",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 921\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0602_04_007"
+  },
+  {
+    "key": "e_c5de083e88_0027_faa789f09e",
+    "original": "初めまして、碇シンジ君▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 952\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0602_11_008"
+  },
+  {
+    "key": "e_c5de083e88_0028_946460c329",
+    "original": "俺は、加持リョウジ\\n特務機関ネルフ、特殊監査部に所属している",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 956\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0602_11_008_1"
+  },
+  {
+    "key": "e_c5de083e88_0029_a80e24faa6",
+    "original": "ミサトさんとは、\\nお知り合いなんですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 988\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0602_01_009"
+  },
+  {
+    "key": "e_c5de083e88_0030_a8ae34c41f",
+    "original": "あぁ、彼女の事はよく知ってるよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1022\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0602_11_010"
+  },
+  {
+    "key": "e_c5de083e88_0031_7f37942cd3",
+    "original": "仕事上の付き合いよッ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1028\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0602_04_011"
+  },
+  {
+    "key": "e_c5de083e88_0032_14504d8093",
+    "original": "あれ、それ以外は…？\\nシンジ君、彼女の寝相の悪さとか知ってる？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1065\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0602_11_013"
+  },
+  {
+    "key": "e_c5de083e88_0033_44a66d486f",
+    "original": "～～～～～～～～～ッく、\\n子供の前でしょーが、アンタねぇ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1101\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0602_04_014"
+  },
+  {
+    "key": "e_c5de083e88_0034_765ec36878",
+    "original": "ちょーっとぉ、ミサトってば！\\nわたしのにごうき、みにきたんじゃないの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1133\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0602_02_015"
+  },
+  {
+    "key": "e_c5de083e88_0035_c74b59e399",
+    "original": "そ…そうそう、弐号機、そうだったわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1165\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0602_04_016"
+  },
+  {
+    "key": "e_c5de083e88_0036_3f5173017e",
+    "original": "えっと、見せてもらえるかしら？\\n案内してチョーダイ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1169\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0602_04_016_1"
+  },
+  {
+    "key": "e_c5de083e88_0037_a531dce0d9",
+    "original": "わたしのにごうきは、じっせんようにつくられた、\\nせかいはつの、ほんもののエヴァンゲリオンなのよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1204\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0602_02_016_2"
+  },
+  {
+    "key": "e_c5de083e88_0038_c680f4ceaf",
+    "original": "アンタのしょごうきや、ぜろごうきとは\\nかくがちがうのよ！▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1209\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0602_02_016_3"
+  },
+  {
+    "key": "e_c5de083e88_0039_b269fbd5df",
+    "original": "ほら、サード\\nとっとと、きなさいよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1241\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0602_02_016_4"
+  },
+  {
+    "key": "e_c5de083e88_0040_7725ddb19f",
+    "original": "えぇぇ…？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1275\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0602_01_017"
+  },
+  {
+    "key": "e_c5de083e88_0041_0c06bbc621",
+    "original": "あ～、いった～…\\n何なのよって…あれ、使徒じゃないの！！▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1391\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA08_0002_04_006"
+  },
+  {
+    "key": "e_c5de083e88_0042_7cbdda3208",
+    "original": "本部じゃなくって\\nこの船を狙って…？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1394\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA08_0002_04_006_1"
+  },
+  {
+    "key": "e_c5de083e88_0043_4e7678351e",
+    "original": "チャ～ンス！　さっそく、わたしのたたかいを\\nみせてあげる！　ほら、サード、くるのよ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1411\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0602_02_018"
+  },
+  {
+    "key": "e_c5de083e88_0044_5eb2bcdd06",
+    "original": "そっ、そんな…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1414\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0602_01_019"
+  },
+  {
+    "key": "e_c5de083e88_0045_3751aebaac",
+    "original": "ちょっ、ちょっ、ちょっとお…\\n僕までプラグスーツに着替えてどうするんだよ～",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1438\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA08_0002_01_004"
+  },
+  {
+    "key": "e_c5de083e88_0046_64e9e5d356",
+    "original": "アンタ、バカァ？　きまってんじゃない！\\nにごうきでアイツをやっつけるのよ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1453\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA08_0002_02_012"
+  },
+  {
+    "key": "e_c5de083e88_0047_2a7351655b",
+    "original": "来るよ！！\\nあっ、でも武器が…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1475\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA08_0002_01_005"
+  },
+  {
+    "key": "e_c5de083e88_0048_065ce74556",
+    "original": "はっ！\\nこんなのプログナイフがあればじゅうぶんよ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1496\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA08_0002_02_014"
+  },
+  {
+    "key": "e_c5de083e88_0049_fd0410f80c",
+    "original": "さぁ、かかってらっしゃい！\\nさんまいにおろしてやるわよっ！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1499\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA08_0002_02_015"
+  },
+  {
+    "key": "e_c5de083e88_0050_e6c2af7c3d",
+    "original": "わぁぁっ！！\\n前、前！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1504\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0602_01_020"
+  },
+  {
+    "key": "e_c5de083e88_0051_203af5cc19",
+    "original": "ちょっ、ちょっと！！\\nウッソ～～～～～～～～！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1528\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0602_02_021"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_80fdc878bc_0001_f028806e4e",
+    "original": "都市の復興支援",
+    "translation": "",
+    "context": "File: TUT/TUT_F112.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_80fdc878bc_0002_f028806e4e",
+    "original": "都市の復興支援",
+    "translation": "",
+    "context": "File: TUT/TUT_F112.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_80fdc878bc_0003_41b6f5543d",
+    "original": "戦闘で<01>第３新東京市<//>が<02>被災<//>した時には、\\n<12>ミサト<//>に話しかけます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F112.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_80fdc878bc_0004_60a616bd0f",
+    "original": "<02>戦闘で獲得した予算<//>で、<02>都市のダメージを回復<//>します▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F112.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_80fdc878bc_0005_d8b5f1ab9a",
+    "original": "<01>第３新東京市<//>の<02>ダメージ<//>は、\\n<02>戦闘後に獲得できる予算<//>に影響します",
+    "translation": "",
+    "context": "File: TUT/TUT_F112.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

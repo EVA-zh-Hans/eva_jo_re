@@ -1,0 +1,80 @@
+[
+  {
+    "key": "e_f6248a3898_0001_7ea6f3d562",
+    "original": "そして…",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_f6248a3898_0002_b80b71fb19",
+    "original": "普通の日々がはじまる",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_f6248a3898_0003_6ece27b56f",
+    "original": "終わったね、ようやく",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na54_0007_09_023_1"
+  },
+  {
+    "key": "e_f6248a3898_0004_a7f878b8ce",
+    "original": "……",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_MAKOTO"
+  },
+  {
+    "key": "e_f6248a3898_0005_b5999fb8c4",
+    "original": "…………",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MAKOTO"
+  },
+  {
+    "key": "e_f6248a3898_0006_9b084fab98",
+    "original": "そうだ、実は僕、\\n大学でも入りなおそうと思っていてね",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na54_0007_09_023_2"
+  },
+  {
+    "key": "e_f6248a3898_0007_7e600e210c",
+    "original": "ま、詳しくプランは話すよ\\nきっと納得してくれるさ",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na54_0007_09_025"
+  },
+  {
+    "key": "e_f6248a3898_0008_557bde2f6a",
+    "original": "あなたが戦いで得たものは、",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 64\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_f6248a3898_0009_b459758808",
+    "original": "どこか空気の読めない青年だった",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_f6248a3898_0010_4a91211c28",
+    "original": "あなたはそれで、何の不満もない",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_f6248a3898_0011_cba2e1f6b0",
+    "original": "これはこれで味だと、\\nあなたは思っていたからだ",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_f6248a3898_0012_1ba1179c78",
+    "original": "それに…\\nあなたがついてやらないと心配だ",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 69\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_f6248a3898_0013_8d4795eec6",
+    "original": "おめでとう\\n人の補完はなされた",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 73\nCall: im.event\nSpeaker: IMC_NONE"
+  }
+]

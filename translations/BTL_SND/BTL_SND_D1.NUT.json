@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_2f5fc2e18b_0001_dc561ccb24",
+    "original": "やった！　やったわ！",
+    "translation": "",
+    "context": "File: BTL_SND/BTL_SND_D1.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na13_0049_04_005"
+  },
+  {
+    "key": "e_2f5fc2e18b_0002_a2135b9331",
+    "original": "すごいわ…\\nまさに奇跡ね",
+    "translation": "",
+    "context": "File: BTL_SND/BTL_SND_D1.NUT\nLine: 39\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na13_0049_07_006"
+  }
+]

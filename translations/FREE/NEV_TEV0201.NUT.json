@@ -1,0 +1,62 @@
+[
+  {
+    "key": "e_b83e3d3d38_0001_a501733eef",
+    "original": "………………………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 136\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_b83e3d3d38_0002_803b41953d",
+    "original": "ここは…？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 140\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_002"
+  },
+  {
+    "key": "e_b83e3d3d38_0003_629fb8e579",
+    "original": "…知らない天井だ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 144\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_003"
+  },
+  {
+    "key": "e_b83e3d3d38_0004_e5b032e175",
+    "original": "ん、快調そうね！\\n今日はあなたをネルフ本部へ案内するわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 202\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_008"
+  },
+  {
+    "key": "e_b83e3d3d38_0005_60fc452ce7",
+    "original": "父の職場ですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 206\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_009"
+  },
+  {
+    "key": "e_b83e3d3d38_0006_649aeba70d",
+    "original": "私やあなた、シンジ君の仕事の場でもあるのよ？\\nさっ、行きましょう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 210\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_010"
+  },
+  {
+    "key": "e_b83e3d3d38_0007_52d25d0b25",
+    "original": "僕の？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 245\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_011"
+  },
+  {
+    "key": "e_b83e3d3d38_0008_4e552b1e3b",
+    "original": "そうよ…あなたは、エヴァンゲリオン\\n初号機のパイロットなのだから▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 249\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_012"
+  },
+  {
+    "key": "e_b83e3d3d38_0009_47dc8dfe1c",
+    "original": "だから、あなたの\\n仕事場でもあるのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 253\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_012_1"
+  },
+  {
+    "key": "e_b83e3d3d38_0010_6300559c9f",
+    "original": "（また、アレに乗んなきゃ\\n　いけないのか…）",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 262\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_013"
+  }
+]

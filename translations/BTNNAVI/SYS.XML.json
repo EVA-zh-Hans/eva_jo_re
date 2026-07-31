@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_a6c99e80ff_0005_e1832f1dd8",
+    "original": "システムメニュー",
+    "translation": "",
+    "context": "File: BTNNAVI/SYS.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_a6c99e80ff_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/SYS.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_a6c99e80ff_0015_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/SYS.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_a6c99e80ff_0020_8fc7f89916",
+    "original": "戻る",
+    "translation": "",
+    "context": "File: BTNNAVI/SYS.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  }
+]

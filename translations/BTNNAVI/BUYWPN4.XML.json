@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_0dee1af176_0005_3140506470",
+    "original": "武器を調達する",
+    "translation": "",
+    "context": "File: BTNNAVI/BUYWPN4.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_0dee1af176_0010_75fca1d949",
+    "original": "進む",
+    "translation": "",
+    "context": "File: BTNNAVI/BUYWPN4.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  }
+]

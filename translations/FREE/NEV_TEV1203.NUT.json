@@ -1,0 +1,218 @@
+[
+  {
+    "key": "e_9e783d215a_0001_acb38225b1",
+    "original": "さーて、終わった終わった",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 197\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1203_14_001"
+  },
+  {
+    "key": "e_9e783d215a_0002_c3d13ace99",
+    "original": "なあ、ヤキソバ食いに行かへん？\\nシンジ、お前もどや？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 201\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1203_13_002"
+  },
+  {
+    "key": "e_9e783d215a_0003_bad92a467f",
+    "original": "あ、僕は…行くところがあるんだ\\nまた今度誘ってよ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 206\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_003"
+  },
+  {
+    "key": "e_9e783d215a_0004_543c02eed9",
+    "original": "あ、じゃあなシンジ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 211\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1203_14_004"
+  },
+  {
+    "key": "e_9e783d215a_0005_da78bd0eb1",
+    "original": "おう、お疲れさん",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 215\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1203_13_005"
+  },
+  {
+    "key": "e_9e783d215a_0006_9b89aaba22",
+    "original": "じゃあ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 220\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_006"
+  },
+  {
+    "key": "e_9e783d215a_0007_45a90f5dfb",
+    "original": "あの日の思い出は…\\n僕が逃げ出した事…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 280\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_007"
+  },
+  {
+    "key": "e_9e783d215a_0008_8f1ede74a4",
+    "original": "母さんが眠ってる墓に\\n伯父さんと叔母さんが連れて行ってくれた…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 287\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_007_1"
+  },
+  {
+    "key": "e_9e783d215a_0009_aa83a1bdd8",
+    "original": "それから…父さんがいた▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 290\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_007_2"
+  },
+  {
+    "key": "e_9e783d215a_0010_3f960afe7a",
+    "original": "父さんが怖かった…\\n何で怖かったのか、それは覚えていないけれど▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 298\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_007_3"
+  },
+  {
+    "key": "e_9e783d215a_0011_203a92dc4c",
+    "original": "顔もわからない母さん▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 301\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_007_4"
+  },
+  {
+    "key": "e_9e783d215a_0012_c44dcbe6ca",
+    "original": "もう会えない母さん▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 304\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_007_5"
+  },
+  {
+    "key": "e_9e783d215a_0013_5fe65f5576",
+    "original": "あそこに行っても、\\n母さんは何も満たしてはくれなかった▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 312\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_007_6"
+  },
+  {
+    "key": "e_9e783d215a_0014_8211514583",
+    "original": "だから、逃げ出した…怖かった▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 315\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_007_7"
+  },
+  {
+    "key": "e_9e783d215a_0015_052445cd6a",
+    "original": "僕と父さんは、あの時会っても…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 323\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_007_8"
+  },
+  {
+    "key": "e_9e783d215a_0016_2233f0e575",
+    "original": "結局、何も始まらなかった…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 326\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_007_9"
+  },
+  {
+    "key": "e_9e783d215a_0017_c1f6007c5b",
+    "original": "そうだ、ここだ…\\nやっぱり、寂しいところだな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 364\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_008"
+  },
+  {
+    "key": "e_9e783d215a_0018_6d96b2e043",
+    "original": "父…さん？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 411\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_009"
+  },
+  {
+    "key": "e_9e783d215a_0019_5e9f411cc5",
+    "original": "シンジか…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 415\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1203_05_010"
+  },
+  {
+    "key": "e_9e783d215a_0020_5831ed4f14",
+    "original": "…来ていたんだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 419\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_011"
+  },
+  {
+    "key": "e_9e783d215a_0021_5afe4d11e0",
+    "original": "僕は…あの時逃げ出して…\\nその後は来ていない▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 430\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0040_01_004"
+  },
+  {
+    "key": "e_9e783d215a_0022_cc0d2da312",
+    "original": "ここに母さんが眠ってるなんてピンと来ないんだ\\n顔も覚えてないのに",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 433\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0040_01_004_1"
+  },
+  {
+    "key": "e_9e783d215a_0023_62ef720047",
+    "original": "人は思い出を忘れる事で\\n生きて行ける▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 484\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0040_05_004"
+  },
+  {
+    "key": "e_9e783d215a_0024_90cd5768ab",
+    "original": "だが、決して忘れてはならない事もある▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 488\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0040_05_004_1"
+  },
+  {
+    "key": "e_9e783d215a_0025_0dea6eb0ec",
+    "original": "ユイは、そのかけがえのないものを教えてくれた▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 492\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0040_05_004_2"
+  },
+  {
+    "key": "e_9e783d215a_0026_d74c75c324",
+    "original": "私は、その確認をする為に\\nここに来ている",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 496\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0040_05_004_3"
+  },
+  {
+    "key": "e_9e783d215a_0027_16cb5d15e4",
+    "original": "写真とかないの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 500\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0040_01_005"
+  },
+  {
+    "key": "e_9e783d215a_0028_61ac530cea",
+    "original": "残ってはいない…\\nこの墓もただの飾りだ、遺体はない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 510\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0040_05_005"
+  },
+  {
+    "key": "e_9e783d215a_0029_e41c524a1f",
+    "original": "全部、捨てたって…\\nそう伯父さんから聞いてたけど本当だったんだ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 514\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_012"
+  },
+  {
+    "key": "e_9e783d215a_0030_b87410bd48",
+    "original": "全ては心の中だ\\n今はそれでいい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 529\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0040_05_006"
+  },
+  {
+    "key": "e_9e783d215a_0031_cb25dbc346",
+    "original": "………………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 532\nCall: im.event\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_9e783d215a_0032_cadcdc8883",
+    "original": "時間だ、先に帰る",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 545\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1203_05_014"
+  },
+  {
+    "key": "e_9e783d215a_0033_bafab029ed",
+    "original": "あの、父さん…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 577\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_015"
+  },
+  {
+    "key": "e_9e783d215a_0034_89b380d287",
+    "original": "…何だ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 581\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1203_05_016"
+  },
+  {
+    "key": "e_9e783d215a_0035_8c207c96fd",
+    "original": "今日は、嬉しかった…\\n父さんと話せて…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 585\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1203_01_017"
+  },
+  {
+    "key": "e_9e783d215a_0036_9eb962c2ce",
+    "original": "そうか…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 589\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1203_05_018"
+  }
+]

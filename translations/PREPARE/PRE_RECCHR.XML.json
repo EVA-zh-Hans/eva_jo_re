@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_1bb1952490_0004_3363caef87",
+    "original": "無傷",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.XML\nLine: 5\nElement: FACTOR\nAttribute: str"
+  },
+  {
+    "key": "e_1bb1952490_0007_3c417fd77d",
+    "original": "軽傷",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.XML\nLine: 6\nElement: FACTOR\nAttribute: str"
+  },
+  {
+    "key": "e_1bb1952490_0010_10a8949ded",
+    "original": "重傷",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.XML\nLine: 7\nElement: FACTOR\nAttribute: str"
+  },
+  {
+    "key": "e_1bb1952490_0013_82d3130fa5",
+    "original": "死亡",
+    "translation": "",
+    "context": "File: PREPARE/PRE_RECCHR.XML\nLine: 8\nElement: FACTOR\nAttribute: str"
+  }
+]

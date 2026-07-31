@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_11ee3b31eb_0005_8d9a622ae9",
+    "original": "第３新東京市　東地区に出現予定",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO014.XML\nLine: 3\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_11ee3b31eb_0009_b9b86a1d9a",
+    "original": "低高度の空中を浮遊\\nジャンプによる移動",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO014.XML\nLine: 4\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_11ee3b31eb_0013_fd16bd5403",
+    "original": "体のしなりを利用した中距離攻撃\\n体当たり",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO014.XML\nLine: 5\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_11ee3b31eb_0017_8a1941ac7c",
+    "original": "Ａ．Ｔ．フィールドを展開するガード",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO014.XML\nLine: 6\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_11ee3b31eb_0021_b3dd418e21",
+    "original": "足止めの為に、兵装ビルを配置する",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO014.XML\nLine: 7\nElement: DETAIL\nAttribute: exp"
+  }
+]

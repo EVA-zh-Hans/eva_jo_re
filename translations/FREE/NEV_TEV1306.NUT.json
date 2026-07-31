@@ -1,0 +1,56 @@
+[
+  {
+    "key": "e_8fdcf89628_0001_149a5581fd",
+    "original": "４人目？\\nフォース・チルドレンが見つかったの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 151\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1306_04_001"
+  },
+  {
+    "key": "e_8fdcf89628_0002_a10cb29675",
+    "original": "そう▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 155\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1306_07_002"
+  },
+  {
+    "key": "e_8fdcf89628_0003_f878881680",
+    "original": "松代での参号機の起動試験\\nテストパイロットには、４人目を使うわよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 159\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1306_07_002_1"
+  },
+  {
+    "key": "e_8fdcf89628_0004_39c2bafb25",
+    "original": "リツコ、私に隠し事してない？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 187\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1306_04_005"
+  },
+  {
+    "key": "e_8fdcf89628_0005_30e4ae39a2",
+    "original": "…別に",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 217\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1306_07_006"
+  },
+  {
+    "key": "e_8fdcf89628_0006_2cd4b6944f",
+    "original": "ま、いいわ…\\nで、その選ばれた子ってのは誰？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1306_04_007"
+  },
+  {
+    "key": "e_8fdcf89628_0007_aae0f2af63",
+    "original": "これが資料よ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 252\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1306_07_008"
+  },
+  {
+    "key": "e_8fdcf89628_0008_24d814d999",
+    "original": "……………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 256\nCall: im.event\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_8fdcf89628_0009_805cb6540c",
+    "original": "よりにもよって、この子なの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 260\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1306_04_009_1"
+  }
+]

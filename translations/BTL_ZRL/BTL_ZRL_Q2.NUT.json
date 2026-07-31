@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_67c0f68ec5_0001_49a9887a32",
+    "original": "使徒を…食ってる？",
+    "translation": "",
+    "context": "File: BTL_ZRL/BTL_ZRL_Q2.NUT\nLine: 95\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0004_04_002"
+  },
+  {
+    "key": "e_67c0f68ec5_0002_8bcb9cbaa8",
+    "original": "うっ…",
+    "translation": "",
+    "context": "File: BTL_ZRL/BTL_ZRL_Q2.NUT\nLine: 119\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0004_08_003"
+  },
+  {
+    "key": "e_67c0f68ec5_0003_cf4cde8ef8",
+    "original": "はじまったな…",
+    "translation": "",
+    "context": "File: BTL_ZRL/BTL_ZRL_Q2.NUT\nLine: 137\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA05_0004_06_003"
+  },
+  {
+    "key": "e_67c0f68ec5_0004_a06caae74c",
+    "original": "ああ…全てはこれからだ",
+    "translation": "",
+    "context": "File: BTL_ZRL/BTL_ZRL_Q2.NUT\nLine: 156\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0004_05_001"
+  }
+]

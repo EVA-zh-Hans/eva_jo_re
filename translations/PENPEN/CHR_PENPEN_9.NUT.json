@@ -1,0 +1,62 @@
+[
+  {
+    "key": "e_ef95888366_0001_e034f1e700",
+    "original": "あ、よかった、探していたのよ\\nいつも、ペンペンと仲良くしていたからね▽",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_9.NUT\nLine: 104\nCall: im.event2\nSpeaker: IMC_MISATO\nVoice: na54_0014_04_008_1"
+  },
+  {
+    "key": "e_ef95888366_0002_01f4855f8e",
+    "original": "ペンペンね…\\n遠くに預かってもらうことになったの▽",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_9.NUT\nLine: 108\nCall: im.event2\nSpeaker: IMC_MISATO\nVoice: na54_0014_04_008_2"
+  },
+  {
+    "key": "e_ef95888366_0003_96239ad828",
+    "original": "ほら、いまの戦況、全然よくないから…\\nお別れ、言ってくれる？",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_9.NUT\nLine: 111\nCall: im.event2\nSpeaker: IMC_MISATO\nVoice: na54_0014_04_008_3"
+  },
+  {
+    "key": "e_ef95888366_0004_4d0772cd79",
+    "original": "クー",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_9.NUT\nLine: 118\nCall: im.event2\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_009"
+  },
+  {
+    "key": "e_ef95888366_0006_29cf32876f",
+    "original": "お別れを告げる",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_9.NUT\nLine: 121\nCall: im.question\nSpeaker: IMC_NONE\nVoice: 微笑む"
+  },
+  {
+    "key": "e_ef95888366_0007_37b2e533a8",
+    "original": "微笑む",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_9.NUT\nLine: 121\nCall: im.question\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_ef95888366_0008_e0d9cb3002",
+    "original": "なぜ抱き上げないのという顔をしているペンペンに\\nあなたはお別れを言った",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_9.NUT\nLine: 130\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_ef95888366_0009_7301aa3187",
+    "original": "お別れは終わった？　じゃあ、連れて行くわね\\n…また、いつか会えるわよ",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_9.NUT\nLine: 138\nCall: im.event2\nSpeaker: IMC_MISATO\nVoice: na54_0014_04_011"
+  },
+  {
+    "key": "e_ef95888366_0010_07db23f07f",
+    "original": "クー　クー　クー",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_9.NUT\nLine: 146\nCall: im.event2\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_010"
+  },
+  {
+    "key": "e_ef95888366_0011_7301aa3187",
+    "original": "お別れは終わった？　じゃあ、連れて行くわね\\n…また、いつか会えるわよ",
+    "translation": "",
+    "context": "File: PENPEN/CHR_PENPEN_9.NUT\nLine: 154\nCall: im.event2\nSpeaker: IMC_MISATO\nVoice: na54_0014_04_011"
+  }
+]

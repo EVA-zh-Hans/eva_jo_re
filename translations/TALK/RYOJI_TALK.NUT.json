@@ -1,0 +1,1562 @@
+[
+  {
+    "key": "e_37518f2cdf_0002_8bfc665fe2",
+    "original": "シンジ君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 102"
+  },
+  {
+    "key": "e_37518f2cdf_0003_7faf5c4e05",
+    "original": "レイ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 103"
+  },
+  {
+    "key": "e_37518f2cdf_0004_d40a6a7733",
+    "original": "アスカ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 104"
+  },
+  {
+    "key": "e_37518f2cdf_0005_ee11ae3ed4",
+    "original": "渚君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 105"
+  },
+  {
+    "key": "e_37518f2cdf_0006_a6354ada0e",
+    "original": "トウジ君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 106"
+  },
+  {
+    "key": "e_37518f2cdf_0007_04036ebe3a",
+    "original": "相田君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 107"
+  },
+  {
+    "key": "e_37518f2cdf_0008_377efb9379",
+    "original": "洞木さん",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 108"
+  },
+  {
+    "key": "e_37518f2cdf_0009_897c50789a",
+    "original": "葛城",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 109"
+  },
+  {
+    "key": "e_37518f2cdf_0010_85128f6797",
+    "original": "リッちゃん",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 110"
+  },
+  {
+    "key": "e_37518f2cdf_0011_1b9237955a",
+    "original": "俺",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 111"
+  },
+  {
+    "key": "e_37518f2cdf_0012_3db00bd3d6",
+    "original": "碇司令",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 112"
+  },
+  {
+    "key": "e_37518f2cdf_0013_6e1fcccd27",
+    "original": "冬月副司令",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 113"
+  },
+  {
+    "key": "e_37518f2cdf_0014_31b1fdfec3",
+    "original": "青葉君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 114"
+  },
+  {
+    "key": "e_37518f2cdf_0015_419e1ceafb",
+    "original": "日向君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 115"
+  },
+  {
+    "key": "e_37518f2cdf_0016_960ca7434f",
+    "original": "マヤちゃん",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 116"
+  },
+  {
+    "key": "e_37518f2cdf_0017_faed743884",
+    "original": "ペンペン",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 117"
+  },
+  {
+    "key": "e_37518f2cdf_0018_8bfc665fe2",
+    "original": "シンジ君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 118"
+  },
+  {
+    "key": "e_37518f2cdf_0019_7faf5c4e05",
+    "original": "レイ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 119"
+  },
+  {
+    "key": "e_37518f2cdf_0020_d40a6a7733",
+    "original": "アスカ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 120"
+  },
+  {
+    "key": "e_37518f2cdf_0021_ee11ae3ed4",
+    "original": "渚君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 121"
+  },
+  {
+    "key": "e_37518f2cdf_0022_a6354ada0e",
+    "original": "トウジ君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 122"
+  },
+  {
+    "key": "e_37518f2cdf_0023_04036ebe3a",
+    "original": "相田君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 123"
+  },
+  {
+    "key": "e_37518f2cdf_0024_377efb9379",
+    "original": "洞木さん",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 124"
+  },
+  {
+    "key": "e_37518f2cdf_0025_897c50789a",
+    "original": "葛城",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 125"
+  },
+  {
+    "key": "e_37518f2cdf_0026_85128f6797",
+    "original": "リッちゃん",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 126"
+  },
+  {
+    "key": "e_37518f2cdf_0027_1b9237955a",
+    "original": "俺",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 127"
+  },
+  {
+    "key": "e_37518f2cdf_0028_3db00bd3d6",
+    "original": "碇司令",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 128"
+  },
+  {
+    "key": "e_37518f2cdf_0029_6e1fcccd27",
+    "original": "冬月副司令",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 129"
+  },
+  {
+    "key": "e_37518f2cdf_0030_31b1fdfec3",
+    "original": "青葉君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 130"
+  },
+  {
+    "key": "e_37518f2cdf_0031_419e1ceafb",
+    "original": "日向君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 131"
+  },
+  {
+    "key": "e_37518f2cdf_0032_960ca7434f",
+    "original": "マヤちゃん",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 132"
+  },
+  {
+    "key": "e_37518f2cdf_0033_faed743884",
+    "original": "ペンペン",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 133"
+  },
+  {
+    "key": "e_37518f2cdf_0034_8bfc665fe2",
+    "original": "シンジ君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 134"
+  },
+  {
+    "key": "e_37518f2cdf_0035_7faf5c4e05",
+    "original": "レイ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 135"
+  },
+  {
+    "key": "e_37518f2cdf_0036_d40a6a7733",
+    "original": "アスカ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 136"
+  },
+  {
+    "key": "e_37518f2cdf_0037_ee11ae3ed4",
+    "original": "渚君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 137"
+  },
+  {
+    "key": "e_37518f2cdf_0038_a6354ada0e",
+    "original": "トウジ君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 138"
+  },
+  {
+    "key": "e_37518f2cdf_0039_04036ebe3a",
+    "original": "相田君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 139"
+  },
+  {
+    "key": "e_37518f2cdf_0040_377efb9379",
+    "original": "洞木さん",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 140"
+  },
+  {
+    "key": "e_37518f2cdf_0041_897c50789a",
+    "original": "葛城",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 141"
+  },
+  {
+    "key": "e_37518f2cdf_0042_85128f6797",
+    "original": "リッちゃん",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 142"
+  },
+  {
+    "key": "e_37518f2cdf_0043_1b9237955a",
+    "original": "俺",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 143"
+  },
+  {
+    "key": "e_37518f2cdf_0044_3db00bd3d6",
+    "original": "碇司令",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 144"
+  },
+  {
+    "key": "e_37518f2cdf_0045_6e1fcccd27",
+    "original": "冬月副司令",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 145"
+  },
+  {
+    "key": "e_37518f2cdf_0046_31b1fdfec3",
+    "original": "青葉君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 146"
+  },
+  {
+    "key": "e_37518f2cdf_0047_419e1ceafb",
+    "original": "日向君",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 147"
+  },
+  {
+    "key": "e_37518f2cdf_0048_960ca7434f",
+    "original": "マヤちゃん",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 148"
+  },
+  {
+    "key": "e_37518f2cdf_0049_faed743884",
+    "original": "ペンペン",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 149"
+  },
+  {
+    "key": "e_37518f2cdf_0050_dfa158e0f0",
+    "original": "やあ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 152\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0052_70d6f0d13b",
+    "original": "いい笑顔だ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 153\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0054_f313b4aed8",
+    "original": "やあ、待ちかねたよ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 154\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0056_dfa158e0f0",
+    "original": "やあ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 155\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0058_89f36e8f2c",
+    "original": "やれやれ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 156\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0060_e17d461365",
+    "original": "やれやれ\\n苦手な展開だな",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 157\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0062_85650dc95b",
+    "original": "%sはいい子だった\\n何で俺のほうが先に死んでないんだ？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 158\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0064_6efcb821e6",
+    "original": "%sはいい子だった",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 159\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0066_bf678e0c8e",
+    "original": "人はいつか、死ぬよ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 160\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0068_fa79a8c617",
+    "original": "%sが死んだのは残念だった　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 161\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0070_5ebf830662",
+    "original": "%sが死んだか…",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 162\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0072_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 163\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0074_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 164\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0076_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 165\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0078_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 166\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0080_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 167\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0082_dd6925099e",
+    "original": "退院おめでとう　\\nちょっとさびしかったな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 168\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0084_50cb10c420",
+    "original": "退院おめでとう　\\nすこしやせたかい？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 169\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0086_b9bf185806",
+    "original": "退院おめでとう　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 170\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0088_784389f065",
+    "original": "退院したのか　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 171\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0090_c13838c39d",
+    "original": "やれやれ、お早いお帰りで　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 172\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0092_53e636671e",
+    "original": "%sは退院か　\\nまったく、心配させるなあ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 173\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0094_3c105f1ccd",
+    "original": "%sは退院か　\\n大丈夫だといいんだが　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 174\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0096_cbfad34a34",
+    "original": "%sは退院か　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 175\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0098_ce8400c24e",
+    "original": "%sは退院か　\\n見舞い忘れてたな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 176\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0100_349586d0bc",
+    "original": "%sでも、\\n死ぬよりは生きてたほうがいいと思うね　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 177\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0102_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 178\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0104_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 179\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0106_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 180\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0108_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 181\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0110_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 182\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0112_0d42ea0571",
+    "original": "キスするところに困りそうだな\\n早く治してくれ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 183\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0114_2ca9810dfe",
+    "original": "やれやれ　心配したよ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 184\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0116_ba7a2693c8",
+    "original": "重傷そうだな",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 185\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0118_5bfbc7d206",
+    "original": "やれやれ　災難だったな",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 186\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0120_9ce8bc3348",
+    "original": "まあ、死ななくてよかったよ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 187\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0122_2bd9998703",
+    "original": "これでも%sの怪我は\\n心配しているんだ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 188\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0124_84ecbdd24c",
+    "original": "%s、怪我してるな　\\n大事無いといいが　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 189\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0126_29f7099819",
+    "original": "%s、怪我してるな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 190\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0128_62248e9eda",
+    "original": "%sが怪我しているそうだ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 191\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0130_1ef1daea3e",
+    "original": "%sは、まあ、\\n友達少ないのは致命的だな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 192\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0132_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 193\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0134_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 194\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0136_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 195\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0138_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 196\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0140_cf1211da33",
+    "original": "無し",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 197\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0142_2262610e76",
+    "original": "…似合っているよ　\\n口説きたいくらいだ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 198\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0144_39835a9d8e",
+    "original": "素敵だよ　その格好　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 199\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0146_fc8181a530",
+    "original": "似合うじゃないか　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 200\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0148_69fd9f3542",
+    "original": "おしゃれていてるじゃないか　\\nははは　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 201\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0150_1bacf6896b",
+    "original": "まあ、着替えるより先に\\nやることがあるかもな　内面磨くとか　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 202\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0152_8a5ae3035c",
+    "original": "ま、男は着替えるより\\n着てないほうが好きなんだが、▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 203\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0154_a2545993ec",
+    "original": "そこまで%sは\\nわかってないみたいだな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 204\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0156_ce2835d069",
+    "original": "%sの服装、みたかい？\\nいや、みてないならいいんだ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 205\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0158_08414491b3",
+    "original": "%sの服装、みたかい？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 206\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0160_82c563fccf",
+    "original": "%sの服装、みたかい？　\\nいや、説明は要らない　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 207\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0162_8b89861016",
+    "original": "%sが着替えていたけど、\\nありゃデートかもしれないな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 208\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0164_b8b784d263",
+    "original": "この勝利が\\n平和に近づくためのものになるように▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 209\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0166_d8e1a6b972",
+    "original": "俺も、がんばってみるよ　\\n投げ出さずにな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 210\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0168_24f193738b",
+    "original": "いやはや　人類は安泰だな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 211\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0170_3c361a6a97",
+    "original": "大活躍じゃないか　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 212\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0172_a687fa47da",
+    "original": "楽勝だったな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 213\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0174_2fab3b859a",
+    "original": "まあ、実力は認めるよ　殺しの天才だな　君は　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 214\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0176_5d693edce1",
+    "original": "攻撃されてから回避じゃ、なかなかまにあわない▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 215\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0178_d2d886b0cf",
+    "original": "覚えておくと、いいかもな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 216\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0180_6b240ad2bf",
+    "original": "中学生にしては上できさ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 217\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0182_2c006b11ce",
+    "original": "まあ、勝ててよかったよ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 218\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0184_a9c0044fa8",
+    "original": "次は楽勝でたのむよ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 219\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0186_9c5969834b",
+    "original": "お疲れさん　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 220\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0188_677dec0c61",
+    "original": "いい動きだ　\\n偉そうなこと言えなくなったな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 221\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0190_b5147149b5",
+    "original": "模擬戦でがんばりすぎなさんなよ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 222\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0192_5aefd106f0",
+    "original": "いい調子らしいな　模擬戦　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 223\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0194_dca58b1d0f",
+    "original": "いい動きだ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 224\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0196_3061ae4617",
+    "original": "模擬戦では勝てるようになったな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 225\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0198_95ed482c24",
+    "original": "建物を、もう少し使ってみたらどうだい？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 226\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0200_292b2c179b",
+    "original": "実戦ではダメージの影響が大きくなる　\\n次の戦いまでのこるからな▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 227\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0202_65a9211f46",
+    "original": "被害は減らしたほうがいい　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 228\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0204_da7d365f3d",
+    "original": "おお　勝ててるらしいな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 229\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0206_cd9dedebcd",
+    "original": "ま、実戦でもよろしくな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 230\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0208_adb2b77793",
+    "original": "ま、勝てたからいいんじゃないか？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 231\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0210_de7b2cc62d",
+    "original": "ま、防御を固めるのが一番だ▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 232\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0212_f8901d5707",
+    "original": "ある程度までは回避できるが、\\nそれ以上はな…",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 233\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0214_ea0d6f3af4",
+    "original": "何度負けてもいいんじゃないか　\\n色々試すといい　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 234\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0216_9058365a0c",
+    "original": "まあ、惜しかったな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 235\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0218_ea0d6f3af4",
+    "original": "何度負けてもいいんじゃないか　\\n色々試すといい　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 236\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0220_306d22af0a",
+    "original": "あー　すまん　\\nフォローする材料がない　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 237\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0222_654801b746",
+    "original": "結局、本部に突入されたか、\\nダメージを受けすぎたかのどっちかだ▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 238\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0224_b98599db9c",
+    "original": "防御を固めて攻撃をこちらにむければ、\\n回避できるんじゃないか？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 239\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0226_ad9304494c",
+    "original": "模擬戦で良かったよ　\\nあんまり痛くないからな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 240\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0228_66aaf17953",
+    "original": "ま　模擬戦は模擬戦だよ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 241\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0230_52f3b529b2",
+    "original": "ま　模擬戦は模擬戦だよ　\\nくよくよしなさんな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 242\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0232_b28ddc88ff",
+    "original": "ま　模擬戦は模擬戦だよ　\\n今のうちに取り返せるかどうかが重要だな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 243\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0234_9497505914",
+    "original": "平和になる前から国連はネルフに予算操作しはじめてる▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 244\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0236_71ab4dddf8",
+    "original": "どういうことだ？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 245\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0238_ba133901c5",
+    "original": "最近平和になってるな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 246\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0240_6cd5570f7a",
+    "original": "君たちのおかげだな　今生きてるのは　\\nありがとう　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 247\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0242_4703613b7b",
+    "original": "平和がなによりさ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 248\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0244_7ba8178cdf",
+    "original": "平和がなによりさ　\\nああ　死ぬよりはな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 249\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0246_835bc9637e",
+    "original": "アダムのまがい物でも、意外にいけるもんだな　\\nいや、こっちの話…",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 250\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0248_de6f8ed2b2",
+    "original": "ま、パイロットのおかげだな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 251\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0250_f2ea908285",
+    "original": "いい線いってるよ　優勢だ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 252\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0252_f056b2595a",
+    "original": "戦況は優勢ってところだな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 253\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0254_06a483ffbc",
+    "original": "まあ、ここまではシナリオどおりかもしれないな　\\nさてさて、次はどうだ？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 254\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0256_8784fd5774",
+    "original": "エヴァのパイロット…\\n約束された子供、か▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 255\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0258_c19ca0309d",
+    "original": "戦いは続きそうだし、調べてみるかな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 256\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0260_243982fa69",
+    "original": "計画ははじまったばかりだ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 257\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0262_421c4cd011",
+    "original": "戦いはどうなるか…\\n見物だな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 258\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0264_d60a991a27",
+    "original": "あんまり無理はしないほうがいいな\\n先は長い　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 259\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0266_dfb3fd6ea6",
+    "original": "戦況は均衡しているな",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 260\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0268_e912afe6a6",
+    "original": "戦況は芳しくない様だね　\\n大丈夫かい？　無理は禁物だよ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 261\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0270_3d903f4c3b",
+    "original": "みんな生活が苦しいみたいだね\\n贅沢できないな",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 262\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0272_5491289069",
+    "original": "街も随分寂しくなったな…",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 263\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0274_b69765ca4e",
+    "original": "まあ、ここまでは\\nシナリオどおりかもしれないな▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 264\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0276_552bf729f3",
+    "original": "上はあわててない　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 265\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0278_6388639f92",
+    "original": "もう少し、本気で戦ってみたらどうだい？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 266\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0280_81cee0fde6",
+    "original": "俺にはスイカを育てるしかないがね　\\n君は違うはずだ▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 267\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0282_5e768e4118",
+    "original": "君には、エヴァがある　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 268\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0284_80cb26658f",
+    "original": "俺にはスイカを育てるしかないがね　\\n君は違うはずだ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 269\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0286_5777aca48d",
+    "original": "エヴァは飛ぶことができない　\\nそれがまあ、全ての問題かもしれないな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 270\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0288_d0130098e2",
+    "original": "姿でも隠す準備でもするか　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 271\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0290_2d19b2c7e0",
+    "original": "ここも終わりだよ　\\nゴッコ遊びも、終わりだ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 272\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0292_d49aafac0b",
+    "original": "%sか、\\nあんなに目立つのも考え物だが…",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 273\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0294_7ac5704407",
+    "original": "%sか、\\n確かに俺も注目してるな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 274\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0296_68f54d818d",
+    "original": "%sは、\\n確かに目に付く存在だな",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 275\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0298_f60d1cc10e",
+    "original": "%sはまあ、\\n嫌われてるな…",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 276\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0300_75e494248e",
+    "original": "%sはまあ、\\n嫌われてるとしか言い様がないな…",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 277\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0302_1cbbe928fa",
+    "original": "誰も君に強要はしない\\n自分で考え、自分で決めるんだ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 278\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0304_0d083ed4bb",
+    "original": "君には君にしかできない事があるはずだ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 279\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0306_c66bdd253d",
+    "original": "出撃かい？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 280\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0308_6e566f3e83",
+    "original": "ま、後悔の無いようにな",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 281\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0310_8bf02ca95f",
+    "original": "そろそろ退散するか",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 282\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0312_5dd11d757e",
+    "original": "俺には色々ひっかかるところがあってね\\nそれを調べたい",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 283\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0314_82c162f135",
+    "original": "使徒ってのはなんなんだろうな　\\n国連職員である俺にも良く分らない　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 284\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0316_8980b3013a",
+    "original": "君たちが戦うとき、俺は悲しくなる…\\nいつか大人になればわかるさ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 285\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0318_6f18bbd55e",
+    "original": "…暑いとは言わないんだな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 286\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0320_6b78dc23df",
+    "original": "学校は、まあ、銀行みたいなもんだ　\\nあとで利子がいきてくる▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 287\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0322_4a9c1a58f9",
+    "original": "今ばかり見ないで、未来を考えておけ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 288\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0324_5d1fc07fb9",
+    "original": "パイロットも大変だな　だがまあ、\\nそりゃなにやってたってそうだ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 289\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0326_afe406e041",
+    "original": "友達づきあいか…まあ、深入りしなければ\\nなんとかなるんじゃないか？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 290\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0328_5ddc0cfb2f",
+    "original": "好きなものは…そうだな　\\n死ぬ前になら、言うよ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 291\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0330_c7287873f1",
+    "original": "嫌いなものは、自分自身…だな　\\nみんなと同じさ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 292\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0332_0d70fc2401",
+    "original": "俺の趣味はスイカを育てることだが　\\n君は何になるかな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 293\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0334_efb5ed0124",
+    "original": "遊ぶっていっても、\\n遊ぶ場所もここにはないからなあ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 294\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0336_4e1054af3d",
+    "original": "まあ、試してみるか　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 295\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0338_39c209995b",
+    "original": "いい反応だ　才能がある　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 296\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0340_0af2b0d514",
+    "original": "悲しい恋をしそうな感じだな\\nそんな気がする　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 297\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0342_74c94c30dd",
+    "original": "おいおい\\nそういうのは大人になってからな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 298\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0344_df1d332169",
+    "original": "防御を単純に高めるなら\\n装甲スキルだな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 299\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0346_7cd8f0e5a9",
+    "original": "スキルと戦術を組み合わせたらどうだい▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 300\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0348_eedaabecb2",
+    "original": "威力の弱い連射武器も、\\n攻撃系スキルと組み合わせれば、結構、いける　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 301\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0350_0dc56dbb4e",
+    "original": "ビルを建てられる数は決まってる\\n郊外では活動時間が結構ネックになりやすい▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 302\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0352_03aa89fe38",
+    "original": "活動限界スキル、意外に使えるかもな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 303\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0354_88976b0064",
+    "original": "葛城かい？　まあ、あいかわらずさ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 304\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0356_28ce99a1c4",
+    "original": "アスカももう少し\\n大人になってくれればいいんだが　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 305\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0358_d186854ba1",
+    "original": "碇司令の真意が分らない\\n何を考えている？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 306\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0360_28f41ac6bd",
+    "original": "レイか　よくわからないな\\n謎だらけだ　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 307\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0362_6ed065e64c",
+    "original": "……　いや、\\nたまには話題がないのもいいな　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 308\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0364_818f2a353f",
+    "original": "勘弁してくれ　\\n同じ話ばかり聞かされると疲れちまう　",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 309\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0366_1ae2871239",
+    "original": "君がエヴァのパイロットか\\n俺は加持リョウジ▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 471\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_001_1"
+  },
+  {
+    "key": "e_37518f2cdf_0368_46f22b15c2",
+    "original": "まあ、しぶいおじさんになろうとしているあたりの\\nお兄さんだな",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 472\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_001_2"
+  },
+  {
+    "key": "e_37518f2cdf_0370_2c19ff72a1",
+    "original": "こっちには慣れたかい？\\nいや、それならいいんだ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 473\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_002"
+  },
+  {
+    "key": "e_37518f2cdf_0372_5a103ec270",
+    "original": "子供は元気が一番だ\\nもっと笑った方がいいな",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 474\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_003"
+  },
+  {
+    "key": "e_37518f2cdf_0374_06bb45f15c",
+    "original": "その意気だ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 475\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_004"
+  },
+  {
+    "key": "e_37518f2cdf_0376_efb317ac46",
+    "original": "何してるかって？\\nいや、考え事さ▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 476\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_005_1"
+  },
+  {
+    "key": "e_37518f2cdf_0378_ef3e87a486",
+    "original": "考え事が好きなんだ\\n調べ物は好きじゃないがね▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 477\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_005_2"
+  },
+  {
+    "key": "e_37518f2cdf_0380_7c65ee5950",
+    "original": "なぜかそれが仕事になっている\\n世の中は皮肉なもんだ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 478\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_005_3"
+  },
+  {
+    "key": "e_37518f2cdf_0382_892a8e86ef",
+    "original": "子供はいいな　俺も子供の一つも作ってみるかな\\n…いや、子供が子供作る話なんかしないでいい",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 479\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_006"
+  },
+  {
+    "key": "e_37518f2cdf_0384_ac4d5c2c0c",
+    "original": "スイカはいいね　人類の最大の収穫だよ\\n水をやると心が安らぐ▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 480\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_007_1"
+  },
+  {
+    "key": "e_37518f2cdf_0386_89b385edcb",
+    "original": "意外かい？\\nだが人間なんてそんなもんだ▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 481\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_007_2"
+  },
+  {
+    "key": "e_37518f2cdf_0388_f01a6a973f",
+    "original": "物事は見たままじゃないし、\\n裏には変わったことが起きている▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 482\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_007_3"
+  },
+  {
+    "key": "e_37518f2cdf_0390_963cf325bd",
+    "original": "俺はそれが気になるたちでね",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 483\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_007_4"
+  },
+  {
+    "key": "e_37518f2cdf_0392_eb52c6b56b",
+    "original": "加持の頬にキスマークを見つけた\\n加持は手で消した",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 484\nSpeaker: IMC_NONE\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0394_9bb6b7625d",
+    "original": "ま、色々あるのさ\\n大人には",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 485\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_008"
+  },
+  {
+    "key": "e_37518f2cdf_0396_23b165877e",
+    "original": "ネルフという組織は変なものだ▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 486\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_009_1"
+  },
+  {
+    "key": "e_37518f2cdf_0398_af850f33a2",
+    "original": "使徒はいいんだ、あれは、必死に生きようとしている\\nただそれだけにしか見えない▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 487\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_009_2"
+  },
+  {
+    "key": "e_37518f2cdf_0400_218dce2dfb",
+    "original": "問題は使徒と戦う方の人間だな\\nネルフという組織には裏がある　そんな気がする",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 488\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_009_3"
+  },
+  {
+    "key": "e_37518f2cdf_0402_1990420034",
+    "original": "どこを調べても嘘ばかりがある\\n嘘があるのは隠したいことがあるからだ▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 489\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_010_1"
+  },
+  {
+    "key": "e_37518f2cdf_0404_264014856c",
+    "original": "何を隠したいんだ？\\nエヴァ開発にかかった裏金…▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 490\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_010_2"
+  },
+  {
+    "key": "e_37518f2cdf_0406_d5f0ad1f02",
+    "original": "なんてものじゃないほうがいいが\\nそっちなら当たり前すぎて面白くない",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 491\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_010_3"
+  },
+  {
+    "key": "e_37518f2cdf_0408_ad3faa377e",
+    "original": "ネルフの前身はゲヒルン、\\nネルフとゲヒルンを操るのはゼーレ▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 492\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_011_1"
+  },
+  {
+    "key": "e_37518f2cdf_0410_f22ef71726",
+    "original": "ゼーレは使徒と戦うだけではおいやらしい\\nその上で何かをしたい…か",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 493\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_011_2"
+  },
+  {
+    "key": "e_37518f2cdf_0412_204b1a2f4a",
+    "original": "最近、周りが狙われてるな\\nつまりはいいところまで来たというわけだ▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 494\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_012_1"
+  },
+  {
+    "key": "e_37518f2cdf_0414_91bf05faf5",
+    "original": "…ついでに、金の線じゃないらしい\\n俺だけ狙っていない▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 495\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_012_2"
+  },
+  {
+    "key": "e_37518f2cdf_0416_ca33a030bb",
+    "original": "難しそうに見えるが簡単だ\\n要はネルフが、ゼーレと戦ってる▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 496\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_012_3"
+  },
+  {
+    "key": "e_37518f2cdf_0418_3b4ba2d5f5",
+    "original": "俺とは別に、なにかがあって",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 497\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_012_4"
+  },
+  {
+    "key": "e_37518f2cdf_0420_a41131a153",
+    "original": "これを",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 498\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_013"
+  },
+  {
+    "key": "e_37518f2cdf_0422_707fa56284",
+    "original": "ディスクを貰った",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 499\nSpeaker: IMC_NONE\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0424_417f462309",
+    "original": "読めないようになっている\\nま、子供でパイロットは安全だ▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 500\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_014_1"
+  },
+  {
+    "key": "e_37518f2cdf_0426_b676399b72",
+    "original": "やつらのシナリオには、\\n使徒に負けることは入ってないからな▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 501\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_014_2"
+  },
+  {
+    "key": "e_37518f2cdf_0428_91bd6a6a54",
+    "original": "俺はしばらく姿を消すよ\\nまた会ったら、その時は、言えなかったことを言うよ",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 502\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_014_3"
+  },
+  {
+    "key": "e_37518f2cdf_0430_dca9baf558",
+    "original": "そして…▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 503\nSpeaker: IMC_NONE\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0432_b80b71fb19",
+    "original": "普通の日々がはじまる",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 504\nSpeaker: IMC_NONE\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0434_a5f1b39026",
+    "original": "……▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 505\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0436_a5f1b39026",
+    "original": "……▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 506\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0438_a5f1b39026",
+    "original": "……▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 507\nSpeaker: IMC_KAJI\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0440_1395546b27",
+    "original": "元気そうだな　よかった",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 508\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_016"
+  },
+  {
+    "key": "e_37518f2cdf_0442_f341e2a495",
+    "original": "ああ　終わったことさ\\nまあ、言うなら君の勝ちってことだな",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 509\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_017"
+  },
+  {
+    "key": "e_37518f2cdf_0444_06cb4f0f4a",
+    "original": "あなたが戦いで得たものは、\\nひねくれてるのかどうか良くわからない青年だった▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 510\nSpeaker: IMC_NONE\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0446_c495786433",
+    "original": "まあ、いつかは慣れるし\\n分るだろうと、あなたは思った▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 511\nSpeaker: IMC_NONE\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0448_e262692fbb",
+    "original": "まだまだ、人生は長いのだから…▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 512\nSpeaker: IMC_NONE\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0450_8d4795eec6",
+    "original": "おめでとう\\n人の補完はなされた",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 513\nSpeaker: IMC_NONE\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0452_edcbe12854",
+    "original": "…つまんない仕事でもはじめようと思ってね\\n手伝いが欲しい▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 514\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_018_1"
+  },
+  {
+    "key": "e_37518f2cdf_0454_999e9c900e",
+    "original": "…まあ、住み込みのアルバイトあたりでどうだい？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 515\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_018_2"
+  },
+  {
+    "key": "e_37518f2cdf_0456_06cb4f0f4a",
+    "original": "あなたが戦いで得たものは、\\nひねくれてるのかどうか良くわからない青年だった▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 516\nSpeaker: IMC_NONE\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0458_c495786433",
+    "original": "まあ、いつかは慣れるし\\n分るだろうと、あなたは思った▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 517\nSpeaker: IMC_NONE\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0460_e262692fbb",
+    "original": "まだまだ、人生は長いのだから…▽",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 518\nSpeaker: IMC_NONE\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0462_8d4795eec6",
+    "original": "おめでとう\\n人の補完はなされた",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 519\nSpeaker: IMC_NONE\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0476_bb725c7fec",
+    "original": "子供にも色々あるんです！",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 527\nVoice: 情けなさそうに笑う"
+  },
+  {
+    "key": "e_37518f2cdf_0477_5eacced4d4",
+    "original": "情けなさそうに笑う",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 527\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0542_c423675de2",
+    "original": "裏は分った？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 538\nVoice: 言いたいことって？"
+  },
+  {
+    "key": "e_37518f2cdf_0543_7044bb06d7",
+    "original": "言いたいことって？",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 538\nVoice: "
+  },
+  {
+    "key": "e_37518f2cdf_0567_af9c5988bb",
+    "original": "新たな武器が追加されました",
+    "translation": "",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 844\nCall: DecideStart"
+  }
+]

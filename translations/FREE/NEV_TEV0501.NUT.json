@@ -1,0 +1,200 @@
+[
+  {
+    "key": "e_24c0d0c384_0001_f61886e05a",
+    "original": "…また君に借りが出来たな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 193\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_0502_05_001"
+  },
+  {
+    "key": "e_24c0d0c384_0002_87e7394224",
+    "original": "返すつもりないんでしょ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 200\nCall: im.event\nSpeaker: IMC_Q_KAJI\nVoice: NA10_0502_69_002"
+  },
+  {
+    "key": "e_24c0d0c384_0003_ba89a62220",
+    "original": "彼らが情報公開法をタテに迫ってきた資料ですが、\\nダミーも混ぜてあしらっておきました",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 208\nCall: im.event\nSpeaker: IMC_Q_KAJI\nVoice: NA10_0502_69_002_1"
+  },
+  {
+    "key": "e_24c0d0c384_0004_5728f297b1",
+    "original": "政府は裏で法的整備を進めてますが、\\n近日中に頓挫の予定です",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 222\nCall: im.event\nSpeaker: IMC_Q_KAJI\nVoice: NA10_0502_69_002_2"
+  },
+  {
+    "key": "e_24c0d0c384_0005_e964736a77",
+    "original": "で、どうです？　例の計画の方も、\\nこっちで手を打ちましょうか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 244\nCall: im.event\nSpeaker: IMC_Q_KAJI\nVoice: NA10_0502_69_002_3"
+  },
+  {
+    "key": "e_24c0d0c384_0006_e4be6968e3",
+    "original": "いや、君の資料を見る限り、\\n問題はなかろう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 247\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_0502_05_003"
+  },
+  {
+    "key": "e_24c0d0c384_0007_5bdc037671",
+    "original": "では、シナリオ通りに…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 262\nCall: im.event\nSpeaker: IMC_Q_KAJI\nVoice: NA10_0502_69_004"
+  },
+  {
+    "key": "e_24c0d0c384_0008_69fcd9a0b5",
+    "original": "２０世紀最後の年、宇宙より飛来した\\n大質量の隕石が南極に衝突、",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 357\nCall: im.event\nSpeaker: IMC_TEACHER\nVoice: NA10_0501_74_001"
+  },
+  {
+    "key": "e_24c0d0c384_0009_c1bde07806",
+    "original": "氷の大陸を一瞬にして溶解させたのであります…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 444\nCall: im.event\nSpeaker: IMC_TEACHER\nVoice: NA10_0501_74_001_1"
+  },
+  {
+    "key": "e_24c0d0c384_0010_ee60cde23d",
+    "original": "海洋の水位は上昇し、地軸も曲がり、\\n生物の存在をも脅かす異常気象が世界中を襲いました",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 470\nCall: im.event\nSpeaker: IMC_TEACHER\nVoice: NA10_0501_74_001_2"
+  },
+  {
+    "key": "e_24c0d0c384_0011_d3882b62f8",
+    "original": "そして、数千種の生物と共に、\\n人類の半分が永遠に失われたのであります…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 514\nCall: im.event\nSpeaker: IMC_TEACHER\nVoice: NA10_0501_74_001_3"
+  },
+  {
+    "key": "e_24c0d0c384_0012_48d254246c",
+    "original": "これが世に言う、\\nセカンドインパクトであります…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 548\nCall: im.event\nSpeaker: IMC_TEACHER\nVoice: NA10_0501_74_001_4"
+  },
+  {
+    "key": "e_24c0d0c384_0013_d483d39b3e",
+    "original": "シンジ、屋上行こうぜ…\\n国連軍の航空演習のコースが学校の真上なんだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 612\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0501_14_002"
+  },
+  {
+    "key": "e_24c0d0c384_0014_677d69d5dd",
+    "original": "そろそろ時間なんだよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 617\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0501_14_002_1"
+  },
+  {
+    "key": "e_24c0d0c384_0015_3d58b9449c",
+    "original": "授業中じゃないか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 622\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0501_01_003"
+  },
+  {
+    "key": "e_24c0d0c384_0016_7738f7010c",
+    "original": "あの先生、セカンドインパクトの\\n話になったら止まらないんだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 630\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0501_14_004"
+  },
+  {
+    "key": "e_24c0d0c384_0017_675f863019",
+    "original": "いいよ、いいよ\\n毎回話す事、同じなんだもん",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 635\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0501_14_004_1"
+  },
+  {
+    "key": "e_24c0d0c384_0018_6ad28b689a",
+    "original": "ほな、行くで…\\nそーっとな！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 644\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_0501_13_005"
+  },
+  {
+    "key": "e_24c0d0c384_0019_fafc38a856",
+    "original": "もぉ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 651\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0501_01_006"
+  },
+  {
+    "key": "e_24c0d0c384_0020_021c9ab657",
+    "original": "あー、ええ天気や",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 709\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_0501_13_007"
+  },
+  {
+    "key": "e_24c0d0c384_0021_2223f313f1",
+    "original": "こういうの、\\nしょっちゅうやってるの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 712\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0501_01_008"
+  },
+  {
+    "key": "e_24c0d0c384_0022_3164ad1a9c",
+    "original": "まあ…あの先生が\\nセカンドインパクトの話を始めたらね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 743\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0501_14_009"
+  },
+  {
+    "key": "e_24c0d0c384_0023_d1aee03b18",
+    "original": "ま、後で委員長から\\n説教食らうぐらいさ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 746\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0501_14_009_1"
+  },
+  {
+    "key": "e_24c0d0c384_0024_69e2096419",
+    "original": "ホンマ、あの女うるさいわ\\nミサトさんとは大違いやな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 778\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_0501_13_010"
+  },
+  {
+    "key": "e_24c0d0c384_0025_3f8ba3a9aa",
+    "original": "美人だし、ネルフの作戦担当でさ…\\nかーっこいいよな！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 781\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0501_14_011"
+  },
+  {
+    "key": "e_24c0d0c384_0026_8fa312d430",
+    "original": "あんな姉さん、\\nワシも欲しーわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 784\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_0501_13_012"
+  },
+  {
+    "key": "e_24c0d0c384_0027_7daffa00df",
+    "original": "意外とガサツだよ？　部屋とか汚いし、\\nビールばっかり飲んでだらしないし…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 817\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0501_01_013"
+  },
+  {
+    "key": "e_24c0d0c384_0028_abbee55266",
+    "original": "だらしないところってのは、きっと、\\n他人の俺達には見せない無防備な姿なんだよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 845\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0501_14_016_1"
+  },
+  {
+    "key": "e_24c0d0c384_0029_de8003d4da",
+    "original": "ミサトさんは、シンジが家族だから\\nそんな風に無防備になれるのさ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 869\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0501_14_016_2"
+  },
+  {
+    "key": "e_24c0d0c384_0030_5f2e46dabe",
+    "original": "…………………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 872\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_0501_01_017"
+  },
+  {
+    "key": "e_24c0d0c384_0031_2b26d88db1",
+    "original": "俺らよりも、家族らしい家族がおるんや\\nしかも、ごっついベッピンさんの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 910\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_0501_13_018"
+  },
+  {
+    "key": "e_24c0d0c384_0032_1b861dee7a",
+    "original": "そーそー、あんな綺麗な人と住んでて\\nエヴァを操縦できるんだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 916\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0501_14_019"
+  },
+  {
+    "key": "e_24c0d0c384_0033_b5291a62bc",
+    "original": "うらやましいよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 919\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0501_14_019_1"
+  }
+]

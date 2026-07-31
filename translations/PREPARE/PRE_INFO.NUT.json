@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_7097123fcf_0001_0a30f7ec4c",
+    "original": "よう！ 情報を制すものは世界を制す\\nしっかり確認して役立ててくれよ",
+    "translation": "",
+    "context": "File: PREPARE/PRE_INFO.NUT\nLine: 43\nCall: im.play\nSpeaker: IMC_AOBA"
+  },
+  {
+    "key": "e_7097123fcf_0002_70cfba175c",
+    "original": "が、しかーし！\\n今は特になにもない、かな…ハハハ",
+    "translation": "",
+    "context": "File: PREPARE/PRE_INFO.NUT\nLine: 48\nCall: im.play\nSpeaker: IMC_AOBA"
+  },
+  {
+    "key": "e_7097123fcf_0003_9a4c0e6465",
+    "original": "もっと知りたい事があるなら、いろんな人と\\n話してみろよ 情報は足で稼がなきゃな",
+    "translation": "",
+    "context": "File: PREPARE/PRE_INFO.NUT\nLine: 94\nCall: im.play\nSpeaker: IMC_AOBA"
+  }
+]

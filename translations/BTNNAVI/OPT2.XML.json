@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_f952655a4e_0005_5b717728bb",
+    "original": "オプション",
+    "translation": "",
+    "context": "File: BTNNAVI/OPT2.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_f952655a4e_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/OPT2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_f952655a4e_0015_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/OPT2.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_f952655a4e_0020_bca84ea5c6",
+    "original": "キャンセル",
+    "translation": "",
+    "context": "File: BTNNAVI/OPT2.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  }
+]

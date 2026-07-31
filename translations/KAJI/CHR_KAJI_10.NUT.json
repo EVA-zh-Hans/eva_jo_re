@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_f4d71f7936_0001_a41131a153",
+    "original": "これを",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 41\nCall: im.event2\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_013"
+  },
+  {
+    "key": "e_f4d71f7936_0002_707fa56284",
+    "original": "ディスクを貰った",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 44\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_f4d71f7936_0003_417f462309",
+    "original": "読めないようになっている\\nま、子供でパイロットは安全だ▽",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 47\nCall: im.event2\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_014_1"
+  },
+  {
+    "key": "e_f4d71f7936_0004_b676399b72",
+    "original": "やつらのシナリオには、\\n使徒に負けることは入ってないからな▽",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 50\nCall: im.event2\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_014_2"
+  },
+  {
+    "key": "e_f4d71f7936_0005_05c222eabc",
+    "original": "俺はしばらく姿を消すよ…また会ったら、\\nその時は、言えなかったことを言うよ",
+    "translation": "",
+    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 53\nCall: im.event2\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_014_3"
+  }
+]

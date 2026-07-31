@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_6bd06e3caf_0005_8d0d58ce27",
+    "original": "データロード",
+    "translation": "",
+    "context": "File: BTNNAVI/LOAD3.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_6bd06e3caf_0010_75fca1d949",
+    "original": "進む",
+    "translation": "",
+    "context": "File: BTNNAVI/LOAD3.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  }
+]

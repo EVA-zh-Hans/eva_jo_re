@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_0cfb815da7_0001_729cc64409",
+    "original": "これが、資料です",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_8.NUT\nLine: 41\nCall: im.event2\nSpeaker: IMC_MAKOTO\nVoice: na54_0007_09_014"
+  },
+  {
+    "key": "e_0cfb815da7_0002_ccddacf395",
+    "original": "ありがとう\\n…ごめんね",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_8.NUT\nLine: 44\nCall: im.event2\nSpeaker: IMC_MISATO\nVoice: na54_0007_04_015"
+  },
+  {
+    "key": "e_0cfb815da7_0003_8e51e5839f",
+    "original": "あなたのためなら",
+    "translation": "",
+    "context": "File: MAKOTO/CHR_MAKOTO_8.NUT\nLine: 49\nCall: im.event2\nSpeaker: IMC_MAKOTO\nVoice: na54_0007_09_016"
+  }
+]

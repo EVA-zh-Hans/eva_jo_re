@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_f4ee0c43d1_0005_f6b3b282cd",
+    "original": "都市の復興を支援する",
+    "translation": "",
+    "context": "File: BTNNAVI/CURECTY3.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_f4ee0c43d1_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/CURECTY3.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_f4ee0c43d1_0015_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/CURECTY3.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  }
+]

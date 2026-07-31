@@ -1,0 +1,56 @@
+[
+  {
+    "key": "e_446afc36a5_0001_7aee0e0037",
+    "original": "アレの資料よ…簡単に目を通しておいて\\n予定通りに近々やるそうよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 154\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0504_07_001"
+  },
+  {
+    "key": "e_446afc36a5_0002_fbc2ac8d83",
+    "original": "わかったわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 181\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0504_04_002"
+  },
+  {
+    "key": "e_446afc36a5_0003_09b8545599",
+    "original": "あの…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 213\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0504_01_003"
+  },
+  {
+    "key": "e_446afc36a5_0004_3b79bb98fe",
+    "original": "あ、あぁ…シンジ君ね\\nどうしたの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 216\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0504_04_004"
+  },
+  {
+    "key": "e_446afc36a5_0005_0aefdaf031",
+    "original": "いえ、\\n特に用はないんですけど",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 244\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0504_01_005"
+  },
+  {
+    "key": "e_446afc36a5_0006_fc3b80e641",
+    "original": "何か…あったんですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 275\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0504_01_005_1"
+  },
+  {
+    "key": "e_446afc36a5_0007_86d254111a",
+    "original": "んー、仕事の話\\nチョッチ、出張が入る予定なの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 301\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0504_04_006"
+  },
+  {
+    "key": "e_446afc36a5_0008_79c8436f08",
+    "original": "へえ、大変…なんですね▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 304\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0504_01_007"
+  },
+  {
+    "key": "e_446afc36a5_0009_3d4ca883d8",
+    "original": "（仕事をしてるミサトさん…\\n　家とは…違う顔だ）",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 307\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_0504_01_008"
+  }
+]

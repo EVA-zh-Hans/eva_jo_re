@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_6231a38a51_0005_c5974713b0",
+    "original": "チュートリアル",
+    "translation": "",
+    "context": "File: BTNNAVI/TUT2.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_6231a38a51_0010_75fca1d949",
+    "original": "進む",
+    "translation": "",
+    "context": "File: BTNNAVI/TUT2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  }
+]

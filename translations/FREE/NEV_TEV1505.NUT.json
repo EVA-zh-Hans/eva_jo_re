@@ -1,0 +1,116 @@
+[
+  {
+    "key": "e_dd9a097863_0001_1c3d5c4daa",
+    "original": "よぉ、シンジ君",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 176\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1505_11_001"
+  },
+  {
+    "key": "e_dd9a097863_0002_df6bcb0fe8",
+    "original": "加持さん",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 181\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1505_01_002"
+  },
+  {
+    "key": "e_dd9a097863_0003_deaf719931",
+    "original": "ミサトさんがいないんです\\n家に帰らなくって",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 215\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1505_01_004"
+  },
+  {
+    "key": "e_dd9a097863_0004_75f49d63a1",
+    "original": "あいつは戻るよ、絶対にね\\n約束する",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 248\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1505_11_005"
+  },
+  {
+    "key": "e_dd9a097863_0005_6fccec8e12",
+    "original": "居場所、知ってるんですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 275\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1505_01_006"
+  },
+  {
+    "key": "e_dd9a097863_0006_2a5be8ad5a",
+    "original": "いや、予想がついてるだけさ\\n実際は、知らないよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 278\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1505_11_007"
+  },
+  {
+    "key": "e_dd9a097863_0007_bebd80db88",
+    "original": "さてと…本題だ\\n君は、お母さんの事をどのぐらい知ってるんだい？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 298\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1505_11_007_1"
+  },
+  {
+    "key": "e_dd9a097863_0008_e633ded9b1",
+    "original": "母さん？\\n何でそんな事を聞くんですか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 325\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1505_01_008"
+  },
+  {
+    "key": "e_dd9a097863_0009_9ca09c7850",
+    "original": "まず一つ、エヴァを造り出したのは\\n君のお母さん、碇ユイだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 328\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1505_11_009"
+  },
+  {
+    "key": "e_dd9a097863_0010_db9278d3a2",
+    "original": "そして自ら、エヴァの起動実験に臨み\\n命を落とした",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 355\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1505_11_009_1"
+  },
+  {
+    "key": "e_dd9a097863_0011_416971cf3d",
+    "original": "え…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 359\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1505_01_010"
+  },
+  {
+    "key": "e_dd9a097863_0012_4b255cb578",
+    "original": "二つ目だ\\n君は母親が消えるその瞬間を、見ていた",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 385\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1505_11_011"
+  },
+  {
+    "key": "e_dd9a097863_0013_48068adc10",
+    "original": "ごめんなさい、冬月先生\\n私が連れてきたんです",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 458\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA10_1505_22_015"
+  },
+  {
+    "key": "e_dd9a097863_0014_6140743efc",
+    "original": "ユイ君、今日は君の実験なんだぞ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 461\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1505_06_016"
+  },
+  {
+    "key": "e_dd9a097863_0015_ca28b8871f",
+    "original": "だからなんです…\\nこの子には、明るい未来を見せておきたかったんです",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 464\nCall: im.event\nSpeaker: IMC_YUI\nVoice: NA10_1505_22_017"
+  },
+  {
+    "key": "e_dd9a097863_0016_41853be21e",
+    "original": "僕は…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 499\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1505_01_018"
+  },
+  {
+    "key": "e_dd9a097863_0017_0ec54c74c3",
+    "original": "僕は、エヴァを知っていた…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 503\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1505_01_018_1"
+  },
+  {
+    "key": "e_dd9a097863_0018_6d20819945",
+    "original": "加持さん…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 556\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1505_01_020"
+  },
+  {
+    "key": "e_dd9a097863_0019_54854d611c",
+    "original": "葛城は、戻るよ…\\nアイツを頼む、シンジ君",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1505.NUT\nLine: 586\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1505_11_021"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_76d6c9345a_0005_8d0d58ce27",
+    "original": "データロード",
+    "translation": "",
+    "context": "File: BTNNAVI/LOAD2.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_76d6c9345a_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/LOAD2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_76d6c9345a_0015_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/LOAD2.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  }
+]

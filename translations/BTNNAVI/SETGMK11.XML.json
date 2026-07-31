@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_c829461271_0005_9df9009aba",
+    "original": "初期装備を変更する",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK11.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_c829461271_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK11.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_c829461271_0015_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK11.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "key": "e_62468268a6_0001_621d8cc344",
+    "original": "模擬戦",
+    "translation": "",
+    "context": "File: TUT/TUT_F106.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_62468268a6_0002_621d8cc344",
+    "original": "模擬戦",
+    "translation": "",
+    "context": "File: TUT/TUT_F106.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_62468268a6_0003_6bbd66b659",
+    "original": "これまで戦った使徒のデータを利用して、\\nシミュレーターによる<02>模擬戦<//>を行います▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F106.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_62468268a6_0004_5cf9f4fad8",
+    "original": "<02>模擬戦<//>を開始するには、<12>マヤ<//>に話しかけます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F106.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_62468268a6_0005_195dfcff2e",
+    "original": "<02>模擬戦<//>で得られた貴重なデータは、\\nネルフの様々な活動に利用されるので、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F106.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_62468268a6_0006_56fb32991b",
+    "original": "<02>戦闘結果に応じた予算<//>を手に入れる事ができます",
+    "translation": "",
+    "context": "File: TUT/TUT_F106.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

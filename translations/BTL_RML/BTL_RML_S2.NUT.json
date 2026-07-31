@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_9d62da7d68_0001_3383fe1a39",
+    "original": "射撃用諸元再入力完了！\\n以降の誤差修正はパイロットの手動操作に任せます！",
+    "translation": "",
+    "context": "File: BTL_RML/BTL_RML_S2.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na52_0021_08_035"
+  },
+  {
+    "key": "e_9d62da7d68_0002_436fcfb859",
+    "original": "いい！？　シンジ君！▽",
+    "translation": "",
+    "context": "File: BTL_RML/BTL_RML_S2.NUT\nLine: 46\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0021_04_036_1"
+  },
+  {
+    "key": "e_9d62da7d68_0003_1333615aa9",
+    "original": "照準で使徒のコアを捕らえ続け、\\n赤くなったら$oボタンを押すのよ！",
+    "translation": "",
+    "context": "File: BTL_RML/BTL_RML_S2.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0021_04_036_2"
+  }
+]

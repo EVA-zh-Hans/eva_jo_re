@@ -1,0 +1,194 @@
+[
+  {
+    "key": "e_0101d3c9fb_0001_ee923d0b94",
+    "original": "電波システム回復\\n南極の碇司令から通信が入っています",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 200\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1004_10_001"
+  },
+  {
+    "key": "e_0101d3c9fb_0002_64c6020e5f",
+    "original": "おつなぎして",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 204\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_002"
+  },
+  {
+    "key": "e_0101d3c9fb_0003_adcfb444ea",
+    "original": "ご苦労だったな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 228\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na10_1004_05_003a"
+  },
+  {
+    "key": "e_0101d3c9fb_0004_ec87a72d44",
+    "original": "ああ、よくやってくれた\\n使徒殲滅が我々の役目だ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 238\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1004_06_004"
+  },
+  {
+    "key": "e_0101d3c9fb_0005_2c04a21743",
+    "original": "多少の被害はいたしかたない\\n大目に見よう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 267\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1004_06_004_1"
+  },
+  {
+    "key": "e_0101d3c9fb_0006_0e4fc44d5a",
+    "original": "ところで、初号機のパイロットはいるか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 283\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1004_05_005"
+  },
+  {
+    "key": "e_0101d3c9fb_0007_f62751e08a",
+    "original": "はい…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 307\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1004_01_006"
+  },
+  {
+    "key": "e_0101d3c9fb_0008_8dfe6c7e26",
+    "original": "話は聞いた\\nよくやったな、シンジ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 311\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1004_05_007"
+  },
+  {
+    "key": "e_0101d3c9fb_0009_23efe38730",
+    "original": "え？\\n…あ、は、はい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 315\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1004_01_008"
+  },
+  {
+    "key": "e_0101d3c9fb_0010_6c73629e37",
+    "original": "シンジ君\\nこの間、聞いたわよね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 375\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_011"
+  },
+  {
+    "key": "e_0101d3c9fb_0011_75b5cbe4fa",
+    "original": "私がどうしてネルフに入ったのかを…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 379\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_011_1"
+  },
+  {
+    "key": "e_0101d3c9fb_0012_33a2ce5967",
+    "original": "私の父はね、自分の研究、\\n夢に生きる人だったわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 418\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_012"
+  },
+  {
+    "key": "e_0101d3c9fb_0013_739ec6ea2f",
+    "original": "そんな父を許せなかった\\n憎んでさえいたわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 422\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_012_1"
+  },
+  {
+    "key": "e_0101d3c9fb_0014_b3d0b53914",
+    "original": "……………\\n（僕の父さんと同じだ）",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 461\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1004_01_013"
+  },
+  {
+    "key": "e_0101d3c9fb_0015_3c3519ab7a",
+    "original": "周りの人達は繊細な人だと\\n言っていたわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 500\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_014_1"
+  },
+  {
+    "key": "e_0101d3c9fb_0016_8eb5a2b837",
+    "original": "でも、ホントは心の弱い、現実から、私達家族という\\n現実から逃げてばかりいた人だったのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 504\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_015"
+  },
+  {
+    "key": "e_0101d3c9fb_0017_a9c1581a20",
+    "original": "子供みたいな人だったわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 539\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_015_1"
+  },
+  {
+    "key": "e_0101d3c9fb_0018_7bc87c4c48",
+    "original": "母が父と別れた時も、\\nすぐに賛成したわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 576\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_015_2"
+  },
+  {
+    "key": "e_0101d3c9fb_0019_ec3a8f4364",
+    "original": "母はいつも泣いてばかりだったもの",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 580\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_015_3"
+  },
+  {
+    "key": "e_0101d3c9fb_0020_454bc80f28",
+    "original": "父はショックだったみたいだけど、\\nその時は自業自得だと笑ったわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 584\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_015_4"
+  },
+  {
+    "key": "e_0101d3c9fb_0021_188122b4dc",
+    "original": "けど、最期は私の身代わりになって死んだの、\\nセカンドインパクトの時にね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 608\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_016"
+  },
+  {
+    "key": "e_0101d3c9fb_0022_3b877c441d",
+    "original": "私にはわからなくなったわ\\n父を憎んでいたのか、好きだったのか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 619\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_017"
+  },
+  {
+    "key": "e_0101d3c9fb_0023_a9c62f348d",
+    "original": "ただ一つ、はっきりとしているのは\\nセカンドインパクトを引き起こした使徒を倒す",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 653\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_017_1"
+  },
+  {
+    "key": "e_0101d3c9fb_0024_6959d09786",
+    "original": "そのためにネルフに入ったわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 659\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_018"
+  },
+  {
+    "key": "e_0101d3c9fb_0025_ed463acde7",
+    "original": "ミサトさん…僕…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 701\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1004_01_019"
+  },
+  {
+    "key": "e_0101d3c9fb_0026_0fb26ae391",
+    "original": "いつも何でエヴァに\\n乗っているんだろうって…そう思っていたんだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 705\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1004_01_019_1"
+  },
+  {
+    "key": "e_0101d3c9fb_0027_5e764868d2",
+    "original": "さっき、父さんの言葉を聞いて褒められる事が\\n嬉しいって、初めてわかったような気がする",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 709\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1004_01_019_2"
+  },
+  {
+    "key": "e_0101d3c9fb_0028_22310a4dc7",
+    "original": "僕は、父さんのさっきの言葉を聞きたくて、\\nエヴァに乗ってるのかもしれないって",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 715\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1004_01_020"
+  },
+  {
+    "key": "e_0101d3c9fb_0029_eb10a7a0bf",
+    "original": "シンジ君、理由はどうあれ、あなたは立派にやってるわ\\n人類を救うためではなくとも",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 752\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_021"
+  },
+  {
+    "key": "e_0101d3c9fb_0030_7a38a06c53",
+    "original": "それは、あなたのお父さんだって\\nわかっているわよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 755\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_021_1"
+  },
+  {
+    "key": "e_0101d3c9fb_0031_f1bcf0a6eb",
+    "original": "胸を張って生きなさい\\nシンジ君▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 790\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_022"
+  },
+  {
+    "key": "e_0101d3c9fb_0032_a579e7c5fc",
+    "original": "見て、あなたが守った都市は\\n今日も綺麗よ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1004.NUT\nLine: 794\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1004_04_022_1"
+  }
+]

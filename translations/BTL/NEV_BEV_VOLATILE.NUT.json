@@ -1,0 +1,254 @@
+[
+  {
+    "key": "e_9259938677_0001_727b72daef",
+    "original": "使徒、殲滅を確認しました！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 22\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA05_0031_09_001"
+  },
+  {
+    "key": "e_9259938677_0002_c86156a22a",
+    "original": "エヴァシリーズ、全機沈黙しました！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA05_0018_10_001"
+  },
+  {
+    "key": "e_9259938677_0003_4e4a46a71f",
+    "original": "エヴァ零号機のアンビリカルケーブル、接続！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 111\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0004_0b1750f6b4",
+    "original": "<02>アンビリカルケーブル　接続！<//>\\nシンクロ率ダウン！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 133\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0005_fd5b819ea2",
+    "original": "エヴァ弐号機のアンビリカルケーブル、接続！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 155\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0006_ae9552e9f0",
+    "original": "エヴァ参号機のアンビリカルケーブル、接続！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 177\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0007_e22c820476",
+    "original": "エヴァ四号機のアンビリカルケーブル、接続！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 199\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0008_c627171bd0",
+    "original": "<02>Ａ．Ｔ．フィールド　バニッシュ！<//>\\n使徒からのダメージ倍加！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 569\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0009_d85d0390f4",
+    "original": "<02>エヴァ使用武器　残弾０！<//>",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 579\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0010_825fdd368e",
+    "original": "<02>武器耐久度、減少！<//>",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 589\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0011_63358b1ce7",
+    "original": "<02>エヴァ、耐久力減少！<//>",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 599\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0012_fc118650b6",
+    "original": "<02>ゼロエリア、耐久力減少！<//>",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 609\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0013_b4695b01cc",
+    "original": "<02>観測ビル、全て破壊！<//>",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 621\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0014_89e07fa4b7",
+    "original": "使徒落下予想範囲、更新します",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 636\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0015_1fd2fbf4da",
+    "original": "エヴァシリーズ、１機撃破！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 659\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0016_28a52ae602",
+    "original": "２機目撃破！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 683\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0017_40999585a2",
+    "original": "３機目撃破！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 707\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0018_f96d3c3764",
+    "original": "４機目撃破！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 731\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0019_c443f167b8",
+    "original": "５機目撃破！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 755\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0020_f8901b546c",
+    "original": "６機目撃破！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 779\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0021_1378c17cda",
+    "original": "７機目撃破！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 803\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0022_bb855772ec",
+    "original": "８機目撃破！\\nあと１機！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 827\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0023_469c5d1100",
+    "original": "目標、１体殲滅！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 851\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0024_d5051a2027",
+    "original": "目標、２体殲滅！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 875\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0025_b2b2c4ff05",
+    "original": "目標、３体殲滅！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 899\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0026_855b8da3be",
+    "original": "目標、４体殲滅！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 923\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0027_5c0cfc2df6",
+    "original": "エヴァ零号機、限界です！\\nエントリープラグ、緊急射出します！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1136\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_001"
+  },
+  {
+    "key": "e_9259938677_0028_8b3708fef4",
+    "original": "エヴァ初号機、限界です！\\nエントリープラグ、緊急射出します！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1168\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_002"
+  },
+  {
+    "key": "e_9259938677_0029_b58cdb8a6a",
+    "original": "エヴァ弐号機、限界です！\\nエントリープラグ、緊急射出します！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1200\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_003"
+  },
+  {
+    "key": "e_9259938677_0030_6b37072dcd",
+    "original": "エヴァ参号機、限界です！\\nエントリープラグ、緊急射出します！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1232\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_004"
+  },
+  {
+    "key": "e_9259938677_0031_87b9be0768",
+    "original": "エヴァ四号機、限界です！\\nエントリープラグ、緊急射出します！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1264\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_005"
+  },
+  {
+    "key": "e_9259938677_0032_96d2190936",
+    "original": "エヴァ零号機の予備電源終了\\n活動限界です！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1303\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_001"
+  },
+  {
+    "key": "e_9259938677_0033_6328f4cddf",
+    "original": "エヴァ初号機の予備電源終了\\n活動限界です！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1322\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_002"
+  },
+  {
+    "key": "e_9259938677_0034_6b76770afe",
+    "original": "エヴァ弐号機の予備電源終了\\n活動限界です！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1341\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_003"
+  },
+  {
+    "key": "e_9259938677_0035_31b7d2e45f",
+    "original": "エヴァ参号機の予備電源終了\\n活動限界です！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1360\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_004"
+  },
+  {
+    "key": "e_9259938677_0036_75bce948c8",
+    "original": "エヴァ四号機の予備電源終了\\n活動限界です！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1380\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_005"
+  },
+  {
+    "key": "e_9259938677_0037_5795e16f2e",
+    "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1419\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0038_5795e16f2e",
+    "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1436\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0039_5795e16f2e",
+    "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1453\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0040_5795e16f2e",
+    "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1470\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0041_5795e16f2e",
+    "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1487\nCall: DecideStart2"
+  },
+  {
+    "key": "e_9259938677_0042_cd62317c3e",
+    "original": "<02>Ａ．Ｔ．フィールド　バニッシュ！<//>\\n目標の防御力激減！",
+    "translation": "",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1831\nCall: DecideStart2"
+  }
+]

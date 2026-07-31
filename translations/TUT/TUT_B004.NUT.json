@@ -1,0 +1,158 @@
+[
+  {
+    "key": "e_31d0d8a470_0001_dbaaa34720",
+    "original": "マップギミックについて",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_31d0d8a470_0002_dbaaa34720",
+    "original": "マップギミックについて",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 23\nCall: DecideStart"
+  },
+  {
+    "key": "e_31d0d8a470_0003_1a2cf5b2de",
+    "original": "切断された電源は、<02>電源ビル<//>で\\n<02>再接続<//>する事ができます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0004_bc22f84461",
+    "original": "<02>予備電源<//>の残量は\\n<02>活動限界時間<//>として表示されますが▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0005_1168a48d49",
+    "original": "電源を<02>再接続<//>する事で\\n<02>予備電源<//>を<02>充電<//>する事ができます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 30\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0006_34a4f20885",
+    "original": "電源は$Rボタンを押しながら\\n$#ボタンと$xボタンを同時に押すと、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 31\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0007_ded0e25d0f",
+    "original": "自分で<02>切断<//>する事もできます",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 32\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0008_4995f31f55",
+    "original": "<02>観測ビル<//>が配置されたマップで戦闘を行う事で\\n使徒の<02>分析<//>を行う事ができます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 45\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0009_45e93ae1c1",
+    "original": "<02>分析<//>が完了すると、使徒の現在の\\n<02>耐久力<//>と<02>Ａ．Ｔ．<//>が表示されるようになり、",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0010_317c828c7b",
+    "original": "<02>ポーズメニュー<//>内で<02>弱点部位<//>、\\n<02>有効武器<//>が分かるようになります▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 59\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0011_48013726c7",
+    "original": "なお、多くの<02>観測ビル<//>を配置すると、\\n<02>分析<//>にかかる時間は短縮されます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 60\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0012_f6b6b0c0d7",
+    "original": "マップ上の<02>観測ビル<//>が全て破壊されてしまうと\\n分析は<02>中断<//>されてしまいます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 61\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0013_5d055c0e68",
+    "original": "また、<02>分析<//>が完了していた場合でも、\\n<02>耐久力<//>と<02>Ａ．Ｔ．<//>が把握できなくなってしまいます",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 62\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0014_fe1fcd22fa",
+    "original": "エヴァの基本武装は<02>演習ナイフ<//>ですが、\\nその他にも様々な武器を使用する事ができます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 74\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0015_3d83d30424",
+    "original": "武器は使用しつづけると、\\n<02>射撃武器<//>の場合は<02>弾切れ<//>、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 75\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0016_b41b9e6ee2",
+    "original": "<02>格闘武器<//>の場合は<02>耐久度<//>が減少し、\\n本来の性能が出せなくなっていきます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 76\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0017_3f2ee1b238",
+    "original": "その場合は武器を<02>換装<//>する必要があります▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 77\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0018_dfc31599b5",
+    "original": "武器の<02>換装<//>は<02>武器庫ビル<//>に近づいて\\n$#ボタンで行います▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 78\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0019_fc7d9961b7",
+    "original": "武器は$Rボタンを押しながら\\n$^ボタンと$oボタンを同時に押すと、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 79\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0020_1cbc779066",
+    "original": "装備している武器を廃棄する事もできます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 80\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0021_1fa402d35b",
+    "original": "なお、武器を<02>換装<//>すると\\nエヴァの挙動が変化します",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 81\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0022_c9d4f1ca4c",
+    "original": "<02>兵装ビル<//>の攻撃の状況は\\n画面右部に表示されます",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 94\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0023_ab3ea2923d",
+    "original": "<02>兵装ビル<//>は使徒が<02>捕捉範囲内<//>に入り\\n<02>捕捉時間<//>が経過すると自動迎撃を行います",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 107\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0024_344a80dc57",
+    "original": "有効な射程範囲や、威力は\\n兵装ビルによって異なります▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 120\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0025_90de6cb5b0",
+    "original": "<02>兵装ビル<//>と使徒との位置関係によっては、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 121\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_31d0d8a470_0026_bc4f88cbf1",
+    "original": "エヴァがダメージを受ける場合があるので\\n気をつけてください",
+    "translation": "",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

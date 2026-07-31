@@ -1,0 +1,134 @@
+[
+  {
+    "key": "e_5da6203042_0001_72407fa1e4",
+    "original": "試作された、ダミープラグです\\nレイの人格が移植されています▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 134\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1305_07_001"
+  },
+  {
+    "key": "e_5da6203042_0002_eb0da517a1",
+    "original": "ただ、人の心…\\n魂はデジタル化出来ません▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 137\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1305_07_001_1"
+  },
+  {
+    "key": "e_5da6203042_0003_9fdec6f08b",
+    "original": "あくまでフェイク\\n擬似的なものに過ぎません▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 165\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1305_07_001_2"
+  },
+  {
+    "key": "e_5da6203042_0004_ed5a3fc373",
+    "original": "パイロットの思考のマネをする\\nただの機械です",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 169\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1305_07_001_3"
+  },
+  {
+    "key": "e_5da6203042_0005_ff24fc5e09",
+    "original": "信号パターンをエヴァに送り込む、エヴァがそこに\\nパイロットがいると思い込みシンクロさえすればいい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 173\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1305_05_002"
+  },
+  {
+    "key": "e_5da6203042_0006_45ba210f56",
+    "original": "初号機と弐号機には、\\nデータを入れておけ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 177\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1305_05_002_1"
+  },
+  {
+    "key": "e_5da6203042_0007_a742232f6e",
+    "original": "まだ問題が残っていますが",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 181\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1305_07_003"
+  },
+  {
+    "key": "e_5da6203042_0008_40898e3b38",
+    "original": "構わん\\nエヴァが動けばいい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 185\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1305_05_004"
+  },
+  {
+    "key": "e_5da6203042_0009_5611c1f2aa",
+    "original": "参号機の搬送はＵＮに一任してある、じき届くだろう\\nあとは君の方でやってくれ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 210\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1305_05_006"
+  },
+  {
+    "key": "e_5da6203042_0010_7bb4997f78",
+    "original": "はい\\n調整ならびに起動試験は、松代で行います",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 213\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1305_07_007"
+  },
+  {
+    "key": "e_5da6203042_0011_a76c5dbfb7",
+    "original": "テストパイロットはどうする",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 242\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1305_05_008"
+  },
+  {
+    "key": "e_5da6203042_0012_b0d82dc47b",
+    "original": "ダミープラグは、まだ危険です\\n今の候補者の中から…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 246\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1305_07_009"
+  },
+  {
+    "key": "e_5da6203042_0013_ba1ac7066f",
+    "original": "４人目を選ぶか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 250\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1305_05_010"
+  },
+  {
+    "key": "e_5da6203042_0014_b00375a608",
+    "original": "はい\\n一人速やかに「コア」の準備が可能な子供がいます",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 254\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1305_07_011"
+  },
+  {
+    "key": "e_5da6203042_0015_c18f0cb434",
+    "original": "任せる",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 258\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1305_05_012"
+  },
+  {
+    "key": "e_5da6203042_0016_8f90d85ec1",
+    "original": "はい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 262\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1305_07_013"
+  },
+  {
+    "key": "e_5da6203042_0017_f185a3fcf0",
+    "original": "レイ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 266\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1305_05_014"
+  },
+  {
+    "key": "e_5da6203042_0018_8f90d85ec1",
+    "original": "はい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 288\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1305_03_015"
+  },
+  {
+    "key": "e_5da6203042_0019_7a3c12c63c",
+    "original": "上がっていいぞ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 315\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1305_05_016"
+  },
+  {
+    "key": "e_5da6203042_0020_8f90d85ec1",
+    "original": "はい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 337\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1305_03_017"
+  },
+  {
+    "key": "e_5da6203042_0021_8f4c4e16a2",
+    "original": "食事にしよう",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 367\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1305_05_018"
+  },
+  {
+    "key": "e_5da6203042_0022_cb25dbc346",
+    "original": "………………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1305.NUT\nLine: 370\nCall: im.event\nSpeaker: IMC_NONE"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_e1a64d49d4_0001_59e0207b54",
+    "original": "リアクター、限界点に達しました！",
+    "translation": "",
+    "context": "File: BTL_JA/BTL_JA_DEMO2.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_CONTROLLER\nVoice: NA10_0506_81_005"
+  },
+  {
+    "key": "e_e1a64d49d4_0002_1f3edce370",
+    "original": "ミサトさん、逃げて！！",
+    "translation": "",
+    "context": "File: BTL_JA/BTL_JA_DEMO2.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0506_01_006"
+  },
+  {
+    "key": "e_e1a64d49d4_0003_a8cdc95aee",
+    "original": "動けっ…動けぇぇぇぇぇ！！",
+    "translation": "",
+    "context": "File: BTL_JA/BTL_JA_DEMO2.NUT\nLine: 106\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_007"
+  }
+]

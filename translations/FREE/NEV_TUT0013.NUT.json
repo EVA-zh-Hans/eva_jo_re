@@ -1,0 +1,146 @@
+[
+  {
+    "key": "e_13eecbff66_0001_d7cddfe981",
+    "original": "重要な事は、\\n相手の<02>Ａ．Ｔ．フィールド<//>を壊すことよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 158\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0002_394f6f5b41",
+    "original": "それを壊さないと、\\nダメージを与えられないんですよね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 161\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_13eecbff66_0003_205e54d936",
+    "original": "例外がないわけじゃないけど…そうね▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 165\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0004_0d0d96159b",
+    "original": "<02>Ａ．Ｔ．フィールド<//>を破壊しないと、\\nダメージが与えられないのは、基本中の基本",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 166\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0005_a4e1002e06",
+    "original": "それは、なんとなく分ってます",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 169\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_13eecbff66_0006_2042103048",
+    "original": "よし、じゃあ次▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 173\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0007_484a9061d9",
+    "original": "<02>Ａ．Ｔ．フィールド<//>を壊すことを\\n<02>バニッシュ<//>と言うの▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 174\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0008_d0a416d4ac",
+    "original": "極端な話をすれば、使徒との戦いは、\\n<02>バニッシュ<//>を作り出すことなのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 175\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0009_3655e51a22",
+    "original": "<02>Ａ．Ｔ．フィールド<//>を\\n<02>バニッシュ<//>するまでが戦闘…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 178\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_13eecbff66_0010_250d910fe8",
+    "original": "<02>バニッシュ<//>すれば、\\n一気にダメージを与えることができる▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 182\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0011_e28c476089",
+    "original": "<02>バニッシュ<//>までの努力が、あなたの戦い",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 183\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0012_d8f29395f4",
+    "original": "どうすればいいんですか\\n<02>バニッシュ<//>って？",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 186\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_13eecbff66_0013_69642b6fa2",
+    "original": "いくつかあるけど、\\n一番簡単なのは<02>ダウン<//>をうばうことよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 189\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0014_3f450e158e",
+    "original": "<02>バニッシュ<//>するには<02>ダウン<//>…\\n<02>バニッシュ<//>するには<02>ダウン<//>…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 192\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_13eecbff66_0015_169c44c9a1",
+    "original": "<02>ダウン<//>させるには<02>部位のＨＰ<//>を０にするの\\n足なら足、頭なら頭を集中攻撃するのよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 195\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0016_26850eb9cf",
+    "original": "戦いながら狙いなんて付けられませんよ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 198\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_13eecbff66_0017_221b7c06c1",
+    "original": "そうね、<02>浸食<//>、という手もあるわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 202\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0018_8cc77a1b74",
+    "original": "最初の戦いのときに暴走したエヴァが\\n<02>Ａ．Ｔ．フィールド<//>を壊してた、アレよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 203\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0019_f8069344fd",
+    "original": "ガード中の使徒の至近距離で\\n自分も<02>ガード<//>するの",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 204\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0020_ba3a76cec2",
+    "original": "難しいですよね…それ",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 207\nCall: im.play\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_13eecbff66_0021_042b5a2138",
+    "original": "そうね\\nでも、やらなければいけないのよ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 210\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0022_ca8112e2a2",
+    "original": "今説明した内容は<02>模擬戦<//>で、試す事ができるわ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 212\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0023_0644caa935",
+    "original": "エヴァや都市へのダメージも、マップギミックや\\n武器の消費も気にしないでいいから▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 213\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_13eecbff66_0024_9b7cc6d28f",
+    "original": "ぜひ繰り返しチャレンジしてね",
+    "translation": "",
+    "context": "File: FREE/NEV_TUT0013.NUT\nLine: 214\nCall: im.play\nSpeaker: IMC_MISATO"
+  }
+]

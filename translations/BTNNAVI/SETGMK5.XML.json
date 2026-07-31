@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_272c30afdb_0005_59980e6260",
+    "original": "マップギミックを配置する",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK5.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_272c30afdb_0015_6af4009be8",
+    "original": "マップ切替",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK5.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_272c30afdb_0020_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK5.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_272c30afdb_0025_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK5.XML\nLine: 8\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_272c30afdb_0030_8fc7f89916",
+    "original": "戻る",
+    "translation": "",
+    "context": "File: BTNNAVI/SETGMK5.XML\nLine: 9\nElement: BTN\nAttribute: caption"
+  }
+]

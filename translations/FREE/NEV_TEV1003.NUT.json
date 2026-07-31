@@ -1,0 +1,68 @@
+[
+  {
+    "key": "e_ee6716281e_0001_a6dc3b7ade",
+    "original": "いかなる生命の存在も許さない死の世界、南極\\nいや、地獄というべきかな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 152\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_001"
+  },
+  {
+    "key": "e_ee6716281e_0002_aae32bde79",
+    "original": "だが、我々人類はこうしてここに立っている\\n生物として、生きたままだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 155\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1003_05_002"
+  },
+  {
+    "key": "e_ee6716281e_0003_47762fa906",
+    "original": "科学の力で守られているからな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 190\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_003"
+  },
+  {
+    "key": "e_ee6716281e_0004_a2fd935760",
+    "original": "科学は人の力だよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 194\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1003_05_004"
+  },
+  {
+    "key": "e_ee6716281e_0005_bb91c97b4a",
+    "original": "その傲慢が１５年前の悲劇、\\nセカンドインパクトを引き起こしたのだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 198\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_005"
+  },
+  {
+    "key": "e_ee6716281e_0006_8aafb4c8de",
+    "original": "結果、この有様だ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 228\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_006"
+  },
+  {
+    "key": "e_ee6716281e_0007_b3e1e061a8",
+    "original": "与えられた罰にしては、あまりにも大きすぎる\\nまさに死海そのものだよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 231\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_006_1"
+  },
+  {
+    "key": "e_ee6716281e_0008_ed231d97ff",
+    "original": "だが、原罪の汚れなき、浄化された世界だ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 265\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1003_05_007"
+  },
+  {
+    "key": "e_ee6716281e_0009_4b3687860d",
+    "original": "俺は罪にまみれていても、\\n人が生きている世界を望むよ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 269\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_008"
+  },
+  {
+    "key": "e_ee6716281e_0010_133043a669",
+    "original": "報告します\\nネルフ本部より入電",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 278\nCall: im.event\nSpeaker: IMC_NAVY\nVoice: NA10_1003_82_009"
+  },
+  {
+    "key": "e_ee6716281e_0011_32ebd63ca6",
+    "original": "インド洋上空衛星軌道上に\\n使徒、発見！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_NAVY\nVoice: NA10_1003_82_009_1"
+  }
+]

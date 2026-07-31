@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_2fe9285134_0001_ff63591fb1",
+    "original": "使徒、第３新東京市に出現",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0703.NUT\nLine: 165\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0003_10_001"
+  },
+  {
+    "key": "e_2fe9285134_0002_766664f3a8",
+    "original": "来たわね…今度は抜かりないわよ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV0703.NUT\nLine: 215\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0003_04_001"
+  }
+]

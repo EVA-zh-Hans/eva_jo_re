@@ -1,0 +1,32 @@
+[
+  {
+    "key": "e_5c7c243ef5_0001_e9f44064d5",
+    "original": "スキルプログラムの開発",
+    "translation": "",
+    "context": "File: TUT/TUT_F107.NUT\nLine: 7\nCall: StartNavi"
+  },
+  {
+    "key": "e_5c7c243ef5_0002_e9f44064d5",
+    "original": "スキルプログラムの開発",
+    "translation": "",
+    "context": "File: TUT/TUT_F107.NUT\nLine: 20\nCall: DecideStart"
+  },
+  {
+    "key": "e_5c7c243ef5_0003_9d954669fe",
+    "original": "エヴァの性能を向上させる\\n<02>スキルプログラムを開発<//>する場合は、▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F107.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5c7c243ef5_0004_98d763d4e1",
+    "original": "<12>リツコ<//>に話しかけます▽",
+    "translation": "",
+    "context": "File: TUT/TUT_F107.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_5c7c243ef5_0005_d720326c98",
+    "original": "<02>戦闘で獲得した予算<//>で、\\n新たな<02>プログラムを手に入れる<//>事ができます",
+    "translation": "",
+    "context": "File: TUT/TUT_F107.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+  }
+]

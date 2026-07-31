@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_df8bb34a96_0005_e0f279b3f2",
+    "original": "パイロットを治療する",
+    "translation": "",
+    "context": "File: BTNNAVI/CURECHA2.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_df8bb34a96_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/CURECHA2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_df8bb34a96_0015_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/CURECHA2.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_df8bb34a96_0020_8fc7f89916",
+    "original": "戻る",
+    "translation": "",
+    "context": "File: BTNNAVI/CURECHA2.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  }
+]

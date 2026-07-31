@@ -1,0 +1,56 @@
+[
+  {
+    "key": "e_a07034bd83_0005_b0d2bad16a",
+    "original": "第３新東京市　北地区を目指し移動中",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO005.XML\nLine: 3\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_a07034bd83_0009_e807ebb538",
+    "original": "歩行とジャンプによる移動\\n移動速度は速い",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO005.XML\nLine: 4\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_a07034bd83_0013_0db5b63e2a",
+    "original": "敏捷性の高さを生かした格闘攻撃\\n目から光弾を撃つ",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO005.XML\nLine: 5\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_a07034bd83_0017_8a1941ac7c",
+    "original": "Ａ．Ｔ．フィールドを展開するガード",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO005.XML\nLine: 6\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_a07034bd83_0021_32deb596c5",
+    "original": "目標が分離、合体するまでは\\n通常攻撃により使徒の耐久力を奪う",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO005.XML\nLine: 7\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_a07034bd83_0025_b3dd418e21",
+    "original": "足止めの為に、兵装ビルを配置する",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO005.XML\nLine: 8\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_a07034bd83_0029_cf63ea2f81",
+    "original": "ゼロエリア防壁周辺に強力な\\n兵装ビルを多数配置すると、\\n防壁にまで被害が及ぶ事がある",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO005.XML\nLine: 9\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_a07034bd83_0033_d5dc9179fd",
+    "original": "北地区、中央区以外のマップに\\nギミックを配置しても\\n無駄になってしまう",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO005.XML\nLine: 10\nElement: DETAIL\nAttribute: exp"
+  },
+  {
+    "key": "e_a07034bd83_0037_4db50fad6b",
+    "original": "アスカの搭乗する弐号機との共同戦線\\nまずは個別に使徒を攻撃し、\\nとどめは合体した瞬間、コアを狙って\\n２点同時荷重攻撃を行う",
+    "translation": "",
+    "context": "File: INFO/PRE_INFO005.XML\nLine: 11\nElement: DETAIL\nAttribute: exp"
+  }
+]

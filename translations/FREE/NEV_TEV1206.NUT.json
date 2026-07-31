@@ -1,0 +1,98 @@
+[
+  {
+    "key": "e_e27f1144ef_0001_d8dbdd7a75",
+    "original": "動かないで",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 160\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1206_04_001"
+  },
+  {
+    "key": "e_e27f1144ef_0002_d62b69af41",
+    "original": "よォ、君か…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 196\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1206_11_002"
+  },
+  {
+    "key": "e_e27f1144ef_0003_114acf6905",
+    "original": "これがあなたの本当の仕事？\\nそれともアルバイトかしら？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 200\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1206_04_003"
+  },
+  {
+    "key": "e_e27f1144ef_0004_cdbb86bedb",
+    "original": "どっちかな？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 204\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1206_11_004"
+  },
+  {
+    "key": "e_e27f1144ef_0005_f40c6f1ee2",
+    "original": "特務機関ネルフ、\\n特殊監査部所属、加持リョウジ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 236\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1206_04_005"
+  },
+  {
+    "key": "e_e27f1144ef_0006_b53d39d95b",
+    "original": "同時に日本政府内務省、調査部所属、\\n加持リョウジでもあるわけね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 241\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1206_04_005_1"
+  },
+  {
+    "key": "e_e27f1144ef_0007_5d0baf1deb",
+    "original": "君にもバレバレか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 275\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1206_11_006"
+  },
+  {
+    "key": "e_e27f1144ef_0008_b7f904994e",
+    "original": "ネルフを甘く見ないで！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 279\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1206_04_007"
+  },
+  {
+    "key": "e_e27f1144ef_0009_6984639063",
+    "original": "碇司令の命令かい？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 283\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1206_11_008"
+  },
+  {
+    "key": "e_e27f1144ef_0010_1c94e584da",
+    "original": "いいえ、私の独断よ…\\nこれ以上、バイトを続けると死ぬわ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 287\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1206_04_009"
+  },
+  {
+    "key": "e_e27f1144ef_0011_dc01521a0a",
+    "original": "碇司令は俺を利用してる\\nまだ、いけるさ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 291\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1206_11_010"
+  },
+  {
+    "key": "e_e27f1144ef_0012_fa8b1cb141",
+    "original": "だが、君に隠し事をしていたのは謝るよ\\nただね…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 295\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1206_11_010_1"
+  },
+  {
+    "key": "e_e27f1144ef_0013_ae5df492dd",
+    "original": "碇司令やリッちゃんは君に隠し事をしている\\nそれがこれさ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 299\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1206_11_010_2"
+  },
+  {
+    "key": "e_e27f1144ef_0014_71a7597975",
+    "original": "…………！？▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 361\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1206_04_011"
+  },
+  {
+    "key": "e_e27f1144ef_0015_dde9963a27",
+    "original": "これは…？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 396\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1206_04_011_1"
+  },
+  {
+    "key": "e_e27f1144ef_0016_b2d30764bd",
+    "original": "確かに、ネルフは私が考えているほど\\n甘くないわね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1206.NUT\nLine: 418\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1206_04_015"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "key": "e_95491855fa_0001_a357f33c65",
+    "original": "あっちゃあ～、\\nやっぱ難しかったかしら…",
+    "translation": "",
+    "context": "File: BTL_SIM/BTL_SIM_BAD2.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0074_04_001"
+  },
+  {
+    "key": "e_95491855fa_0002_eab363933c",
+    "original": "すみません…",
+    "translation": "",
+    "context": "File: BTL_SIM/BTL_SIM_BAD2.NUT\nLine: 44\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0074_01_001"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "key": "e_bb62ee74c8_0001_1fbec0ddb5",
+    "original": "第３新東京市　中央区",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 26\nVoice: 第３新東京市　東地区"
+  },
+  {
+    "key": "e_bb62ee74c8_0002_c6a5aa6da9",
+    "original": "第３新東京市　東地区",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 26\nVoice: 第３新東京市　西地区"
+  },
+  {
+    "key": "e_bb62ee74c8_0003_11b350752e",
+    "original": "第３新東京市　西地区",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 26\nVoice: 第３新東京市　南地区"
+  },
+  {
+    "key": "e_bb62ee74c8_0004_c4ec54987c",
+    "original": "第３新東京市　南地区",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 26\nVoice: 第３新東京市　北地区"
+  },
+  {
+    "key": "e_bb62ee74c8_0005_e72089eb06",
+    "original": "第３新東京市　北地区",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 26\nVoice: 　　ジオフロント"
+  },
+  {
+    "key": "e_bb62ee74c8_0006_8506ee0889",
+    "original": "　　ジオフロント",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 26\nVoice: 　　初号機ケイジ"
+  },
+  {
+    "key": "e_bb62ee74c8_0007_6bfec2b23e",
+    "original": "　　初号機ケイジ",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 26"
+  },
+  {
+    "key": "e_bb62ee74c8_0008_21a3aeab4f",
+    "original": "手配",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 64\nCall: font1.set_string"
+  },
+  {
+    "key": "e_bb62ee74c8_0009_148d195e21",
+    "original": "配置",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 65\nCall: font2.set_string"
+  },
+  {
+    "key": "e_bb62ee74c8_0010_8dd0615b7b",
+    "original": "せっかくいい支援施設持ってるんだから、\\n遠慮なくマップに配置しちゃっていいのよ",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 96\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_bb62ee74c8_0011_06c02f1acc",
+    "original": "今より強い支援施設を手に入れれば、\\n作戦の幅が広がるわ！",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 100\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_bb62ee74c8_0012_b61f88e376",
+    "original": "手に入れた支援施設はちゃんと配置するのよ！\\n宝の持ち腐れにならないようにね",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 213\nCall: im.play\nSpeaker: IMC_MISATO"
+  },
+  {
+    "key": "e_bb62ee74c8_0013_f28dd4c9f6",
+    "original": "配置し直したくなったら、\\nいつでも私に話しかけてね",
+    "translation": "",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 217\nCall: im.play\nSpeaker: IMC_MISATO"
+  }
+]

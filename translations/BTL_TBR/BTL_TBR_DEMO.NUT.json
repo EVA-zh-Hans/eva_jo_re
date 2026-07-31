@@ -1,0 +1,80 @@
+[
+  {
+    "key": "e_452dd808a6_0001_93195581ce",
+    "original": "ありがとう、シンジ君",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 23\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_009_1"
+  },
+  {
+    "key": "e_452dd808a6_0002_cce1c5bfaa",
+    "original": "弐号機は、\\n君に止めておいてもらいたかったんだ",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 26\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_009_2"
+  },
+  {
+    "key": "e_452dd808a6_0003_23ea2be45e",
+    "original": "そうしなければ、\\n彼女と生き続けたかもしれないからね",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 29\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_009_3"
+  },
+  {
+    "key": "e_452dd808a6_0004_cb141c7fab",
+    "original": "カヲル君…\\n…どうして…",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_010"
+  },
+  {
+    "key": "e_452dd808a6_0005_f60bead140",
+    "original": "僕が生き続ける事が、僕の運命だからだよ\\n結果、人が滅びてもね",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 37\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_011_1"
+  },
+  {
+    "key": "e_452dd808a6_0006_e53aa88327",
+    "original": "だが、このまま死ぬ事もできる\\n生と死は等価値なんだ、僕にとってはね",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 40\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_011_2"
+  },
+  {
+    "key": "e_452dd808a6_0007_5f0af533c4",
+    "original": "自らの死、それが唯一の絶対的自由なんだよ",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 43\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_011_3"
+  },
+  {
+    "key": "e_452dd808a6_0008_f0cec68ec7",
+    "original": "何を…カヲル君？",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 46\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_012_1"
+  },
+  {
+    "key": "e_452dd808a6_0009_20920d3599",
+    "original": "君が何を言っているのかわかんないよ！？\\nカヲル君…",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_012_2"
+  },
+  {
+    "key": "e_452dd808a6_0010_1e46546baa",
+    "original": "遺言だよ",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_013_1"
+  },
+  {
+    "key": "e_452dd808a6_0011_4c3920ffc2",
+    "original": "さあ、僕を消してくれ\\nそうしなければ、君らが消える事になる",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 55\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_013_2"
+  },
+  {
+    "key": "e_452dd808a6_0012_4af34ce9f2",
+    "original": "滅びの時を逃れ、未来を与えられる生命体は、\\n一つしか選ばれないんだ",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 58\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_013_3"
+  },
+  {
+    "key": "e_452dd808a6_0013_6aad449e7f",
+    "original": "そして君は、死すべき存在ではない",
+    "translation": "",
+    "context": "File: BTL_TBR/BTL_TBR_DEMO.NUT\nLine: 63\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_014"
+  }
+]

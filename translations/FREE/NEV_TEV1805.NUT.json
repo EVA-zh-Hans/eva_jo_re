@@ -1,0 +1,110 @@
+[
+  {
+    "key": "e_478af4ca29_0001_f00cbeff09",
+    "original": "さあ、行くよ\\nおいでアダムの分身、そしてリリスのしもべ…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 195\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA03_0007_15_001"
+  },
+  {
+    "key": "e_478af4ca29_0002_55e7341c04",
+    "original": "エヴァ弐号機、起動！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 233\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1805_09_001"
+  },
+  {
+    "key": "e_478af4ca29_0003_6217e49b68",
+    "original": "そんな、バカな！！\\n…アスカは！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 279\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1805_04_001"
+  },
+  {
+    "key": "e_478af4ca29_0004_df0586202a",
+    "original": "３０３病室です！\\n確認済みです！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 320\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1805_10_002"
+  },
+  {
+    "key": "e_478af4ca29_0005_53c4a760bd",
+    "original": "無人です！\\n弐号機にはエントリープラグは挿入されていません！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 362\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1805_08_004"
+  },
+  {
+    "key": "e_478af4ca29_0006_07d1d8a7a0",
+    "original": "誰もいない！？\\nフィフスの少年ではないの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 397\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1805_04_005"
+  },
+  {
+    "key": "e_478af4ca29_0007_9353245461",
+    "original": "セントラルドグマに、\\nＡ．Ｔ．フィールドの発生を確認！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 413\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0007_09_002"
+  },
+  {
+    "key": "e_478af4ca29_0008_355a53c110",
+    "original": "弐号機？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 417\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0007_04_003"
+  },
+  {
+    "key": "e_478af4ca29_0009_732d542e6b",
+    "original": "いえ、パターン青\\n間違いありません、使徒です",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 440\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1805_09_006"
+  },
+  {
+    "key": "e_478af4ca29_0010_d5cb0f3e16",
+    "original": "何ですって？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 464\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0007_04_004"
+  },
+  {
+    "key": "e_478af4ca29_0011_0f0208c840",
+    "original": "使徒？\\nあの少年が？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 567\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0007_04_005"
+  },
+  {
+    "key": "e_478af4ca29_0012_72cd0d6168",
+    "original": "エヴァ初号機に追撃させる",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 616\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1805_05_007"
+  },
+  {
+    "key": "e_478af4ca29_0013_8f90d85ec1",
+    "original": "はい",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 619\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1805_04_008"
+  },
+  {
+    "key": "e_478af4ca29_0014_6e5b6d9700",
+    "original": "いかなる方法を以ってしても、\\n目標のターミナルドグマへの侵入を阻止しろ！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 651\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1805_05_009"
+  },
+  {
+    "key": "e_478af4ca29_0015_2560ed1897",
+    "original": "まさか、ゼーレが直接送り込んでくるとはな",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 679\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA03_0007_06_007"
+  },
+  {
+    "key": "e_478af4ca29_0016_ff0f4f8ad0",
+    "original": "やはり老人は予定を一つ繰り上げるつもりだ\\n我々の手で",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 707\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA03_0007_05_002"
+  },
+  {
+    "key": "e_478af4ca29_0017_6bea0484df",
+    "original": "もしや、弐号機との融合を\\n果たすつもりなのか？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 735\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1805_06_010"
+  },
+  {
+    "key": "e_478af4ca29_0018_0a98253f6a",
+    "original": "または、破滅を導くためかだ",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1805.NUT\nLine: 738\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1805_05_011"
+  }
+]

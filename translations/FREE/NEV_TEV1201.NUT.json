@@ -1,0 +1,104 @@
+[
+  {
+    "key": "e_e59d60203f_0001_8a453da156",
+    "original": "あーぁ、つまんない",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 168\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1201_02_001"
+  },
+  {
+    "key": "e_e59d60203f_0002_59a6554470",
+    "original": "どうしたの、アスカ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 172\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1201_01_002"
+  },
+  {
+    "key": "e_e59d60203f_0003_6fa80a7207",
+    "original": "いっしょに、しょくじでもしようとおもってたのに\\nカジさん、しゅっちょうなんだって",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 203\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1201_02_003"
+  },
+  {
+    "key": "e_e59d60203f_0004_f0661c40ab",
+    "original": "そりゃ、出張くらいあるだろうね",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 207\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1201_01_004"
+  },
+  {
+    "key": "e_e59d60203f_0005_4be66cf94e",
+    "original": "………",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 238\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1201_02_005"
+  },
+  {
+    "key": "e_e59d60203f_0006_ebcd839302",
+    "original": "何で怒ってるの？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 242\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1201_01_006"
+  },
+  {
+    "key": "e_e59d60203f_0007_823caa0c5f",
+    "original": "アンタの、そのたいどによっ！！",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 275\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1201_02_007"
+  },
+  {
+    "key": "e_e59d60203f_0008_2c98ebd306",
+    "original": "…えぇぇ！？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 280\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1201_01_008"
+  },
+  {
+    "key": "e_e59d60203f_0009_d3e83fd179",
+    "original": "１６年前…\\nここで何が始まったんだ？",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 338\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1201_11_009"
+  },
+  {
+    "key": "e_e59d60203f_0010_cf3b0dcac0",
+    "original": "マルドゥック機関▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 373\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1201_11_009_1"
+  },
+  {
+    "key": "e_e59d60203f_0011_741d83d455",
+    "original": "エヴァンゲリオン操縦者選出のために設けられた、\\n人類補完委員会直属の諮問機関▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 403\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1201_11_009_2"
+  },
+  {
+    "key": "e_e59d60203f_0012_afeb8c2d15",
+    "original": "だが、活動は非公開で、\\n組織の実態は未だ不透明▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 407\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1201_11_010"
+  },
+  {
+    "key": "e_e59d60203f_0013_d837ae45bf",
+    "original": "このマルドゥック機関に繋がる\\n１０８の会社のうち、１０６がダミー…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 438\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1201_11_010_1"
+  },
+  {
+    "key": "e_e59d60203f_0014_68b7a7c071",
+    "original": "ここ京都の外資系のケミカル会社シャノン・バイオも\\n例外に漏れず…１０７個目のダミーと言うわけか",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 442\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1201_11_011"
+  },
+  {
+    "key": "e_e59d60203f_0015_3ec1a728ae",
+    "original": "しかし、この会社の登記簿に並ぶ名は…▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 458\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1201_11_012"
+  },
+  {
+    "key": "e_e59d60203f_0016_b2142d8a7b",
+    "original": "碇ゲンドウ、冬月コウゾウ…\\nそしてキール・ローレンツ▽",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 461\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1201_11_012_1"
+  },
+  {
+    "key": "e_e59d60203f_0017_1f3c862534",
+    "original": "やはり、この組織の実態は…",
+    "translation": "",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 491\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1201_11_012_2"
+  }
+]

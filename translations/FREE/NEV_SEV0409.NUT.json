@@ -1,0 +1,38 @@
+[
+  {
+    "key": "e_55e8964bf1_0001_5a4730877b",
+    "original": "ひょっとしたら、\\n死んじゃったりするのかな…",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0409.NUT\nLine: 96\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0409_01_001"
+  },
+  {
+    "key": "e_55e8964bf1_0002_b18d8fba13",
+    "original": "どうしてそんな事を言うの？",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0409.NUT\nLine: 99\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0409_03_002"
+  },
+  {
+    "key": "e_55e8964bf1_0003_b5999fb8c4",
+    "original": "…………",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0409.NUT\nLine: 102\nCall: im.event\nSpeaker: IMC_SHINJI"
+  },
+  {
+    "key": "e_55e8964bf1_0004_16569e745e",
+    "original": "あなたは死なないわ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0409.NUT\nLine: 107\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0409_03_004"
+  },
+  {
+    "key": "e_55e8964bf1_0005_5c8203f113",
+    "original": "え…？",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0409.NUT\nLine: 110\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0409_01_005"
+  },
+  {
+    "key": "e_55e8964bf1_0006_5b9b410fa6",
+    "original": "私が守るもの",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0409.NUT\nLine: 113\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0409_03_006"
+  }
+]

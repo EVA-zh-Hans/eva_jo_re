@@ -1,0 +1,20 @@
+[
+  {
+    "key": "e_4245d62f20_0001_16ed722bb5",
+    "original": "手抜きは無しや、ええから早よぉせい！\\nせやないとワシの気持ちも収まらん",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0401.NUT\nLine: 157\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0004_13_001"
+  },
+  {
+    "key": "e_4245d62f20_0002_f6857d2938",
+    "original": "ま、こういう実直な奴だからさ、頼むよ",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0401.NUT\nLine: 161\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0004_14_002"
+  },
+  {
+    "key": "e_4245d62f20_0003_eb76d40155",
+    "original": "これで貸し借り、チャラや\\n殴ってすまんかったな、碇…",
+    "translation": "",
+    "context": "File: FREE/NEV_SEV0401.NUT\nLine: 240\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0004_13_003"
+  }
+]

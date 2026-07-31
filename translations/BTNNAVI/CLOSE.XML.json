@@ -1,0 +1,26 @@
+[
+  {
+    "key": "e_47f37a72f5_0005_dab13c9db8",
+    "original": "タイトル画面へ",
+    "translation": "",
+    "context": "File: BTNNAVI/CLOSE.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+  },
+  {
+    "key": "e_47f37a72f5_0010_e721d064de",
+    "original": "選択",
+    "translation": "",
+    "context": "File: BTNNAVI/CLOSE.XML\nLine: 5\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_47f37a72f5_0015_df3535a647",
+    "original": "決定",
+    "translation": "",
+    "context": "File: BTNNAVI/CLOSE.XML\nLine: 6\nElement: BTN\nAttribute: caption"
+  },
+  {
+    "key": "e_47f37a72f5_0020_8fc7f89916",
+    "original": "戻る",
+    "translation": "",
+    "context": "File: BTNNAVI/CLOSE.XML\nLine: 7\nElement: BTN\nAttribute: caption"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "key": "e_620010f7a8_0001_7ea6f3d562",
+    "original": "そして…",
+    "translation": "",
+    "context": "File: REI/CHR_REI_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_620010f7a8_0002_b80b71fb19",
+    "original": "普通の日々がはじまる",
+    "translation": "",
+    "context": "File: REI/CHR_REI_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_620010f7a8_0003_1b92b6eb64",
+    "original": "まだ慣れない、見たことのない普通の日々が…",
+    "translation": "",
+    "context": "File: REI/CHR_REI_END.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_620010f7a8_0004_7d89786cc6",
+    "original": "明るくて元気な子に、なってみたい…",
+    "translation": "",
+    "context": "File: REI/CHR_REI_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_REI\nVoice: na54_0002_03_017_1"
+  },
+  {
+    "key": "e_620010f7a8_0005_047a33f887",
+    "original": "今から、なれると思う？",
+    "translation": "",
+    "context": "File: REI/CHR_REI_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_REI\nVoice: na54_0002_03_017_2"
+  },
+  {
+    "key": "e_620010f7a8_0006_eed98edf91",
+    "original": "あなたが戦いで得たものは、\\n元々は透明な少女だった",
+    "translation": "",
+    "context": "File: REI/CHR_REI_END.NUT\nLine: 63\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_620010f7a8_0007_f2f52e9b26",
+    "original": "どこか遠い、透明の…",
+    "translation": "",
+    "context": "File: REI/CHR_REI_END.NUT\nLine: 64\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_620010f7a8_0008_af6f170d98",
+    "original": "でも今はそうではないし、\\nこれからはもっと、普通になるだろう",
+    "translation": "",
+    "context": "File: REI/CHR_REI_END.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_620010f7a8_0009_9f5b69e22f",
+    "original": "それはひどく楽しそうなことで、\\nあなたはそれで笑った",
+    "translation": "",
+    "context": "File: REI/CHR_REI_END.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_NONE"
+  },
+  {
+    "key": "e_620010f7a8_0010_8d4795eec6",
+    "original": "おめでとう\\n人の補完はなされた",
+    "translation": "",
+    "context": "File: REI/CHR_REI_END.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_NONE"
+  }
+]
