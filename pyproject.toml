@@ -1,9 +1,12 @@
 [project]
 name = "eva-jo-re"
 version = "0.1.0"
-description = "Add your description here"
+description = "Translation and image build workflow for ULJS00201"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "pycdlib>=1.16.0",
 ]
+
+[project.optional-dependencies]
+ocr = ["requests>=2.32.0"]

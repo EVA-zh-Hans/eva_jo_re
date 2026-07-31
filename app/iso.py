@@ -5,20 +5,45 @@ import struct
 import logging
 import shutil
 import subprocess
-import argparse
 import datetime
 import math
-import sys
+
+import pycdlib
 
 SECTOR_SIZE = 0x800  # 2048 bytes
 PSP_FILE_SYS_USE = bytes.fromhex("000000000d555841000000000000")
 PSP_DIR_SYS_USE = bytes.fromhex("000000008d555841000000000000")
 
-logger = logging.getLogger("repackUMD")
+logger = logging.getLogger("eva.iso")
 logger.setLevel(logging.INFO)
-handler = logging.StreamHandler()
-handler.setFormatter(logging.Formatter("%(message)s"))
-logger.addHandler(handler)
+if not logger.handlers:
+    handler = logging.StreamHandler()
+    handler.setFormatter(logging.Formatter("%(message)s"))
+    logger.addHandler(handler)
+
+NEVA_ISO_PATH = "/PSP_GAME/USRDIR/NEVA.PKG"
+
+
+def extract_file(iso_path: Path, internal_path: str, output: Path) -> None:
+    """Extract one ISO9660 file without materializing the whole image tree."""
+
+    output.parent.mkdir(parents=True, exist_ok=True)
+    image = pycdlib.PyCdlib()
+    try:
+        image.open(str(iso_path))
+        with output.open("wb") as stream:
+            image.get_file_from_iso_fp(stream, iso_path=internal_path)
+    finally:
+        image.close()
+
+
+def extract_neva(iso_path: Path, output: Path) -> None:
+    extract_file(iso_path, NEVA_ISO_PATH, output)
+
+
+def repack_overlay(source_iso: Path, output_iso: Path, overlay: Path) -> None:
+    output_iso.parent.mkdir(parents=True, exist_ok=True)
+    repack_umd(source_iso, output_iso, overlay)
 
 
 @dataclass
@@ -983,54 +1008,3 @@ def repack_umd(
         except Exception as e:
             logger.warning(f"Failed to create xdelta patch: {e}")
 
-
-def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(
-        description="Repack PSP ISO with file addition support."
-    )
-    parser.add_argument("input_iso", type=Path, help="Path to original ISO")
-    parser.add_argument("output_iso", type=Path, nargs="?", help="Path to patched ISO")
-    parser.add_argument(
-        "workfolder", type=Path, nargs="?", help="Folder with replacement files"
-    )
-
-    parser.add_argument(
-        "--dump",
-        action="store_true",
-        help="Dump ISO structure (LBA, Entry Offset) for debugging",
-    )
-    parser.add_argument(
-        "--repair-existing",
-        action="store_true",
-        help="Rewrite existing ISO directory records to fix old generator output",
-    )
-    parser.add_argument("--xdelta", default="", help="Optional xdelta patch output")
-    parser.add_argument("-v", "--verbose", action="store_true")
-    return parser
-
-
-def main():
-    parser = build_parser()
-    args = parser.parse_args()
-
-    if args.verbose:
-        logger.setLevel(logging.DEBUG)
-
-    if args.dump:
-        dump_iso_structure(args.input_iso)
-        return
-
-    if args.repair_existing:
-        if not args.output_iso:
-            parser.error("output_iso is required with --repair-existing")
-        repair_existing_iso(args.input_iso, args.output_iso)
-        return
-
-    if not args.output_iso or not args.workfolder:
-        parser.error("output_iso and workfolder are required when not using --dump")
-
-    repack_umd(args.input_iso, args.output_iso, args.workfolder, args.xdelta)
-
-
-if __name__ == "__main__":
-    main()

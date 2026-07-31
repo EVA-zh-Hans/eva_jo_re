@@ -1,39 +1,40 @@
-GAME_ID ?= 00201
+GAME_ID      := ULJS00201
+TEMP_DIR     := temp
+BUILD_DIR    := build
+DIST_DIR     := dist
+SOURCE_ISO   := $(TEMP_DIR)/$(GAME_ID).iso
+TRANSLATIONS := translations
+OVERRIDES    := overrides
+PATCHED_ISO  := $(DIST_DIR)/$(GAME_ID)-zh.iso
+PATCH_XDELTA := $(DIST_DIR)/$(GAME_ID)-zh.xdelta
+UV_CACHE_DIR ?= $(BUILD_DIR)/uv-cache
+UV_RUN       := UV_CACHE_DIR='$(UV_CACHE_DIR)' uv run python -m app
 
-# Temporary and Build Directories
-TEMP_DIR        := temp
-DOWNLOAD_DIR    := $(TEMP_DIR)/downloads
-BUILD_DIR       := build
-EXPORT_GAME_DIR := $(BUILD_DIR)/ULJS00201/PSP_GAME
-EXPORT_BIN_DIR  := $(EXPORT_GAME_DIR)/USRDIR
-EXPORT_SYSDIR   := $(EXPORT_GAME_DIR)/SYSDIR
-EXPORT_USRDIR   := $(EXPORT_GAME_DIR)/USRDIR
-TOOLS_DIR       := $(BUILD_DIR)/tools
+.PHONY: export check build verify test xdelta release clean
 
-# Source Directories
-PSP_GAME_DIR    := $(TEMP_DIR)/ULJS00201/PSP_GAME
-USRDIR          := $(PSP_GAME_DIR)/USRDIR
+export:
+	$(UV_RUN) export --iso '$(SOURCE_ISO)' --translations '$(TRANSLATIONS)' --work-dir '$(TEMP_DIR)/cache/$(GAME_ID)' --report '$(BUILD_DIR)/reports/export.json'
 
-# ==========================================
-# ISO & Patch Operations
-# ==========================================
+check:
+	$(UV_RUN) check --iso '$(SOURCE_ISO)' --translations '$(TRANSLATIONS)' --work-dir '$(TEMP_DIR)/cache/$(GAME_ID)' --report '$(BUILD_DIR)/reports/check.json'
 
-extract_iso:
-	@echo "Extracting game files..."
-	$(UV_RUN) scripts/pack/unpack.py -o '$(TEMP_DIR)/ULJS00201' '$(TEMP_DIR)/ULJS00201.iso'
+build:
+	$(UV_RUN) build --iso '$(SOURCE_ISO)' --translations '$(TRANSLATIONS)' --overrides '$(OVERRIDES)' --build-dir '$(BUILD_DIR)' --output '$(PATCHED_ISO)'
 
-decrypt_eboot: pspdecrypt
-	@echo "Decrypting EBOOT..."
-	@mkdir -p $(EXPORT_SYSDIR)
-	./$(TOOLS_DIR)/pspdecrypt '$(PSP_GAME_DIR)/SYSDIR/EBOOT.BIN' -o '$(EXPORT_SYSDIR)/BOOT.BIN'
+verify:
+	$(UV_RUN) verify --source-iso '$(SOURCE_ISO)' --patched-iso '$(PATCHED_ISO)' --translations '$(TRANSLATIONS)' --report '$(BUILD_DIR)/reports/verify.json'
 
-repack_iso:
-	@echo "Repacking game files into ISO..."
-	@mkdir -p $(BUILD_DIR)
-	$(UV_RUN) scripts/pack/repack_add.py '$(TEMP_DIR)/ULJS$(GAME_ID).iso' '$(PATCHED_ISO)' '$(BUILD_DIR)/ULJS00201'
+test:
+	UV_CACHE_DIR='$(UV_CACHE_DIR)' uv run python -m unittest discover -s tests -v
 
-gen_xdelta:
-	@echo "Generating xdelta patch..."
-	xdelta3 -e -9 -S djw -f -s '$(TEMP_DIR)/ULJS$(GAME_ID).iso' '$(PATCHED_ISO)' '$(PATCH_XDELTA)'
+xdelta: verify
+	mkdir -p '$(DIST_DIR)'
+	xdelta3 -e -9 -S djw -f -s '$(SOURCE_ISO)' '$(PATCHED_ISO)' '$(PATCH_XDELTA)'
 
-patch_iso: repack_iso gen_xdelta
+verify: build
+
+release: xdelta
+	shasum -a 256 '$(PATCHED_ISO)' '$(PATCH_XDELTA)' > '$(DIST_DIR)/SHA256SUMS'
+
+clean:
+	rm -rf '$(BUILD_DIR)' '$(DIST_DIR)'

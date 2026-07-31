@@ -1,5 +1,9 @@
-build
-data
-*.PKG
-temp
+/build/
+/dist/
+/temp/
+/.cache/
+/.venv/
+__pycache__/
+*.py[cod]
 .DS_Store
+translations/
