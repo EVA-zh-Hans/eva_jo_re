@@ -114,7 +114,7 @@
   {
     "key": "e_c5dac52577_0017_4a443d912b",
     "original": "だから、少しでも暇があったら、\\n話して欲しいな、なんて",
-    "translation": "所以有空的时候，希望你能多和我聊聊……之类的▽",
+    "translation": "所以有空的时候，希望你能多和我聊聊……之类的",
     "context": "File: FREE/NEV_TUT0001.NUT\nLine: 150\nCall: im.play\nSpeaker: IMC_MISATO",
     "stage": 1
   },

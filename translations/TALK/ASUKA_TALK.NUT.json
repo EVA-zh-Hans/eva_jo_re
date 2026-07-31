@@ -1689,7 +1689,7 @@
   {
     "key": "e_3afcf03fd7_0436_7a0ee0529c",
     "original": "普通の日々がはじまる▽",
-    "translation": "平凡的日常开始了……",
+    "translation": "平凡的日常开始了……▽",
     "context": "File: TALK/ASUKA_TALK.NUT\nLine: 506\nSpeaker: IMC_NONE\nVoice: ",
     "stage": 1
   },
@@ -1703,7 +1703,7 @@
   {
     "key": "e_3afcf03fd7_0440_5c470e2116",
     "original": "ほら、遅刻するわよ\\nまったくだらしないわね▽",
-    "translation": "喂，要迟到了哦，真是够邋遢的……",
+    "translation": "喂，要迟到了哦，真是够邋遢的……▽",
     "context": "File: TALK/ASUKA_TALK.NUT\nLine: 508\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_016_1",
     "stage": 1
   },
@@ -1717,28 +1717,28 @@
   {
     "key": "e_3afcf03fd7_0444_61c1e9c25f",
     "original": "あなたが戦いで得たものは、▽",
-    "translation": "你在战斗中获得的，是……",
+    "translation": "你在战斗中获得的，是……▽",
     "context": "File: TALK/ASUKA_TALK.NUT\nLine: 510\nSpeaker: IMC_NONE\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0446_a0e29f4eee",
     "original": "えらそうでかよわくてあぶなっかしいが才能はある、\\nそんな人だった▽",
-    "translation": "傲慢又脆弱、冒失却才华横溢的，那样一个人……",
+    "translation": "傲慢又脆弱、冒失却才华横溢的，那样一个人……▽",
     "context": "File: TALK/ASUKA_TALK.NUT\nLine: 511\nSpeaker: IMC_NONE\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0448_9eecfd5679",
     "original": "あなたはそれが一番の宝物だと思ってる▽",
-    "translation": "你觉得那才是最珍贵的宝物……",
+    "translation": "你觉得那才是最珍贵的宝物……▽",
     "context": "File: TALK/ASUKA_TALK.NUT\nLine: 512\nSpeaker: IMC_NONE\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0450_3b40e042be",
     "original": "使徒よりも、とても苦労するのは間違いないが、\\nまあそれでもいいかと思うのだった▽",
-    "translation": "虽然肯定比对付使徒更费神，不过嘛，这样也不错吧……",
+    "translation": "虽然肯定比对付使徒更费神，不过嘛，这样也不错吧……▽",
     "context": "File: TALK/ASUKA_TALK.NUT\nLine: 513\nSpeaker: IMC_NONE\nVoice: ",
     "stage": 1
   },

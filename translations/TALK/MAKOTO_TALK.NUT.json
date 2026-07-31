@@ -1710,7 +1710,7 @@
   {
     "key": "e_4ed3ef73c1_0442_7067265e1d",
     "original": "僕はいつも面白くない人間とか、\\n空気が読めない人間とか言われていてね▽",
-    "translation": "我总被人说是个无趣的家伙▽\n或者说不会察言观色什么的▽",
+    "translation": "我总被人说是个无趣的家伙，\n或者说不会察言观色什么的▽",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 509\nSpeaker: IMC_MAKOTO\nVoice: na54_0007_09_006_1",
     "stage": 1
   },

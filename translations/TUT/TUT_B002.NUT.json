@@ -79,7 +79,7 @@
   {
     "key": "e_cc2f0e4158_0012_cc5c27461a",
     "original": "<02>ガードスキル<02>を<02>実装<//>する事で、\\n<02>Ａ．Ｔ．<//>消費量を減少させる事もできます",
-    "translation": "通过<02>装备防御技能<//>\\n可减少<02>AT力场<//>消耗量",
+    "translation": "通过<02>防御技能<02>的<02>装备<//>，\\n还可减少<02>AT力场<//>消耗量",
     "context": "File: TUT/TUT_B002.NUT\nLine: 48\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -135,7 +135,7 @@
   {
     "key": "e_cc2f0e4158_0020_da0c0a0455",
     "original": "<02>浸食スキル<//>を<02>実装<//>する事で、\\n<02>浸食<//>のスピードを速める事もできます",
-    "translation": "<02>装备侵蚀技能<//>\\n可加快<02>侵蚀<//>速度",
+    "translation": "通过<02>装备侵蚀技能<//>，\\n也可以加快<02>侵蚀<//>的<02>速度<//>",
     "context": "File: TUT/TUT_B002.NUT\nLine: 80\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -163,7 +163,7 @@
   {
     "key": "e_cc2f0e4158_0024_412c4aa263",
     "original": "<02>電源<//>を<02>再接続<//>する事で\\n<02>予備電源<//>を<02>充電<//>する事ができます▽",
-    "translation": "通过<02>重新连接电源<//>\\n可为<02>备用电源<//><02>充电<//>▽",
+    "translation": "通过<02>重新连接<//><02>电源<//>，\\n可以为<02>备用电源<//><02>充电<//>▽",
     "context": "File: TUT/TUT_B002.NUT\nLine: 106\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },

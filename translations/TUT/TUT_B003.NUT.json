@@ -37,7 +37,7 @@
   {
     "key": "e_5ca4bf3b5f_0006_63933a3f0c",
     "original": "<02>ロック可能範囲<//>は<02>ロックスキル<//>を\\n<02>実装<//>する事で広げる事もできます",
-    "translation": "<02>装备锁定技能<//>\\n可扩大<02>锁定范围<//>",
+    "translation": "通过<02>装备<//><02>锁定技能<//>，\\n还可扩大<02>可锁定范围<//>",
     "context": "File: TUT/TUT_B003.NUT\nLine: 31\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -191,7 +191,7 @@
   {
     "key": "e_5ca4bf3b5f_0028_fd8d5510c5",
     "original": "<02>リロード<//>が発生し、<02>リロード<//>が終了するまでは、\\n<02>射撃<//>をする事ができなくなります▽",
-    "translation": "将触发<02>装弹<//>动作\\n期间无法进行<02>射击<//>▽",
+    "translation": "发生<02>装弹<//>后，在<02>装弹<//>结束前，\\n无法进行<02>射击<//>▽",
     "context": "File: TUT/TUT_B003.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -212,7 +212,7 @@
   {
     "key": "e_5ca4bf3b5f_0031_7faf069bb7",
     "original": "<02>移動<//>しながらの<02>射撃<//>は停止中に比べて、\\n弾道が安定しませんので注意してください",
-    "translation": "<02>移动射击<//>的弹道稳定性\\n较静止时更差，请注意修正",
+    "translation": "<02>移动<//>时的<02>射击<//>与停止时相比，\\n弹道不稳定，请注意",
     "context": "File: TUT/TUT_B003.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -240,7 +240,7 @@
   {
     "key": "e_5ca4bf3b5f_0035_98e241bf33",
     "original": "弾道の安定性の向上<//>、\\n<02>リロード<//>の短縮化をする事もできます",
-    "translation": "可以提升<02>弹道稳定性<//>、\\n并缩短<02>装弹时间<//>",
+    "translation": "提高弹道稳定性<//>、\\n也可以<02>缩短装弹时间<//>",
     "context": "File: TUT/TUT_B003.NUT\nLine: 188\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   }

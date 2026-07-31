@@ -79,7 +79,7 @@
   {
     "key": "e_31d0d8a470_0012_f6b6b0c0d7",
     "original": "マップ上の<02>観測ビル<//>が全て破壊されてしまうと\\n分析は<02>中断<//>されてしまいます▽",
-    "translation": "若地图上所有<02>观测大楼<//>被毁\\n<02>分析<//>将<02>中断<//>▽",
+    "translation": "若地图上所有<02>观测大楼<//>均遭破坏\\n分析将被<02>中断<//>▽",
     "context": "File: TUT/TUT_B004.NUT\nLine: 61\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
