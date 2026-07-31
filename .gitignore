@@ -2,3 +2,4 @@ build
 data
 *.PKG
 temp
+.DS_Store
