@@ -2,8 +2,9 @@
   {
     "key": "e_16b13d9aea_0001_0d08296740",
     "original": "綾波、綾波！\\n大丈夫か！？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 84\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0411_01_001"
+    "translation": "绫波！绫波！\n你没事吧！？",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 84\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0411_01_001",
+    "stage": 1
   },
   {
     "key": "e_16b13d9aea_0002_cb25dbc346",
@@ -14,38 +15,44 @@
   {
     "key": "e_16b13d9aea_0003_8f76c895d0",
     "original": "自分には…自分には、\\n他に何もないなんてそんな事言うなよ…▽",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 110\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0411_01_003"
+    "translation": "说什么……说什么自己一无所有\n这种话……▽",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 110\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0411_01_003",
+    "stage": 1
   },
   {
     "key": "e_16b13d9aea_0004_6834e5472e",
     "original": "さよならなんて、\\nそんな悲しい事言うなよっ！",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 113\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0411_01_003_1"
+    "translation": "永别什么的……\n不要说这么悲伤的话啊！",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 113\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0411_01_003_1",
+    "stage": 1
   },
   {
     "key": "e_16b13d9aea_0005_d92f4dddf6",
     "original": "何、泣いているの…？▽",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 116\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0411_03_004"
+    "translation": "为什么……要哭呢？▽",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 116\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0411_03_004",
+    "stage": 1
   },
   {
     "key": "e_16b13d9aea_0006_9a8a90273e",
     "original": "ごめんなさい▽",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 121\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0411_03_005"
+    "translation": "对不起……▽",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 121\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0411_03_005",
+    "stage": 1
   },
   {
     "key": "e_16b13d9aea_0007_ac09d3db71",
     "original": "こういう時、どんな顔を\\nすればいいのかわからないの",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 126\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0411_03_005_1"
+    "translation": "这种时候\n我不知道该露出什么表情才好",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 126\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0411_03_005_1",
+    "stage": 1
   },
   {
     "key": "e_16b13d9aea_0008_2a2e27b5a3",
     "original": "…笑えば…いいと思うよ",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 137\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0411_01_006"
+    "translation": "只要……微笑就可以了",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 137\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0411_01_006",
+    "stage": 1
   },
   {
     "key": "e_16b13d9aea_0009_98739b95cc",

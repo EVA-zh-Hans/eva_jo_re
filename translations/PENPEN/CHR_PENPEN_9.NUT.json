@@ -20,8 +20,9 @@
   {
     "key": "e_ef95888366_0004_4d0772cd79",
     "original": "クー",
-    "translation": "",
-    "context": "File: PENPEN/CHR_PENPEN_9.NUT\nLine: 118\nCall: im.event2\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_009"
+    "translation": "咕～",
+    "context": "File: PENPEN/CHR_PENPEN_9.NUT\nLine: 118\nCall: im.event2\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_009",
+    "stage": 1
   },
   {
     "key": "e_ef95888366_0006_29cf32876f",

@@ -2,8 +2,9 @@
   {
     "key": "e_988e3a9159_0004_60a90d0d6f",
     "original": "エヴァ零号機",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 5\nElement: NAME\nAttribute: str"
+    "translation": "EVA零号机",
+    "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 5\nElement: NAME\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_988e3a9159_0006_968ff0ac1a",

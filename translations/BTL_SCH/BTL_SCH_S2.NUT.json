@@ -2,13 +2,15 @@
   {
     "key": "e_3cf1f89397_0001_ed6de06e37",
     "original": "…歩いた…！",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S2.NUT\nLine: 31\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA52_0001_07_006"
+    "translation": "……走起来了……！",
+    "context": "File: BTL_SCH/BTL_SCH_S2.NUT\nLine: 31\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA52_0001_07_006",
+    "stage": 1
   },
   {
     "key": "e_3cf1f89397_0002_240fe65747",
     "original": "…歩く…",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S2.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA52_0001_01_007"
+    "translation": "……走路……",
+    "context": "File: BTL_SCH/BTL_SCH_S2.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA52_0001_01_007",
+    "stage": 1
   }
 ]

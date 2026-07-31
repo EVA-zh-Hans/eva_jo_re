@@ -2,43 +2,50 @@
   {
     "key": "e_9c086ef69b_0001_8ad9618316",
     "original": "使徒、第３新東京市に出現▽",
-    "translation": "",
-    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 163\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0001_10_001"
+    "translation": "使徒、在第三新东京市出现▽",
+    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 163\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0001_10_001",
+    "stage": 1
   },
   {
     "key": "e_9c086ef69b_0002_e34fc34408",
     "original": "中央ブロック、収容！　第６ブロック、閉鎖！\\n全館収容完了！▽",
-    "translation": "",
-    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0001_10_002"
+    "translation": "中央区块、收容完成！第6区块、封锁！\\n全馆收容完毕！▽",
+    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0001_10_002",
+    "stage": 1
   },
   {
     "key": "e_9c086ef69b_0003_80ea746ed6",
     "original": "政府及び関係各省へ通達終了",
-    "translation": "",
-    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 169\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0001_10_002_1"
+    "translation": "已向政府及相关各省厅完成通报",
+    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 169\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0001_10_002_1",
+    "stage": 1
   },
   {
     "key": "e_9c086ef69b_0004_839d00bc68",
     "original": "目標は、超低高度で進行中",
-    "translation": "",
-    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 217\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0001_09_001"
+    "translation": "目标正以超低高度行进中",
+    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 217\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0001_09_001",
+    "stage": 1
   },
   {
     "key": "e_9c086ef69b_0005_46134d9a2d",
     "original": "こちらへ向かっている事以外は\\n大きな動きは見られないわね",
-    "translation": "",
-    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 220\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0001_04_001"
+    "translation": "除了朝这边移动之外\\n暂时没有观测到其他大动作呢",
+    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 220\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0001_04_001",
+    "stage": 1
   },
   {
     "key": "e_9c086ef69b_0006_14b6cf90ce",
     "original": "委員会から、\\nエヴァの出撃要請が出ました！",
-    "translation": "",
-    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 225\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0001_09_003"
+    "translation": "委员会发来了\\nEVA出击请求！",
+    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 225\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0001_09_003",
+    "stage": 1
   },
   {
     "key": "e_9c086ef69b_0007_28e9e13a9f",
     "original": "うるさい奴等ね\\n言われなくても出撃させるわよ",
-    "translation": "",
-    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 232\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0001_04_004"
+    "translation": "真是群烦人的家伙\\n不用他们说也会安排出击的",
+    "context": "File: FREE/NEV_ANGEL01.NUT\nLine: 232\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0001_04_004",
+    "stage": 1
   }
 ]

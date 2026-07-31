@@ -2,133 +2,155 @@
   {
     "key": "e_0770748b01_0001_8c7cea23bb",
     "original": "一人で、ですか？\\nそれでいいの？　シンジ君…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 121\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_001"
+    "translation": "一个人住……\n真的没问题吗？真嗣君",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 121\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_001",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0002_24d81c67ef",
     "original": "いいんです、一人のほうが\\nどこでも同じですから",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 124\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_002"
+    "translation": "没关系……\n反正到哪里都是一个人",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 124\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_002",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0003_410527d73b",
     "original": "だぁかぁらぁ、シンジ君は、私のところで\\n引き取ることにしたから！　上の許可も取ったし▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 150\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_003_1"
+    "translation": "所～以～说～真嗣君要由我来照顾！\n上面也已经批准了～▽",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 150\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_003_1",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0004_b5cdcd3212",
     "original": "…心配しなくても、\\n子供に手を出したり、しないわよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 153\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_003_2"
+    "translation": "……不用担心\n我不会对小孩子下手的",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 153\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_003_2",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0005_852f728d37",
     "original": "“当ったり前でしょ！　何言ってんのよ、\\nまったくもう　あなたって人はいっつも…”",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 161\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0002_07_004"
+    "translation": "“这不是当然的吗！说什么傻话\n真是的……你这个人总是这样”",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 161\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0002_07_004",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0006_cac57a2d06",
     "original": "相変わらず、\\nジョークの通じないやつ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 164\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_005"
+    "translation": "还是老样子\n完全不懂幽默的家伙",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 164\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_005",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0007_3ccbafd47d",
     "original": "すまないけど、\\nちょっち、寄り道するわよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 191\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_006"
+    "translation": "抱歉啦～\\n要稍微绕个路哦",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 191\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_006",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0008_a0cb94d2ff",
     "original": "どこへですか",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 194\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_007"
+    "translation": "去哪里？",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 194\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_007",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0009_322fe38506",
     "original": "い・い・と・こ・ろ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 197\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_008"
+    "translation": "好・地・方・哦",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 197\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_008",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0010_4c9c000250",
     "original": "なんだか、さびしい街ですね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 277\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_009"
+    "translation": "总觉得……是座冷清的城市呢",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 277\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_009",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0011_494bdf0944",
     "original": "時間だわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_010"
+    "translation": "到时间了",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_010",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0012_7325ce858f",
     "original": "すごい！　ビルがはえてく…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 303\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_011"
+    "translation": "好厉害！大楼正在长出来……",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 303\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_011",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0013_76fb3c4e84",
     "original": "これが、使徒専用迎撃要塞都市、\\n第３新東京市",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 338\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_012_1"
+    "translation": "这就是专为迎击使徒建造的要塞都市——\\n第三新东京市",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 338\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_012_1",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0014_6b7f5df64d",
     "original": "私たちの街よ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 348\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_012_2"
+    "translation": "我们的城市哟",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 348\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_012_2",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0015_45cdd3ce4e",
     "original": "そして、あなたが守った街",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 388\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_013"
+    "translation": "而且——是你守护过的城市",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 388\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_013",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0016_6c0dda60e7",
     "original": "シンジ君の荷物は\\nもう届いていると思うわ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 422\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_014_1"
+    "translation": "真嗣君的行李\\n应该已经送到了▽",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 422\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_014_1",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0017_d45158d525",
     "original": "実はあたしも、先日この街に\\n引っ越してきたばっかりでね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 425\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_014_2"
+    "translation": "其实我也是前几天\\n刚搬来这座城市呢",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 425\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_014_2",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0018_2c375b1760",
     "original": "さ、入って",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 473\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_015"
+    "translation": "来，进来吧",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 473\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_015",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0019_8dc4ac1c68",
     "original": "…あ、あの…おじゃまします",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 497\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_016"
+    "translation": "…那、那个…打扰了",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 497\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_016",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0020_9b5de0e63f",
     "original": "シンジ君\\nここはあなたの家なのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 527\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_017"
+    "translation": "真嗣君\\n这里就是你的家哦",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 527\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_017",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0021_63256936a0",
     "original": "…た、ただいま",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 553\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_018"
+    "translation": "…我、我回来了",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 553\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0002_01_018",
+    "stage": 1
   },
   {
     "key": "e_0770748b01_0022_2b31a644e1",
     "original": "おかえりなさい",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 574\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_019"
+    "translation": "欢迎回家",
+    "context": "File: FREE/NEV_TEV0207.NUT\nLine: 574\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na50_0002_04_019",
+    "stage": 1
   }
 ]

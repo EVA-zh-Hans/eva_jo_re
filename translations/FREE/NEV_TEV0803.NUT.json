@@ -2,79 +2,92 @@
   {
     "key": "e_0f1948a9cd_0001_4c13a8df17",
     "original": "エヴァ弐号機、限界深度、オーバー\\nプラス１００、…２００▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA03_0009_08_001"
+    "translation": "EVA贰号机，临界深度突破\\n正100……200▽",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA03_0009_08_001",
+    "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0002_c4a33e219d",
     "original": "弐号機各部に亀裂発生",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 230\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA03_0009_08_001_2"
+    "translation": "贰号机全身出现裂痕",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 230\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA03_0009_08_001_2",
+    "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0003_9d1f796d60",
     "original": "これ以上は無理です！\\n機体が持ちません！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 239\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0009_09_001"
+    "translation": "不能再继续了！\\n机身承受不住的！",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 239\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0009_09_001",
+    "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0004_04c5603acd",
     "original": "いた…\\nいたわ、シトよ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 266\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA03_0009_02_001"
+    "translation": "找到……\\n找到了哦，使徒……",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 266\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA03_0009_02_001",
+    "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0005_e76e71e5f0",
     "original": "捕獲準備！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 284\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0009_04_001"
+    "translation": "准备捕获！",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 284\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0009_04_001",
+    "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0006_76526567e3",
     "original": "アスカ！　対流で流されているから、\\n接触できるチャンスは１度きりよ！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 289\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA03_0009_07_002"
+    "translation": "明日香！受对流影响目标正在移动，\\n接触机会只有一次！",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 289\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA03_0009_07_002",
+    "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0007_fb03e0b223",
     "original": "わかってるわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 319\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA03_0009_02_002"
+    "translation": "知道啦",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 319\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA03_0009_02_002",
+    "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0008_1a4f92494a",
     "original": "じくせんにのったわ\\nでんじさく、てんかい…！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 326\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA03_0009_02_002_1"
+    "translation": "捕捉到轴线了\\n展开电磁索……！？",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 326\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA03_0009_02_002_1",
+    "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0009_dfc2f72280",
     "original": "な、なによコレェ！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 389\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA03_0009_02_002_2"
+    "translation": "这、这是什么啊！？",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 389\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA03_0009_02_002_2",
+    "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0010_01c8d52d24",
     "original": "まずいわ！　孵化を始めたのよ\\n予測より早すぎるわ！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 396\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA03_0009_07_003"
+    "translation": "糟了！开始孵化了\\n比预测时间早太多了！",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 396\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA03_0009_07_003",
+    "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0011_3e87c957f3",
     "original": "捕獲作戦は中止、\\n使徒殲滅を最優先に！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 414\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0009_04_002"
+    "translation": "终止捕获作战，\\n优先歼灭使徒！",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 414\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0009_04_002",
+    "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0012_5d73ed637b",
     "original": "弐号機は撤収作業をしつつ、\\n戦闘準備！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 419\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0009_04_002_1"
+    "translation": "贰号机在撤退过程中\\n做好战斗准备！",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 419\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0009_04_002_1",
+    "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0013_d1b7e17a77",
     "original": "まってました！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 447\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA03_0009_02_003"
+    "translation": "就等这句话呢！",
+    "context": "File: FREE/NEV_TEV0803.NUT\nLine: 447\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA03_0009_02_003",
+    "stage": 1
   }
 ]

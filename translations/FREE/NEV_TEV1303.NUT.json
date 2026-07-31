@@ -2,62 +2,72 @@
   {
     "key": "e_2c69235516_0001_0ea73c60c3",
     "original": "ほな、お先！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 188\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1303_13_001"
+    "translation": "那俺先走啦！",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 188\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1303_13_001",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0002_950d366c77",
     "original": "うん\\nじゃあな、トウジ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 191\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1303_14_002"
+    "translation": "嗯\\n那回头见，冬二",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 191\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1303_14_002",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0003_fd7f5a46bb",
     "original": "…お待たせ\\nあ、トウジ帰っちゃったの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 233\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1303_01_003"
+    "translation": "…久等了\\n啊，冬二已经回去了？",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 233\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1303_01_003",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0004_79f975a763",
     "original": "うん、あーやって、\\n早く帰る時は妹の見舞いに行く時なんだよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 276\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1303_14_004"
+    "translation": "是啊，每次他\\n提早离开都是去探望妹妹",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 276\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1303_14_004",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0005_0d3dae73a5",
     "original": "やっぱり、重傷なの？\\nそんなすぐに退院できるものじゃないんだ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 317\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1303_01_005"
+    "translation": "果然伤得很重吗？\\n不是能轻易出院的程度啊…",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 317\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1303_01_005",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0006_acbefc8cfb",
     "original": "まあ、ちょっと症状が\\nややこしいらしいけど…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 359\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1303_14_006"
+    "translation": "听说病情\\n有点复杂…",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 359\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1303_14_006",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0007_6652ae9a18",
     "original": "でも、シンジが気にする\\n必要はないよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 363\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1303_14_006_1"
+    "translation": "不过真嗣你不用\\n太在意啦",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 363\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1303_14_006_1",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0008_f7cf362547",
     "original": "だからトウジだって、\\n何も言わないんだからさ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 366\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1303_14_006_2"
+    "translation": "所以冬二也\\n什么都没说嘛",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 366\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1303_14_006_2",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0009_1180dfe0c4",
     "original": "でも、僕のせいであんな…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 370\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1303_01_007"
+    "translation": "可都是因为我才会…",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 370\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1303_01_007",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0010_9ec1846896",
     "original": "気にするなよ…\\nお互い気を遣う仲じゃないだろ、な？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 415\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1303_14_008"
+    "translation": "别放心上…\\n咱们之间不用这么见外吧？",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 415\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1303_14_008",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0011_4be66cf94e",
@@ -68,157 +78,183 @@
   {
     "key": "e_2c69235516_0012_777832b63d",
     "original": "ねえ、そうだんってさ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 476\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_010"
+    "translation": "我说商量的事啊…",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 476\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_010",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0013_7973d167a5",
     "original": "ひょっとして、すずはらのコト？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 479\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_010_1"
+    "translation": "该不会是说铃原的事？",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 479\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_010_1",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0014_e222562332",
     "original": "うん…\\nわかってたんだ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 525\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_011"
+    "translation": "嗯…\\n我早就发现了",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 525\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_011",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0015_81f561fd9c",
     "original": "いちずなしせんっての？\\nすずはらのこと、よくみてるから",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 529\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_012"
+    "translation": "单相思对吧？\\n你对铃原观察得很仔细嘛",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 529\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_012",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0016_4451ca2d39",
     "original": "あ、や…私…\\nみんなにも、バレてるのかな？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 534\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_013"
+    "translation": "啊不…我…\\n该不会大家都看出来了吧？",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 534\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_013",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0017_fa49a66a23",
     "original": "まー、すずはらほんにんとあいだとシンジの\\n３バカトリオは、きづいてないわよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 538\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_014"
+    "translation": "嘛～铃原本人加上相田和真嗣\\n这三个笨蛋肯定没发现啦",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 538\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_014",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0018_e1157ec926",
     "original": "そう…かな？　碇君、繊細な感じするし、\\nそういうのには敏感なんじゃない？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 542\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_015"
+    "translation": "是…吗？碇君感觉挺细腻的\\n对这种应该很敏感吧？",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 542\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_015",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0019_8fc86206f6",
     "original": "ぎゃく、ぎゃく！！　アイツがいちばん、どんかん\\nなんだから…ひととのつきあいかた、しらないし",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 547\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_016"
+    "translation": "错、错得离谱！！那家伙才是最迟钝的\\n根本不懂怎么和人相处",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 547\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_016",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0020_04b404b30e",
     "original": "そう…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 586\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_017"
+    "translation": "这样啊…",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 586\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_017",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0021_efe9cf182b",
     "original": "でもさ…あの、まんねんジャージの\\nどこがいいの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 590\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_018"
+    "translation": "不过啊…那件万年运动服\\n到底哪里好了？",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 590\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_018",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0022_77f82bf2b1",
     "original": "優しいところ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 595\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_019"
+    "translation": "温柔的地方…",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 595\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_019",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0023_82b6541a69",
     "original": "へー…\\n（こいはもうもくって、このことね…）",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 633\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_020"
+    "translation": "嘿～\\n（这就是所谓的恋爱使人盲目吧…）",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 633\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_020",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0024_e4943079a1",
     "original": "ま、いいわ…まずは、このげんじょうから\\nステップをふみださなきゃね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 637\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_020_1"
+    "translation": "算了…首先得从现状\\n迈出第一步才行呢",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 637\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_020_1",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0025_c32b157930",
     "original": "…えぇっ！？\\nわ、私…そんな事は…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 677\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_021"
+    "translation": "…诶！？\\n我、我才没有…",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 677\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_021",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0026_25660ffbb6",
     "original": "なによ、こうどうしないと\\nわたしにそうだんした、いみないじゃない",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 681\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_022"
+    "translation": "搞什么嘛，不行动的话\\n找我商量还有什么意义",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 681\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_022",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0027_45dbe4ea69",
     "original": "ま、わたしにまかせてよ…おとこがコロリとなる\\nせめかた…うーん、やっぱりいろけ？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 720\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_022_1"
+    "translation": "交给我吧…让男人神魂颠倒的\\n方法…嗯～果然还是色诱？",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 720\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_022_1",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0028_d0b0e6aa4b",
     "original": "な、何言ってんのよ！！\\n駄目、無理よ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 724\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_023"
+    "translation": "你、你在胡说什么！！\\n不行，绝对做不到…",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 724\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_023",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0029_fa49461db0",
     "original": "私、ソバカスもあるし…アスカみたいに綺麗な髪も\\n素敵なプロポーションも持ってない",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 762\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_024"
+    "translation": "我、脸上有雀斑……也没有明日香那样漂亮的头发\\n和迷人的身材",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 762\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_024",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0030_7e4f1df7c6",
     "original": "そんなに、ひかんてきにならなくても…\\nうーん、じゃあ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 800\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_025"
+    "translation": "不用那么悲观啦……\\n唔～那这样……",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 800\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_025",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0031_a37f258896",
     "original": "ヒカリが、\\nひとより、じまんできるものって？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 836\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_025_1"
+    "translation": "光，\\n你有什么比别人厉害的特长吗？",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 836\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_025_1",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0032_3a3e7aac71",
     "original": "料理…かな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 871\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_026"
+    "translation": "做饭……大概？",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 871\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_026",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0033_2fbe0e62fe",
     "original": "そう、それよそれ！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 908\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_027"
+    "translation": "对，就是这个！",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 908\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_027",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0034_7ca6604e59",
     "original": "アイツ、いつも\\nコンビニべんとうばっかだし、",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 911\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_027_2"
+    "translation": "那家伙\\n整天就知道吃便利店便当，",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 911\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_027_2",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0035_16dda0c90c",
     "original": "ここでてづくりべんとうでもわたして、\\nノックアウトさせんのよ！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 914\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_027_3"
+    "translation": "现在送上手作便当的话，\\n绝对能一击必杀！",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 914\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_027_3",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0036_0012982b5b",
     "original": "食べて…くれるかな？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 953\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_028"
+    "translation": "会愿意……吃吗？",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 953\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_028",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0037_9750f1d33d",
     "original": "だいじょうぶ！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 957\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_029"
+    "translation": "没问题的！！",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 957\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1303_02_029",
+    "stage": 1
   }
 ]

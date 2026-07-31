@@ -2,8 +2,9 @@
   {
     "key": "e_f763a76cfe_0003_f80b57a906",
     "original": "通常低補間速度",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 3\nElement: PARAM\nAttribute: text"
+    "translation": "常规低插值速度",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 3\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0008_e8fa7a455a",
@@ -26,14 +27,16 @@
   {
     "key": "e_f763a76cfe_0023_c5cc49eb27",
     "original": "通常低注視点(y)",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 7\nElement: PARAM\nAttribute: text"
+    "translation": "通常低注视点(y)",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 7\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0028_25ad2d36af",
     "original": "通常低注視点",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 8\nElement: PARAM\nAttribute: text"
+    "translation": "通常低注视点",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 8\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0033_2dfa4a27db",
@@ -44,50 +47,58 @@
   {
     "key": "e_f763a76cfe_0038_3d167f2e56",
     "original": "通常やや低補間速度",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 10\nElement: PARAM\nAttribute: text"
+    "translation": "通常稍低补间速度",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 10\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0043_a6f5073b58",
     "original": "通常やや低(x)",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 11\nElement: PARAM\nAttribute: text"
+    "translation": "通常稍低(x)",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 11\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0048_044fcde78d",
     "original": "通常やや低(y)",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 12\nElement: PARAM\nAttribute: text"
+    "translation": "通常稍低(y)",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 12\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0053_70d9d4dce3",
     "original": "通常やや低(z)",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 13\nElement: PARAM\nAttribute: text"
+    "translation": "通常稍低(z)",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 13\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0058_b36cacede1",
     "original": "通常やや低注視点(y)",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 14\nElement: PARAM\nAttribute: text"
+    "translation": "通常稍低注视点(y)",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 14\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0063_63c8a03977",
     "original": "通常やや低注視点",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 15\nElement: PARAM\nAttribute: text"
+    "translation": "通常稍低注视点",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 15\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0068_763d8d9d16",
     "original": "通常やや低fov",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 16\nElement: PARAM\nAttribute: text"
+    "translation": "通常稍低fov",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 16\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0073_3bbb1c5dbb",
     "original": "通常普通補間速度",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 17\nElement: PARAM\nAttribute: text"
+    "translation": "通常普通补间速度",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 17\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0078_4c053c6c15",
@@ -110,14 +121,16 @@
   {
     "key": "e_f763a76cfe_0093_a25cab9077",
     "original": "通常普通注視点(y)",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 21\nElement: PARAM\nAttribute: text"
+    "translation": "通常普通注视点(y)",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 21\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0098_0bc77b42ee",
     "original": "通常普通注視点",
-    "translation": "",
-    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 22\nElement: PARAM\nAttribute: text"
+    "translation": "通常普通注视点",
+    "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 22\nElement: PARAM\nAttribute: text",
+    "stage": 1
   },
   {
     "key": "e_f763a76cfe_0103_7631377d24",

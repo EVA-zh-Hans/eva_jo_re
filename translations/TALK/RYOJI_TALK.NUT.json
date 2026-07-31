@@ -8,14 +8,16 @@
   {
     "key": "e_37518f2cdf_0003_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 103"
+    "translation": "丽",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 103",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0004_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 104"
+    "translation": "明日香",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 104",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0005_ee11ae3ed4",
@@ -92,8 +94,9 @@
   {
     "key": "e_37518f2cdf_0017_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 117"
+    "translation": "Pen Pen",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 117",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0018_8bfc665fe2",
@@ -104,14 +107,16 @@
   {
     "key": "e_37518f2cdf_0019_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 119"
+    "translation": "丽",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 119",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0020_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 120"
+    "translation": "明日香",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 120",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0021_ee11ae3ed4",
@@ -188,8 +193,9 @@
   {
     "key": "e_37518f2cdf_0033_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 133"
+    "translation": "Pen Pen",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 133",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0034_8bfc665fe2",
@@ -200,14 +206,16 @@
   {
     "key": "e_37518f2cdf_0035_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 135"
+    "translation": "丽",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 135",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0036_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 136"
+    "translation": "明日香",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 136",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0037_ee11ae3ed4",
@@ -284,8 +292,9 @@
   {
     "key": "e_37518f2cdf_0049_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 149"
+    "translation": "Pen Pen",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 149",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0050_dfa158e0f0",
@@ -1436,8 +1445,9 @@
   {
     "key": "e_37518f2cdf_0432_b80b71fb19",
     "original": "普通の日々がはじまる",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 504\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "平凡的日子开始了",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 504\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0434_a5f1b39026",
@@ -1490,8 +1500,9 @@
   {
     "key": "e_37518f2cdf_0450_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 513\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 513\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0452_edcbe12854",
@@ -1502,8 +1513,9 @@
   {
     "key": "e_37518f2cdf_0454_999e9c900e",
     "original": "…まあ、住み込みのアルバイトあたりでどうだい？",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 515\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_018_2"
+    "translation": "…要不要来当包吃住的临时工？",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 515\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_018_2",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0456_06cb4f0f4a",
@@ -1526,8 +1538,9 @@
   {
     "key": "e_37518f2cdf_0462_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 519\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: TALK/RYOJI_TALK.NUT\nLine: 519\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_37518f2cdf_0476_bb725c7fec",

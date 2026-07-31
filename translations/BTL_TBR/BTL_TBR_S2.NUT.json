@@ -2,43 +2,50 @@
   {
     "key": "e_bfc72b4412_0001_7aa879be56",
     "original": "エヴァシリーズ…アダムより生まれし\\n人間にとって忌むべき存在",
-    "translation": "",
-    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 22\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_005_1"
+    "translation": "EVA量产系列…由亚当诞生的\\n人类应当憎恶的存在",
+    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 22\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_005_1",
+    "stage": 1
   },
   {
     "key": "e_bfc72b4412_0002_4d375e5644",
     "original": "それを利用してまで\\n生き延びようとするリリン",
-    "translation": "",
-    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 28\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_005_2"
+    "translation": "即便如此也要利用它们\\n苟延残喘的李林",
+    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 28\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_005_2",
+    "stage": 1
   },
   {
     "key": "e_bfc72b4412_0003_79266843ab",
     "original": "僕にはわからないよ",
-    "translation": "",
-    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_005_3"
+    "translation": "我实在无法理解啊",
+    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_005_3",
+    "stage": 1
   },
   {
     "key": "e_bfc72b4412_0004_19aaa588db",
     "original": "カヲル君やめてよ！\\nどうしてだよ！",
-    "translation": "",
-    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 42\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_006"
+    "translation": "住手啊薰君！\\n为什么要这样做！",
+    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 42\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_006",
+    "stage": 1
   },
   {
     "key": "e_bfc72b4412_0005_6717113fa2",
     "original": "エヴァは僕と同じ体で出来ている",
-    "translation": "",
-    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_007_1"
+    "translation": "EVA是用和我相同的身体制造的",
+    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_007_1",
+    "stage": 1
   },
   {
     "key": "e_bfc72b4412_0006_e429df608f",
     "original": "僕もアダムより生まれし物だからね\\n魂さえなければ同化できるさ",
-    "translation": "",
-    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 54\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_007_2"
+    "translation": "毕竟我也是从亚当诞生的存在\\n只要没有灵魂就能同化",
+    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 54\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_007_2",
+    "stage": 1
   },
   {
     "key": "e_bfc72b4412_0007_e0140910ce",
     "original": "この弐号機の魂は\\n今、自ら閉じこもっているから",
-    "translation": "",
-    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 60\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_007_3"
+    "translation": "这架贰号机的灵魂\\n现在正自我封闭着",
+    "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 60\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_007_3",
+    "stage": 1
   }
 ]

@@ -2,7 +2,8 @@
   {
     "key": "e_6bf4c03ac2_0001_59e0207b54",
     "original": "リアクター、限界点に達しました！",
-    "translation": "",
-    "context": "File: BTL_JA/BTL_JA_DEMO2_2.NUT\nLine: 54\nCall: im.event\nSpeaker: IMC_CONTROLLER\nVoice: NA10_0506_81_005"
+    "translation": "反应堆达到临界点！",
+    "context": "File: BTL_JA/BTL_JA_DEMO2_2.NUT\nLine: 54\nCall: im.event\nSpeaker: IMC_CONTROLLER\nVoice: NA10_0506_81_005",
+    "stage": 1
   }
 ]

@@ -2,134 +2,156 @@
   {
     "key": "e_b36ea54583_0001_55a67966c3",
     "original": "敵は第一次防衛網を突破！\\n間もなくＣエリアに到達します",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 289\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_0405_10_003"
+    "translation": "敌人突破第一防御网！\\n即将抵达C区域",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 289\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_0405_10_003",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0002_b942b89567",
     "original": "初号機、発進準備！",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 316\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0405_04_004"
+    "translation": "初号机，发射准备！",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 316\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0405_04_004",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0003_0fe45d7f5d",
     "original": "…えっ、これは",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 393\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_002"
+    "translation": "……咦，这是",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 393\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_002",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0004_622eb4a6df",
     "original": "敵内部に高エネルギー反応を確認\\n初号機に向けて収束中です！！",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 396\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_0405_10_005"
+    "translation": "确认敌人体内高能量反应！\\n正向初号机方向集中！！",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 396\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_0405_10_005",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0005_712d2f5a62",
     "original": "何ですって！？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 440\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0405_04_006"
+    "translation": "你说什么！？",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 440\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0405_04_006",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0006_ffc40c8882",
     "original": "シンジ君！　よけて！！",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 479\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0405_04_007"
+    "translation": "真嗣君！快躲开！！",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 479\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0405_04_007",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0008_dd9b2e359a",
     "original": "戻してっ！！\\n早くっ！",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 641\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0405_04_008"
+    "translation": "快还给我！！\\n快点！",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 641\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0405_04_008",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0009_f63fceb039",
     "original": "これが、分析結果です",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 724\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_001"
+    "translation": "这是分析结果",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 724\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_001",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0010_a3d9791097",
     "original": "目標は一定距離内に侵入した外敵を、\\n加粒子砲で自動排除するものと思われます",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 760\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_001_1"
+    "translation": "推测目标会通过加粒子炮\\n自动排除侵入特定范围内的外敌",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 760\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_001_1",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0011_a056d56a49",
     "original": "展開されるＡ．Ｔ．フィールドは、相転移空間を\\n肉眼で確認できる程、超強力なものです",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 764\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_001_2"
+    "translation": "展开的AT力场强度极高\\n甚至能用肉眼观测到相转移空间",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 764\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_001_2",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0012_ed6d1035f0",
     "original": "強力な加粒子砲とＡ．Ｔ．フィールド…攻守共に\\nパーペキな空中要塞ね…で、問題のシールドは？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 775\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0407_04_002"
+    "translation": "强力的加粒子炮和AT力场……攻守兼备的\\n完美空中要塞呢……那么问题在于护盾？",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 775\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0407_04_002",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0013_3df757c004",
     "original": "現在、目標は我々の直上、\\n第３新東京市ゼロエリアに侵攻",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 790\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_003"
+    "translation": "目前目标正从正上方入侵\\n第三新东京市0区",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 790\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_003",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0014_23407d382f",
     "original": "直径、１７．５メートルの巨大シールドが\\nジオフロント内のネルフ本部へ向かい、穿孔中です",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 804\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_003_1"
+    "translation": "直径17.5米的巨大护盾\\n正在朝地下都市的NERV总部方向穿孔",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 804\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_003_1",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0015_5e3f3c7b40",
     "original": "敵はここ、ネルフ本部へ直接攻撃を\\n仕掛けてくるつもりですね",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 809\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_003_2"
+    "translation": "敌人这是打算\\n直接进攻NERV总部呢",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 809\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_003_2",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0016_48f76d6196",
     "original": "エヴァによる接近戦は危険過ぎますね\\nどうします？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 812\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_004"
+    "translation": "用EVA进行近身战太危险了\\n怎么办？",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 812\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_004",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0017_a424bd5b17",
     "original": "んふふ～\\n私ね、チョッチ、やってみたい事があるの",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 846\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0407_04_006"
+    "translation": "嗯呵呵～\\n我啊，稍微有点想尝试的事",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 846\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0407_04_006",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0018_fb191f72e6",
     "original": "目標のレンジ外、\\n超長距離からの直接狙撃かね",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 906\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_0407_06_007"
+    "translation": "在目标射程之外\\n进行超远距离狙击是吧",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 906\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_0407_06_007",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0019_d9fdaa680c",
     "original": "そうです",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 909\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0407_04_008"
+    "translation": "没错",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 909\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0407_04_008",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0020_3969004653",
     "original": "加粒子砲を受けずに攻撃する方法は、目標のＡ．Ｔ．\\nフィールドを中和せずレンジ外からの一点狙撃のみ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 951\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0407_04_008_1"
+    "translation": "要避开荷电粒子炮的攻击，唯一方法就是\\n不中和目标的AT力场，在射程外进行精准狙击▽",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 951\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0407_04_008_1",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0021_73cab2b5cc",
     "original": "マギによる回答は勝算８．７％\\n最も高い数値です",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 954\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0407_04_008_2"
+    "translation": "MAGI给出的胜算概率是8.7%\\n这已经是最高数值了",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 954\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0407_04_008_2",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0022_8e7b9341ca",
     "original": "反対する理由はない\\nやりたまえ、葛城君",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 987\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_0407_05_009"
+    "translation": "没有反对的理由\\n放手去做吧，葛城少校",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 987\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_0407_05_009",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0023_ed6f170b7e",
     "original": "…また同じ天井\\nエヴァに乗るとこればかりだ",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1076\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_001"
+    "translation": "…又是同样的天花板\\n每次驾驶EVA都只能看到这个",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1076\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_001",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0024_a7f878b8ce",
@@ -140,68 +162,79 @@
   {
     "key": "e_b36ea54583_0025_3c80ead5ef",
     "original": "…綾波？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1114\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_002"
+    "translation": "…绫波？",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1114\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_002",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0026_0d17763803",
     "original": "明日、午前０時より発動される\\nヤシマ作戦のスケジュールを伝えます",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1148\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_003_1"
+    "translation": "现在传达明日凌晨0点\\n启动的八岛作战时间表",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1148\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_003_1",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0027_ca79427fc3",
     "original": "碇、綾波、両パイロットは本日１９３０、\\n第２ターミナルに集合",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1152\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_003_2"
+    "translation": "碇、绫波两位驾驶员\\n请于今日19:30在第二终端集合",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1152\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_003_2",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0028_ddb877538e",
     "original": "２０００、初号機、再び零号機に付随し移動開始\\n２００５、発進",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1156\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_003_3"
+    "translation": "20:00 初号机再次随行零号机开始移动\\n20:05 出发",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1156\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_003_3",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0029_d553a3e335",
     "original": "同３０、二子山第２要塞に到着\\n以降は別命あるまで待機",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1160\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_003_4"
+    "translation": "20:30 抵达二子山第二要塞\\n之后待命直至新指令下达",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1160\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_003_4",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0030_d33cd292c4",
     "original": "９０分後に出発よ",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1200\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_006"
+    "translation": "90分钟后出发",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1200\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_006",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0031_2146f44d49",
     "original": "またアレに乗れっていうのか？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1230\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_007"
+    "translation": "又要我驾驶那个吗？",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1230\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_007",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0032_c91e4cd137",
     "original": "そうよ",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1262\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_008"
+    "translation": "是的",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1262\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_008",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0033_56e57434ff",
     "original": "もうイヤだ\\nもうあんな怖い思いしたくない",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1292\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_009_1"
+    "translation": "已经受够了\\n再也不想经历那种恐惧",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1292\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_009_1",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0034_a7ee2ca1c4",
     "original": "怖くて…怖くて…\\nでも逃げる事もできないんだ",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1296\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_009_2"
+    "translation": "害怕得…害怕得…\\n可是又无处可逃",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1296\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_009_2",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0035_1b6101ca13",
     "original": "エヴァが怖いの？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1328\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_010"
+    "translation": "害怕EVA吗？",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1328\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_010",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0036_a7f878b8ce",
@@ -212,32 +245,37 @@
   {
     "key": "e_b36ea54583_0037_0b1c561809",
     "original": "じゃ、寝てたら",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1336\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_012"
+    "translation": "那、睡着的话",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1336\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_012",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0038_409f0dc2e3",
     "original": "寝てたらって…",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1340\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_013"
+    "translation": "睡着的话……",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1340\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_013",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0039_ad4c86b61c",
     "original": "初号機には、私が乗る",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1344\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_014"
+    "translation": "初号机由我来驾驶",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1344\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_014",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0040_ea10045119",
     "original": "…綾波",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1373\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_015"
+    "translation": "……绫波",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1373\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_015",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0041_deccdf98ee",
     "original": "さよなら",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1377\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_016"
+    "translation": "再见",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1377\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_016",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0042_b5999fb8c4",
@@ -248,43 +286,50 @@
   {
     "key": "e_b36ea54583_0043_de14ddf1a0",
     "original": "それじゃあ、作戦開始よ",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1459\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0408_04_002"
+    "translation": "那么、作战开始",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1459\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0408_04_002",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0044_97ecd34127",
     "original": "シンジ君は初号機で砲手を担当\\nレイは零号機で防御を担当して",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1463\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0408_04_002_1"
+    "translation": "真嗣君负责驾驶初号机担任炮手\\n丽驾驶零号机负责防御",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1463\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0408_04_002_1",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0045_44bfc5792d",
     "original": "それからシンジ君",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1467\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0408_04_002_2"
+    "translation": "还有真嗣君",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1467\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0408_04_002_2",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0046_8f90d85ec1",
     "original": "はい",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1472\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0408_01_003"
+    "translation": "明白",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1472\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0408_01_003",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0047_1557052294",
     "original": "一度発射すると冷却や再充填、プラグ交換で\\n次に撃てるまで時間がかかるから",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1476\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0408_04_004"
+    "translation": "发射后需要冷却和再装填、更换插入栓\\n下次射击需要时间",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1476\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0408_04_004",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0048_204f2ad0c0",
     "original": "じゃあ、もし外れて\\n敵が撃ち返して来たら？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1482\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0408_01_005"
+    "translation": "那、如果射偏了\\n敌人反击怎么办？",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1482\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0408_01_005",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0049_41ca0e179d",
     "original": "今は余計な事は考えないで\\n一撃で撃破する事だけを考えなさい",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1509\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0408_07_006"
+    "translation": "现在别想多余的事\\n只要考虑一击必杀",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1509\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0408_07_006",
+    "stage": 1
   }
 ]

@@ -8,14 +8,16 @@
   {
     "key": "e_89badcf1cb_0003_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 103"
+    "translation": "丽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 103",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0004_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 104"
+    "translation": "明日香",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 104",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0005_af34d38598",
@@ -50,8 +52,9 @@
   {
     "key": "e_89badcf1cb_0010_20fdc17ce1",
     "original": "リツコ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 110"
+    "translation": "律子",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 110",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0011_a6be2384e2",
@@ -86,14 +89,16 @@
   {
     "key": "e_89badcf1cb_0016_b166649dcd",
     "original": "マヤ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 116"
+    "translation": "摩耶",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 116",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0017_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 117"
+    "translation": "Pen Pen",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 117",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0018_8bfc665fe2",
@@ -104,14 +109,16 @@
   {
     "key": "e_89badcf1cb_0019_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 119"
+    "translation": "丽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 119",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0020_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 120"
+    "translation": "明日香",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 120",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0021_af34d38598",
@@ -146,8 +153,9 @@
   {
     "key": "e_89badcf1cb_0026_20fdc17ce1",
     "original": "リツコ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 126"
+    "translation": "律子",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 126",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0027_a6be2384e2",
@@ -182,14 +190,16 @@
   {
     "key": "e_89badcf1cb_0032_b166649dcd",
     "original": "マヤ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 132"
+    "translation": "摩耶",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 132",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0033_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 133"
+    "translation": "Pen Pen",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 133",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0034_8bfc665fe2",
@@ -200,14 +210,16 @@
   {
     "key": "e_89badcf1cb_0035_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 135"
+    "translation": "丽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 135",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0036_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 136"
+    "translation": "明日香",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 136",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0037_af34d38598",
@@ -242,8 +254,9 @@
   {
     "key": "e_89badcf1cb_0042_20fdc17ce1",
     "original": "リツコ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 142"
+    "translation": "律子",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 142",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0043_a6be2384e2",
@@ -278,14 +291,16 @@
   {
     "key": "e_89badcf1cb_0048_b166649dcd",
     "original": "マヤ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 148"
+    "translation": "摩耶",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 148",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0049_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 149"
+    "translation": "Pen Pen",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 149",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0050_e07283bff0",
@@ -1940,8 +1955,9 @@
   {
     "key": "e_89badcf1cb_0600_b80b71fb19",
     "original": "普通の日々がはじまる",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 588\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "平凡的日子开始了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 588\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0602_14dc3c3e47",
@@ -1976,8 +1992,9 @@
   {
     "key": "e_89badcf1cb_0612_1f93352107",
     "original": "あ、言い忘れてたけど、\\n親父ギャグはほんとよ？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 594\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_019_2"
+    "translation": "啊对了有件事忘了说\\n大叔冷笑话可是真的哦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 594\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_019_2",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0614_45d2c22c49",
@@ -2006,8 +2023,9 @@
   {
     "key": "e_89badcf1cb_0622_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 599\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 599\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0642_78b73c499a",

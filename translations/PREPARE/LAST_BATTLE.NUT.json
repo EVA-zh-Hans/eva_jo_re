@@ -38,14 +38,16 @@
   {
     "key": "e_2fb1dc591d_0007_6bfec2b23e",
     "original": "　　初号機ケイジ",
-    "translation": "",
-    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26"
+    "translation": "　　初号机机库",
+    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26",
+    "stage": 1
   },
   {
     "key": "e_2fb1dc591d_0008_a44373a21d",
     "original": "マップギミックを配置",
-    "translation": "",
-    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 57\nCall: MenuSetup\nVoice: スキルプログラムを実装"
+    "translation": "地图机关配置",
+    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 57\nCall: MenuSetup\nVoice: スキルプログラムを実装",
+    "stage": 1
   },
   {
     "key": "e_2fb1dc591d_0009_f828e90c60",

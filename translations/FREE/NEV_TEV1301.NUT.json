@@ -2,85 +2,99 @@
   {
     "key": "e_779ee6129f_0001_04bab8d8dd",
     "original": "消滅！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 206\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1301_06_001"
+    "translation": "消失了！？",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 206\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1301_06_001",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0002_8f90d85ec1",
     "original": "はい",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 210\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1301_10_002"
+    "translation": "明白",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 210\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1301_10_002",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0003_d6c47c25ad",
     "original": "確かに第２支部が\\n消滅したんだな！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 242\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1301_06_003"
+    "translation": "确认第二支部\\n确实消失了吗！？",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 242\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1301_06_003",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0004_893f5ced5c",
     "original": "はい、全て確認しました\\n「消滅」です",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 247\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1301_10_004"
+    "translation": "已全部确认\\n确认为「湮灭」",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 247\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1301_10_004",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0005_5c9b4dff15",
     "original": "手がかりはこの静止衛星からの映像だけで、\\nあとは跡形も残ってないのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 284\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1301_07_005"
+    "translation": "线索只有这段静止卫星影像\\n其余痕迹全无",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 284\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1301_07_005",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0006_45a5627e98",
     "original": "ひどいわね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 319\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1301_04_006"
+    "translation": "太惨了",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 319\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1301_04_006",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0007_54015fd576",
     "original": "エヴァンゲリオン四号機ならびに\\n半径８９キロ以内の関連研究施設は全て消滅しました",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 322\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1301_08_007"
+    "translation": "EVA四号机及\\n半径89公里内所有相关研究设施均已湮灭",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 322\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1301_08_007",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0008_ed1c430281",
     "original": "数千の人間も同じく…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 348\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1301_08_007_1"
+    "translation": "数千人同样未能幸免…",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 348\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1301_08_007_1",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0009_5b7b55fb57",
     "original": "おそらくは、ドイツで修復した\\nＳ２機関の搭載実験中の事故と思われます▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 375\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0006_10_003"
+    "translation": "推测是德国修复的\\nS2机关搭载实验引发的事故▽",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 375\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0006_10_003",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0010_0740f27564",
     "original": "それにしても、爆発ではなく、\\n消滅とは一体…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 412\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0006_10_003_1"
+    "translation": "但为何不是爆炸\\n而是彻底湮灭…",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 412\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0006_10_003_1",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0011_39eb97a1d6",
     "original": "多分、ディラックの海に飲み込まれたんでしょうね\\nこの間の初号機みたいに",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 438\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1301_07_008"
+    "translation": "大概是被迪拉克之海吞噬了吧\\n就像上次初号机那样",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 438\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1301_07_008",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0012_45d8917d16",
     "original": "じゃあ、せっかく直したＳ２機関も",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 466\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1301_04_009"
+    "translation": "那么，好不容易修好的S²机关也",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 466\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1301_04_009",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0013_1abaa06c49",
     "original": "パーよ…\\n夢は潰えたわね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 493\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1301_07_010"
+    "translation": "泡汤了……\\n梦想破灭了呢",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 493\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1301_07_010",
+    "stage": 1
   },
   {
     "key": "e_779ee6129f_0014_ee55371fd8",
     "original": "よくわからないものを\\n無理して使うからよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 522\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1301_04_011"
+    "translation": "硬要使用不明白原理的东西\\n才会变成这样",
+    "context": "File: FREE/NEV_TEV1301.NUT\nLine: 522\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1301_04_011",
+    "stage": 1
   }
 ]

@@ -2,133 +2,155 @@
   {
     "key": "e_69f371d8e0_0001_f06ef09973",
     "original": "ほーぉ、修学旅行か\\n行き先は？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 182\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0801_11_001"
+    "translation": "哦～修学旅行啊\n目的地是？",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 182\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0801_11_001",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0002_00c59e8607",
     "original": "オキナワよ♪\\nスクーバダイビングも、できるんだって！▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 186\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_002"
+    "translation": "冲绳哟♪\n听说还能体验潜水呢！▽",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 186\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_002",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0003_2258d4d065",
     "original": "でも、せっかくならカジさんと\\nふたりきりで、いきたいわ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 190\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_002_1"
+    "translation": "不过难得的机会\n更想和加持先生两个人去呢▽",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 190\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_002_1",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0004_0da9852f9b",
     "original": "ところで、カジさんって\\nしゅうがくりょこうは、どこへいったの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 194\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_002_2"
+    "translation": "话说加持先生当年的\n修学旅行去了哪里呀？",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 194\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_002_2",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0005_32de05006c",
     "original": "ああ…\\n俺達、そんなのなかったんだ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 198\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0801_11_003"
+    "translation": "啊…\n我们那时候没这种活动",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 198\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0801_11_003",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0006_da5a548c6f",
     "original": "どうして？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 202\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_004"
+    "translation": "为什么？",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 202\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_004",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0007_98d3bca027",
     "original": "セカンドインパクトが\\nあったからさ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 206\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0801_11_005"
+    "translation": "因为发生了\n第二次冲击嘛",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 206\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0801_11_005",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0008_5f5146ed3f",
     "original": "あっ、言うの忘れてた\\nゴメン！▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 250\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_006"
+    "translation": "啊、忘记说了\n抱歉！▽",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 250\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_006",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0009_edae7f1e7c",
     "original": "あなた達、\\n修学旅行は行っちゃ駄目よ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 254\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_006_1"
+    "translation": "你们俩\n不许去修学旅行",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 254\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_006_1",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0010_5944b581ff",
     "original": "えー、どうしてなのよ！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 261\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_007"
+    "translation": "诶——凭什么啊！？",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 261\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_007",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0011_254bae3966",
     "original": "戦闘待機だもの\\nしょうがないでしょ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 268\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_008"
+    "translation": "要维持战斗待命状态\n这也是没办法的事",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 268\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_008",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0012_3d07b0b07a",
     "original": "なによ、シンジ\\nアンタ、いたの？▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 272\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_009"
+    "translation": "搞什么嘛真嗣\n你也在啊？▽",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 272\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_009",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0013_88196f126c",
     "original": "ほらぁ、アンタも\\nなにかいってやってよ！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 276\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_009_1"
+    "translation": "喂～你也来说\n几句呀！",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 276\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_009_1",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0014_6de3eed38e",
     "original": "えっと…大方予想はついてたから\\n別に言う事なんか…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 280\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0801_01_010"
+    "translation": "那个…我大概也猜到了\n所以没什么好说的…",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 280\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0801_01_010",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0015_4cf446f035",
     "original": "いっつも、たいき、たいき、\\nたいきーーーって、そればっか！！▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 285\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_011"
+    "translation": "整天待机待机待机——\n烦死人了！！▽",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 285\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_011",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0016_c9cd525191",
     "original": "たまには、てきのいばしょをつきとめて\\nせめにいったらどうなのよ！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 289\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_011_1"
+    "translation": "偶尔也该主动找出敌人老巢\n发动进攻才对！",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 289\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_011_1",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0017_d7ae6308e7",
     "original": "それが出来たらやってるわよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 294\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_012"
+    "translation": "能做到的话早就做了啦▽",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 294\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_012",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0018_873c6153dc",
     "original": "ま、これを機会に少しは勉強できるでしょ？▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 298\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_012_1"
+    "translation": "嘛、趁这机会多看看书也不错吧？▽",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 298\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_012_1",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0019_fb14c6b248",
     "original": "あなた達が学校のテストで何点とったかなんて\\n筒抜けなんだから",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 302\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_012_2"
+    "translation": "你们在学校考了多少分\n我可都一清二楚哦",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 302\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_012_2",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0020_356ba418db",
     "original": "バッカみたい！\\nがっこうのせいせきがなによ！▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 306\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_013"
+    "translation": "蠢死了！\n学校成绩算什么嘛！▽",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 306\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_013",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0021_1b1ad11ad5",
     "original": "きゅうたいいぜんとした、げんてんしきの\\nテストなんか、なんのきょうみもないわ！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 310\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_013_1"
+    "translation": "拘束服加上原始形态的\\n测试什么的，一点意思都没有！",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 310\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0801_02_013_1",
+    "stage": 1
   },
   {
     "key": "e_69f371d8e0_0022_541c3ba4bd",
     "original": "郷に入っては郷に従え\\n日本の学校にもなれてちょうだい",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 314\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_014"
+    "translation": "入乡随俗\\n给我好好适应日本学校",
+    "context": "File: FREE/NEV_TEV0801.NUT\nLine: 314\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0801_04_014",
+    "stage": 1
   }
 ]

@@ -2,14 +2,16 @@
   {
     "key": "e_2a4d4fb4fc_0001_e52dd925d8",
     "original": "注目度",
-    "translation": "",
-    "context": "File: TUT/TUT_F005.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "关注度",
+    "context": "File: TUT/TUT_F005.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_2a4d4fb4fc_0002_e52dd925d8",
     "original": "注目度",
-    "translation": "",
-    "context": "File: TUT/TUT_F005.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "关注度",
+    "context": "File: TUT/TUT_F005.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_2a4d4fb4fc_0003_6d73b5055e",

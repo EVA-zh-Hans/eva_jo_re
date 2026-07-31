@@ -2,31 +2,36 @@
   {
     "key": "e_f98863de5d_0001_e315b48d59",
     "original": "ミサトさん…！！\\n大丈夫ですか、ミサトさん！？",
-    "translation": "",
-    "context": "File: BTL_JA/BTL_JA_DEMO3.NUT\nLine: 38\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0506_01_008"
+    "translation": "美里小姐…！！\\n你没事吧，美里小姐！？",
+    "context": "File: BTL_JA/BTL_JA_DEMO3.NUT\nLine: 38\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0506_01_008",
+    "stage": 1
   },
   {
     "key": "e_f98863de5d_0002_b90a178ca3",
     "original": "ええ、何とかね…\\nビールが恋しいくらいかしら？",
-    "translation": "",
-    "context": "File: BTL_JA/BTL_JA_DEMO3.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_009"
+    "translation": "嗯，勉强还行…\\n就是有点想喝啤酒了呢？",
+    "context": "File: BTL_JA/BTL_JA_DEMO3.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_009",
+    "stage": 1
   },
   {
     "key": "e_f98863de5d_0003_a2d1c58d1c",
     "original": "すごいや、ミサトさん！\\n僕、見直しちゃいました",
-    "translation": "",
-    "context": "File: BTL_JA/BTL_JA_DEMO3.NUT\nLine: 44\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0506_01_010"
+    "translation": "太厉害了，美里小姐！\\n我对您刮目相看了",
+    "context": "File: BTL_JA/BTL_JA_DEMO3.NUT\nLine: 44\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0506_01_010",
+    "stage": 1
   },
   {
     "key": "e_f98863de5d_0004_f78289993b",
     "original": "（Ｊ．Ａ．が止まったのは、\\n　私の手ではない…）",
-    "translation": "",
-    "context": "File: BTL_JA/BTL_JA_DEMO3.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_011"
+    "translation": "（Jet Alone的停止…\\n　并非我的操作所致…）",
+    "context": "File: BTL_JA/BTL_JA_DEMO3.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_011",
+    "stage": 1
   },
   {
     "key": "e_f98863de5d_0005_c4a255fede",
     "original": "（何者かの手により、\\n　仕組まれた可能性が高いと見るべきね…）",
-    "translation": "",
-    "context": "File: BTL_JA/BTL_JA_DEMO3.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_011_1"
+    "translation": "（很可能是某人\\n　刻意设计的陷阱…）",
+    "context": "File: BTL_JA/BTL_JA_DEMO3.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_011_1",
+    "stage": 1
   }
 ]

@@ -2,8 +2,9 @@
   {
     "key": "e_3afcf03fd7_0002_eec9e9abf1",
     "original": "シンジ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 102"
+    "translation": "真嗣",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 102",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0003_e42477be97",
@@ -26,32 +27,37 @@
   {
     "key": "e_3afcf03fd7_0006_a1f11b49a5",
     "original": "トウジ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 106"
+    "translation": "冬二",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 106",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0007_17de9647fe",
     "original": "ケンスケ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 107"
+    "translation": "剑介",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 107",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0008_c28804408f",
     "original": "ヒカリ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 108"
+    "translation": "光",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 108",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0009_5db51a0248",
     "original": "ミサト",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 109"
+    "translation": "美里",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 109",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0010_20fdc17ce1",
     "original": "リツコ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 110"
+    "translation": "律子",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 110",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0011_7d84b2dab9",
@@ -92,8 +98,9 @@
   {
     "key": "e_3afcf03fd7_0017_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 117"
+    "translation": "Pen Pen",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 117",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0018_7674addfdf",
@@ -122,32 +129,37 @@
   {
     "key": "e_3afcf03fd7_0022_a1f11b49a5",
     "original": "トウジ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 122"
+    "translation": "冬二",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 122",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0023_17de9647fe",
     "original": "ケンスケ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 123"
+    "translation": "剑介",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 123",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0024_c28804408f",
     "original": "ヒカリ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 124"
+    "translation": "光",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 124",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0025_5db51a0248",
     "original": "ミサト",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 125"
+    "translation": "美里",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 125",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0026_20fdc17ce1",
     "original": "リツコ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 126"
+    "translation": "律子",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 126",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0027_7d84b2dab9",
@@ -188,8 +200,9 @@
   {
     "key": "e_3afcf03fd7_0033_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 133"
+    "translation": "Pen Pen",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 133",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0034_7674addfdf",
@@ -218,32 +231,37 @@
   {
     "key": "e_3afcf03fd7_0038_a1f11b49a5",
     "original": "トウジ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 138"
+    "translation": "冬二",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 138",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0039_17de9647fe",
     "original": "ケンスケ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 139"
+    "translation": "剑介",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 139",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0040_c28804408f",
     "original": "ヒカリ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 140"
+    "translation": "光",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 140",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0041_5db51a0248",
     "original": "ミサト",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 141"
+    "translation": "美里",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 141",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0042_20fdc17ce1",
     "original": "リツコ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 142"
+    "translation": "律子",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 142",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0043_7d84b2dab9",
@@ -284,8 +302,9 @@
   {
     "key": "e_3afcf03fd7_0049_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 149"
+    "translation": "Pen Pen",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 149",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0050_ad6e8080d0",
@@ -1496,8 +1515,9 @@
   {
     "key": "e_3afcf03fd7_0452_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 514\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 514\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0460_3f3e8ed1ba",

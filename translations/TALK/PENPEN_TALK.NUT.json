@@ -320,8 +320,9 @@
   {
     "key": "e_055684bc33_0060_3232540a79",
     "original": "クーー",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 157\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "咕——",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 157\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0062_eeba62b27e",
@@ -1040,8 +1041,9 @@
   {
     "key": "e_055684bc33_0300_dbbc62f4e3",
     "original": "クー　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 277\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "咕～　",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 277\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0302_4f8bca6481",
@@ -1196,8 +1198,9 @@
   {
     "key": "e_055684bc33_0352_3232540a79",
     "original": "クーー",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 303\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "咕——",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 303\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0354_51782c52fe",
@@ -1406,8 +1409,9 @@
   {
     "key": "e_055684bc33_0422_4d0772cd79",
     "original": "クー",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 499\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_002"
+    "translation": "咕～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 499\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_002",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0424_ce83895942",
@@ -1436,8 +1440,9 @@
   {
     "key": "e_055684bc33_0432_4d0772cd79",
     "original": "クー",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 504\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_004"
+    "translation": "咕～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 504\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_004",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0434_475b9934b0",
@@ -1508,8 +1513,9 @@
   {
     "key": "e_055684bc33_0456_4d0772cd79",
     "original": "クー",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 516\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_006"
+    "translation": "咕～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 516\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_006",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0458_c6b53e0448",
@@ -1562,8 +1568,9 @@
   {
     "key": "e_055684bc33_0474_4d0772cd79",
     "original": "クー",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 525\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_009"
+    "translation": "咕～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 525\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_009",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0476_e0d9cb3002",
@@ -1592,14 +1599,16 @@
   {
     "key": "e_055684bc33_0484_4d0772cd79",
     "original": "クー",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 530\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_012"
+    "translation": "咕～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 530\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_012",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0486_4d0772cd79",
     "original": "クー",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 531\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_013"
+    "translation": "咕～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 531\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_013",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0488_dca9baf558",
@@ -1610,20 +1619,23 @@
   {
     "key": "e_055684bc33_0490_b80b71fb19",
     "original": "普通の日々がはじまる",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 533\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "平凡的日子开始了",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 533\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0492_4d0772cd79",
     "original": "クー",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 534\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_014"
+    "translation": "咕～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 534\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_014",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0494_28b380c30b",
     "original": "すっかり仲良しになったわね\\nどう、あなたの家でかってみる？",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 535\nSpeaker: IMC_MISATO\nVoice: na54_0014_04_015"
+    "translation": "已经完全混熟了呢\\n要不要试着养在你家？",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 535\nSpeaker: IMC_MISATO\nVoice: na54_0014_04_015",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0496_3c46728102",
@@ -1634,8 +1646,9 @@
   {
     "key": "e_055684bc33_0498_4d0772cd79",
     "original": "クー",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 537\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_017"
+    "translation": "咕～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 537\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_017",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0500_c53506d4b7",
@@ -1652,20 +1665,23 @@
   {
     "key": "e_055684bc33_0504_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 540\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 540\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0506_4d0772cd79",
     "original": "クー",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 541\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_018"
+    "translation": "咕～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 541\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_018",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0508_3232540a79",
     "original": "クーー",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 542\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_019"
+    "translation": "咕——",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 542\nSpeaker: IMC_PENPEN\nVoice: na54_0014_16_019",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0534_50c15ff7e1",

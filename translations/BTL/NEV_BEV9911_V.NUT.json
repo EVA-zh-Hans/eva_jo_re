@@ -2,7 +2,8 @@
   {
     "key": "e_5013332289_0001_5fbb2c4ee0",
     "original": "エヴァ初号機、限界です！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV9911_V.NUT\nLine: 39\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_002_1"
+    "translation": "EVA初号机，达到极限！",
+    "context": "File: BTL/NEV_BEV9911_V.NUT\nLine: 39\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_002_1",
+    "stage": 1
   }
 ]

@@ -2,13 +2,15 @@
   {
     "key": "e_4a1aa4bef7_0001_a357f33c65",
     "original": "あっちゃあ～、\\nやっぱ難しかったかしら…",
-    "translation": "",
-    "context": "File: BTL_SIM/BTL_SIM_BAD.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0074_04_001"
+    "translation": "哎呀呀～\\n果然还是太难了吗…",
+    "context": "File: BTL_SIM/BTL_SIM_BAD.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0074_04_001",
+    "stage": 1
   },
   {
     "key": "e_4a1aa4bef7_0002_eab363933c",
     "original": "すみません…",
-    "translation": "",
-    "context": "File: BTL_SIM/BTL_SIM_BAD.NUT\nLine: 39\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0074_01_001"
+    "translation": "对不起…",
+    "context": "File: BTL_SIM/BTL_SIM_BAD.NUT\nLine: 39\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0074_01_001",
+    "stage": 1
   }
 ]

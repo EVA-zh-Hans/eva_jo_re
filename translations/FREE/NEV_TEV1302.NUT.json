@@ -2,127 +2,148 @@
   {
     "key": "e_9005323ca4_0001_c687761098",
     "original": "今回の事件の唯一の当事者であり、被験者である\\n初号機パイロットの直接尋問を拒否したそうだな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 159\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_001"
+    "translation": "听说这次事件唯一的当事人兼受试者——初号机驾驶员\\n拒绝了直接问讯",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 159\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_001",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0002_2c353a5980",
     "original": "はい\\n彼の情緒は大変不安定です▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 203\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_002"
+    "translation": "是\\n他的精神状态极不稳定▽",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 203\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_002",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0003_78d746e165",
     "original": "今ここに立つ事が、良策とは思えません",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 207\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_002_1"
+    "translation": "我认为现在让他出席并非良策",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 207\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_002_1",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0004_de4e8343bc",
     "original": "では、聞こう",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 248\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1302_36_003_1"
+    "translation": "那么，开始提问",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 248\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1302_36_003_1",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0005_d9cbd84c14",
     "original": "使徒が我々人類に\\nコンタクトを試みたのではないのかね？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 252\nCall: im.event\nSpeaker: IMC_COMMITTEE2\nVoice: NA10_1302_37_004"
+    "translation": "使徒是否试图\\n与人类进行接触？",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 252\nCall: im.event\nSpeaker: IMC_COMMITTEE2\nVoice: NA10_1302_37_004",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0006_a03594081f",
     "original": "被験者の報告では、それは感じ取れません▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 298\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_005"
+    "translation": "根据受试者报告，并未感知到这种意图▽",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 298\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_005",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0007_94f2daa347",
     "original": "イレギュラーな事件だと推定されます",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 302\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_005_1"
+    "translation": "推测属于异常事件",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 302\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_005_1",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0008_c746370be6",
     "original": "彼の記憶が正しいとすればな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 346\nCall: im.event\nSpeaker: IMC_COMMITTEE3\nVoice: NA10_1302_38_006"
+    "translation": "前提是他的记忆准确无误",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 346\nCall: im.event\nSpeaker: IMC_COMMITTEE3\nVoice: NA10_1302_38_006",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0009_84e1586a2f",
     "original": "エヴァのＡＣレコーダーは作動していなかった\\n確認は取れまい",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 389\nCall: im.event\nSpeaker: IMC_COMMITTEE3\nVoice: NA10_1302_38_008"
+    "translation": "EVA的黑匣子没有运作\\n无法确认记录",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 389\nCall: im.event\nSpeaker: IMC_COMMITTEE3\nVoice: NA10_1302_38_008",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0010_e55aa9461c",
     "original": "第１２使徒は人間の精神、\\n心に興味を持ったのか？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 393\nCall: im.event\nSpeaker: IMC_COMMITTEE4\nVoice: NA10_1302_39_009"
+    "translation": "第十二使徒是对人类的精神\\n与心灵产生兴趣了吗？",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 393\nCall: im.event\nSpeaker: IMC_COMMITTEE4\nVoice: NA10_1302_39_009",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0011_18b221ac11",
     "original": "その返答は出来かねます",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 440\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_010"
+    "translation": "这个问题我无法回答",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 440\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_010",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0012_362edd4e10",
     "original": "果たして使徒に「心」の概念があるのか、\\n人間の思考が理解できるのか、全く不明ですから",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 444\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_010_1"
+    "translation": "使徒是否具备「心」的概念\\n能否理解人类思维，目前完全不明",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 444\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_010_1",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0013_9a72e97c44",
     "original": "今回の事件には使徒がエヴァを取り込もうとした、\\nという新しい要素がある",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 495\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1302_36_011"
+    "translation": "本次事件出现了使徒试图吞噬EVA\\n这一新要素",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 495\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1302_36_011",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0014_6f7696f7b1",
     "original": "これが予測され得る第１３使徒以降と\\nリンクする可能性は？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 499\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1302_36_011_1"
+    "translation": "这与预测中第十三使徒及后续个体\\n产生关联的可能性是？",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 499\nCall: im.event\nSpeaker: IMC_COMMITTEE1\nVoice: NA10_1302_36_011_1",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0015_56bf688eca",
     "original": "これまでのパターンから、\\n使徒同士の組織的な繋がりは、ほぼ否定されています",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 548\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_012"
+    "translation": "根据既往模式\\n使徒之间存在组织性关联的可能性基本可以否定",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 548\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_012",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0016_b8970e66f9",
     "original": "左様、単独行動のパターンである事は\\n明らかだ、これまではな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 592\nCall: im.event\nSpeaker: IMC_COMMITTEE2\nVoice: NA10_1302_37_013"
+    "translation": "诚然，迄今为止\\n它们都表现出单独行动的模式",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 592\nCall: im.event\nSpeaker: IMC_COMMITTEE2\nVoice: NA10_1302_37_013",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0017_6f8f8b10fe",
     "original": "以上だ、下がりたまえ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 643\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_017"
+    "translation": "到此为止，退下吧",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 643\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_017",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0018_8f90d85ec1",
     "original": "はい",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 647\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_018"
+    "translation": "明白",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 647\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1302_04_018",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0019_db81ca5eb0",
     "original": "どう思うかね？　碇君…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 664\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_019"
+    "translation": "你怎么看？碇君……",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 664\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_019",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0020_75834de47d",
     "original": "使徒は知恵をつけ始めています\\n残された時間は…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 683\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1302_05_020"
+    "translation": "使徒正在获得智慧\\n留给我们的时间……",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 683\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1302_05_020",
+    "stage": 1
   },
   {
     "key": "e_9005323ca4_0021_36b91dd0f2",
     "original": "あとわずか、という事か",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 721\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_021"
+    "translation": "意思是所剩无几了",
+    "context": "File: FREE/NEV_TEV1302.NUT\nLine: 721\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_021",
+    "stage": 1
   }
 ]

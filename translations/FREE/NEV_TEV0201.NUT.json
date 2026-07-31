@@ -8,55 +8,64 @@
   {
     "key": "e_b83e3d3d38_0002_803b41953d",
     "original": "ここは…？▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 140\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_002"
+    "translation": "这里是……？▽",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 140\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_002",
+    "stage": 1
   },
   {
     "key": "e_b83e3d3d38_0003_629fb8e579",
     "original": "…知らない天井だ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 144\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_003"
+    "translation": "……陌生的天花板",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 144\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_003",
+    "stage": 1
   },
   {
     "key": "e_b83e3d3d38_0004_e5b032e175",
     "original": "ん、快調そうね！\\n今日はあなたをネルフ本部へ案内するわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 202\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_008"
+    "translation": "嗯，气色不错嘛！\n今天带你去NERV总部参观",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 202\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_008",
+    "stage": 1
   },
   {
     "key": "e_b83e3d3d38_0005_60fc452ce7",
     "original": "父の職場ですか？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 206\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_009"
+    "translation": "是父亲工作的地方吗？",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 206\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_009",
+    "stage": 1
   },
   {
     "key": "e_b83e3d3d38_0006_649aeba70d",
     "original": "私やあなた、シンジ君の仕事の場でもあるのよ？\\nさっ、行きましょう",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 210\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_010"
+    "translation": "也是我和真嗣君今后要工作的地方哦？\n好了，我们走吧",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 210\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_010",
+    "stage": 1
   },
   {
     "key": "e_b83e3d3d38_0007_52d25d0b25",
     "original": "僕の？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 245\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_011"
+    "translation": "我……？",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 245\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_011",
+    "stage": 1
   },
   {
     "key": "e_b83e3d3d38_0008_4e552b1e3b",
     "original": "そうよ…あなたは、エヴァンゲリオン\\n初号機のパイロットなのだから▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 249\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_012"
+    "translation": "没错……因为你是\nEVA初号机的驾驶员啊▽",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 249\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_012",
+    "stage": 1
   },
   {
     "key": "e_b83e3d3d38_0009_47dc8dfe1c",
     "original": "だから、あなたの\\n仕事場でもあるのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 253\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_012_1"
+    "translation": "所以这里\n也是你的工作场所",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 253\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_012_1",
+    "stage": 1
   },
   {
     "key": "e_b83e3d3d38_0010_6300559c9f",
     "original": "（また、アレに乗んなきゃ\\n　いけないのか…）",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 262\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_013"
+    "translation": "（又要……\n驾驶那个东西了吗）",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 262\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0201_01_013",
+    "stage": 1
   }
 ]

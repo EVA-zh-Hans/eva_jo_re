@@ -14,8 +14,9 @@
   {
     "key": "e_4615c83b0a_0004_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 104"
+    "translation": "明日香",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 104",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0005_af34d38598",
@@ -26,14 +27,16 @@
   {
     "key": "e_4615c83b0a_0006_a1f11b49a5",
     "original": "トウジ",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 106"
+    "translation": "冬二",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 106",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0007_17de9647fe",
     "original": "ケンスケ",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 107"
+    "translation": "剑介",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 107",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0008_a6df4147d6",
@@ -56,8 +59,9 @@
   {
     "key": "e_4615c83b0a_0011_df6bcb0fe8",
     "original": "加持さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 111"
+    "translation": "加持先生",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 111",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0012_4ad769946c",
@@ -92,8 +96,9 @@
   {
     "key": "e_4615c83b0a_0017_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 117"
+    "translation": "Pen Pen",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 117",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0018_3eb9f20eae",
@@ -110,8 +115,9 @@
   {
     "key": "e_4615c83b0a_0020_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 120"
+    "translation": "明日香",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 120",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0021_af34d38598",
@@ -122,14 +128,16 @@
   {
     "key": "e_4615c83b0a_0022_a1f11b49a5",
     "original": "トウジ",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 122"
+    "translation": "冬二",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 122",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0023_17de9647fe",
     "original": "ケンスケ",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 123"
+    "translation": "剑介",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 123",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0024_a6df4147d6",
@@ -152,8 +160,9 @@
   {
     "key": "e_4615c83b0a_0027_df6bcb0fe8",
     "original": "加持さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 127"
+    "translation": "加持先生",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 127",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0028_4ad769946c",
@@ -188,8 +197,9 @@
   {
     "key": "e_4615c83b0a_0033_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 133"
+    "translation": "Pen Pen",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 133",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0034_3eb9f20eae",
@@ -206,8 +216,9 @@
   {
     "key": "e_4615c83b0a_0036_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 136"
+    "translation": "明日香",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 136",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0037_af34d38598",
@@ -218,14 +229,16 @@
   {
     "key": "e_4615c83b0a_0038_a1f11b49a5",
     "original": "トウジ",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 138"
+    "translation": "冬二",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 138",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0039_17de9647fe",
     "original": "ケンスケ",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 139"
+    "translation": "剑介",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 139",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0040_a6df4147d6",
@@ -248,8 +261,9 @@
   {
     "key": "e_4615c83b0a_0043_df6bcb0fe8",
     "original": "加持さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 143"
+    "translation": "加持先生",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 143",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0044_4ad769946c",
@@ -284,8 +298,9 @@
   {
     "key": "e_4615c83b0a_0049_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 149"
+    "translation": "Pen Pen",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 149",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0050_ad329ba888",

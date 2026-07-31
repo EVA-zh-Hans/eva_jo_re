@@ -2,19 +2,22 @@
   {
     "key": "e_81ff2abdcb_0001_c8ab2d6bfa",
     "original": "ミサト…？\\n知らないわよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1509.NUT\nLine: 127\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1504_07_010"
+    "translation": "美里…？\n我不知道哦▽",
+    "context": "File: FREE/NEV_TEV1509.NUT\nLine: 127\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1504_07_010",
+    "stage": 1
   },
   {
     "key": "e_81ff2abdcb_0002_7c211f5690",
     "original": "彼女も忙しいから\\n家に帰らない時だってあるわよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1509.NUT\nLine: 154\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1504_07_010_1"
+    "translation": "她工作忙起来\n不回家也是常有的",
+    "context": "File: FREE/NEV_TEV1509.NUT\nLine: 154\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1504_07_010_1",
+    "stage": 1
   },
   {
     "key": "e_81ff2abdcb_0003_62c8cc9727",
     "original": "そうですか",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1509.NUT\nLine: 157\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1504_01_011"
+    "translation": "这样啊",
+    "context": "File: FREE/NEV_TEV1509.NUT\nLine: 157\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1504_01_011",
+    "stage": 1
   }
 ]

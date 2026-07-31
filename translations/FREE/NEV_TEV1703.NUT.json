@@ -2,49 +2,57 @@
   {
     "key": "e_399e484967_0001_ff63591fb1",
     "original": "使徒、第３新東京市に出現",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 228\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0006_10_001"
+    "translation": "使徒于第三新东京市出现",
+    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 228\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0006_10_001",
+    "stage": 1
   },
   {
     "key": "e_399e484967_0002_1b147d6402",
     "original": "目標のＡ．Ｔ．フィールドは依然、健在▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 251\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0006_09_001"
+    "translation": "目标AT力场依然维持稳定▽",
+    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 251\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0006_09_001",
+    "stage": 1
   },
   {
     "key": "e_399e484967_0003_47eccdc668",
     "original": "パターン、青からオレンジへ\\n周期的に変化しています",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 279\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0006_09_001_1"
+    "translation": "模式由蓝转橙\\n呈周期性变化",
+    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 279\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA03_0006_09_001_1",
+    "stage": 1
   },
   {
     "key": "e_399e484967_0004_c290728b70",
     "original": "どういう事？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 284\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0006_04_001"
+    "translation": "什么意思？",
+    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 284\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0006_04_001",
+    "stage": 1
   },
   {
     "key": "e_399e484967_0005_a21d66ae5e",
     "original": "マギは解答不能を提示しています▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 314\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA03_0006_08_001"
+    "translation": "MAGI反馈无解答案▽",
+    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 314\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA03_0006_08_001",
+    "stage": 1
   },
   {
     "key": "e_399e484967_0006_fce048738d",
     "original": "ただ、あの形は固定形態でない事は確かですね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 320\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA03_0006_08_001_1"
+    "translation": "但可以确定其形态并非固定",
+    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 320\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA03_0006_08_001_1",
+    "stage": 1
   },
   {
     "key": "e_399e484967_0007_de518aaf6a",
     "original": "真っ向から勝負するのは危険だわ\\n接近戦は避けた方がよさそうね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 370\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0006_04_003"
+    "translation": "正面交锋太危险\\n应当避免近身战",
+    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 370\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0006_04_003",
+    "stage": 1
   },
   {
     "key": "e_399e484967_0008_943edee8b7",
     "original": "零号機発進、迎撃位置",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 409\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1703_05_001"
+    "translation": "零号机出击，前往拦截位置",
+    "context": "File: FREE/NEV_TEV1703.NUT\nLine: 409\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1703_05_001",
+    "stage": 1
   }
 ]

@@ -2,74 +2,86 @@
   {
     "key": "e_c3d9ec5e59_0001_9efa8203c8",
     "original": "先程、第２東京から\\nＡ－８０１が出ました",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 224\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0042_09_001"
+    "translation": "刚才从第二新东京\\n出动了A-801",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 224\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0042_09_001",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0002_921583d04b",
     "original": "特務機関ネルフの特例による\\n法的保護の破棄",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 228\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0042_09_001_1"
+    "translation": "废除特务机关NERV\\n享有的法律特例保护",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 228\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0042_09_001_1",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0003_eaebfa61f9",
     "original": "及び指揮権の日本国政府への委譲です",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 232\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0042_09_001_2"
+    "translation": "并将指挥权移交日本政府",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 232\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0042_09_001_2",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0004_06e787102d",
     "original": "やはり人間の敵は、同じ人間だったか…\\nゼーレは総力を上げているな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 271\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_001"
+    "translation": "人类的敌人终究还是人类吗…\\nSEELE这次倾巢而出了",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 271\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_001",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0005_d2eca03ef6",
     "original": "戦自、約一個師団を投入か",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 292\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_002"
+    "translation": "战略自卫队，投入了约一个师团吧",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 292\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_002",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0006_95f30eaced",
     "original": "奴らの目的は、本部施設及び、\\n残るエヴァ２体の直接占拠だな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 321\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_002_1"
+    "translation": "他们的目的是直接占领总部设施\\n以及剩余的两台EVA",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 321\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_002_1",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0007_1a3b4868ec",
     "original": "ああ…リリス、\\nそしてアダムさえ我らにある",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 325\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1903_05_003"
+    "translation": "没错……莉莉丝\\n还有亚当都在我们手中",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 325\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1903_05_003",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0008_48c492a1ae",
     "original": "老人達が焦るわけだ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 329\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_004"
+    "translation": "难怪那些老家伙会着急",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 329\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_004",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0009_2488d52265",
     "original": "冬月先生、後を頼みます",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 364\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1903_05_005"
+    "translation": "冬月老师，后面就拜托你了",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 364\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1903_05_005",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0010_d0460786a6",
     "original": "…わかっている\\nユイ君によろしくな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 368\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_006"
+    "translation": "…我明白\\n代我向唯问好",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 368\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1903_06_006",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0011_4a09b73180",
     "original": "何の音…さっきから一体、\\n何が起こってるんだ？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 436\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0042_01_024"
+    "translation": "什么声音…从刚才开始\\n到底发生了什么？",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 436\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0042_01_024",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0012_3ca439cb0d",
     "original": "いたぞ！　エヴァ搭乗パイロットだ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 457\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_007"
+    "translation": "找到了！是EVA驾驶员",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 457\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_007",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0013_85954c0db3",
@@ -80,44 +92,51 @@
   {
     "key": "e_c3d9ec5e59_0014_ce243d1638",
     "original": "これより、排除する",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 476\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_008"
+    "translation": "现在开始排除目标",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 476\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_008",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0015_a34cd99541",
     "original": "…悪く思うなよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 479\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_008_1"
+    "translation": "…别记恨我们",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 479\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_008_1",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0016_1e329ba8af",
     "original": "待たせたわね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 620\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_030"
+    "translation": "久等了",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 620\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_030",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0017_3ae2f02bbb",
     "original": "ミサトさん…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 624\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0042_01_028"
+    "translation": "美里小姐…",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 624\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0042_01_028",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0018_559033107f",
     "original": "戦略自衛隊がここを占拠するために\\n侵攻してきたのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 649\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_031"
+    "translation": "战略自卫队为了占领这里\\n发动了进攻",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 649\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_031",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0019_410dc22c13",
     "original": "発令所まで戻りましょう、\\nちょっと待ってね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 652\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_031_1"
+    "translation": "先回指挥所吧\\n稍等一下",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 652\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_031_1",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0020_b6816202f9",
     "original": "こちら葛城、パイロットに接触\\nただ今より帰還します",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 686\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_031_2"
+    "translation": "这里是葛城，已与驾驶员接触\\n现在开始返回",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 686\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_031_2",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0021_4be66cf94e",
@@ -128,104 +147,121 @@
   {
     "key": "e_c3d9ec5e59_0022_47363d7168",
     "original": "何…何ですって…！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 724\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_031_4"
+    "translation": "什…什么…！！",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 724\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_031_4",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0023_74e068fd65",
     "original": "ええ、全部で９機エヴァ量産機、エヴァシリーズです\\nただ今、ネルフ直上を旋回中",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 750\nCall: im.event\nSpeaker: IMC_F_STAFF\nVoice: NA02_0042_18_011"
+    "translation": "是的，总共9台EVA量产机\\n正在NERV正上方盘旋",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 750\nCall: im.event\nSpeaker: IMC_F_STAFF\nVoice: NA02_0042_18_011",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0024_117465c499",
     "original": "エヴァ量産機が投入されたそうよ\\n数は９機、あなたの手で全て消滅させるのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 831\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_033"
+    "translation": "听说EVA量产机出动了\\n共9台，要由你来全部消灭",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 831\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_033",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0025_bf60a877d3",
     "original": "９機…？\\nそんな数を相手に…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 835\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_007"
+    "translation": "9台…？\\n要对付这么多…",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 835\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_007",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0026_454afcc139",
     "original": "サードインパクトを起こすつもりなのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 874\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_008"
+    "translation": "他们打算引发第三次冲击",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 874\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_008",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0027_fbee9c4b40",
     "original": "使徒ではなく、エヴァシリーズを使ってね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 878\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_008_1"
+    "translation": "不是使徒，而是用EVA量产系列",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 878\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_008_1",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0028_acbc665b3a",
     "original": "１５年前のセカンドインパクトは\\n人間に仕組まれたものだったわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 882\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_008_2"
+    "translation": "15年前的第二次冲击\\n是人类一手策划的",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 882\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_008_2",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0029_25fd9e020f",
     "original": "けどそれは他の使徒が覚醒する前にアダムを卵へと\\n還元する事で被害を最小限に食い止める為だったのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 941\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_009"
+    "translation": "但那只是为了在其他使徒觉醒前将亚当还原为卵形态\\n从而将损害控制在最小限度",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 941\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_009",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0030_a1272fec4b",
     "original": "私達人間もね、アダムと同じリリスと呼ばれる\\n生命体の源から生まれた１８番目の使徒なのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 995\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_009_1"
+    "translation": "我们人类也是从被称为莉莉丝的生命之源\\n诞生的第十八使徒啊",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 995\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_009_1",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0031_5072d8349a",
     "original": "他の使徒達は別の可能性だったの\\nヒトの形を捨てた人類の…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1031\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_010"
+    "translation": "其他使徒是舍弃了人类形态的\\n另一种可能性……",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1031\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_010",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0032_afd9e3bd5e",
     "original": "ただ、お互いを拒絶するしかなかった\\n悲しい存在だったけどね、同じ人間同士も",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1076\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_010_1"
+    "translation": "但可悲的是我们只能互相排斥\\n就连同为人类也是如此",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1076\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_010_1",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0033_cdb9d354f8",
     "original": "いい、シンジ君…\\nエヴァシリーズを全て消滅させるのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1118\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_010_2"
+    "translation": "听好，真嗣君……\\n必须消灭所有EVA量产系列",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1118\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_010_2",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0034_d07065c78e",
     "original": "生き残る手段はそれしかないわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1122\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_010_3"
+    "translation": "这是唯一的生存手段",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1122\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_010_3",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0035_3ca439cb0d",
     "original": "いたぞ！　エヴァ搭乗パイロットだ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1158\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_009"
+    "translation": "找到了！是EVA驾驶员",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1158\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_009",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0036_83fc4bd99a",
     "original": "発見次第、片づけろ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1177\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_010"
+    "translation": "发现目标立即清除",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1177\nCall: im.event\nSpeaker: IMC_SDF\nVoice: NA02_0042_46_010",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0037_e1695d8155",
     "original": "伏せてっ！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1201\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_037"
+    "translation": "趴下！！",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1201\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_037",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0038_c369378a22",
     "original": "今よ、走りなさい！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1311\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_038"
+    "translation": "就是现在，快跑！！",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1311\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_038",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0039_a7f878b8ce",
@@ -236,170 +272,198 @@
   {
     "key": "e_c3d9ec5e59_0040_ff0398f8dd",
     "original": "怪我、ないみたいね…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1423\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_039"
+    "translation": "看起来……没受伤呢",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1423\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_039",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0041_7bea9d4b8b",
     "original": "…血が",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1454\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0042_01_037"
+    "translation": "……是血",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1454\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0042_01_037",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0042_23ed79ef6a",
     "original": "私なら大丈夫、\\n待ってて、このエレベーターでケイジに行けるから…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1490\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_040"
+    "translation": "我没事的\\n等着，这部电梯能直通机库……",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1490\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0042_04_040",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0043_2417992ea4",
     "original": "いい、シンジ君\\nここから先はもう、あなた一人よ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1518\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_011"
+    "translation": "够了，真嗣君\\n接下来的路只能你独自前行了",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1518\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_011",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0044_cf5bd9d4ea",
     "original": "全て一人で決めなさい\\n誰の助けもなく",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1549\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_011_1"
+    "translation": "所有决定都要靠自己\\n不要依赖任何人",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1549\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_011_1",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0045_399d02b8c5",
     "original": "僕は…駄目だ\\n駄目なんですよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1553\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_012"
+    "translation": "我……做不到\\n真的做不到啊",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1553\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_012",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0046_dfe777ee7c",
     "original": "僕には、人の為にできる事なんて何もないんだ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1564\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_012_4"
+    "translation": "我根本帮不上任何人",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1564\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_012_4",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0047_f05d385cdf",
     "original": "優しさなんか、かけらもない\\nズルくて臆病なだけだ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1578\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_012_5"
+    "translation": "没有半点温柔\\n只是个狡猾的胆小鬼",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1578\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_012_5",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0048_1a0c5032c0",
     "original": "僕には人を傷つける事しか出来ないんだ\\nだったら、何もしない方がいい！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1582\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_012_6"
+    "translation": "我只会伤害别人\\n那还不如什么都不做！",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1582\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_012_6",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0049_f54f6f9ae5",
     "original": "自分が嫌いなのね\\nだから、人も傷つける",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1629\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013"
+    "translation": "你讨厌自己对吧\\n所以才会伤害他人",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1629\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0050_ea594cf96a",
     "original": "自分が傷つくより、人を傷つけた方が\\n心が痛い事を知っているから",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1633\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013_1"
+    "translation": "因为你知道比起自己受伤\\n伤害别人更令你心痛",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1633\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013_1",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0051_79b46c1657",
     "original": "でも、どんな思いが待っていても、\\nそれはあなたが自分一人で決めた事だわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1636\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013_2"
+    "translation": "但无论等待你的是怎样的未来\\n那都是你自己做出的选择",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1636\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013_2",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0052_697a6334b8",
     "original": "価値のある事なのよ、シンジ君\\nあなた自身の事なのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1639\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013_3"
+    "translation": "这是有意义的事啊，真嗣君\\n关乎你自身存在价值的事",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1639\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013_3",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0053_884c9c20a5",
     "original": "誤魔化さずに、自分にできる事を考え\\n償いは自分でやりなさい",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1642\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013_4"
+    "translation": "别逃避，好好想想自己能做的事\\n赎罪要靠你自己完成",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1642\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_013_4",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0054_7c6412f938",
     "original": "…ミサトさんだって、他人のくせに！\\n何もわかってないくせにっ！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1691\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_014"
+    "translation": "……美里小姐明明也是外人！\\n明明什么都不懂！！",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1691\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_014",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0055_051dd77b7c",
     "original": "他人だから、\\nどうだってぇのよ！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1737\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_015"
+    "translation": "因为是外人\\n所以怎样都无所谓吗！！",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1737\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_015",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0056_0f1b9872ff",
     "original": "あんた、このままやめるつもり！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1754\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_015_1"
+    "translation": "你打算就这样放弃吗！？",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1754\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_015_1",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0057_fc8ab3f63f",
     "original": "今ここで何もしなかったら、私、許さないからね！\\n一生あんたを許さないからね！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1791\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_015_2"
+    "translation": "要是现在什么都不做，我绝对不会原谅你！\\n这辈子都不会原谅你！",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1791\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_015_2",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0058_e36a8f0fa4",
     "original": "今の自分が絶対じゃないわ、後で間違いに気付き、\\n後悔する、私はその繰り返しだった",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1795\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_016"
+    "translation": "现在的自己并非绝对正确，之后发现错误\\n陷入后悔，我就是这样不断重复着",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1795\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_016",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0059_73cf591598",
     "original": "ヌカ喜びと自己嫌悪を重ねるだけ…\\nでも、その度に前に進めた気がする",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1799\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_016_1"
+    "translation": "不过是徒增虚妄的喜悦与自我厌恶……\\n但每次都觉得向前迈进了一步",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1799\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_016_1",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0060_2fc13f7a19",
     "original": "いい、シンジ君",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1803\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_017"
+    "translation": "好了，真嗣君",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1803\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_017",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0061_005678c0bc",
     "original": "もう一度エヴァに乗ってケリをつけなさい\\nエヴァに乗っていた自分に",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1850\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_017_1"
+    "translation": "再驾驶一次EVA做个了断吧\\n和曾经驾驶EVA的自己",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1850\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_017_1",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0062_4b07fb43b6",
     "original": "何の為にここに来たのか、何の為にここにいるのか\\n今の自分の答えを見つけなさい",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1854\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_017_2"
+    "translation": "找到你来到这里的理由，留在这里的意义\\n找到属于当下自己的答案",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1854\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_017_2",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0063_b6a22c9885",
     "original": "そしてケリをつけたら、必ず戻ってくるのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1858\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_017_3"
+    "translation": "等一切结束后，一定要回来",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1858\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_017_3",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0064_3eded3b63b",
     "original": "約束よ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1901\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_018"
+    "translation": "约定好了……",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1901\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_018",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0065_273d0bc96e",
     "original": "…うん",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1905\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_019"
+    "translation": "……嗯",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1905\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1903_01_019",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0066_69b8c5c370",
     "original": "行ってらっしゃい",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1939\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_020"
+    "translation": "路上小心",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1939\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_020",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0067_0b4e3d0440",
     "original": "大人のキスよ\\n帰ったら続きをしましょう",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1949\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_021"
+    "translation": "这是成人的吻\\n回来后再继续吧",
+    "context": "File: FREE/NEV_TEV1903.NUT\nLine: 1949\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_021",
+    "stage": 1
   },
   {
     "key": "e_c3d9ec5e59_0068_24d814d999",

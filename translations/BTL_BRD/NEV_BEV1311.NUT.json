@@ -2,37 +2,43 @@
   {
     "key": "e_791eea3a3d_0001_6c07ea16c4",
     "original": "シンジ、なぜ戦わない？",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 24\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_001"
+    "translation": "真嗣，为何不战斗？",
+    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 24\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_001",
+    "stage": 1
   },
   {
     "key": "e_791eea3a3d_0002_1af8fc7e17",
     "original": "だって…人、人が乗ってるんだよ！\\n父さん！",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 25\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0016_01_002"
+    "translation": "因为…里、里面有人啊！\\n父亲！",
+    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 25\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0016_01_002",
+    "stage": 1
   },
   {
     "key": "e_791eea3a3d_0003_7707865d29",
     "original": "構わん\\nそいつは使徒だ、我々の敵だ",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 26\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_002"
+    "translation": "无所谓\\n那是使徒，是我们的敌人",
+    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 26\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_002",
+    "stage": 1
   },
   {
     "key": "e_791eea3a3d_0004_8f0ce67993",
     "original": "でも、でも、出来ないよ！　助けなきゃ！\\n人殺しなんて出来ないよ！",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 27\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0016_01_004"
+    "translation": "但是…但是…我做不到啊！必须救他们！\\n我怎么能杀人！",
+    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 27\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0016_01_004",
+    "stage": 1
   },
   {
     "key": "e_791eea3a3d_0005_ff4760fd58",
     "original": "お前が死ぬぞ",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 28\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_003"
+    "translation": "你会死的",
+    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 28\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_003",
+    "stage": 1
   },
   {
     "key": "e_791eea3a3d_0006_dedfab8c08",
     "original": "いいよ\\n人を殺すよりはいいっ！！",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 29\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0016_01_006"
+    "translation": "没关系\\n总比杀人好！！",
+    "context": "File: BTL_BRD/NEV_BEV1311.NUT\nLine: 29\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0016_01_006",
+    "stage": 1
   }
 ]

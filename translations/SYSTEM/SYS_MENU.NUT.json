@@ -2,38 +2,44 @@
   {
     "key": "e_5076d999ed_0001_6a4815a2dc",
     "original": "キャラステータス",
-    "translation": "",
-    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: エヴァステータス"
+    "translation": "角色状态",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: エヴァステータス",
+    "stage": 1
   },
   {
     "key": "e_5076d999ed_0002_0bf5f59ebe",
     "original": "エヴァステータス",
-    "translation": "",
-    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: 第３新東京市ステータス"
+    "translation": "EVA状态",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: 第３新東京市ステータス",
+    "stage": 1
   },
   {
     "key": "e_5076d999ed_0003_bf8d233703",
     "original": "第３新東京市ステータス",
-    "translation": "",
-    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: オプション"
+    "translation": "第三新东京市状态",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: オプション",
+    "stage": 1
   },
   {
     "key": "e_5076d999ed_0004_5b717728bb",
     "original": "オプション",
-    "translation": "",
-    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: チュートリアル"
+    "translation": "选项",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: チュートリアル",
+    "stage": 1
   },
   {
     "key": "e_5076d999ed_0005_c5974713b0",
     "original": "チュートリアル",
-    "translation": "",
-    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: タイトル画面へ"
+    "translation": "教程",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: タイトル画面へ",
+    "stage": 1
   },
   {
     "key": "e_5076d999ed_0006_dab13c9db8",
     "original": "タイトル画面へ",
-    "translation": "",
-    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup"
+    "translation": "返回标题画面",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup",
+    "stage": 1
   },
   {
     "key": "e_5076d999ed_0007_ad00bf5b37",

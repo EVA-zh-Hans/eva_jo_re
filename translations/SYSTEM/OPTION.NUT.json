@@ -8,14 +8,16 @@
   {
     "key": "e_92737fef78_0005_5df168a07f",
     "original": "アナログパッド",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 25\nCall: f01.set_string"
+    "translation": "模拟摇杆",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 25\nCall: f01.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0006_1651ef947e",
     "original": "方向キー",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 26\nCall: f02.set_string"
+    "translation": "方向键",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 26\nCall: f02.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0010_f25e5e3a6a",
@@ -26,14 +28,16 @@
   {
     "key": "e_92737fef78_0011_5df168a07f",
     "original": "アナログパッド",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 33\nCall: f11.set_string"
+    "translation": "模拟摇杆",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 33\nCall: f11.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0012_1651ef947e",
     "original": "方向キー",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 34\nCall: f12.set_string"
+    "translation": "方向键",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 34\nCall: f12.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0016_bac0e07f19",

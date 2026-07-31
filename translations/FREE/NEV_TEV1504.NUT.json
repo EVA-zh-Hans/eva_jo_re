@@ -2,31 +2,36 @@
   {
     "key": "e_982b2b970e_0001_cdb3c46620",
     "original": "カジさん、どこにいるの？\\nアンタ、しってる？　ここさいきん、みないんだけど",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 150\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1504_02_001"
+    "translation": "加持先生去哪儿了？\\n你知道吗？最近都没见到他",
+    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 150\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1504_02_001",
+    "stage": 1
   },
   {
     "key": "e_982b2b970e_0002_efcfa84359",
     "original": "ううん？\\nミサトさんなら知ってるんじゃない？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 156\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1504_01_002"
+    "translation": "唔……\\n美里小姐应该知道吧？",
+    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 156\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1504_01_002",
+    "stage": 1
   },
   {
     "key": "e_982b2b970e_0003_13687b2bea",
     "original": "そのミサトもいないから\\nアンタにきいてるんじゃないの",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 161\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1504_02_003"
+    "translation": "就是美里也不在\\n所以才问你的啊",
+    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 161\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1504_02_003",
+    "stage": 1
   },
   {
     "key": "e_982b2b970e_0004_91694baf97",
     "original": "一緒なんじゃないのかな？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1504_01_004"
+    "translation": "他们可能在一起吧？",
+    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1504_01_004",
+    "stage": 1
   },
   {
     "key": "e_982b2b970e_0005_c42c4d5f22",
     "original": "だったら、よけいこまるのよ！！\\nバカ！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 171\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1504_02_005"
+    "translation": "那样的话更糟心啦！！\\n笨蛋！！",
+    "context": "File: FREE/NEV_TEV1504.NUT\nLine: 171\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1504_02_005",
+    "stage": 1
   }
 ]

@@ -2,14 +2,16 @@
   {
     "key": "e_62468268a6_0001_621d8cc344",
     "original": "模擬戦",
-    "translation": "",
-    "context": "File: TUT/TUT_F106.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "模拟战",
+    "context": "File: TUT/TUT_F106.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_62468268a6_0002_621d8cc344",
     "original": "模擬戦",
-    "translation": "",
-    "context": "File: TUT/TUT_F106.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "模拟战",
+    "context": "File: TUT/TUT_F106.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_62468268a6_0003_6bbd66b659",

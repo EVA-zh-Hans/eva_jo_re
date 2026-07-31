@@ -2,103 +2,120 @@
   {
     "key": "e_19d51a41d2_0001_a005abc808",
     "original": "参号機、どうするの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 184\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1304_04_001"
+    "translation": "三号机怎么处理？",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 184\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1304_04_001",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0002_d383b82d63",
     "original": "ここで引き取る事になったわ、\\n米国政府も第１支部までは失いたくないみたいね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 213\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1304_07_002"
+    "translation": "决定由我们接手了，\\n看来美国政府也不想失去第一支部呢",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 213\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1304_07_002",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0003_17cb70b535",
     "original": "何よそれ、参号機と四号機はあっちが建造権を\\n主張して強引に造ってたんじゃない▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 217\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1304_04_003"
+    "translation": "开什么玩笑，三号机和四号机\\n明明是那边强行主张建造权造出来的▽",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 217\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1304_04_003",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0004_b6c47958fb",
     "original": "今更危ないとこだけ\\n押し付けるなんて、ムシのいい話ね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1304_04_004"
+    "translation": "现在才把危险部分\\n推过来，打得一手好算盘",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1304_04_004",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0005_20855a7262",
     "original": "あの惨劇の後じゃ、\\n誰だって弱気になるわよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 225\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1304_07_005"
+    "translation": "经历了那种惨剧，\\n任谁都会畏首畏尾",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 225\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1304_07_005",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0006_8d492ae987",
     "original": "で、起動実験はどうすんの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 255\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1304_04_006"
+    "translation": "那启动实验怎么办？",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 255\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1304_04_006",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0007_a29128aadf",
     "original": "例の「ダミー」を使うのかしら？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 285\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1304_04_007"
+    "translation": "要用那个「傀儡系统」吗？",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 285\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1304_04_007",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0008_36e3a25bbc",
     "original": "これから決めるわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 289\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1304_07_008"
+    "translation": "接下来会决定",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 289\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1304_07_008",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0009_47b32bf3ad",
     "original": "四号機の事故、\\n委員会にどう報告するつもりだ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 333\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1304_06_009"
+    "translation": "四号机的事故，\\n准备怎么向委员会报告",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 333\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1304_06_009",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0010_f4388b85e4",
     "original": "事実の通り、原因不明さ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 337\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1304_05_010"
+    "translation": "如实汇报，原因不明",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 337\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1304_05_010",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0011_555c47e0cb",
     "original": "しかし、ここに来て大きな損失だな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 370\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1304_06_011"
+    "translation": "但在这个节骨眼上损失惨重啊",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 370\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1304_06_011",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0012_b8a0a62e62",
     "original": "四号機と第２支部はいい、Ｓ２機関も\\nサンプルは失ってもドイツにデータが残っている",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 405\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1304_05_012"
+    "translation": "四号机和第二支部无所谓，S²机关\\n样本虽毁但德国还保留着数据",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 405\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1304_05_012",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0013_e7771b8131",
     "original": "ここと初号機が残っていれば、充分だ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 409\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1304_05_012_1"
+    "translation": "只要这里和初号机还在就足够了",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 409\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1304_05_012_1",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0014_96e73da5d6",
     "original": "しかし、委員会は血相を\\n変えていたぞ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 433\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1304_06_013"
+    "translation": "但委员会那些人\\n可是脸色大变啊",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 433\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1304_06_013",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0015_12f3539ee0",
     "original": "予定外の事故だからな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 437\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1304_05_014"
+    "translation": "毕竟是不在计划内的事故",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 437\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1304_05_014",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0016_d78b15c396",
     "original": "ゼーレも慌てて行動表を修正しているだろうな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 477\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1304_06_015"
+    "translation": "SEELE现在肯定也手忙脚乱\\n修改行动计划表吧",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 477\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1304_06_015",
+    "stage": 1
   },
   {
     "key": "e_19d51a41d2_0017_7d150e2be8",
     "original": "死海文書にはない事件も起こる\\n老人にはいい薬だよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 480\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1304_05_016"
+    "translation": "连死海文书都未记载的事件也会发生\\n对老人而言倒是一剂良药",
+    "context": "File: FREE/NEV_TEV1304.NUT\nLine: 480\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1304_05_016",
+    "stage": 1
   }
 ]

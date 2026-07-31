@@ -2,43 +2,50 @@
   {
     "key": "e_ccb9b58af6_0001_8519fb5c37",
     "original": "ミサトさんは？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 147\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_024"
+    "translation": "美里小姐呢？",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 147\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_024",
+    "stage": 1
   },
   {
     "key": "e_ccb9b58af6_0002_fd22b1a944",
     "original": "まだ、連絡取れない",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 181\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1310_03_025"
+    "translation": "还是联系不上",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 181\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1310_03_025",
+    "stage": 1
   },
   {
     "key": "e_ccb9b58af6_0003_b26afb99db",
     "original": "そんな、どうしよう？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 214\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_026"
+    "translation": "怎么会……该怎么办？",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 214\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_026",
+    "stage": 1
   },
   {
     "key": "e_ccb9b58af6_0004_999123e7ff",
     "original": "なに、グジグジいってんのよ！　いま、わたしたちが\\nしんぱいしたって、なにもならないでしょ？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 248\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1310_02_027"
+    "translation": "你在这磨蹭什么！现在就算我们\\n担心也于事无补吧？",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 248\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1310_02_027",
+    "stage": 1
   },
   {
     "key": "e_ccb9b58af6_0005_857bc22c2b",
     "original": "でも、使徒相手に僕らだけで…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 283\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_028"
+    "translation": "可是光靠我们对付使徒……",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 283\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_028",
+    "stage": 1
   },
   {
     "key": "e_ccb9b58af6_0006_303cc371c1",
     "original": "今は、碇司令が\\n直接指揮をとってるわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 317\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1310_03_029"
+    "translation": "现在由碇司令\\n直接指挥作战",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 317\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1310_03_029",
+    "stage": 1
   },
   {
     "key": "e_ccb9b58af6_0007_8a92ea3ee9",
     "original": "父さんが？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 351\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_030"
+    "translation": "父亲他？",
+    "context": "File: FREE/NEV_TEV1310.NUT\nLine: 351\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1310_01_030",
+    "stage": 1
   }
 ]

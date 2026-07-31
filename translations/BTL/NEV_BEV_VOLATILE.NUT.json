@@ -2,14 +2,16 @@
   {
     "key": "e_9259938677_0001_727b72daef",
     "original": "使徒、殲滅を確認しました！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 22\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA05_0031_09_001"
+    "translation": "确认使徒歼灭！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 22\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA05_0031_09_001",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0002_c86156a22a",
     "original": "エヴァシリーズ、全機沈黙しました！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA05_0018_10_001"
+    "translation": "EVA量产系列，全机沉默！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA05_0018_10_001",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0003_4e4a46a71f",
@@ -158,62 +160,72 @@
   {
     "key": "e_9259938677_0027_5c0cfc2df6",
     "original": "エヴァ零号機、限界です！\\nエントリープラグ、緊急射出します！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1136\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_001"
+    "translation": "EVA零号机已达极限！\\n插入栓紧急射出！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1136\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_001",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0028_8b3708fef4",
     "original": "エヴァ初号機、限界です！\\nエントリープラグ、緊急射出します！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1168\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_002"
+    "translation": "EVA初号机已达极限！\\n插入栓紧急射出！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1168\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_002",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0029_b58cdb8a6a",
     "original": "エヴァ弐号機、限界です！\\nエントリープラグ、緊急射出します！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1200\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_003"
+    "translation": "EVA贰号机已达极限！\\n插入栓紧急射出！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1200\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_003",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0030_6b37072dcd",
     "original": "エヴァ参号機、限界です！\\nエントリープラグ、緊急射出します！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1232\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_004"
+    "translation": "EVA参号机已达极限！\\n插入栓紧急射出！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1232\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_004",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0031_87b9be0768",
     "original": "エヴァ四号機、限界です！\\nエントリープラグ、緊急射出します！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1264\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_005"
+    "translation": "EVA四号机已达极限！\\n插入栓紧急射出！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1264\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_005",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0032_96d2190936",
     "original": "エヴァ零号機の予備電源終了\\n活動限界です！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1303\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_001"
+    "translation": "EVA零号机备用电源耗尽\\n活动极限已至！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1303\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_001",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0033_6328f4cddf",
     "original": "エヴァ初号機の予備電源終了\\n活動限界です！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1322\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_002"
+    "translation": "EVA初号机备用电源耗尽\\n活动极限已至！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1322\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_002",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0034_6b76770afe",
     "original": "エヴァ弐号機の予備電源終了\\n活動限界です！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1341\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_003"
+    "translation": "EVA贰号机备用电源耗尽\\n活动极限已至！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1341\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_003",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0035_31b7d2e45f",
     "original": "エヴァ参号機の予備電源終了\\n活動限界です！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1360\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_004"
+    "translation": "EVA参号机备用电源耗尽\\n活动极限已至！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1360\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_004",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0036_75bce948c8",
     "original": "エヴァ四号機の予備電源終了\\n活動限界です！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1380\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_005"
+    "translation": "EVA四号机备用电源耗尽\\n已达活动极限！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1380\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_005",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0037_5795e16f2e",

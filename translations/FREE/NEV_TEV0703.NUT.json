@@ -2,13 +2,15 @@
   {
     "key": "e_2fe9285134_0001_ff63591fb1",
     "original": "使徒、第３新東京市に出現",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0703.NUT\nLine: 165\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0003_10_001"
+    "translation": "使徒于第三新东京市出现",
+    "context": "File: FREE/NEV_TEV0703.NUT\nLine: 165\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA03_0003_10_001",
+    "stage": 1
   },
   {
     "key": "e_2fe9285134_0002_766664f3a8",
     "original": "来たわね…今度は抜かりないわよ！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0703.NUT\nLine: 215\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0003_04_001"
+    "translation": "来了呢……这次可不能再失手了！",
+    "context": "File: FREE/NEV_TEV0703.NUT\nLine: 215\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0003_04_001",
+    "stage": 1
   }
 ]

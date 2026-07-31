@@ -2,67 +2,78 @@
   {
     "key": "e_ee6716281e_0001_a6dc3b7ade",
     "original": "いかなる生命の存在も許さない死の世界、南極\\nいや、地獄というべきかな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 152\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_001"
+    "translation": "不允许任何生命存在的死亡世界——南极\n不，该称之为地狱吧",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 152\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_001",
+    "stage": 1
   },
   {
     "key": "e_ee6716281e_0002_aae32bde79",
     "original": "だが、我々人類はこうしてここに立っている\\n生物として、生きたままだ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 155\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1003_05_002"
+    "translation": "但我们人类依然站在这里\n作为生物，存活至今",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 155\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1003_05_002",
+    "stage": 1
   },
   {
     "key": "e_ee6716281e_0003_47762fa906",
     "original": "科学の力で守られているからな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 190\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_003"
+    "translation": "是科学的力量在守护着我们",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 190\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_003",
+    "stage": 1
   },
   {
     "key": "e_ee6716281e_0004_a2fd935760",
     "original": "科学は人の力だよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 194\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1003_05_004"
+    "translation": "科学就是人类的力量",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 194\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1003_05_004",
+    "stage": 1
   },
   {
     "key": "e_ee6716281e_0005_bb91c97b4a",
     "original": "その傲慢が１５年前の悲劇、\\nセカンドインパクトを引き起こしたのだ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 198\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_005"
+    "translation": "那份傲慢引发了十五年前的悲剧——\\n第二次冲击",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 198\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_005",
+    "stage": 1
   },
   {
     "key": "e_ee6716281e_0006_8aafb4c8de",
     "original": "結果、この有様だ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 228\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_006"
+    "translation": "结果，变成这副模样▽",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 228\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_006",
+    "stage": 1
   },
   {
     "key": "e_ee6716281e_0007_b3e1e061a8",
     "original": "与えられた罰にしては、あまりにも大きすぎる\\nまさに死海そのものだよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 231\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_006_1"
+    "translation": "作为惩罚而言太过沉重\\n简直就像死海本身",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 231\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_006_1",
+    "stage": 1
   },
   {
     "key": "e_ee6716281e_0008_ed231d97ff",
     "original": "だが、原罪の汚れなき、浄化された世界だ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 265\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1003_05_007"
+    "translation": "但这是未被原罪玷污的、净化后的世界",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 265\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1003_05_007",
+    "stage": 1
   },
   {
     "key": "e_ee6716281e_0009_4b3687860d",
     "original": "俺は罪にまみれていても、\\n人が生きている世界を望むよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 269\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_008"
+    "translation": "即便满身罪孽\\n俺还是希望人类能活在现实世界",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 269\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1003_06_008",
+    "stage": 1
   },
   {
     "key": "e_ee6716281e_0010_133043a669",
     "original": "報告します\\nネルフ本部より入電",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 278\nCall: im.event\nSpeaker: IMC_NAVY\nVoice: NA10_1003_82_009"
+    "translation": "报告\\n收到NERV本部来电",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 278\nCall: im.event\nSpeaker: IMC_NAVY\nVoice: NA10_1003_82_009",
+    "stage": 1
   },
   {
     "key": "e_ee6716281e_0011_32ebd63ca6",
     "original": "インド洋上空衛星軌道上に\\n使徒、発見！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_NAVY\nVoice: NA10_1003_82_009_1"
+    "translation": "印度洋上空卫星轨道发现\\n使徒！",
+    "context": "File: FREE/NEV_TEV1003.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_NAVY\nVoice: NA10_1003_82_009_1",
+    "stage": 1
   }
 ]

@@ -2,19 +2,22 @@
   {
     "key": "e_cd36b921cc_0001_4ae40b14f3",
     "original": "パターン青！\\n初号機の真下ですっ！",
-    "translation": "",
-    "context": "File: BTL_LLL/BTL_LLL_DEMO.NUT\nLine: 23\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na14_0002_09_016"
+    "translation": "青模式！\\n就在初号机正下方！",
+    "context": "File: BTL_LLL/BTL_LLL_DEMO.NUT\nLine: 23\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na14_0002_09_016",
+    "stage": 1
   },
   {
     "key": "e_cd36b921cc_0002_7d72d7a922",
     "original": "か…影が？\\n何だよこれ！？　おかしいよ…！",
-    "translation": "",
-    "context": "File: BTL_LLL/BTL_LLL_DEMO.NUT\nLine: 29\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0002_01_026"
+    "translation": "这…影子？\\n搞什么啊！？太奇怪了…！",
+    "context": "File: BTL_LLL/BTL_LLL_DEMO.NUT\nLine: 29\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0002_01_026",
+    "stage": 1
   },
   {
     "key": "e_cd36b921cc_0003_a242450f0d",
     "original": "そこは危険だわ！\\n影から離れて！！",
-    "translation": "",
-    "context": "File: BTL_LLL/BTL_LLL_DEMO.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0002_07_031"
+    "translation": "那里太危险了！\\n快从阴影里离开！！",
+    "context": "File: BTL_LLL/BTL_LLL_DEMO.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na14_0002_07_031",
+    "stage": 1
   }
 ]

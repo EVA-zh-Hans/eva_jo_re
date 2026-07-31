@@ -2,8 +2,9 @@
   {
     "key": "e_d92366c5bf_0001_e69b2f7041",
     "original": "ただいま…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 139\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1507_04_001"
+    "translation": "我回来了……",
+    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 139\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1507_04_001",
+    "stage": 1
   },
   {
     "key": "e_d92366c5bf_0002_09c29378c9",
@@ -14,56 +15,65 @@
   {
     "key": "e_d92366c5bf_0003_0b77e7b298",
     "original": "葛城、俺だ…多分この話を聞いてる時は、\\n君に多大な迷惑をかけた後だと思う",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 231\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1507_11_003"
+    "translation": "葛城，是我……当你听到这段留言时\n想必已给你添了天大的麻烦",
+    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 231\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1507_11_003",
+    "stage": 1
   },
   {
     "key": "e_d92366c5bf_0004_7659b8bd1a",
     "original": "すまない…\\nリッちゃんにも、すまなかったと謝っといてくれ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 234\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1507_11_003_1"
+    "translation": "抱歉……\n也代我向律子赔个不是",
+    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 234\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1507_11_003_1",
+    "stage": 1
   },
   {
     "key": "e_d92366c5bf_0005_70ac1a8961",
     "original": "葛城…真実は君と共にある\\n迷わず進んでくれ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 269\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1507_11_003_2"
+    "translation": "葛城……真相与你同在\n不要犹豫地前进吧",
+    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 269\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1507_11_003_2",
+    "stage": 1
   },
   {
     "key": "e_d92366c5bf_0006_73e574a7cc",
     "original": "もう一度逢える事があったら、\\n８年前に言えなかった言葉を言うよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1507_11_003_3"
+    "translation": "若能再度相逢\n我会说出八年前未能传达的话语",
+    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1507_11_003_3",
+    "stage": 1
   },
   {
     "key": "e_d92366c5bf_0007_f8475a5e29",
     "original": "じゃ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 306\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1507_11_003_4"
+    "translation": "那就……",
+    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 306\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1507_11_003_4",
+    "stage": 1
   },
   {
     "key": "e_d92366c5bf_0008_b351081338",
     "original": "…加持さん？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 341\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1507_01_004"
+    "translation": "……加持先生？",
+    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 341\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1507_01_004",
+    "stage": 1
   },
   {
     "key": "e_d92366c5bf_0009_54854d611c",
     "original": "葛城は、戻るよ…\\nアイツを頼む、シンジ君",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 380\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1505_11_021"
+    "translation": "葛城会回来的……\n那家伙就拜托你了，真嗣君",
+    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 380\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1505_11_021",
+    "stage": 1
   },
   {
     "key": "e_d92366c5bf_0010_b96dcf057c",
     "original": "午後０時２分です",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 428\nCall: im.event\nSpeaker: IMC_ANSWERPHONE\nVoice: NA10_1507_84_006"
+    "translation": "现在是下午0点02分",
+    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 428\nCall: im.event\nSpeaker: IMC_ANSWERPHONE\nVoice: NA10_1507_84_006",
+    "stage": 1
   },
   {
     "key": "e_d92366c5bf_0011_d05ddac1ae",
     "original": "バカ…\\nあんた、ホントにバカよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 432\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1507_04_007"
+    "translation": "笨蛋……\n你真是个彻头彻尾的笨蛋▽",
+    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 432\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1507_04_007",
+    "stage": 1
   },
   {
     "key": "e_d92366c5bf_0012_4be66cf94e",
@@ -74,13 +84,15 @@
   {
     "key": "e_d92366c5bf_0013_b26bab6fa2",
     "original": "もう二度と、加持さんには会えないのだろう\\nそう深く、静かな確信があった▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 475\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1507_01_011"
+    "translation": "内心深处涌动着平静的确信——\n恐怕再也见不到加持先生了▽",
+    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 475\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1507_01_011",
+    "stage": 1
   },
   {
     "key": "e_d92366c5bf_0014_ea6f96ab54",
     "original": "加持さんは、僕の忘れていた現実を掘り起こしたまま\\nいなくなってしまったんだ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 479\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1507_01_011_1"
+    "translation": "加持先生挖出我刻意遗忘的现实后\n就这么消失了……",
+    "context": "File: FREE/NEV_TEV1507.NUT\nLine: 479\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1507_01_011_1",
+    "stage": 1
   }
 ]

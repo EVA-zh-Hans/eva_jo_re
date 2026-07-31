@@ -68,8 +68,9 @@
   {
     "key": "e_8038d1573b_0012_f62751e08a",
     "original": "はい…",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 151\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "嗯…",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 151\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0013_cdce9232f4",
@@ -104,8 +105,9 @@
   {
     "key": "e_8038d1573b_0018_c734eecdf9",
     "original": "…はい",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 166\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "…好的",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 166\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0019_68da82fd14",

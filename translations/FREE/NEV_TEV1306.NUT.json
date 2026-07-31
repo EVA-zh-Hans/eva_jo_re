@@ -2,44 +2,51 @@
   {
     "key": "e_8fdcf89628_0001_149a5581fd",
     "original": "４人目？\\nフォース・チルドレンが見つかったの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 151\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1306_04_001"
+    "translation": "第四人？\\n找到第四适格者了？",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 151\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1306_04_001",
+    "stage": 1
   },
   {
     "key": "e_8fdcf89628_0002_a10cb29675",
     "original": "そう▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 155\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1306_07_002"
+    "translation": "没错▽",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 155\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1306_07_002",
+    "stage": 1
   },
   {
     "key": "e_8fdcf89628_0003_f878881680",
     "original": "松代での参号機の起動試験\\nテストパイロットには、４人目を使うわよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 159\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1306_07_002_1"
+    "translation": "三号机在松代的启动测试\\n将启用第四人担任测试驾驶员",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 159\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1306_07_002_1",
+    "stage": 1
   },
   {
     "key": "e_8fdcf89628_0004_39c2bafb25",
     "original": "リツコ、私に隠し事してない？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 187\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1306_04_005"
+    "translation": "律子，你没瞒着我什么吧？",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 187\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1306_04_005",
+    "stage": 1
   },
   {
     "key": "e_8fdcf89628_0005_30e4ae39a2",
     "original": "…別に",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 217\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1306_07_006"
+    "translation": "……没什么",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 217\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1306_07_006",
+    "stage": 1
   },
   {
     "key": "e_8fdcf89628_0006_2cd4b6944f",
     "original": "ま、いいわ…\\nで、その選ばれた子ってのは誰？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1306_04_007"
+    "translation": "算了……\\n那个被选中的孩子是谁？",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1306_04_007",
+    "stage": 1
   },
   {
     "key": "e_8fdcf89628_0007_aae0f2af63",
     "original": "これが資料よ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 252\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1306_07_008"
+    "translation": "这就是资料",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 252\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1306_07_008",
+    "stage": 1
   },
   {
     "key": "e_8fdcf89628_0008_24d814d999",
@@ -50,7 +57,8 @@
   {
     "key": "e_8fdcf89628_0009_805cb6540c",
     "original": "よりにもよって、この子なの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 260\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1306_04_009_1"
+    "translation": "偏偏是这孩子？",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 260\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1306_04_009_1",
+    "stage": 1
   }
 ]

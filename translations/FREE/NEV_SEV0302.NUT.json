@@ -2,79 +2,92 @@
   {
     "key": "e_27e26de925_0001_7cef6dcbd4",
     "original": "ねぇ、ちょっと二人で話があるんだけど…",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 155\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_008"
+    "translation": "喂，有件事想单独跟你说……",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 155\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_008",
+    "stage": 1
   },
   {
     "key": "e_27e26de925_0002_76bf5e45a2",
     "original": "なんや？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 161\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_009"
+    "translation": "咋了？",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 161\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_009",
+    "stage": 1
   },
   {
     "key": "e_27e26de925_0003_c30eb50f4f",
     "original": "ちょっと、なっ",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_010"
+    "translation": "等等，你——",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_010",
+    "stage": 1
   },
   {
     "key": "e_27e26de925_0004_0ffa236e8d",
     "original": "しゃーないな…委員長！",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 174\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_011"
+    "translation": "真拿你没办法……委员长！",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 174\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_011",
+    "stage": 1
   },
   {
     "key": "e_27e26de925_0005_2ebfe72ae6",
     "original": "なに？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 178\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: na50_0003_12_012"
+    "translation": "什么事？",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 178\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: na50_0003_12_012",
+    "stage": 1
   },
   {
     "key": "e_27e26de925_0006_2e3368db0a",
     "original": "わしら二人、便所や",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 185\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_013"
+    "translation": "俺们俩要去趟厕所",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 185\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_013",
+    "stage": 1
   },
   {
     "key": "e_27e26de925_0007_005ec5776d",
     "original": "もう、ちゃんと済ませときなさいよ…",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 189\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: na50_0003_12_014"
+    "translation": "真是的……记得好好解决啊",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 189\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: na50_0003_12_014",
+    "stage": 1
   },
   {
     "key": "e_27e26de925_0008_d3f1dcc286",
     "original": "で、なんや",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 212\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_015"
+    "translation": "所以，到底啥事",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 212\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_015",
+    "stage": 1
   },
   {
     "key": "e_27e26de925_0009_578986e34d",
     "original": "死ぬまでに一度だけでも見たいんだよ！",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 215\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_016"
+    "translation": "这可是死前都想亲眼见证一次的东西啊！",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 215\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_016",
+    "stage": 1
   },
   {
     "key": "e_27e26de925_0010_4d03601cd0",
     "original": "ケンスケ…お前なぁ…",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 241\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_019"
+    "translation": "剑介……你这家伙……",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 241\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_019",
+    "stage": 1
   },
   {
     "key": "e_27e26de925_0011_56efaa7baa",
     "original": "この時を逃しては、あるいは永久に…！",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 247\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_020_1"
+    "translation": "错过这次机会的话，可能这辈子都——！",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 247\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_020_1",
+    "stage": 1
   },
   {
     "key": "e_27e26de925_0012_d3593ab0a2",
     "original": "なっ、たのむよ\\nロック外すの手伝ってくれ",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 251\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_020_2"
+    "translation": "拜、拜托了\\n帮我解除安全锁吧",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 251\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_020_2",
+    "stage": 1
   },
   {
     "key": "e_27e26de925_0013_ee0d367733",
     "original": "…しゃあないな\\nお前ホンマ自分の欲望に素直なやっちゃな",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 256\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_021"
+    "translation": "……真拿你没办法\\n你这人倒是活得够坦率",
+    "context": "File: FREE/NEV_SEV0302.NUT\nLine: 256\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_021",
+    "stage": 1
   }
 ]

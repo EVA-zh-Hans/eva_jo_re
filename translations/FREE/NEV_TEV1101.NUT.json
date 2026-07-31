@@ -2,56 +2,65 @@
   {
     "key": "e_a2744e7344_0001_73fea238e9",
     "original": "長旅ご苦労様でした\\nロンギヌスの槍、ケイジへの移送終了しました",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 232\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1101_07_001"
+    "translation": "长途跋涉辛苦了\\n朗基努斯之枪已移送至机库",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 232\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1101_07_001",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0002_12f585fb00",
     "original": "わかった\\n後の作業はレイに引き継ぐ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0016_05_002"
+    "translation": "明白\\n后续工作交给丽处理▽",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0016_05_002",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0003_ad88636fcd",
     "original": "レイ、後は任せた",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 318\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0016_05_003"
+    "translation": "丽，剩下的交给你了",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 318\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0016_05_003",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0004_ee1015bd5b",
     "original": "はい、碇司令",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 321\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA02_0016_03_001"
+    "translation": "是，碇司令",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 321\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA02_0016_03_001",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0005_587c1fa604",
     "original": "どう？\\nマギの診察は終わった？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 455\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_001"
+    "translation": "怎么样？\\nMAGI的检查结束了吗？",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 455\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_001",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0006_ffd166a0b0",
     "original": "あと、少しよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 459\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_002"
+    "translation": "还差一点",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 459\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_002",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0007_aa6376465a",
     "original": "さすがね\\n同じものが３つあって大変なのに",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 463\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_003"
+    "translation": "真不容易呢\\n三台同时运作很辛苦吧",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 463\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_003",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0008_1c1dd64348",
     "original": "三基とも自己診断モードに\\n入りました▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 485\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1102_08_004"
+    "translation": "三台均已进入\\n自检模式▽",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 485\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1102_08_004",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0009_6e9e28c13e",
     "original": "第１２７次定期検診、終了、異常なし",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 526\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1102_08_004_1"
+    "translation": "第127次定期检查完毕，无异常",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 526\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1102_08_004_1",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0010_aecbe4cbd4",
@@ -62,61 +71,71 @@
   {
     "key": "e_a2744e7344_0011_46fb25bc39",
     "original": "ね、少しは教えてよマギの事",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 569\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_006"
+    "translation": "喂，稍微透露点MAGI的事嘛",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 569\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_006",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0012_8b09fde96a",
     "original": "長い話よ…\\nそのわりに面白くない話",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 573\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_007"
+    "translation": "说来话长…\\n而且不是什么有趣的故事",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 573\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_007",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0013_aa732300cc",
     "original": "人格移植ＯＳって知ってる？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 613\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_008"
+    "translation": "知道人格移植OS吗？",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 613\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_008",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0014_198442a4ae",
     "original": "ええ、第７世代の有機コンピュータに個人の人格を\\n移植して思考させるシステム▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 663\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_009"
+    "translation": "嗯，将个人人格移植到\\n第七代有机计算机的思维系统▽",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 663\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_009",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0015_f5f4a21475",
     "original": "エヴァの操縦にも使われている\\n技術よね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 667\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_009_1"
+    "translation": "这项技术也应用在\\nEVA的驾驶系统上呢",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 667\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_009_1",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0016_13bcc494ab",
     "original": "…の、第一号らしいわ\\n母さんが開発した技術だから",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 671\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_010"
+    "translation": "……是第一台呢\\n毕竟采用了母亲开发的技术",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 671\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_010",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0017_bbc96a095a",
     "original": "…お母さんのパターンを\\n移植したの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 707\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_011"
+    "translation": "……移植了妈妈的思维模式？",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 707\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1102_04_011",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0018_aba5c45387",
     "original": "そうね\\n私はシステムアップしただけよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 711\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_012"
+    "translation": "是啊\\n我只是做了系统升级而已▽",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 711\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_012",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0019_e29785ce8b",
     "original": "基礎理論と本体を作ったのは\\n母さんなの▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 753\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_012_1"
+    "translation": "基础理论和本体\\n都是妈妈创造的▽",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 753\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_012_1",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0020_4bfa8a4257",
     "original": "マギは…言ってみれば、\\n母さんそのものなのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 757\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_012_2"
+    "translation": "MAGI可以说……\\n就是妈妈本身",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 757\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_012_2",
+    "stage": 1
   }
 ]

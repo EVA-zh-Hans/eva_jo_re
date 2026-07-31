@@ -38,7 +38,8 @@
   {
     "key": "e_857f565f85_0007_6bfec2b23e",
     "original": "　　初号機ケイジ",
-    "translation": "",
-    "context": "File: SYSTEM/MAP_STATUS.NUT\nLine: 11"
+    "translation": "　　初号机机库",
+    "context": "File: SYSTEM/MAP_STATUS.NUT\nLine: 11",
+    "stage": 1
   }
 ]

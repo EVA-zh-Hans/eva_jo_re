@@ -2,67 +2,78 @@
   {
     "key": "e_73c5729012_0001_7ea6f3d562",
     "original": "そして…",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "然后…",
+    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_73c5729012_0002_b80b71fb19",
     "original": "普通の日々がはじまる",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "平凡的日子开始了",
+    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_73c5729012_0003_b5cdd1166c",
     "original": "アスカといえば相変わらず勝手に元気で\\nもちろんそういうところを…",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "说到明日香还是老样子任性妄为\\n当然这种地方也…",
+    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_73c5729012_0004_67d8fe8b17",
     "original": "ほら、遅刻するわよ！",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_016_1"
+    "translation": "喂，要迟到了！",
+    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_016_1",
+    "stage": 1
   },
   {
     "key": "e_73c5729012_0005_68717e5350",
     "original": "まったく、だらしないわね",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_016_2"
+    "translation": "真是的，太散漫了",
+    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_016_2",
+    "stage": 1
   },
   {
     "key": "e_73c5729012_0006_ec17734776",
     "original": "私が漢字を覚え始めた以上、あんたに勝ち目は\\nまーるで、ぜんっぜんないんだから",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_016_3"
+    "translation": "既然我开始学汉字了\\n你就完全——没胜算了",
+    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_016_3",
+    "stage": 1
   },
   {
     "key": "e_73c5729012_0007_557bde2f6a",
     "original": "あなたが戦いで得たものは、",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 63\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "你在战斗中获得的，",
+    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 63\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_73c5729012_0008_8e8de1c75d",
     "original": "えらそうで、かよわくて、あぶなっかしいが\\n才能はある、そんな人だった",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 64\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "傲慢又脆弱，让人提心吊胆\\n却充满才华，就是这样的存在",
+    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 64\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_73c5729012_0009_6b59c74bef",
     "original": "あなたはそれが一番の宝物だと思ってる",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "你觉得那才是最珍贵的宝物",
+    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_73c5729012_0010_5b3784a2c6",
     "original": "使徒よりも、とても苦労するのは間違いないが、\\nまあそれでもいいかと思うのだった",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "虽然肯定比对抗使徒更辛苦\\n不过这样也好",
+    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_73c5729012_0011_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: ASUKA/CHR_ASUKA_END.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

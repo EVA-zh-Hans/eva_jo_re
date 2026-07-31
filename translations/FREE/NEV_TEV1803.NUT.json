@@ -2,13 +2,15 @@
   {
     "key": "e_720aed7639_0001_895034d7b0",
     "original": "我々に与えられた時間は少ない、だが…\\n我らの願いを妨げるロンギヌスの槍は、既にないのだ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1803.NUT\nLine: 105\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1803_05_001"
+    "translation": "留给我们的时间不多了，但是…\\n阻碍我们夙愿的朗基努斯之枪已不复存在▽",
+    "context": "File: FREE/NEV_TEV1803.NUT\nLine: 105\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1803_05_001",
+    "stage": 1
   },
   {
     "key": "e_720aed7639_0002_9d130a46e9",
     "original": "間もなく最後の使徒が現れるはずだ、\\nそれを消せば願いがかなう、もうすぐだよ、ユイ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1803.NUT\nLine: 139\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1803_05_001_1"
+    "translation": "最后使徒即将现身\\n只要消灭它就能实现愿望，很快了，唯",
+    "context": "File: FREE/NEV_TEV1803.NUT\nLine: 139\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1803_05_001_1",
+    "stage": 1
   }
 ]

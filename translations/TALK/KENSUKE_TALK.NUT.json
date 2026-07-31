@@ -2,8 +2,9 @@
   {
     "key": "e_18fa1d43cb_0002_eec9e9abf1",
     "original": "シンジ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 102"
+    "translation": "真嗣",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 102",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0003_5a192e1f79",
@@ -26,8 +27,9 @@
   {
     "key": "e_18fa1d43cb_0006_a1f11b49a5",
     "original": "トウジ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 106"
+    "translation": "冬二",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 106",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0007_3eb9f20eae",
@@ -56,8 +58,9 @@
   {
     "key": "e_18fa1d43cb_0011_df6bcb0fe8",
     "original": "加持さん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 111"
+    "translation": "加持先生",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 111",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0012_3db00bd3d6",
@@ -92,14 +95,16 @@
   {
     "key": "e_18fa1d43cb_0017_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 117"
+    "translation": "Pen Pen",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 117",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0018_eec9e9abf1",
     "original": "シンジ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 118"
+    "translation": "真嗣",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 118",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0019_5a192e1f79",
@@ -122,8 +127,9 @@
   {
     "key": "e_18fa1d43cb_0022_a1f11b49a5",
     "original": "トウジ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 122"
+    "translation": "冬二",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 122",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0023_3eb9f20eae",
@@ -152,8 +158,9 @@
   {
     "key": "e_18fa1d43cb_0027_df6bcb0fe8",
     "original": "加持さん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 127"
+    "translation": "加持先生",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 127",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0028_3db00bd3d6",
@@ -188,14 +195,16 @@
   {
     "key": "e_18fa1d43cb_0033_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 133"
+    "translation": "Pen Pen",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 133",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0034_eec9e9abf1",
     "original": "シンジ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 134"
+    "translation": "真嗣",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 134",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0035_5a192e1f79",
@@ -218,8 +227,9 @@
   {
     "key": "e_18fa1d43cb_0038_a1f11b49a5",
     "original": "トウジ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 138"
+    "translation": "冬二",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 138",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0039_3eb9f20eae",
@@ -248,8 +258,9 @@
   {
     "key": "e_18fa1d43cb_0043_df6bcb0fe8",
     "original": "加持さん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 143"
+    "translation": "加持先生",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 143",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0044_3db00bd3d6",
@@ -284,8 +295,9 @@
   {
     "key": "e_18fa1d43cb_0049_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 149"
+    "translation": "Pen Pen",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 149",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0050_0a75f279f0",
@@ -1388,8 +1400,9 @@
   {
     "key": "e_18fa1d43cb_0416_36a29d49db",
     "original": "ケンスケは空を見た後、１、２と数えて、\\nそして笑顔になった",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 496\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "剑介仰望天空数着「一、二」\\n随后展露笑颜",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 496\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0418_83a1d2bd4f",
@@ -1418,8 +1431,9 @@
   {
     "key": "e_18fa1d43cb_0426_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 501\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 501\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0428_c51236f95a",

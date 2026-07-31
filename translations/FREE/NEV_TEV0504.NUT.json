@@ -2,55 +2,64 @@
   {
     "key": "e_446afc36a5_0001_7aee0e0037",
     "original": "アレの資料よ…簡単に目を通しておいて\\n予定通りに近々やるそうよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 154\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0504_07_001"
+    "translation": "那些资料…你简单过目一下\\n据说近期要按计划执行了",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 154\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0504_07_001",
+    "stage": 1
   },
   {
     "key": "e_446afc36a5_0002_fbc2ac8d83",
     "original": "わかったわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 181\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0504_04_002"
+    "translation": "明白了",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 181\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0504_04_002",
+    "stage": 1
   },
   {
     "key": "e_446afc36a5_0003_09b8545599",
     "original": "あの…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 213\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0504_01_003"
+    "translation": "那个…",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 213\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0504_01_003",
+    "stage": 1
   },
   {
     "key": "e_446afc36a5_0004_3b79bb98fe",
     "original": "あ、あぁ…シンジ君ね\\nどうしたの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 216\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0504_04_004"
+    "translation": "啊，啊啊…是真嗣君啊\\n有什么事吗？",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 216\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0504_04_004",
+    "stage": 1
   },
   {
     "key": "e_446afc36a5_0005_0aefdaf031",
     "original": "いえ、\\n特に用はないんですけど",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 244\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0504_01_005"
+    "translation": "不，\\n其实没什么特别的事",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 244\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0504_01_005",
+    "stage": 1
   },
   {
     "key": "e_446afc36a5_0006_fc3b80e641",
     "original": "何か…あったんですか？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 275\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0504_01_005_1"
+    "translation": "发生…什么事了吗？",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 275\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0504_01_005_1",
+    "stage": 1
   },
   {
     "key": "e_446afc36a5_0007_86d254111a",
     "original": "んー、仕事の話\\nチョッチ、出張が入る予定なの",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 301\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0504_04_006"
+    "translation": "嗯——工作上的事\\n近期可能要临时出差",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 301\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0504_04_006",
+    "stage": 1
   },
   {
     "key": "e_446afc36a5_0008_79c8436f08",
     "original": "へえ、大変…なんですね▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 304\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0504_01_007"
+    "translation": "诶，真辛苦…呢▽",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 304\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0504_01_007",
+    "stage": 1
   },
   {
     "key": "e_446afc36a5_0009_3d4ca883d8",
     "original": "（仕事をしてるミサトさん…\\n　家とは…違う顔だ）",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 307\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_0504_01_008"
+    "translation": "（工作中的美里小姐…\\n　和在家时…完全不一样）",
+    "context": "File: FREE/NEV_TEV0504.NUT\nLine: 307\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_0504_01_008",
+    "stage": 1
   }
 ]

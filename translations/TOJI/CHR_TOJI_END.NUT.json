@@ -2,55 +2,64 @@
   {
     "key": "e_acb8fe0129_0001_3574f547eb",
     "original": "なにもかも終わって\\nぼんやり歩いている時に、",
-    "translation": "",
-    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "当一切终结\\n茫然漫步时，",
+    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_acb8fe0129_0002_19b77b57d8",
     "original": "懐かしい声を聞いた",
-    "translation": "",
-    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "听见了怀念的声音",
+    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_acb8fe0129_0003_60021d8462",
     "original": "おいおいおい、笑顔はどうしたんや？",
-    "translation": "",
-    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na54_0011_13_013_1"
+    "translation": "喂喂喂，咋愁眉苦脸的？",
+    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na54_0011_13_013_1",
+    "stage": 1
   },
   {
     "key": "e_acb8fe0129_0004_3312e26fac",
     "original": "じゅーよーやで！",
-    "translation": "",
-    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na54_0011_13_013_2"
+    "translation": "俺出院啦！",
+    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na54_0011_13_013_2",
+    "stage": 1
   },
   {
     "key": "e_acb8fe0129_0005_bd40398cb7",
     "original": "トウジは笑うと、\\n命だけは助かったとあなたに言った",
-    "translation": "",
-    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "冬二大笑着说\\n「好歹捡回条命」",
+    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_acb8fe0129_0006_08f47bbe48",
     "original": "最後まであなたに聞こえていたかは\\n定かでないが…",
-    "translation": "",
-    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "只是不知这句话\\n是否真的传达到了你耳中……",
+    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_acb8fe0129_0007_557bde2f6a",
     "original": "あなたが戦いで得たものは、",
-    "translation": "",
-    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 64\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "你在战斗中获得的，",
+    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 64\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_acb8fe0129_0008_92341b69ef",
     "original": "再会だった",
-    "translation": "",
-    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "久别重逢",
+    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_acb8fe0129_0009_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 69\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: TOJI/CHR_TOJI_END.NUT\nLine: 69\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

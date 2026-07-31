@@ -110,8 +110,9 @@
   {
     "key": "e_b444cbe80a_0019_8f90d85ec1",
     "original": "はい",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 161\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "明白",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 161\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0020_e37568f35f",

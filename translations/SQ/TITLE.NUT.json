@@ -8,8 +8,9 @@
   {
     "key": "e_6901d3dfdb_0002_621d8cc344",
     "original": "模擬戦",
-    "translation": "",
-    "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup\nVoice: 日常"
+    "translation": "模拟战",
+    "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup\nVoice: 日常",
+    "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0003_f648d6712c",
@@ -26,8 +27,9 @@
   {
     "key": "e_6901d3dfdb_0005_5b717728bb",
     "original": "オプション",
-    "translation": "",
-    "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup\nVoice: リアルバトル"
+    "translation": "选项",
+    "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup\nVoice: リアルバトル",
+    "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0006_21f64de98c",

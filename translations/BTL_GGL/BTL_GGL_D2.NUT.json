@@ -2,19 +2,22 @@
   {
     "key": "e_86142512e2_0001_c4042344b2",
     "original": "ミサトさん！\\n弐号機の耐久力が、もう…",
-    "translation": "",
-    "context": "File: BTL_GGL/BTL_GGL_D2.NUT\nLine: 43\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na13_0026_01_002"
+    "translation": "美里小姐！\\n贰号机的耐久值已经……",
+    "context": "File: BTL_GGL/BTL_GGL_D2.NUT\nLine: 43\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na13_0026_01_002",
+    "stage": 1
   },
   {
     "key": "e_86142512e2_0002_f1ff59d4e8",
     "original": "何ですって…！",
-    "translation": "",
-    "context": "File: BTL_GGL/BTL_GGL_D2.NUT\nLine: 46\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0026_04_003"
+    "translation": "你说什么…！",
+    "context": "File: BTL_GGL/BTL_GGL_D2.NUT\nLine: 46\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0026_04_003",
+    "stage": 1
   },
   {
     "key": "e_86142512e2_0003_d46b0088d1",
     "original": "アスカ！\\nシンジ君！！",
-    "translation": "",
-    "context": "File: BTL_GGL/BTL_GGL_D2.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0026_04_003_1"
+    "translation": "明日香！\\n真嗣君！！",
+    "context": "File: BTL_GGL/BTL_GGL_D2.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0026_04_003_1",
+    "stage": 1
   }
 ]

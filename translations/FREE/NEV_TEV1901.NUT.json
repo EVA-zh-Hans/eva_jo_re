@@ -2,79 +2,92 @@
   {
     "key": "e_343a6704d8_0001_6bfb5152c9",
     "original": "約束の時が来た、ロンギヌスの槍を失った今、\\nリリスによる補完は出来ぬ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 146\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1901_20_001"
+    "translation": "约定之时已至，失去朗基努斯之枪的当下\\n莉莉丝的补完已无法实现",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 146\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1901_20_001",
+    "stage": 1
   },
   {
     "key": "e_343a6704d8_0002_df79f663ef",
     "original": "唯一、リリスの分身たる、\\nエヴァ初号機による遂行を願うぞ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 195\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1901_20_001_1"
+    "translation": "唯愿由莉莉丝的分身——\\nEVA初号机来执行",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 195\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1901_20_001_1",
+    "stage": 1
   },
   {
     "key": "e_343a6704d8_0003_e8a2f73f16",
     "original": "ゼーレのシナリオとは違いますが",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 199\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1901_05_002"
+    "translation": "这与SEELE的剧本不同",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 199\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1901_05_002",
+    "stage": 1
   },
   {
     "key": "e_343a6704d8_0004_ff3b408225",
     "original": "人は、エヴァを生み出す為に\\nその存在があったのです",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 203\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1901_06_003"
+    "translation": "人类的存在意义\\n本就是为了创造EVA",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 203\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1901_06_003",
+    "stage": 1
   },
   {
     "key": "e_343a6704d8_0005_81e2a202f2",
     "original": "人は、新たな世界へと進むべきなのです\\nその為のエヴァシリーズです",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 257\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1901_05_004"
+    "translation": "人类应当迈向新世界\\n为此才需要EVA量产系列",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 257\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1901_05_004",
+    "stage": 1
   },
   {
     "key": "e_343a6704d8_0006_e6a3eba719",
     "original": "我らはヒトの形を捨ててまで、\\nエヴァという名の箱舟に乗る事はない",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 296\nCall: im.event\nSpeaker: IMC_SEELE06\nVoice: NA10_1901_44_005"
+    "translation": "我们不会舍弃人类形态\\n去登上名为EVA的方舟",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 296\nCall: im.event\nSpeaker: IMC_SEELE06\nVoice: NA10_1901_44_005",
+    "stage": 1
   },
   {
     "key": "e_343a6704d8_0007_c9408c0526",
     "original": "これは通過儀礼なのだ\\n閉塞した人類が再生するための",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 335\nCall: im.event\nSpeaker: IMC_SEELE05\nVoice: NA10_1901_43_006"
+    "translation": "这是必经的仪式\\n为了让闭塞的人类获得新生",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 335\nCall: im.event\nSpeaker: IMC_SEELE05\nVoice: NA10_1901_43_006",
+    "stage": 1
   },
   {
     "key": "e_343a6704d8_0008_d56932bd9a",
     "original": "滅びの宿命は、新生の喜びでもある",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 384\nCall: im.event\nSpeaker: IMC_SEELE07\nVoice: NA10_1901_45_007"
+    "translation": "毁灭的宿命亦是新生的喜悦",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 384\nCall: im.event\nSpeaker: IMC_SEELE07\nVoice: NA10_1901_45_007",
+    "stage": 1
   },
   {
     "key": "e_343a6704d8_0009_939141c0c4",
     "original": "神もヒトも全ての生命が「死」を以って\\nやがて一つになる為に",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 388\nCall: im.event\nSpeaker: IMC_SEELE06\nVoice: NA10_1901_44_008"
+    "translation": "为了让神与人所有生命\\n终将以「死」融为一体",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 388\nCall: im.event\nSpeaker: IMC_SEELE06\nVoice: NA10_1901_44_008",
+    "stage": 1
   },
   {
     "key": "e_343a6704d8_0010_5b142ea001",
     "original": "死は何も生みませんよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 439\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1901_05_009"
+    "translation": "死亡不会孕育任何事物",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 439\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1901_05_009",
+    "stage": 1
   },
   {
     "key": "e_343a6704d8_0011_4875ff441f",
     "original": "死は、君達に与えよう",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 492\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1901_20_010"
+    "translation": "这份死亡，就赐予你们吧",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 492\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1901_20_010",
+    "stage": 1
   },
   {
     "key": "e_343a6704d8_0012_4e7f76684a",
     "original": "人は、生きていこうとするところに\\nその存在がある▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 508\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1901_06_011"
+    "translation": "人类的存在价值\\n在于奋力活下去的意志▽",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 508\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1901_06_011",
+    "stage": 1
   },
   {
     "key": "e_343a6704d8_0013_8b68d500a8",
     "original": "それが、自らエヴァに残った\\n彼女の願いだからな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 533\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1901_06_011_1"
+    "translation": "毕竟那是她自愿留在EVA里\\n所怀抱的愿望",
+    "context": "File: FREE/NEV_TEV1901.NUT\nLine: 533\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1901_06_011_1",
+    "stage": 1
   }
 ]

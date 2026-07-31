@@ -2,55 +2,64 @@
   {
     "key": "e_68a342e32b_0004_ad07c74384",
     "original": "ネルフ本部 第１発令所",
-    "translation": "",
-    "context": "File: FREE/FREEMAP.XML\nLine: 3\nElement: PLACE\nAttribute: name"
+    "translation": "NERV总部 第一指令室",
+    "context": "File: FREE/FREEMAP.XML\nLine: 3\nElement: PLACE\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_68a342e32b_0008_8c77da8871",
     "original": "第３新東京市 市街地",
-    "translation": "",
-    "context": "File: FREE/FREEMAP.XML\nLine: 6\nElement: PLACE\nAttribute: name"
+    "translation": "第三新东京市 市区",
+    "context": "File: FREE/FREEMAP.XML\nLine: 6\nElement: PLACE\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_68a342e32b_0012_2f49c41c53",
     "original": "初号機ケイジ",
-    "translation": "",
-    "context": "File: FREE/FREEMAP.XML\nLine: 9\nElement: PLACE\nAttribute: name"
+    "translation": "初号机机库",
+    "context": "File: FREE/FREEMAP.XML\nLine: 9\nElement: PLACE\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_68a342e32b_0016_cddba8da2d",
     "original": "第壱中学校前",
-    "translation": "",
-    "context": "File: FREE/FREEMAP.XML\nLine: 12\nElement: PLACE\nAttribute: name"
+    "translation": "第一中学前",
+    "context": "File: FREE/FREEMAP.XML\nLine: 12\nElement: PLACE\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_68a342e32b_0020_647c52c3c3",
     "original": "展望台",
-    "translation": "",
-    "context": "File: FREE/FREEMAP.XML\nLine: 15\nElement: PLACE\nAttribute: name"
+    "translation": "观景台",
+    "context": "File: FREE/FREEMAP.XML\nLine: 15\nElement: PLACE\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_68a342e32b_0024_5f4a84b3bf",
     "original": "レイのマンション",
-    "translation": "",
-    "context": "File: FREE/FREEMAP.XML\nLine: 18\nElement: PLACE\nAttribute: name"
+    "translation": "丽的公寓",
+    "context": "File: FREE/FREEMAP.XML\nLine: 18\nElement: PLACE\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_68a342e32b_0028_8e8219df5c",
     "original": "リツコの研究室",
-    "translation": "",
-    "context": "File: FREE/FREEMAP.XML\nLine: 21\nElement: PLACE\nAttribute: name"
+    "translation": "律子的研究室",
+    "context": "File: FREE/FREEMAP.XML\nLine: 21\nElement: PLACE\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_68a342e32b_0032_fa25edfaea",
     "original": "ネルフ",
-    "translation": "",
-    "context": "File: FREE/FREEMAP.XML\nLine: 24\nElement: PLACE\nAttribute: name"
+    "translation": "NERV",
+    "context": "File: FREE/FREEMAP.XML\nLine: 24\nElement: PLACE\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_68a342e32b_0036_71001c0342",
     "original": "ミサトのマンション",
-    "translation": "",
-    "context": "File: FREE/FREEMAP.XML\nLine: 27\nElement: PLACE\nAttribute: name"
+    "translation": "美里的公寓",
+    "context": "File: FREE/FREEMAP.XML\nLine: 27\nElement: PLACE\nAttribute: name",
+    "stage": 1
   }
 ]

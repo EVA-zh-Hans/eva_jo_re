@@ -2,55 +2,64 @@
   {
     "key": "e_9c152c1ff5_0001_4789ff661f",
     "original": "碇、まだ早いのではないか？",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 38\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_001"
+    "translation": "碇，是否为时过早？",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 38\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_001",
+    "stage": 1
   },
   {
     "key": "e_9c152c1ff5_0002_baa9957763",
     "original": "委員会はエヴァシリーズの量産に着手した…\\nチャンスだ冬月",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_002"
+    "translation": "委员会已着手量产EVA系列…\\n机会来了冬月",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_002",
+    "stage": 1
   },
   {
     "key": "e_9c152c1ff5_0003_d71ee0340a",
     "original": "しかし、な…",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 44\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_003"
+    "translation": "但是……",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 44\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_003",
+    "stage": 1
   },
   {
     "key": "e_9c152c1ff5_0004_d91d3eca9f",
     "original": "時計の針は元に戻らない\\nだが自らの力で進める事はできる",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_004"
+    "translation": "时钟的指针无法倒转\n但可以凭自己的力量向前推进",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_004",
+    "stage": 1
   },
   {
     "key": "e_9c152c1ff5_0005_ea31f3a667",
     "original": "老人達が黙ってないぞ",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_005"
+    "translation": "那些老家伙可不会坐视不管",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_005",
+    "stage": 1
   },
   {
     "key": "e_9c152c1ff5_0006_e215fbfbba",
     "original": "ゼーレが動く前に、全て済まさねばならん\\n今、弐号機を失うのは得策ではない",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_006"
+    "translation": "必须在SEELE行动前解决一切\n现在失去二号机并非上策",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_006",
+    "stage": 1
   },
   {
     "key": "e_9c152c1ff5_0007_ea9a05c2ee",
     "original": "かといって、ロンギヌスの槍を\\nゼーレの許可なく使用するのは、面倒だぞ",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 75\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_007"
+    "translation": "但未经SEELE许可擅自使用朗基努斯之枪\n会惹来大麻烦",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 75\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_007",
+    "stage": 1
   },
   {
     "key": "e_9c152c1ff5_0008_2260fd6b5f",
     "original": "理由は存在すればいい\\nそれ以上の意味はない",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 91\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_008"
+    "translation": "理由只要存在就够了\n不必深究其意义",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 91\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_008",
+    "stage": 1
   },
   {
     "key": "e_9c152c1ff5_0009_89230e1ce2",
     "original": "理由？\\nお前が欲しいのは、口実だろう？",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 107\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_009"
+    "translation": "理由？\n你需要的不过是个借口吧？",
+    "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 107\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na13_0014_06_009",
+    "stage": 1
   }
 ]

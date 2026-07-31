@@ -44,8 +44,9 @@
   {
     "key": "e_70107ec52e_0008_e52dd925d8",
     "original": "注目度",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: システムメニュー１"
+    "translation": "关注度",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: システムメニュー１",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0009_25289ee07a",
@@ -110,8 +111,9 @@
   {
     "key": "e_70107ec52e_0019_621d8cc344",
     "original": "模擬戦",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: スキルプログラムの開発"
+    "translation": "模拟战",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: スキルプログラムの開発",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0020_e9f44064d5",

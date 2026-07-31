@@ -2,79 +2,92 @@
   {
     "key": "e_1b01b637d3_0001_7ea6f3d562",
     "original": "そして…",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "然后…",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_1b01b637d3_0002_b80b71fb19",
     "original": "普通の日々がはじまる",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "平凡的日子开始了",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_1b01b637d3_0003_3f15f2a61b",
     "original": "平和になった…そして失業",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_019_1"
+    "translation": "和平降临了…然后失业",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_019_1",
+    "stage": 1
   },
   {
     "key": "e_1b01b637d3_0004_62589f6b33",
     "original": "ワシが年金生活になるまでは、あと１年\\nあてはなし…",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_019_2"
+    "translation": "距离俺领养老金还有一年\\n完全没着落…",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_019_2",
+    "stage": 1
   },
   {
     "key": "e_1b01b637d3_0005_cb62666af5",
     "original": "冬月は笑った",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "冬月笑了",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_1b01b637d3_0006_6af1924c96",
     "original": "ま、それでもいいんだがね",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_020_1"
+    "translation": "嘛，这样也不坏",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_020_1",
+    "stage": 1
   },
   {
     "key": "e_1b01b637d3_0007_8ea5b8a208",
     "original": "１年の間、家庭教師をするのはどうだね\\n格安にするが",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_020_2"
+    "translation": "要不要雇俺当一年家庭教师？\\n收费很便宜的",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_020_2",
+    "stage": 1
   },
   {
     "key": "e_1b01b637d3_0008_7840849020",
     "original": "君もおくれていた勉強を\\n取り返す必要があるだろう？",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_020_3"
+    "translation": "你也得把落下的功课\\n补回来才行吧？",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_020_3",
+    "stage": 1
   },
   {
     "key": "e_1b01b637d3_0009_557bde2f6a",
     "original": "あなたが戦いで得たものは、",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "你在战斗中获得的，",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_1b01b637d3_0010_6175d791a7",
     "original": "なにか吹っ切れた老人だった",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "是个豁达开朗的老人",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_1b01b637d3_0011_4a91211c28",
     "original": "あなたはそれで、何の不満もない",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "你对此毫无不满",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_1b01b637d3_0012_319c71e83b",
     "original": "終わりはいつかは来るかもしれないが、\\nそれまでは楽しくやれそうだからだ",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "终结之日或许终将到来\\n但在那之前尽享欢愉便好",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_1b01b637d3_0013_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: KOZO/CHR_KOZO_END.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

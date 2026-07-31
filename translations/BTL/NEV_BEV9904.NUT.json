@@ -2,31 +2,36 @@
   {
     "key": "e_05750a386e_0001_96d2190936",
     "original": "エヴァ零号機の予備電源終了\\n活動限界です！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV9904.NUT\nLine: 27\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_001"
+    "translation": "EVA零号机备用电源耗尽\\n活动极限已至！",
+    "context": "File: BTL/NEV_BEV9904.NUT\nLine: 27\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_001",
+    "stage": 1
   },
   {
     "key": "e_05750a386e_0002_6328f4cddf",
     "original": "エヴァ初号機の予備電源終了\\n活動限界です！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV9904.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_002"
+    "translation": "EVA初号机备用电源耗尽\\n活动极限已至！",
+    "context": "File: BTL/NEV_BEV9904.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_002",
+    "stage": 1
   },
   {
     "key": "e_05750a386e_0003_6b76770afe",
     "original": "エヴァ弐号機の予備電源終了\\n活動限界です！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV9904.NUT\nLine: 77\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_003"
+    "translation": "EVA贰号机备用电源耗尽\\n活动极限已至！",
+    "context": "File: BTL/NEV_BEV9904.NUT\nLine: 77\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_003",
+    "stage": 1
   },
   {
     "key": "e_05750a386e_0004_31b7d2e45f",
     "original": "エヴァ参号機の予備電源終了\\n活動限界です！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV9904.NUT\nLine: 102\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_004"
+    "translation": "EVA参号机备用电源耗尽\\n活动极限已至！",
+    "context": "File: BTL/NEV_BEV9904.NUT\nLine: 102\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_004",
+    "stage": 1
   },
   {
     "key": "e_05750a386e_0005_75bce948c8",
     "original": "エヴァ四号機の予備電源終了\\n活動限界です！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV9904.NUT\nLine: 128\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_005"
+    "translation": "EVA四号机备用电源耗尽\\n已达活动极限！",
+    "context": "File: BTL/NEV_BEV9904.NUT\nLine: 128\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_005",
+    "stage": 1
   }
 ]

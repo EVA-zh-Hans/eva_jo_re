@@ -2,49 +2,57 @@
   {
     "key": "e_129c06af38_0001_a29bf93557",
     "original": "ご無沙汰です…\\n外の見張りには、しばらく眠ってもらいました",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 162\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1506_11_001"
+    "translation": "久疏问候……\n外面的守卫会暂时安睡片刻",
+    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 162\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1506_11_001",
+    "stage": 1
   },
   {
     "key": "e_129c06af38_0002_644f499274",
     "original": "いいのかね、\\nこの行動は君の命取りになるぞ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1506_06_002"
+    "translation": "这样真的好吗\n你的行动会招致杀身之祸",
+    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1506_06_002",
+    "stage": 1
   },
   {
     "key": "e_129c06af38_0003_e53942b3e0",
     "original": "ただ、真実に近づきたいだけなんです\\n僕の中のね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 171\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1506_11_003"
+    "translation": "我只是……\n想触碰深藏心底的真相",
+    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 171\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1506_11_003",
+    "stage": 1
   },
   {
     "key": "e_129c06af38_0004_3077c19f76",
     "original": "もういいの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 218\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1506_04_004"
+    "translation": "这样就满足了吗？",
+    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 218\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1506_04_004",
+    "stage": 1
   },
   {
     "key": "e_129c06af38_0005_4633fa6505",
     "original": "ご協力、ありがとうございました",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 222\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1506_83_005"
+    "translation": "感谢您的配合",
+    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 222\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1506_83_005",
+    "stage": 1
   },
   {
     "key": "e_129c06af38_0006_5ddc3591d0",
     "original": "彼は？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 226\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1506_04_006"
+    "translation": "他人呢？",
+    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 226\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1506_04_006",
+    "stage": 1
   },
   {
     "key": "e_129c06af38_0007_45e04a7676",
     "original": "私は存じません",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 230\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1506_83_007"
+    "translation": "我无从知晓",
+    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 230\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1506_83_007",
+    "stage": 1
   },
   {
     "key": "e_129c06af38_0008_9997d1cbc2",
     "original": "よぉ、遅かったじゃないか",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 257\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1506_11_008"
+    "translation": "哟，来得太慢了吧",
+    "context": "File: FREE/NEV_TEV1506.NUT\nLine: 257\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1506_11_008",
+    "stage": 1
   }
 ]

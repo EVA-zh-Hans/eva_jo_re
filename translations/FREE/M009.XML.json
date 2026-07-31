@@ -2,79 +2,92 @@
   {
     "key": "e_6ea82b809b_0002_a3eef663c9",
     "original": "男民０１",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 2\nElement: freechar\nAttribute: name"
+    "translation": "男性市民01",
+    "context": "File: FREE/M009.XML\nLine: 2\nElement: freechar\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_6ea82b809b_0018_2a742684d7",
     "original": "立ち",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 11\nElement: motion\nAttribute: name"
+    "translation": "站立",
+    "context": "File: FREE/M009.XML\nLine: 11\nElement: motion\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_6ea82b809b_0022_b8647675c4",
     "original": "歩き",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 12\nElement: motion\nAttribute: name"
+    "translation": "步行",
+    "context": "File: FREE/M009.XML\nLine: 12\nElement: motion\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_6ea82b809b_0026_c6d11b4270",
     "original": "走り",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 13\nElement: motion\nAttribute: name"
+    "translation": "奔跑",
+    "context": "File: FREE/M009.XML\nLine: 13\nElement: motion\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_6ea82b809b_0030_d87d049939",
     "original": "作業",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 14\nElement: motion\nAttribute: name"
+    "translation": "作业",
+    "context": "File: FREE/M009.XML\nLine: 14\nElement: motion\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_6ea82b809b_0034_a89b5f751c",
     "original": "アイドル１",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 15\nElement: motion\nAttribute: name"
+    "translation": "待机动作1",
+    "context": "File: FREE/M009.XML\nLine: 15\nElement: motion\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_6ea82b809b_0038_f2494a49ef",
     "original": "アイドル２",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 16\nElement: motion\nAttribute: name"
+    "translation": "待机动作2",
+    "context": "File: FREE/M009.XML\nLine: 16\nElement: motion\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_6ea82b809b_0042_8547f411a0",
     "original": "アイドル３",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 17\nElement: motion\nAttribute: name"
+    "translation": "待机动作3",
+    "context": "File: FREE/M009.XML\nLine: 17\nElement: motion\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_6ea82b809b_0046_97ca89c19b",
     "original": "アイドル４",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 18\nElement: motion\nAttribute: name"
+    "translation": "待机动作4",
+    "context": "File: FREE/M009.XML\nLine: 18\nElement: motion\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_6ea82b809b_0050_e3722e3a6d",
     "original": "会話１",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 19\nElement: motion\nAttribute: name"
+    "translation": "对话动作1",
+    "context": "File: FREE/M009.XML\nLine: 19\nElement: motion\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_6ea82b809b_0054_f6f6aac2c8",
     "original": "会話２",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 20\nElement: motion\nAttribute: name"
+    "translation": "对话动作2",
+    "context": "File: FREE/M009.XML\nLine: 20\nElement: motion\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_6ea82b809b_0058_9f16887161",
     "original": "会話３",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 21\nElement: motion\nAttribute: name"
+    "translation": "对话3",
+    "context": "File: FREE/M009.XML\nLine: 21\nElement: motion\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_6ea82b809b_0062_44937cd2e1",
     "original": "会話４",
-    "translation": "",
-    "context": "File: FREE/M009.XML\nLine: 22\nElement: motion\nAttribute: name"
+    "translation": "对话4",
+    "context": "File: FREE/M009.XML\nLine: 22\nElement: motion\nAttribute: name",
+    "stage": 1
   }
 ]

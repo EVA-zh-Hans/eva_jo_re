@@ -2,68 +2,79 @@
   {
     "key": "e_b10c846454_0001_398375f2b8",
     "original": "あのな…シンジ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 156\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1307_13_026"
+    "translation": "那个…真嗣",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 156\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1307_13_026",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0002_2ebfe72ae6",
     "original": "なに？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 159\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_027"
+    "translation": "什么事？",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 159\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_027",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0003_6105e1ca03",
     "original": "エヴァに初めて乗った時、\\nどうやった？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 164\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1307_13_028"
+    "translation": "第一次驾驶EVA的时候\\n是什么感觉？",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 164\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1307_13_028",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0004_f9f71ae4fa",
     "original": "何で、そんな事聞くの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 194\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_029"
+    "translation": "为什么突然问这个？",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 194\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_029",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0005_1abaab137a",
     "original": "いや、何でもあらへん\\nただ…ワシ…あの時▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 198\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1307_13_030"
+    "translation": "不，没什么\\n只是…俺…那时候▽",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 198\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1307_13_030",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0006_e26900bb3a",
     "original": "お前の気持ち、何も知らんと\\nエラそうにお前の事殴ったりして…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 202\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1307_13_030_1"
+    "translation": "明明不懂你的心情\\n还装模作样地揍你…",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 202\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: NA10_1307_13_030_1",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0007_9a0a2357d2",
     "original": "トウジ…？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 206\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_031"
+    "translation": "冬二…？",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 206\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1307_01_031",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0008_4aa6ee35b0",
     "original": "地下のアダムとマルドゥック機関の\\n秘密、知ってるんでしょ？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 257\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1308_04_001"
+    "translation": "地下的亚当和马尔杜克机关\\n的秘密，你都知道吧？",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 257\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1308_04_001",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0009_216a5acf19",
     "original": "はて？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 278\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1308_11_002"
+    "translation": "嗯？",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 278\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1308_11_002",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0010_cf509350f1",
     "original": "とぼけないで",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 281\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1308_04_003"
+    "translation": "别装傻",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 281\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1308_04_003",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0011_0dcc3b1434",
     "original": "都合よく、フォース・チルドレンが見つかる\\nこの裏は何？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 301\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1308_04_005_1"
+    "translation": "第四适格者刚好在这时候出现\\n背后有什么隐情？",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 301\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1308_04_005_1",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0012_9833251ad9",
@@ -74,25 +85,29 @@
   {
     "key": "e_b10c846454_0013_a7d79eb623",
     "original": "一つ教えておくよ、マルドゥック機関は存在しない\\n陰で操ってるのはネルフそのものさ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 328\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1308_11_006_1"
+    "translation": "告诉你一件事，马尔杜克机关根本不存在\\n幕后黑手就是NERV本身",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 328\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1308_11_006_1",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0014_5a274a2298",
     "original": "ネルフそのもの？\\n碇司令が？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 332\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1308_04_007"
+    "translation": "NERV本身？\\n碇司令指使的？",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 332\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1308_04_007",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0015_9df951462e",
     "original": "コード７０７を調べてみるんだな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 335\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1308_11_008"
+    "translation": "去查查代码707吧",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 335\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1308_11_008",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0016_be2b5580a5",
     "original": "７０７？\\nシンジ君の学校を？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 356\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1308_04_009"
+    "translation": "707？\\n真嗣君的学校？",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 356\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1308_04_009",
+    "stage": 1
   }
 ]

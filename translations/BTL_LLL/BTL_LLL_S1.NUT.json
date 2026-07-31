@@ -2,25 +2,29 @@
   {
     "key": "e_592e96faf5_0001_473116e69b",
     "original": "どう？\\n相手の動きは",
-    "translation": "",
-    "context": "File: BTL_LLL/BTL_LLL_S1.NUT\nLine: 30\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0002_04_001"
+    "translation": "怎么样？\\n敌人的动向",
+    "context": "File: BTL_LLL/BTL_LLL_S1.NUT\nLine: 30\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0002_04_001",
+    "stage": 1
   },
   {
     "key": "e_592e96faf5_0002_17f7c87e0a",
     "original": "いまだ沈黙を続けています",
-    "translation": "",
-    "context": "File: BTL_LLL/BTL_LLL_S1.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: na14_0002_10_003"
+    "translation": "依然保持沉默",
+    "context": "File: BTL_LLL/BTL_LLL_S1.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: na14_0002_10_003",
+    "stage": 1
   },
   {
     "key": "e_592e96faf5_0003_0e3e505ef6",
     "original": "僕が先手を打ちます！",
-    "translation": "",
-    "context": "File: BTL_LLL/BTL_LLL_S1.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0002_01_005"
+    "translation": "由我先发制人！",
+    "context": "File: BTL_LLL/BTL_LLL_S1.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na14_0002_01_005",
+    "stage": 1
   },
   {
     "key": "e_592e96faf5_0004_170289e273",
     "original": "ちょっと、待ちなさい！\\n危険だわ！！",
-    "translation": "",
-    "context": "File: BTL_LLL/BTL_LLL_S1.NUT\nLine: 45\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0002_04_010"
+    "translation": "等等！\\n太危险了！！",
+    "context": "File: BTL_LLL/BTL_LLL_S1.NUT\nLine: 45\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0002_04_010",
+    "stage": 1
   }
 ]

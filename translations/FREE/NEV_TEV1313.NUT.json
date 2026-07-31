@@ -2,85 +2,99 @@
   {
     "key": "e_517f5fc965_0001_db2e0578e0",
     "original": "シンジ君…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 62\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_001"
+    "translation": "真嗣君…",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 62\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_001",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0002_48a32295f3",
     "original": "ミサトさん！\\nよかった、無事だったんですね！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1313_01_002"
+    "translation": "美里小姐！\n太好了，您平安无事！",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1313_01_002",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0003_b6aaca8740",
     "original": "私は…ね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_003"
+    "translation": "我啊…",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_003",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0004_9167f67a50",
     "original": "シンジ君…\\nごめんなさい▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 71\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_004"
+    "translation": "真嗣君…\n对不起▽",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 71\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_004",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0005_74ed41bd87",
     "original": "私、あなたに大事な事を伝えなくっちゃ\\nいけなかったのに…こんな事に…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 74\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_004_1"
+    "translation": "我本该告诉你重要的事…\n却变成这样…",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 74\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_004_1",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0006_7e010a4b6f",
     "original": "ミサトさん\\n僕は、僕は人を…▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 77\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1313_01_005"
+    "translation": "美里小姐\n我、我杀了人…▽",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 77\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1313_01_005",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0007_795061e15d",
     "original": "エヴァが人を…父さんが…\\n止めてって頼んだのに…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 80\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1313_01_005_1"
+    "translation": "EVA杀了人…父亲明明…\n求我停下来的…",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 80\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1313_01_005_1",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0008_91b25d3467",
     "original": "あの、シンジ君\\nごめん、ごめんね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 83\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_006"
+    "translation": "那个，真嗣君\n对不起，真的对不起",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 83\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_006",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0009_dd455c81f8",
     "original": "エントリープラグの回収班より連絡、\\n生存者を確認",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 87\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1313_08_007"
+    "translation": "插入栓回收班报告\n发现生还者",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 87\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1313_08_007",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0010_c0d6bf3591",
     "original": "生きてた？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 91\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1313_01_008"
+    "translation": "还活着？",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 91\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1313_01_008",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0011_b9f26690f4",
     "original": "あの、参号機のパイロットは、\\nフォース・チルドレンは…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 94\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_009"
+    "translation": "那个，三号机的驾驶员\n第四适格者她…",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 94\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_009",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0012_94e7c5a959",
     "original": "…トウジ？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 119\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1313_01_010"
+    "translation": "…冬二？",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 119\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1313_01_010",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0013_94e7c5a959",
     "original": "…トウジ？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 124\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1313_01_011"
+    "translation": "…冬二？",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 124\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1313_01_011",
+    "stage": 1
   },
   {
     "key": "e_517f5fc965_0014_419a4c524e",
     "original": "シンジ君！\\n…シンジ君！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 127\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_012"
+    "translation": "真嗣君！\n…真嗣君！！",
+    "context": "File: FREE/NEV_TEV1313.NUT\nLine: 127\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1313_04_012",
+    "stage": 1
   }
 ]

@@ -2,79 +2,92 @@
   {
     "key": "e_23a6ba39a5_0001_e0852c903b",
     "original": "初号機とパイロットのシンクロを全面カット▽",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 59\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_004"
+    "translation": "切断初号机与驾驶员的全频段同步▽",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 59\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_004",
+    "stage": 1
   },
   {
     "key": "e_23a6ba39a5_0002_d46d810a2e",
     "original": "回路をダミーシステムに切り替えろ",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 62\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_004_1"
+    "translation": "将回路切换至傀儡系统",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 62\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_004_1",
+    "stage": 1
   },
   {
     "key": "e_23a6ba39a5_0003_ba58514be7",
     "original": "碇、完成していたのか？",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA05_0016_06_001"
+    "translation": "碇，已经完成了吗？",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 65\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA05_0016_06_001",
+    "stage": 1
   },
   {
     "key": "e_23a6ba39a5_0004_cfea3c259e",
     "original": "まだ試作段階だが、\\n初号機には搭載してある",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_005"
+    "translation": "虽然还是试作阶段\\n但初号机已搭载完成",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_005",
+    "stage": 1
   },
   {
     "key": "e_23a6ba39a5_0005_2466471fd8",
     "original": "しかし、委員会への報告も無しに\\n使用するのはマズいぞ",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 71\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA05_0016_06_002"
+    "translation": "但未经委员会报告\\n擅自使用会很麻烦",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 71\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA05_0016_06_002",
+    "stage": 1
   },
   {
     "key": "e_23a6ba39a5_0006_cce2fa01e2",
     "original": "今が使う時だ\\n上には私から報告する",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 74\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_006"
+    "translation": "现在正是使用之时\\n上级那边由我来汇报",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 74\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_006",
+    "stage": 1
   },
   {
     "key": "e_23a6ba39a5_0007_2e3d7f95df",
     "original": "しかし、ダミーシステムには\\nまだ問題が多く…",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 91\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0016_08_001"
+    "translation": "但是傀儡系统还存在诸多问题……",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 91\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0016_08_001",
+    "stage": 1
   },
   {
     "key": "e_23a6ba39a5_0008_be56a7c05b",
     "original": "構わん、今のパイロットよりは\\n役に立つ…やれ！",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 108\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_007"
+    "translation": "无妨，比现在的驾驶员管用…执行！",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 108\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_007",
+    "stage": 1
   },
   {
     "key": "e_23a6ba39a5_0009_51a11d2fa9",
     "original": "…はい…\\nダミーシステム切り替え、準備開始！",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 111\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0016_08_002"
+    "translation": "…明白…\n开始准备切换傀儡系统！",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 111\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0016_08_002",
+    "stage": 1
   },
   {
     "key": "e_23a6ba39a5_0010_4ab5107258",
     "original": "…何？\\n何をしたんだ、父さん！",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 139\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0016_01_008"
+    "translation": "…什么？\n你干了什么，父亲！",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 139\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0016_01_008",
+    "stage": 1
   },
   {
     "key": "e_23a6ba39a5_0011_5330e334ee",
     "original": "管制システム、切り替え終了\\n全神経、ダミーシステムへ直結完了▽",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 142\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0016_08_003"
+    "translation": "管制系统切换完成\n全部神经已直连傀儡系统▽",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 142\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0016_08_003",
+    "stage": 1
   },
   {
     "key": "e_23a6ba39a5_0012_5e0cc9103a",
     "original": "感情素子の３２．８％が不鮮明\\nモニター出来ません",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 145\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0016_08_003_1"
+    "translation": "32.8%情感元件信号模糊\n无法监控",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 145\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA05_0016_08_003_1",
+    "stage": 1
   },
   {
     "key": "e_23a6ba39a5_0013_3c2018f4ea",
     "original": "構わん、システム開放\\n攻撃開始！",
-    "translation": "",
-    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 150\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_008"
+    "translation": "无碍，解除系统限制\n开始攻击！",
+    "context": "File: BTL_BRD/NEV_BEV1312.NUT\nLine: 150\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0016_05_008",
+    "stage": 1
   }
 ]

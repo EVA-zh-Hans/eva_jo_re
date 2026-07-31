@@ -8,14 +8,16 @@
   {
     "key": "e_9e902a37f3_0003_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 103"
+    "translation": "丽",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 103",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0004_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 104"
+    "translation": "明日香",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 104",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0005_ee11ae3ed4",
@@ -44,8 +46,9 @@
   {
     "key": "e_9e902a37f3_0009_5db51a0248",
     "original": "ミサト",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 109"
+    "translation": "美里",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 109",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0010_dbc879e139",
@@ -86,14 +89,16 @@
   {
     "key": "e_9e902a37f3_0016_b166649dcd",
     "original": "マヤ",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 116"
+    "translation": "摩耶",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 116",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0017_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 117"
+    "translation": "Pen Pen",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 117",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0018_8bfc665fe2",
@@ -104,14 +109,16 @@
   {
     "key": "e_9e902a37f3_0019_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 119"
+    "translation": "丽",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 119",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0020_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 120"
+    "translation": "明日香",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 120",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0021_ee11ae3ed4",
@@ -140,8 +147,9 @@
   {
     "key": "e_9e902a37f3_0025_5db51a0248",
     "original": "ミサト",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 125"
+    "translation": "美里",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 125",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0026_dbc879e139",
@@ -182,14 +190,16 @@
   {
     "key": "e_9e902a37f3_0032_b166649dcd",
     "original": "マヤ",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 132"
+    "translation": "摩耶",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 132",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0033_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 133"
+    "translation": "Pen Pen",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 133",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0034_8bfc665fe2",
@@ -200,14 +210,16 @@
   {
     "key": "e_9e902a37f3_0035_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 135"
+    "translation": "丽",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 135",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0036_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 136"
+    "translation": "明日香",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 136",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0037_ee11ae3ed4",
@@ -236,8 +248,9 @@
   {
     "key": "e_9e902a37f3_0041_5db51a0248",
     "original": "ミサト",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 141"
+    "translation": "美里",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 141",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0042_dbc879e139",
@@ -278,14 +291,16 @@
   {
     "key": "e_9e902a37f3_0048_b166649dcd",
     "original": "マヤ",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 148"
+    "translation": "摩耶",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 148",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0049_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 149"
+    "translation": "Pen Pen",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 149",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0050_2b7f5587a4",
@@ -1706,20 +1721,23 @@
   {
     "key": "e_9e902a37f3_0522_da7ee6bf93",
     "original": "使徒がいなくなっても、使徒は影響を残し続ける\\n人間は、これまでと違うどこかにいくことになるわ",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 549\nSpeaker: IMC_RITSUKO\nVoice: na54_0005_07_012_3"
+    "translation": "即便使徒消失，其影响仍将持续\\n人类终将前往与以往不同的彼岸",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 549\nSpeaker: IMC_RITSUKO\nVoice: na54_0005_07_012_3",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0524_6adb468e2f",
     "original": "リツコはたばこを捨てた",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 550\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "律子扔掉了香烟",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 550\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0526_e488857392",
     "original": "自分を痛めつけてもしょうがないわね\\nまずはお茶にしましょう",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 551\nSpeaker: IMC_RITSUKO\nVoice: na54_0005_07_013"
+    "translation": "自我折磨也无济于事\\n先喝杯茶吧",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 551\nSpeaker: IMC_RITSUKO\nVoice: na54_0005_07_013",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0528_1a7a256526",
@@ -1742,8 +1760,9 @@
   {
     "key": "e_9e902a37f3_0534_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 555\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 555\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0819_af9c5988bb",

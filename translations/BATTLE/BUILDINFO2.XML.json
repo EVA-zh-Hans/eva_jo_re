@@ -2,8 +2,9 @@
   {
     "key": "e_46124d69be_0389_c97f2b8222",
     "original": "速射砲ビル",
-    "translation": "",
-    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 140\nElement: PARAM\nAttribute: gmkname"
+    "translation": "速射炮大楼",
+    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 140\nElement: PARAM\nAttribute: gmkname",
+    "stage": 1
   },
   {
     "key": "e_46124d69be_0390_18e5a2a2fd",
@@ -56,8 +57,9 @@
   {
     "key": "e_46124d69be_0554_587294d879",
     "original": "垂直発射ミサイルビル",
-    "translation": "",
-    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 191\nElement: PARAM\nAttribute: gmkname"
+    "translation": "垂直发射导弹大楼",
+    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 191\nElement: PARAM\nAttribute: gmkname",
+    "stage": 1
   },
   {
     "key": "e_46124d69be_0555_3009221f32",
@@ -110,8 +112,9 @@
   {
     "key": "e_46124d69be_0734_219b83f330",
     "original": "ミサイルサイロビル",
-    "translation": "",
-    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 248\nElement: PARAM\nAttribute: gmkname"
+    "translation": "导弹发射井大楼",
+    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 248\nElement: PARAM\nAttribute: gmkname",
+    "stage": 1
   },
   {
     "key": "e_46124d69be_0735_cbe5d82a28",
@@ -164,8 +167,9 @@
   {
     "key": "e_46124d69be_0899_8753ffee3b",
     "original": "アスロックビル",
-    "translation": "",
-    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 302\nElement: PARAM\nAttribute: gmkname"
+    "translation": "ASROC大楼",
+    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 302\nElement: PARAM\nAttribute: gmkname",
+    "stage": 1
   },
   {
     "key": "e_46124d69be_0900_65ad841a5b",
@@ -218,8 +222,9 @@
   {
     "key": "e_46124d69be_1100_6e58fd97ab",
     "original": "電源ビル",
-    "translation": "",
-    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 362\nElement: PARAM\nAttribute: gmkname"
+    "translation": "电源大楼",
+    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 362\nElement: PARAM\nAttribute: gmkname",
+    "stage": 1
   },
   {
     "key": "e_46124d69be_1101_199e397cf8",
@@ -272,8 +277,9 @@
   {
     "key": "e_46124d69be_1193_521e26def2",
     "original": "武器庫ビル",
-    "translation": "",
-    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 397\nElement: PARAM\nAttribute: gmkname"
+    "translation": "武器库大楼",
+    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 397\nElement: PARAM\nAttribute: gmkname",
+    "stage": 1
   },
   {
     "key": "e_46124d69be_1194_e5da1aeae0",
@@ -326,8 +332,9 @@
   {
     "key": "e_46124d69be_1285_21e09a8979",
     "original": "観測ビル",
-    "translation": "",
-    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 435\nElement: PARAM\nAttribute: gmkname"
+    "translation": "观测大楼",
+    "context": "File: BATTLE/BUILDINFO2.XML\nLine: 435\nElement: PARAM\nAttribute: gmkname",
+    "stage": 1
   },
   {
     "key": "e_46124d69be_1286_cf3efcb80f",

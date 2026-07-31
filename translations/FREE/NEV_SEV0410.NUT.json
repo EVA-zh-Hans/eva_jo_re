@@ -2,56 +2,65 @@
   {
     "key": "e_283225ec42_0001_0d05caf477",
     "original": "綾波は、なぜコレに乗るの？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 71\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_001"
+    "translation": "绫波、为什么要驾驶这个？",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 71\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_001",
+    "stage": 1
   },
   {
     "key": "e_283225ec42_0002_25394843d6",
     "original": "…絆だから",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_002"
+    "translation": "……因为羁绊",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_002",
+    "stage": 1
   },
   {
     "key": "e_283225ec42_0003_cf3c4c9390",
     "original": "絆？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 79\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_003"
+    "translation": "羁绊？",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 79\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_003",
+    "stage": 1
   },
   {
     "key": "e_283225ec42_0004_eb72d2a99b",
     "original": "そう、絆",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 82\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_004"
+    "translation": "对、羁绊",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 82\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_004",
+    "stage": 1
   },
   {
     "key": "e_283225ec42_0005_cb97019e3b",
     "original": "父さんとの？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 85\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_005"
+    "translation": "和父亲之间的？",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 85\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_005",
+    "stage": 1
   },
   {
     "key": "e_283225ec42_0006_bef9c8bb4b",
     "original": "…みんなとの",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 88\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_006"
+    "translation": "……和大家的",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 88\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_006",
+    "stage": 1
   },
   {
     "key": "e_283225ec42_0007_9303a479a9",
     "original": "強いんだな…綾波は",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 91\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_007"
+    "translation": "真坚强啊……绫波",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 91\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_007",
+    "stage": 1
   },
   {
     "key": "e_283225ec42_0008_a3e3e060a6",
     "original": "私には、他に何もないもの",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 94\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_008"
+    "translation": "我……已经一无所有了",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 94\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_008",
+    "stage": 1
   },
   {
     "key": "e_283225ec42_0009_a2fcec0687",
     "original": "他に何もないって？▽",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 97\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_009"
+    "translation": "一无所有……是什么意思？▽",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 97\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_009",
+    "stage": 1
   },
   {
     "key": "e_283225ec42_0010_a7f878b8ce",
@@ -62,19 +71,22 @@
   {
     "key": "e_283225ec42_0011_8c19a162dc",
     "original": "時間よ\\n行きましょ",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 109\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_010"
+    "translation": "时间到了\n我们走吧",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 109\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_010",
+    "stage": 1
   },
   {
     "key": "e_283225ec42_0012_a74d56693f",
     "original": "綾波…",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 112\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_011"
+    "translation": "绫波……",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 112\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0410_01_011",
+    "stage": 1
   },
   {
     "key": "e_283225ec42_0013_deccdf98ee",
     "original": "さよなら",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 115\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_012"
+    "translation": "再见",
+    "context": "File: FREE/NEV_SEV0410.NUT\nLine: 115\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0410_03_012",
+    "stage": 1
   }
 ]

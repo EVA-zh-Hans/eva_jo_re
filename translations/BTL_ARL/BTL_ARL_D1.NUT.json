@@ -2,49 +2,57 @@
   {
     "key": "e_40d26cf9aa_0001_bdd4aceedf",
     "original": "セントラルドグマ、\\n１０番から１５番まで開放",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 38\nCall: im.event\nSpeaker: IMC_F_STAFF\nVoice: NA05_0091_18_001"
+    "translation": "中央教条区，\\n10号至15号闸门已开启",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 38\nCall: im.event\nSpeaker: IMC_F_STAFF\nVoice: NA05_0091_18_001",
+    "stage": 1
   },
   {
     "key": "e_40d26cf9aa_0002_9692c6a22f",
     "original": "第６マルボルジェ、零号機通過",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_M_STAFF\nVoice: NA05_0091_17_002"
+    "translation": "第6马勒勃尔介，零号机通过",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_M_STAFF\nVoice: NA05_0091_17_002",
+    "stage": 1
   },
   {
     "key": "e_40d26cf9aa_0003_ad63b1c35e",
     "original": "続いて、１６番から２０番、開放",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 44\nCall: im.event\nSpeaker: IMC_M_STAFF\nVoice: NA05_0091_17_003"
+    "translation": "接下来，16号至20号闸门开启",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 44\nCall: im.event\nSpeaker: IMC_M_STAFF\nVoice: NA05_0091_17_003",
+    "stage": 1
   },
   {
     "key": "e_40d26cf9aa_0004_df31efd0ac",
     "original": "うぅ…ううぅああああ！！",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 62\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na13_0017_02_010"
+    "translation": "呜…呜呜啊啊啊！！",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 62\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na13_0017_02_010",
+    "stage": 1
   },
   {
     "key": "e_40d26cf9aa_0005_b8fe2073d2",
     "original": "敵の指向性兵器なの！？",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0017_04_001"
+    "translation": "是敌人的定向武器吗！？",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0017_04_001",
+    "stage": 1
   },
   {
     "key": "e_40d26cf9aa_0006_67df4775bb",
     "original": "いえ、熱エネルギー反応なし！",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: na13_0017_10_003"
+    "translation": "不，未检测到热能反应！",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: na13_0017_10_003",
+    "stage": 1
   },
   {
     "key": "e_40d26cf9aa_0007_fc1950a2b0",
     "original": "心理グラフが乱れています！\\n精神汚染が始まります！",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 73\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na13_0017_08_005"
+    "translation": "心理曲线紊乱！\\n精神污染开始了！",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 73\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na13_0017_08_005",
+    "stage": 1
   },
   {
     "key": "e_40d26cf9aa_0008_f79a4f2eff",
     "original": "使徒が心理攻撃！？\\nまさか、使徒に人の心が理解できるの？",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na13_0017_07_007"
+    "translation": "使徒发动心理攻击！？\\n难道使徒能理解人类心灵？",
+    "context": "File: BTL_ARL/BTL_ARL_D1.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na13_0017_07_007",
+    "stage": 1
   }
 ]

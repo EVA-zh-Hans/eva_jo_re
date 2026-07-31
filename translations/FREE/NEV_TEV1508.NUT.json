@@ -2,25 +2,29 @@
   {
     "key": "e_a05efa4e4a_0001_414adc354f",
     "original": "シンジ君、ミサトさんと連絡がつかないんだ\\n家にいるのかな？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1508.NUT\nLine: 124\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1504_09_006"
+    "translation": "真嗣君，联系不上美里小姐\n她在家吗？",
+    "context": "File: FREE/NEV_TEV1508.NUT\nLine: 124\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1504_09_006",
+    "stage": 1
   },
   {
     "key": "e_a05efa4e4a_0002_f8db396f18",
     "original": "いえ、本部じゃないんですか？\\n家にもいなかったんですけど",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1508.NUT\nLine: 148\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1504_01_007"
+    "translation": "不，她不在总部吗？\n家里也没见到人",
+    "context": "File: FREE/NEV_TEV1508.NUT\nLine: 148\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1504_01_007",
+    "stage": 1
   },
   {
     "key": "e_a05efa4e4a_0003_7badea1791",
     "original": "…まさか▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1508.NUT\nLine: 176\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1504_09_008"
+    "translation": "……该不会▽",
+    "context": "File: FREE/NEV_TEV1508.NUT\nLine: 176\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1504_09_008",
+    "stage": 1
   },
   {
     "key": "e_a05efa4e4a_0004_09a134582e",
     "original": "あ、ゴメン…何でもない\\nきっと、そのうち戻ってくるよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1508.NUT\nLine: 181\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1504_09_009"
+    "translation": "啊、抱歉…当我没说\n她肯定很快会回来的",
+    "context": "File: FREE/NEV_TEV1508.NUT\nLine: 181\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1504_09_009",
+    "stage": 1
   }
 ]

@@ -2,25 +2,29 @@
   {
     "key": "e_0119b1f977_0001_53cc2eee8e",
     "original": "ミサトさん、急いで！",
-    "translation": "",
-    "context": "File: BTL_JA/BTL_JA_DEMO1.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0506_01_001"
+    "translation": "美里小姐，快一点！",
+    "context": "File: BTL_JA/BTL_JA_DEMO1.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0506_01_001",
+    "stage": 1
   },
   {
     "key": "e_0119b1f977_0002_4f57d40483",
     "original": "エラー？\\nそんな、ばかな！！",
-    "translation": "",
-    "context": "File: BTL_JA/BTL_JA_DEMO1.NUT\nLine: 106\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_002"
+    "translation": "系统错误？\\n开什么玩笑！！",
+    "context": "File: BTL_JA/BTL_JA_DEMO1.NUT\nLine: 106\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_002",
+    "stage": 1
   },
   {
     "key": "e_0119b1f977_0003_7f559db9e7",
     "original": "間違いない…\\nプログラムを変えてあるんだわ▽",
-    "translation": "",
-    "context": "File: BTL_JA/BTL_JA_DEMO1.NUT\nLine: 147\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_003"
+    "translation": "不会错的…\\n程序被人动过手脚了▽",
+    "context": "File: BTL_JA/BTL_JA_DEMO1.NUT\nLine: 147\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_003",
+    "stage": 1
   },
   {
     "key": "e_0119b1f977_0004_02fb71621f",
     "original": "でも、時間がない…\\nこうなったら、イチかバチか…！",
-    "translation": "",
-    "context": "File: BTL_JA/BTL_JA_DEMO1.NUT\nLine: 159\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_004"
+    "translation": "但没时间了…\\n事到如今只能孤注一掷…！",
+    "context": "File: BTL_JA/BTL_JA_DEMO1.NUT\nLine: 159\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_004",
+    "stage": 1
   }
 ]

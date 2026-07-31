@@ -2,31 +2,36 @@
   {
     "key": "e_49bb4af18e_0001_d8ad29feea",
     "original": "今回は、使徒殲滅の為に\\nロンギヌスの槍を使用する事になったわ▽",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_S1.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0011_04_001"
+    "translation": "这次为了歼灭使徒\\n决定使用朗基努斯之枪▽",
+    "context": "File: BTL_ARL/BTL_ARL_S1.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0011_04_001",
+    "stage": 1
   },
   {
     "key": "e_49bb4af18e_0002_739f3e18f5",
     "original": "槍は、零号機が使用…現在、零号機は\\n槍入手のためセントラルドグマに向かっています▽",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_S1.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0011_04_001_1"
+    "translation": "由零号机使用枪…目前零号机\\n正前往中央教条区获取枪▽",
+    "context": "File: BTL_ARL/BTL_ARL_S1.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0011_04_001_1",
+    "stage": 1
   },
   {
     "key": "e_49bb4af18e_0003_b907f6afc4",
     "original": "他パイロットは、地上にて使徒の\\n動向を見ながら待機になります▽",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_S1.NUT\nLine: 39\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0011_04_001_2"
+    "translation": "其他驾驶员将在地面\\n监视使徒动向待命▽",
+    "context": "File: BTL_ARL/BTL_ARL_S1.NUT\nLine: 39\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0011_04_001_2",
+    "stage": 1
   },
   {
     "key": "e_49bb4af18e_0004_69c120482f",
     "original": "以上です\\n作戦開始！",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_S1.NUT\nLine: 42\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0011_04_001_3"
+    "translation": "以上\\n作战开始！",
+    "context": "File: BTL_ARL/BTL_ARL_S1.NUT\nLine: 42\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0011_04_001_3",
+    "stage": 1
   },
   {
     "key": "e_49bb4af18e_0005_4b4204fce9",
     "original": "これをしっぱいしたら、たぶん、にごうきを\\nおろされる…ミスはゆるされないわよ、アスカ！",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_S1.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na13_0010_02_001"
+    "translation": "要是这次失败的话，二号机恐怕\\n会被停用…绝不能失误啊，明日香！",
+    "context": "File: BTL_ARL/BTL_ARL_S1.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na13_0010_02_001",
+    "stage": 1
   }
 ]

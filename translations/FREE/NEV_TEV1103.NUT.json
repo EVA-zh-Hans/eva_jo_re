@@ -2,187 +2,218 @@
   {
     "key": "e_06efd6e10d_0001_0fe45d7f5d",
     "original": "…えっ、これは",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_002"
+    "translation": "……咦，这是",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_002",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0002_999e03eb64",
     "original": "何？　一体どうしたの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 251\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0011_07_001"
+    "translation": "什么情况？到底怎么了？",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 251\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0011_07_001",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0003_07b96f703d",
     "original": "第８７タンパク壁が\\n劣化発熱しています！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 269\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0011_08_003"
+    "translation": "第87蛋白壁\\n正在劣化发热！！",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 269\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0011_08_003",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0004_9128c59509",
     "original": "何ですって…\\nすぐに、原因を探って！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 300\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0011_07_002"
+    "translation": "你说什么……\\n立刻查明原因！",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 300\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0011_07_002",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0005_46c86a6253",
     "original": "浸食部が爆発的なスピードで、\\n増殖していきます！▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 338\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_004"
+    "translation": "侵蚀区域正以爆发性速度\\n持续增殖！▽",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 338\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_004",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0006_74e114119b",
     "original": "これは…▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 341\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_004_1"
+    "translation": "这是……▽",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 341\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_004_1",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0007_2151968a7c",
     "original": "何てこった、分析パターン青\\n使徒です！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 373\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_004_2"
+    "translation": "见鬼，分析模式青\\n是使徒！！",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 373\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_004_2",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0008_1b4ec6591c",
     "original": "使徒…\\n使徒の侵入を許したのか！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 440\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA02_0011_06_001"
+    "translation": "使徒……\\n居然让使徒入侵了！？",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 440\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA02_0011_06_001",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0009_4e4efcae83",
     "original": "申し訳ありません",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 443\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0011_04_001"
+    "translation": "非常抱歉",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 443\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA02_0011_04_001",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0010_2a6f3b478e",
     "original": "セントラルドグマを物理閉鎖！\\nシグマユニットを隔離しろ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 449\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA02_0011_06_002_1"
+    "translation": "立即物理封锁中央教条区！\\n隔离西格玛单元",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 449\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA02_0011_06_002_1",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0011_95fb5c34cf",
     "original": "汚染域、さらに拡大",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 482\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_005"
+    "translation": "污染区域继续扩大",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 482\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_005",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0012_3ad5a2d20c",
     "original": "待って下さい、\\nサブ・コンピュータがハックされています！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 485\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_005_1"
+    "translation": "请等等\\n副计算机正在被入侵！",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 485\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_005_1",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0013_f12d0c4b35",
     "original": "…まさか！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 491\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_006"
+    "translation": "……难道！？",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 491\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_006",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0014_b41a6bc799",
     "original": "使徒です、このままマギに\\n侵入しようとしています！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 522\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_006_1"
+    "translation": "是使徒，它们正试图\\n直接入侵MAGI！！",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 522\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_006_1",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0015_f1e69aa1ea",
     "original": "彼らはマイクロマシーン、\\n細菌サイズの使徒と考えられるわ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 555\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0011_07_003"
+    "translation": "它们属于微型机械\\n可视为细菌级大小的使徒▽",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 555\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0011_07_003",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0016_c6c1040d43",
     "original": "その個体が集まって群れを作り、\\nこの短時間で知能回路の形成に至るまで、▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 558\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0011_07_003_1"
+    "translation": "个体聚集形成群体后\\n在极短时间内就完成了智能回路的构建▽",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 558\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0011_07_003_1",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0017_f3cc48ce5d",
     "original": "爆発的な進化を遂げているのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 561\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0011_07_003_2"
+    "translation": "正在进行爆发式进化",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 561\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA02_0011_07_003_2",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0018_a770f59e15",
     "original": "ウワッ！？　人工知能メルキオールにより\\n自律自爆が提訴されました！！▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 579\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_007"
+    "translation": "呜哇！？人工智能MELCHIOR\\n提出了自律引爆申请！！▽",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 579\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_007",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0019_32b2ed978d",
     "original": "バルタザールにより、否決！\\nカスパーにより、否決！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 606\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_007_1"
+    "translation": "BALTHASAR否决！\\nCASPER否决！",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 606\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_007_1",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0020_1b529dba6d",
     "original": "しかし、このままでは６時間後には\\nマギの機能が乗っ取られます！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 609\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA18_0011_10_008"
+    "translation": "但这样下去6小时后\\nMAGI系统就会被完全入侵！",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 609\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA18_0011_10_008",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0021_0abe68cdc8",
     "original": "マギが敵にまわるとはな",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 639\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0011_05_001"
+    "translation": "MAGI竟会倒戈相向啊",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 639\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0011_05_001",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0022_15560b320b",
     "original": "マギシステムの物理的消去を提案します",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 673\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1103_04_001"
+    "translation": "建议物理删除MAGI系统",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 673\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1103_04_001",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0023_f477f90c37",
     "original": "拒否します\\n技術部が解決すべき問題です",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 682\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1103_07_004"
+    "translation": "驳回\\n这是技术部该解决的问题",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 682\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1103_07_004",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0024_c3185e7e7a",
     "original": "あなた昔っからそう、一人で全部抱え込んで\\n他人を当てにしないのね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 712\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1103_04_005"
+    "translation": "你还是老样子\\n总把责任揽在自己身上\\n从来不肯依靠别人",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 712\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1103_04_005",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0025_2d56a30181",
     "original": "勝算はあるわ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 715\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1103_07_006"
+    "translation": "胜算还是有的▽",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 715\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1103_07_006",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0026_c2a85311dd",
     "original": "目標がコンピュータそのものなら、逆ハックをしかけて\\n自滅促進プログラムを送り込む事が出来ます",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 747\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1103_07_006_1"
+    "translation": "既然目标是计算机本身\\n就能实施反向入侵\\n植入自毁加速程序",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 747\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1103_07_006_1",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0027_f962a87c33",
     "original": "そのプログラム、\\n間に合うんでしょうね？▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 750\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1103_04_007"
+    "translation": "那个程序\\n来得及完成吧？▽",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 750\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1103_04_007",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0028_ed1816f6d0",
     "original": "カスパーまで侵されたら、終わりなのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 779\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1103_04_007_1"
+    "translation": "要是CASPER也被攻陷就全完了",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 779\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1103_04_007_1",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0029_6908615846",
     "original": "約束は守るわよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 782\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1103_07_008"
+    "translation": "我会遵守约定的",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 782\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1103_07_008",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0030_e4ae220e1d",
     "original": "君が早いか、使徒が早いか、\\n勝負だな…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 812\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0011_05_002"
+    "translation": "是你更快\\n还是使徒更快\\n赌一把吧…",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 812\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0011_05_002",
+    "stage": 1
   },
   {
     "key": "e_06efd6e10d_0031_c05a22cdb7",
     "original": "どうしよう…\\n何かとんでもない事になってる…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 859\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0011_01_001"
+    "translation": "怎么办…\\n事情变得一发不可收拾了…",
+    "context": "File: FREE/NEV_TEV1103.NUT\nLine: 859\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0011_01_001",
+    "stage": 1
   }
 ]

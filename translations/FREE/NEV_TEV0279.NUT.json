@@ -2,43 +2,50 @@
   {
     "key": "e_537dd98bc8_0001_6e73a0dcf6",
     "original": "グワァ！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 155\nCall: im.event\nSpeaker: IMC_PENPEN\nVoice: NA01_0001_16_001"
+    "translation": "嘎呜！",
+    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 155\nCall: im.event\nSpeaker: IMC_PENPEN\nVoice: NA01_0001_16_001",
+    "stage": 1
   },
   {
     "key": "e_537dd98bc8_0002_05a4d98d2b",
     "original": "わっ！\\nペ、ペンギン！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 182\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0279_01_002"
+    "translation": "哇！\\n企、企鹅！？",
+    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 182\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0279_01_002",
+    "stage": 1
   },
   {
     "key": "e_537dd98bc8_0003_fa943f98ae",
     "original": "あぁ、彼はペンペン\\n新種の温泉ペンギンよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 214\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0279_04_003"
+    "translation": "啊～他是Pen Pen\\n新种温泉企鹅哦▽",
+    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 214\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0279_04_003",
+    "stage": 1
   },
   {
     "key": "e_537dd98bc8_0004_b22e89510e",
     "original": "私の同居人なの\\n仲良くしてね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 219\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0279_04_003_1"
+    "translation": "是我的同居伙伴\\n要好好相处呀",
+    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 219\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0279_04_003_1",
+    "stage": 1
   },
   {
     "key": "e_537dd98bc8_0005_4c11c8431b",
     "original": "え、えーっと…▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 250\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0279_01_004"
+    "translation": "呃、那个……▽",
+    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 250\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0279_01_004",
+    "stage": 1
   },
   {
     "key": "e_537dd98bc8_0006_d108b915fb",
     "original": "よろしく…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 255\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0279_01_004_1"
+    "translation": "请多指教…",
+    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 255\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0279_01_004_1",
+    "stage": 1
   },
   {
     "key": "e_537dd98bc8_0007_57a54c37cb",
     "original": "ギャ♪",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_PENPEN\nVoice: NA01_0001_16_002"
+    "translation": "嘎呀♪",
+    "context": "File: FREE/NEV_TEV0279.NUT\nLine: 282\nCall: im.event\nSpeaker: IMC_PENPEN\nVoice: NA01_0001_16_002",
+    "stage": 1
   }
 ]

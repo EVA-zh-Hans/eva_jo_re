@@ -2,7 +2,8 @@
   {
     "key": "e_0ea8eef6fe_0001_d264f1f86f",
     "original": "行動シミュレーション、\\nスタートします！",
-    "translation": "",
-    "context": "File: BTL_SIM/BTL_SIM_S1.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA05_0065_10_003_1"
+    "translation": "行动模拟战，\n现在开始！",
+    "context": "File: BTL_SIM/BTL_SIM_S1.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA05_0065_10_003_1",
+    "stage": 1
   }
 ]

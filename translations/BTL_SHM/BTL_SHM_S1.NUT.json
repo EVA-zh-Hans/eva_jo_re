@@ -2,13 +2,15 @@
   {
     "key": "e_0a0fbe45fa_0001_c474c43ddd",
     "original": "父さんも見てないのに、\\nなんで、また乗ってんだろ…▽",
-    "translation": "",
-    "context": "File: BTL_SHM/BTL_SHM_S1.NUT\nLine: 31\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0003_01_006"
+    "translation": "明明父亲都没在看\\n为什么我还要坐上来啊…▽",
+    "context": "File: BTL_SHM/BTL_SHM_S1.NUT\nLine: 31\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0003_01_006",
+    "stage": 1
   },
   {
     "key": "e_0a0fbe45fa_0002_531a57b767",
     "original": "…人に嫌われてまで",
-    "translation": "",
-    "context": "File: BTL_SHM/BTL_SHM_S1.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0003_01_007"
+    "translation": "……被人讨厌也要",
+    "context": "File: BTL_SHM/BTL_SHM_S1.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0003_01_007",
+    "stage": 1
   }
 ]

@@ -2,14 +2,16 @@
   {
     "key": "e_5aeb39b09b_0001_8e9c38a9e6",
     "original": "議題としている問題が急務なのでね\\nやむなくの処置だ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 193\nCall: im.event\nSpeaker: IMC_SEELE06\nVoice: NA10_1503_44_001"
+    "translation": "鉴于议题的紧急性\\n不得已而为之",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 193\nCall: im.event\nSpeaker: IMC_SEELE06\nVoice: NA10_1503_44_001",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0002_2f59433cd8",
     "original": "わかってくれたまえ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 225\nCall: im.event\nSpeaker: IMC_SEELE03\nVoice: NA10_1503_41_002"
+    "translation": "希望你能理解",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 225\nCall: im.event\nSpeaker: IMC_SEELE03\nVoice: NA10_1503_41_002",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0003_a7f878b8ce",
@@ -20,85 +22,99 @@
   {
     "key": "e_5aeb39b09b_0004_5748f347be",
     "original": "委員会ではなく、\\nゼーレのお出ましとは…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 260\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1503_06_003"
+    "translation": "不是委员会\\n而是SEELE亲自出面吗…",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 260\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1503_06_003",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0005_c367dbf2ac",
     "original": "我々は、新たな神を造るつもりはないのだ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 289\nCall: im.event\nSpeaker: IMC_SEELE05\nVoice: NA10_1503_43_004"
+    "translation": "我等并无意创造新神",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 289\nCall: im.event\nSpeaker: IMC_SEELE05\nVoice: NA10_1503_43_004",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0006_7b774dba2b",
     "original": "Ｓ２機関を自ら搭載し、\\n絶対的存在を手にしたエヴァンゲリオン初号機",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 323\nCall: im.event\nSpeaker: IMC_SEELE02\nVoice: NA10_1503_40_006"
+    "translation": "自行搭载S²机关\\n获得绝对存在的EVA初号机",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 323\nCall: im.event\nSpeaker: IMC_SEELE02\nVoice: NA10_1503_40_006",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0007_5f509e4067",
     "original": "我々に具象化された神は不要なのだよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 326\nCall: im.event\nSpeaker: IMC_SEELE03\nVoice: NA10_1503_41_007"
+    "translation": "我等不需要具象化的神明",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 326\nCall: im.event\nSpeaker: IMC_SEELE03\nVoice: NA10_1503_41_007",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0008_d094279b7b",
     "original": "神を造ってはいかん",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 356\nCall: im.event\nSpeaker: IMC_SEELE01\nVoice: NA10_1503_60_008"
+    "translation": "不可造神",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 356\nCall: im.event\nSpeaker: IMC_SEELE01\nVoice: NA10_1503_60_008",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0009_9147b154dd",
     "original": "ましてあの男に、\\n神を手渡すわけにはいかんよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 391\nCall: im.event\nSpeaker: IMC_SEELE06\nVoice: NA10_1503_44_009"
+    "translation": "更何况将神明\\n交予那个男人之手",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 391\nCall: im.event\nSpeaker: IMC_SEELE06\nVoice: NA10_1503_44_009",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0010_65e3344fc2",
     "original": "碇、信用に足る男かな？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 394\nCall: im.event\nSpeaker: IMC_SEELE03\nVoice: NA10_1503_41_010"
+    "translation": "碇，是值得信赖的男人吗？",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 394\nCall: im.event\nSpeaker: IMC_SEELE03\nVoice: NA10_1503_41_010",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0011_d8a3cd80a5",
     "original": "拉致された？\\n副司令が？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 432\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1503_04_011"
+    "translation": "被绑架了？\\n副司令？",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 432\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1503_04_011",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0012_2ce01005a3",
     "original": "今より２時間前です、ジオフロント西の\\n第８区間を最後に消息を断っています",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 450\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1503_83_012"
+    "translation": "距今两小时前\\n最后出现在中央教条西侧第八区",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 450\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1503_83_012",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0013_e4a8fe0dc3",
     "original": "うちの所内じゃない\\nあなた達諜報部は何をやってたの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 453\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1503_04_013"
+    "translation": "这不在我们管辖范围内\\n你们谍报部是干什么吃的？",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 453\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1503_04_013",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0014_6ab35bda08",
     "original": "随行者に内報及び、先導者がいます\\nその人物に裏をかかれました",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 456\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1503_83_014"
+    "translation": "随行人员中有内鬼和向导\\n被那人摆了一道",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 456\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1503_83_014",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0015_bea98182ce",
     "original": "で、私のところに来たわけね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 475\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1503_04_017"
+    "translation": "所以才会找到我这儿来啊",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 475\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1503_04_017",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0016_e2d425c76c",
     "original": "彼と私の経歴を考えれば、\\n当然の処置でしょうね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 495\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1503_04_019"
+    "translation": "考虑到他和我的履历\\n这也是理所当然的处理吧",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 495\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1503_04_019",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0017_fc279e3dc8",
     "original": "ご協力感謝します",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 498\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1503_83_020"
+    "translation": "感谢您的协助",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 498\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1503_83_020",
+    "stage": 1
   }
 ]

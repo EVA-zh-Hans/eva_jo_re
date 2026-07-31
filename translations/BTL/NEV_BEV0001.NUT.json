@@ -2,7 +2,8 @@
   {
     "key": "e_0a69ae2b30_0001_727b72daef",
     "original": "使徒、殲滅を確認しました！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV0001.NUT\nLine: 25\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA05_0031_09_001"
+    "translation": "确认使徒歼灭！",
+    "context": "File: BTL/NEV_BEV0001.NUT\nLine: 25\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA05_0031_09_001",
+    "stage": 1
   }
 ]

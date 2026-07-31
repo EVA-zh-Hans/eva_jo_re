@@ -2,26 +2,30 @@
   {
     "key": "e_bf2246bd3f_0002_eec9e9abf1",
     "original": "シンジ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 102"
+    "translation": "真嗣",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 102",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0003_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 103"
+    "translation": "丽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 103",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0004_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 104"
+    "translation": "明日香",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 104",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0005_5f85a7dfcc",
     "original": "カヲル",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 105"
+    "translation": "薰",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 105",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0006_6ebcfff41c",
@@ -74,8 +78,9 @@
   {
     "key": "e_bf2246bd3f_0014_1eca0d7e59",
     "original": "青葉",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 114"
+    "translation": "青叶",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 114",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0015_ecf7daff96",
@@ -92,32 +97,37 @@
   {
     "key": "e_bf2246bd3f_0017_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 117"
+    "translation": "Pen Pen",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 117",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0018_eec9e9abf1",
     "original": "シンジ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 118"
+    "translation": "真嗣",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 118",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0019_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 119"
+    "translation": "丽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 119",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0020_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 120"
+    "translation": "明日香",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 120",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0021_5f85a7dfcc",
     "original": "カヲル",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 121"
+    "translation": "薰",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 121",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0022_6ebcfff41c",
@@ -170,8 +180,9 @@
   {
     "key": "e_bf2246bd3f_0030_1eca0d7e59",
     "original": "青葉",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 130"
+    "translation": "青叶",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 130",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0031_ecf7daff96",
@@ -188,32 +199,37 @@
   {
     "key": "e_bf2246bd3f_0033_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 133"
+    "translation": "Pen Pen",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 133",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0034_eec9e9abf1",
     "original": "シンジ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 134"
+    "translation": "真嗣",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 134",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0035_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 135"
+    "translation": "丽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 135",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0036_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 136"
+    "translation": "明日香",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 136",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0037_5f85a7dfcc",
     "original": "カヲル",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 137"
+    "translation": "薰",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 137",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0038_6ebcfff41c",
@@ -266,8 +282,9 @@
   {
     "key": "e_bf2246bd3f_0046_1eca0d7e59",
     "original": "青葉",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 146"
+    "translation": "青叶",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 146",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0047_ecf7daff96",
@@ -284,8 +301,9 @@
   {
     "key": "e_bf2246bd3f_0049_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 149"
+    "translation": "Pen Pen",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 149",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0050_a5f1b39026",
@@ -1190,8 +1208,9 @@
   {
     "key": "e_bf2246bd3f_0350_f180744719",
     "original": "父さん…",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 463\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_002"
+    "translation": "爸爸…",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 463\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_002",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0352_a7f878b8ce",
@@ -1250,8 +1269,9 @@
   {
     "key": "e_bf2246bd3f_0370_f180744719",
     "original": "父さん…",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 473\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_009"
+    "translation": "爸爸…",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 473\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_009",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0372_0252399528",
@@ -1310,8 +1330,9 @@
   {
     "key": "e_bf2246bd3f_0390_f180744719",
     "original": "父さん…",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 483\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_014"
+    "translation": "爸爸…",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 483\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_014",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0392_ed3b7c8318",
@@ -1496,14 +1517,16 @@
   {
     "key": "e_bf2246bd3f_0452_b80b71fb19",
     "original": "普通の日々がはじまる",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 514\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "平凡的日子开始了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 514\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0454_785d845e9c",
     "original": "ゲンドウは傷痕の残る自分の手を見た",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 515\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "源堂凝视着自己伤痕累累的手",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 515\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0456_8822f8201a",
@@ -1532,8 +1555,9 @@
   {
     "key": "e_bf2246bd3f_0464_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 520\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 520\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0466_dca9baf558",
@@ -1550,8 +1574,9 @@
   {
     "key": "e_bf2246bd3f_0470_785d845e9c",
     "original": "ゲンドウは傷痕の残る自分の手を見た",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 523\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "源堂凝视着自己伤痕累累的手",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 523\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0472_7a06b91bd4",
@@ -1568,8 +1593,9 @@
   {
     "key": "e_bf2246bd3f_0476_fa9b944fd6",
     "original": "うん…\\n恥ずかしい話？",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 526\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_030"
+    "translation": "嗯……\\n是难为情的故事吗？",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 526\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_030",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0478_da0e5d0b0c",
@@ -1580,26 +1606,30 @@
   {
     "key": "e_bf2246bd3f_0480_c6ba0aaf5b",
     "original": "いっぱいあるんだ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 528\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_032"
+    "translation": "原来有这么多啊",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 528\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_032",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0482_91ad46b1b6",
     "original": "話し終わるまでに時間がかかる",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 529\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_033"
+    "translation": "要全部讲完得花不少时间",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 529\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_033",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0484_394a4f5f9a",
     "original": "いいんじゃないかな",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 530\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_034"
+    "translation": "没关系呀",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 530\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_034",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0486_68cf4b3c1b",
     "original": "…ああ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 531\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_035"
+    "translation": "……嗯",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 531\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_035",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0488_a80a6a7582",
@@ -1616,8 +1646,9 @@
   {
     "key": "e_bf2246bd3f_0492_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 534\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 534\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0621_af9c5988bb",

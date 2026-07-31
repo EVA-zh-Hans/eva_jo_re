@@ -2,38 +2,44 @@
   {
     "key": "e_b9243d59bc_0001_ae0e5dc1f7",
     "original": "すまんなぁ、転校生…ワシはお前を殴らないかん\\n殴っとかな、気がすまへんのや",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 180\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_001"
+    "translation": "对不住了转校生……俺非得揍你不可\\n不揍你俺心里过不去",
+    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 180\nCall: im.event\nSpeaker: IMC_TOJI\nVoice: na50_0003_13_001",
+    "stage": 1
   },
   {
     "key": "e_b9243d59bc_0002_638ff32dae",
     "original": "悪いね…このあいだの騒ぎで、\\nあいつの妹さんケガしちゃってさ…▽",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 186\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_002_1"
+    "translation": "抱歉啊……上次骚乱里\\n那家伙的妹妹受伤了……▽",
+    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 186\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_002_1",
+    "stage": 1
   },
   {
     "key": "e_b9243d59bc_0003_fe307f01f9",
     "original": "ま、そういう事だから",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 189\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_002_2"
+    "translation": "嘛，就是这么回事",
+    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 189\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: na50_0003_14_002_2",
+    "stage": 1
   },
   {
     "key": "e_b9243d59bc_0004_843a4b1abf",
     "original": "ぼくだって、\\n乗りたくて乗ってるわけじゃないのに…",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 193\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0003_01_003"
+    "translation": "我也不是\\n自愿坐上那玩意儿的啊……",
+    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 193\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0003_01_003",
+    "stage": 1
   },
   {
     "key": "e_b9243d59bc_0005_ee4e26e512",
     "original": "…どこが人にほめられることなんだろ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 241\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0003_01_004_1"
+    "translation": "……这哪里值得被人夸奖了▽",
+    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 241\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0003_01_004_1",
+    "stage": 1
   },
   {
     "key": "e_b9243d59bc_0006_97067f805f",
     "original": "エヴァに乗ってたっていうだけで\\nなんで殴られるんだろ…",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 244\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0003_01_004_2"
+    "translation": "就因为是EVA驾驶员\\n凭什么要挨打啊……",
+    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 244\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0003_01_004_2",
+    "stage": 1
   },
   {
     "key": "e_b9243d59bc_0007_98739b95cc",
@@ -44,7 +50,8 @@
   {
     "key": "e_b9243d59bc_0008_be5ea55af3",
     "original": "非常召集…\\n先、行くから",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 285\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0003_03_005"
+    "translation": "紧急召集……\\n我先走了",
+    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 285\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0003_03_005",
+    "stage": 1
   }
 ]

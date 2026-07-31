@@ -2,25 +2,29 @@
   {
     "key": "e_4352f7f8df_0001_e264859a2b",
     "original": "気をつけて、アスカ",
-    "translation": "",
-    "context": "File: BTL_SND/BTL_SND_S1.NUT\nLine: 25\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0033_04_002"
+    "translation": "小心点，明日香",
+    "context": "File: BTL_SND/BTL_SND_S1.NUT\nLine: 25\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0033_04_002",
+    "stage": 1
   },
   {
     "key": "e_4352f7f8df_0002_8e68bf3ed7",
     "original": "攻撃のタイミングを外すと、\\n目標との接触タイミングを見失うわよ！",
-    "translation": "",
-    "context": "File: BTL_SND/BTL_SND_S1.NUT\nLine: 28\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0033_04_002_1"
+    "translation": "如果错过攻击时机，\n就会失去与目标的接触时间哦！",
+    "context": "File: BTL_SND/BTL_SND_S1.NUT\nLine: 28\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na13_0033_04_002_1",
+    "stage": 1
   },
   {
     "key": "e_4352f7f8df_0003_4e1c6a0534",
     "original": "チョロチョロうごきまわってェ、もぉ！\\nこっちはじゆうにうごくことができないってのに…",
-    "translation": "",
-    "context": "File: BTL_SND/BTL_SND_S1.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na52_0050_02_001_1"
+    "translation": "滑溜溜地到处乱窜，真是的！\n我们这边连自由移动都做不到……",
+    "context": "File: BTL_SND/BTL_SND_S1.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na52_0050_02_001_1",
+    "stage": 1
   },
   {
     "key": "e_4352f7f8df_0004_e4d7ff7f63",
     "original": "あっちがちかづいてくるのをまって、\\nナイフでこうげきするしかないわね！",
-    "translation": "",
-    "context": "File: BTL_SND/BTL_SND_S1.NUT\nLine: 37\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na52_0050_02_001_2"
+    "translation": "只能等它主动靠近，\n再用小刀攻击了！",
+    "context": "File: BTL_SND/BTL_SND_S1.NUT\nLine: 37\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na52_0050_02_001_2",
+    "stage": 1
   }
 ]

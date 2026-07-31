@@ -152,8 +152,9 @@
   {
     "key": "e_c5dac52577_0026_8f90d85ec1",
     "original": "はい",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 171\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "明白",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 171\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0027_911163c84c",

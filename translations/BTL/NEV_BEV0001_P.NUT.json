@@ -2,7 +2,8 @@
   {
     "key": "e_92c8da408c_0001_974a84241f",
     "original": "目標、殲滅を確認しました",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV0001_P.NUT\nLine: 29\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: na14_0008_10_042_1"
+    "translation": "确认目标歼灭",
+    "context": "File: BTL/NEV_BEV0001_P.NUT\nLine: 29\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: na14_0008_10_042_1",
+    "stage": 1
   }
 ]

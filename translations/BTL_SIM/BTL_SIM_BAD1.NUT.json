@@ -2,13 +2,15 @@
   {
     "key": "e_8b390a8fa7_0001_1eeb84a05e",
     "original": "予備電源が切れたら、\\nエヴァは活動停止するって言ったでしょ？",
-    "translation": "",
-    "context": "File: BTL_SIM/BTL_SIM_BAD1.NUT\nLine: 42\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0076_04_001_2"
+    "translation": "说过备用电源耗尽的话\\nEVA就会停止活动对吧？",
+    "context": "File: BTL_SIM/BTL_SIM_BAD1.NUT\nLine: 42\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0076_04_001_2",
+    "stage": 1
   },
   {
     "key": "e_8b390a8fa7_0002_97d5e65468",
     "original": "実戦では絶対に避けるべき事態ね",
-    "translation": "",
-    "context": "File: BTL_SIM/BTL_SIM_BAD1.NUT\nLine: 43\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0076_04_001_3"
+    "translation": "实战中必须绝对避免这种情况",
+    "context": "File: BTL_SIM/BTL_SIM_BAD1.NUT\nLine: 43\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0076_04_001_3",
+    "stage": 1
   }
 ]

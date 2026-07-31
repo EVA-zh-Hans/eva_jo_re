@@ -2,37 +2,43 @@
   {
     "key": "e_8b0bb5f296_0001_986e192e16",
     "original": "ちょっと、アスカってば！！▽",
-    "translation": "",
-    "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 29\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0030_04_001_1"
+    "translation": "喂，明日香！！▽",
+    "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 29\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0030_04_001_1",
+    "stage": 1
   },
   {
     "key": "e_8b0bb5f296_0002_a54cd2b34a",
     "original": "弐号機はＢ型装備なんだから、\\n海の中じゃ勝手がきかないのよ！",
-    "translation": "",
-    "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 32\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0030_04_001_2"
+    "translation": "贰号机是B型装备，\\n在海里可没法随心所欲啊！",
+    "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 32\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0030_04_001_2",
+    "stage": 1
   },
   {
     "key": "e_8b0bb5f296_0003_6baebc7dc3",
     "original": "ケーブルついてりゃ、なんとかなるわよ！\\nかいひこうどうやガードはなんとかできるみたいだし",
-    "translation": "",
-    "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na52_0030_02_002"
+    "translation": "有电缆连着总会有办法的！\\n回避机动和防御似乎还能应付",
+    "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na52_0030_02_002",
+    "stage": 1
   },
   {
     "key": "e_8b0bb5f296_0004_927269c8c6",
     "original": "こっちは向こうみたいに\\n動けないんだ、不利だよ…",
-    "translation": "",
-    "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0030_01_003"
+    "translation": "我们可没法像对面那样\\n自由行动，太不利了…",
+    "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0030_01_003",
+    "stage": 1
   },
   {
     "key": "e_8b0bb5f296_0005_01b7310df0",
     "original": "どうせ、シトのねらいはこのにごうきよ▽",
-    "translation": "",
-    "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 44\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na52_0030_02_004_1"
+    "translation": "反正使徒的目标就是这台贰号机▽",
+    "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 44\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na52_0030_02_004_1",
+    "stage": 1
   },
   {
     "key": "e_8b0bb5f296_0006_433d087acc",
     "original": "むこうがせっきんしたときが、こうげきのチャンス！\\nこうげきをかわしつつ、ナイフでこうげきするわよ！",
-    "translation": "",
-    "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na52_0030_02_004_2"
+    "translation": "等对方接近时就是攻击机会！\\n边闪避边用匕首反击！",
+    "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na52_0030_02_004_2",
+    "stage": 1
   }
 ]

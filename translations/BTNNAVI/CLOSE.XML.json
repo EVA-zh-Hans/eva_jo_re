@@ -2,8 +2,9 @@
   {
     "key": "e_47f37a72f5_0005_dab13c9db8",
     "original": "タイトル画面へ",
-    "translation": "",
-    "context": "File: BTNNAVI/CLOSE.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+    "translation": "返回标题画面",
+    "context": "File: BTNNAVI/CLOSE.XML\nLine: 4\nElement: TITLE\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_47f37a72f5_0010_e721d064de",

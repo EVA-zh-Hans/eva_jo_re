@@ -2,7 +2,8 @@
   {
     "key": "e_28b9b2606c_0001_df31efd0ac",
     "original": "うぅ…ううぅああああ！！",
-    "translation": "",
-    "context": "File: BTL_ARL/BTL_ARL_DMG6.NUT\nLine: 29\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na13_0017_02_010"
+    "translation": "呜…呜呜啊啊啊！！",
+    "context": "File: BTL_ARL/BTL_ARL_DMG6.NUT\nLine: 29\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: na13_0017_02_010",
+    "stage": 1
   }
 ]

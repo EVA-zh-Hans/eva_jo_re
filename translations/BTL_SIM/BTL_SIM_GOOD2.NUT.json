@@ -2,7 +2,8 @@
   {
     "key": "e_461bd26ecb_0001_7719230e88",
     "original": "よぉし！！",
-    "translation": "",
-    "context": "File: BTL_SIM/BTL_SIM_GOOD2.NUT\nLine: 38\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na07_0001_01_003"
+    "translation": "好！！",
+    "context": "File: BTL_SIM/BTL_SIM_GOOD2.NUT\nLine: 38\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na07_0001_01_003",
+    "stage": 1
   }
 ]

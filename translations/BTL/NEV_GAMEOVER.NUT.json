@@ -2,55 +2,64 @@
   {
     "key": "e_aafecfe1c2_0001_f44843af4b",
     "original": "目標、ネルフ本部に侵入\\nすぐに、ここまで来ます！",
-    "translation": "",
-    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 88\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA05_0006_10_001"
+    "translation": "目标已侵入NERV总部\\n即将抵达此处！",
+    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 88\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA05_0006_10_001",
+    "stage": 1
   },
   {
     "key": "e_aafecfe1c2_0002_f8d696f665",
     "original": "総員、本部から撤退！！",
-    "translation": "",
-    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 97\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0006_04_001"
+    "translation": "全体人员，立即撤离总部！！",
+    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 97\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0006_04_001",
+    "stage": 1
   },
   {
     "key": "e_aafecfe1c2_0003_928a61515c",
     "original": "き、来ました…\\nうわぁぁぁぁあー！！",
-    "translation": "",
-    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 103\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA05_0006_09_001"
+    "translation": "来、来了……\\n呜哇啊啊啊啊啊——！！",
+    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 103\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA05_0006_09_001",
+    "stage": 1
   },
   {
     "key": "e_aafecfe1c2_0004_f44843af4b",
     "original": "目標、ネルフ本部に侵入\\nすぐに、ここまで来ます！",
-    "translation": "",
-    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 177\nCall: im.event\nSpeaker: IMC_STAFF\nVoice: NA05_0006_17_001"
+    "translation": "目标已侵入NERV总部\\n即将抵达此处！",
+    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 177\nCall: im.event\nSpeaker: IMC_STAFF\nVoice: NA05_0006_17_001",
+    "stage": 1
   },
   {
     "key": "e_aafecfe1c2_0005_8e637da855",
     "original": "総員、本部から撤退！！！",
-    "translation": "",
-    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 186\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA05_0006_06_001"
+    "translation": "全体人员，立即撤离总部！！！",
+    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 186\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA05_0006_06_001",
+    "stage": 1
   },
   {
     "key": "e_aafecfe1c2_0006_77b98ab7e8",
     "original": "わぁっ！！　き、来ました…\\nうわぁぁぁぁぁあ！！",
-    "translation": "",
-    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 192\nCall: im.event\nSpeaker: IMC_STAFF\nVoice: NA05_0006_17_002"
+    "translation": "哇啊！！来、来了……\\n呜哇啊啊啊啊啊——！！",
+    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 192\nCall: im.event\nSpeaker: IMC_STAFF\nVoice: NA05_0006_17_002",
+    "stage": 1
   },
   {
     "key": "e_aafecfe1c2_0007_f9417d8f90",
     "original": "状況は？",
-    "translation": "",
-    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 266\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA09_0001_04_001"
+    "translation": "情况如何？",
+    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 266\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA09_0001_04_001",
+    "stage": 1
   },
   {
     "key": "e_aafecfe1c2_0008_e579248cb8",
     "original": "エヴァ…活動停止\\nパイロット、…死亡確認",
-    "translation": "",
-    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 275\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA09_0001_10_001"
+    "translation": "EVA……停止活动\\n驾驶员……确认死亡",
+    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 275\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA09_0001_10_001",
+    "stage": 1
   },
   {
     "key": "e_aafecfe1c2_0009_a8e6c5eb15",
     "original": "くっ…これまでか…",
-    "translation": "",
-    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 281\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA09_0001_04_003"
+    "translation": "可恶……到此为止了吗……",
+    "context": "File: BTL/NEV_GAMEOVER.NUT\nLine: 281\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA09_0001_04_003",
+    "stage": 1
   }
 ]

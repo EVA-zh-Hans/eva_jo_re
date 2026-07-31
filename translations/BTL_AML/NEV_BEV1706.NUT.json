@@ -2,25 +2,29 @@
   {
     "key": "e_24f6b9545c_0001_eb06faade0",
     "original": "レイ、機体は捨てて逃げて！",
-    "translation": "",
-    "context": "File: BTL_AML/NEV_BEV1706.NUT\nLine: 106\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1704_04_018"
+    "translation": "丽，放弃机体快逃！",
+    "context": "File: BTL_AML/NEV_BEV1706.NUT\nLine: 106\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1704_04_018",
+    "stage": 1
   },
   {
     "key": "e_24f6b9545c_0002_b2f909427b",
     "original": "だめ…私がいなくなったら\\nＡ．Ｔ．フィールドが消えてしまう▽",
-    "translation": "",
-    "context": "File: BTL_AML/NEV_BEV1706.NUT\nLine: 110\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1704_03_019"
+    "translation": "不行…如果我离开\\nAT力场就会消失▽",
+    "context": "File: BTL_AML/NEV_BEV1706.NUT\nLine: 110\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1704_03_019",
+    "stage": 1
   },
   {
     "key": "e_24f6b9545c_0003_d30c6d11fa",
     "original": "だから、だめ…",
-    "translation": "",
-    "context": "File: BTL_AML/NEV_BEV1706.NUT\nLine: 113\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1704_03_019_1"
+    "translation": "所以，不行…",
+    "context": "File: BTL_AML/NEV_BEV1706.NUT\nLine: 113\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1704_03_019_1",
+    "stage": 1
   },
   {
     "key": "e_24f6b9545c_0004_e8cb034635",
     "original": "レイ、死ぬ気？",
-    "translation": "",
-    "context": "File: BTL_AML/NEV_BEV1706.NUT\nLine: 117\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1704_04_020"
+    "translation": "丽，你想死吗？",
+    "context": "File: BTL_AML/NEV_BEV1706.NUT\nLine: 117\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1704_04_020",
+    "stage": 1
   }
 ]

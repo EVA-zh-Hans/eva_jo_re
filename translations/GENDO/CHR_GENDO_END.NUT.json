@@ -2,91 +2,106 @@
   {
     "key": "e_401199bdea_0001_7ea6f3d562",
     "original": "そして…",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "然后…",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0002_b80b71fb19",
     "original": "普通の日々がはじまる",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "平凡的日子开始了",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0003_785d845e9c",
     "original": "ゲンドウは傷痕の残る自分の手を見た",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "源堂凝视着自己伤痕累累的手",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 35\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0004_bb342c062e",
     "original": "…昔のことは昔のことだ",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_028"
+    "translation": "……往事就让它过去吧",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_028",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0005_2c4e5a5397",
     "original": "シンジ、かあさんの話をきかせてやろう",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_029"
+    "translation": "真嗣，给你讲讲妈妈的事吧",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_029",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0006_fa9b944fd6",
     "original": "うん…\\n恥ずかしい話？",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_030"
+    "translation": "嗯……\\n是难为情的故事吗？",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_030",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0007_fac577f89a",
     "original": "それもあるな\\nいい話もある…悲しい話も",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 54\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_031"
+    "translation": "也有那样的\\n有开心的…也有悲伤的",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 54\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_031",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0008_c6ba0aaf5b",
     "original": "いっぱいあるんだ",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 56\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_032"
+    "translation": "原来有这么多啊",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 56\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_032",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0009_91ad46b1b6",
     "original": "話し終わるまでに時間がかかる",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 58\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_033"
+    "translation": "要全部讲完得花不少时间",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 58\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_033",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0010_394a4f5f9a",
     "original": "いいんじゃないかな",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 60\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_034"
+    "translation": "没关系呀",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 60\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_034",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0011_68cf4b3c1b",
     "original": "…ああ",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 62\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_035"
+    "translation": "……嗯",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 62\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_035",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0012_557bde2f6a",
     "original": "あなたが戦いで得たものは、",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 75\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "你在战斗中获得的，",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 75\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0013_dd4d2aa39a",
     "original": "父と母だった",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "父亲与母亲",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0014_faaa288609",
     "original": "ふと空を見上げれば、母を感じた",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 77\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "每当仰望天空，就能感受到母亲的存在",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 77\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_401199bdea_0015_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 81\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: GENDO/CHR_GENDO_END.NUT\nLine: 81\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

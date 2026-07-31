@@ -2,67 +2,78 @@
   {
     "key": "e_ca6e5b9e7f_0001_2459327b19",
     "original": "シンジ君、聞こえるわね？▽",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_001_1"
+    "translation": "真嗣君，能听见吗？▽",
+    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_001_1",
+    "stage": 1
   },
   {
     "key": "e_ca6e5b9e7f_0002_607636ba4e",
     "original": "早速だけど、あなたにはこのエヴァンゲリオンで\\n人類の敵、使徒と戦ってもらいます",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 39\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_001_2"
+    "translation": "事不宜迟，你要驾驶这台EVA\\n与人类的敌人——使徒战斗",
+    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 39\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_001_2",
+    "stage": 1
   },
   {
     "key": "e_ca6e5b9e7f_0003_81346efb08",
     "original": "…で、でも…\\nどうすればいいんですか？",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 43\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA51_0001_01_002"
+    "translation": "…可、可是…\\n我该怎么做才好？",
+    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 43\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA51_0001_01_002",
+    "stage": 1
   },
   {
     "key": "e_ca6e5b9e7f_0004_b28a5274a5",
     "original": "ではまず、\\nエヴァの操縦方法について説明します",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_003"
+    "translation": "那么首先，\\n说明EVA的操作方法",
+    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_003",
+    "stage": 1
   },
   {
     "key": "e_ca6e5b9e7f_0005_f455280423",
     "original": "あなたの手元に、\\n<07>左スティック<//>があるでしょ？▽",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_005_1"
+    "translation": "你手边不是有\\n<07>左摇杆<//>吗？▽",
+    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_005_1",
+    "stage": 1
   },
   {
     "key": "e_ca6e5b9e7f_0006_083b016f60",
     "original": "操縦は、その<07>左スティック<//>を動かしたい方向へ\\n動かせばいいの",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 53\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_005_2"
+    "translation": "只要朝着想移动的方向\\n推动<07>左摇杆<//>就能操作",
+    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 53\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_005_2",
+    "stage": 1
   },
   {
     "key": "e_ca6e5b9e7f_0007_5ff019340a",
     "original": "それと、<07>方向キー<//>の左右でカメラの向き、\\n上下で視点の高さを調整できるわ",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 56\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_006"
+    "translation": "还有，用<07>方向键<//>左右调整镜头朝向\\n上下调节视线高度",
+    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 56\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_006",
+    "stage": 1
   },
   {
     "key": "e_ca6e5b9e7f_0008_a28c018319",
     "original": "やってみて！",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 59\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_004_3"
+    "translation": "试试看！",
+    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 59\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_004_3",
+    "stage": 1
   },
   {
     "key": "e_ca6e5b9e7f_0009_c8fbffdc5b",
     "original": "は、はい！",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 63\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA51_0001_01_007"
+    "translation": "好、好的！",
+    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 63\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA51_0001_01_007",
+    "stage": 1
   },
   {
     "key": "e_ca6e5b9e7f_0010_bf7a77c009",
     "original": "シンジ君\\n今は歩くことだけ、考えて",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA52_0001_07_004"
+    "translation": "真嗣君\\n现在只要想着走路就好",
+    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA52_0001_07_004",
+    "stage": 1
   },
   {
     "key": "e_ca6e5b9e7f_0011_240fe65747",
     "original": "…歩く…",
-    "translation": "",
-    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 80\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA52_0001_01_005"
+    "translation": "……走路……",
+    "context": "File: BTL_SCH/BTL_SCH_S1_P2.NUT\nLine: 80\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA52_0001_01_005",
+    "stage": 1
   }
 ]

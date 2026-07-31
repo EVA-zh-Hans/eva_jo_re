@@ -2,19 +2,22 @@
   {
     "key": "e_f87b4f7949_0003_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: FREE/C015.XML\nLine: 3\nElement: freechar\nAttribute: name"
+    "translation": "Pen Pen",
+    "context": "File: FREE/C015.XML\nLine: 3\nElement: freechar\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_f87b4f7949_0004_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: FREE/C015.XML\nLine: 3\nElement: freechar\nAttribute: fullname"
+    "translation": "Pen Pen",
+    "context": "File: FREE/C015.XML\nLine: 3\nElement: freechar\nAttribute: fullname",
+    "stage": 1
   },
   {
     "key": "e_f87b4f7949_0021_2a742684d7",
     "original": "立ち",
-    "translation": "",
-    "context": "File: FREE/C015.XML\nLine: 12\nElement: motion\nAttribute: name"
+    "translation": "站立",
+    "context": "File: FREE/C015.XML\nLine: 12\nElement: motion\nAttribute: name",
+    "stage": 1
   }
 ]

@@ -2,20 +2,23 @@
   {
     "key": "e_d94a26bad9_0001_7ea6f3d562",
     "original": "そして…",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "然后…",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0002_b80b71fb19",
     "original": "普通の日々がはじまる",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "平凡的日子开始了",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0003_c7422e2349",
     "original": "…終わったわね\\nなにもかも",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_017"
+    "translation": "…都结束了呢\\n一切的一切",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_017",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0004_a7f878b8ce",
@@ -26,14 +29,16 @@
   {
     "key": "e_d94a26bad9_0005_92ee339aec",
     "original": "告白していい？",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_018_1"
+    "translation": "可以坦白吗？",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_018_1",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0006_cab9f49764",
     "original": "私、最初の方は\\n仕事で、あなたとつきあってた",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_018_2"
+    "translation": "最初和你交往\\n只是出于工作考量",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_018_2",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0007_a7f878b8ce",
@@ -50,49 +55,57 @@
   {
     "key": "e_d94a26bad9_0009_437198a806",
     "original": "ま、これからもよろしく\\n今度は、仕事じゃなくね",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 53\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_019_1"
+    "translation": "今后也请多指教\\n这次和工作无关了",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 53\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_019_1",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0010_1f93352107",
     "original": "あ、言い忘れてたけど、\\n親父ギャグはほんとよ？",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 55\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_019_2"
+    "translation": "啊对了有件事忘了说\\n大叔冷笑话可是真的哦",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 55\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_019_2",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0011_557bde2f6a",
     "original": "あなたが戦いで得たものは、",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "你在战斗中获得的，",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0012_fb04890ecb",
     "original": "ミサトだった",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 69\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "是美里",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 69\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0013_6607349365",
     "original": "指揮官でも、年上の人でもなく「ミサト」",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "既非指挥官亦非年长者，而是「美里」",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 70\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0014_b9cb29e7de",
     "original": "それでいいのだと、あなたは思った",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 71\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "你觉得这样就好",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 71\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0015_c07bfd0f22",
     "original": "自分はまだ中学生で、難しいことはわからないし\\n単純なほうがいいと思ったからだ",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "毕竟还是初中生\\n复杂的事情搞不懂\\n简单直白才最合适",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0016_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

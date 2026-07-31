@@ -44,8 +44,9 @@
   {
     "key": "e_d30805acd4_0009_1245c0956d",
     "original": "葛城さん",
-    "translation": "",
-    "context": "File: TALK/M005_TALK.NUT\nLine: 109"
+    "translation": "葛城小姐",
+    "context": "File: TALK/M005_TALK.NUT\nLine: 109",
+    "stage": 1
   },
   {
     "key": "e_d30805acd4_0010_7c8ea42352",
@@ -56,8 +57,9 @@
   {
     "key": "e_d30805acd4_0011_df6bcb0fe8",
     "original": "加持さん",
-    "translation": "",
-    "context": "File: TALK/M005_TALK.NUT\nLine: 111"
+    "translation": "加持先生",
+    "context": "File: TALK/M005_TALK.NUT\nLine: 111",
+    "stage": 1
   },
   {
     "key": "e_d30805acd4_0012_3db00bd3d6",
@@ -92,8 +94,9 @@
   {
     "key": "e_d30805acd4_0017_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/M005_TALK.NUT\nLine: 117"
+    "translation": "Pen Pen",
+    "context": "File: TALK/M005_TALK.NUT\nLine: 117",
+    "stage": 1
   },
   {
     "key": "e_d30805acd4_0018_8bfc665fe2",
@@ -140,8 +143,9 @@
   {
     "key": "e_d30805acd4_0025_1245c0956d",
     "original": "葛城さん",
-    "translation": "",
-    "context": "File: TALK/M005_TALK.NUT\nLine: 125"
+    "translation": "葛城小姐",
+    "context": "File: TALK/M005_TALK.NUT\nLine: 125",
+    "stage": 1
   },
   {
     "key": "e_d30805acd4_0026_7c8ea42352",
@@ -152,8 +156,9 @@
   {
     "key": "e_d30805acd4_0027_df6bcb0fe8",
     "original": "加持さん",
-    "translation": "",
-    "context": "File: TALK/M005_TALK.NUT\nLine: 127"
+    "translation": "加持先生",
+    "context": "File: TALK/M005_TALK.NUT\nLine: 127",
+    "stage": 1
   },
   {
     "key": "e_d30805acd4_0028_3db00bd3d6",
@@ -188,8 +193,9 @@
   {
     "key": "e_d30805acd4_0033_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/M005_TALK.NUT\nLine: 133"
+    "translation": "Pen Pen",
+    "context": "File: TALK/M005_TALK.NUT\nLine: 133",
+    "stage": 1
   },
   {
     "key": "e_d30805acd4_0034_8bfc665fe2",
@@ -236,8 +242,9 @@
   {
     "key": "e_d30805acd4_0041_1245c0956d",
     "original": "葛城さん",
-    "translation": "",
-    "context": "File: TALK/M005_TALK.NUT\nLine: 141"
+    "translation": "葛城小姐",
+    "context": "File: TALK/M005_TALK.NUT\nLine: 141",
+    "stage": 1
   },
   {
     "key": "e_d30805acd4_0042_7c8ea42352",
@@ -248,8 +255,9 @@
   {
     "key": "e_d30805acd4_0043_df6bcb0fe8",
     "original": "加持さん",
-    "translation": "",
-    "context": "File: TALK/M005_TALK.NUT\nLine: 143"
+    "translation": "加持先生",
+    "context": "File: TALK/M005_TALK.NUT\nLine: 143",
+    "stage": 1
   },
   {
     "key": "e_d30805acd4_0044_3db00bd3d6",
@@ -284,8 +292,9 @@
   {
     "key": "e_d30805acd4_0049_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/M005_TALK.NUT\nLine: 149"
+    "translation": "Pen Pen",
+    "context": "File: TALK/M005_TALK.NUT\nLine: 149",
+    "stage": 1
   },
   {
     "key": "e_d30805acd4_0050_cf1211da33",

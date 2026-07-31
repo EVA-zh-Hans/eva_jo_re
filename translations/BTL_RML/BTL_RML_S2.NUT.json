@@ -2,19 +2,22 @@
   {
     "key": "e_9d62da7d68_0001_3383fe1a39",
     "original": "射撃用諸元再入力完了！\\n以降の誤差修正はパイロットの手動操作に任せます！",
-    "translation": "",
-    "context": "File: BTL_RML/BTL_RML_S2.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na52_0021_08_035"
+    "translation": "射击参数重输入完成！\\n后续误差修正交由驾驶员手动操作！",
+    "context": "File: BTL_RML/BTL_RML_S2.NUT\nLine: 36\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na52_0021_08_035",
+    "stage": 1
   },
   {
     "key": "e_9d62da7d68_0002_436fcfb859",
     "original": "いい！？　シンジ君！▽",
-    "translation": "",
-    "context": "File: BTL_RML/BTL_RML_S2.NUT\nLine: 46\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0021_04_036_1"
+    "translation": "明白吗！？真嗣君！▽",
+    "context": "File: BTL_RML/BTL_RML_S2.NUT\nLine: 46\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0021_04_036_1",
+    "stage": 1
   },
   {
     "key": "e_9d62da7d68_0003_1333615aa9",
     "original": "照準で使徒のコアを捕らえ続け、\\n赤くなったら$oボタンを押すのよ！",
-    "translation": "",
-    "context": "File: BTL_RML/BTL_RML_S2.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0021_04_036_2"
+    "translation": "用瞄准镜锁定使徒的核心，\\n变红时就按下$o按钮！",
+    "context": "File: BTL_RML/BTL_RML_S2.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0021_04_036_2",
+    "stage": 1
   }
 ]

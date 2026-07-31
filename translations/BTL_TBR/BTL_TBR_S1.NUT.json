@@ -2,25 +2,29 @@
   {
     "key": "e_b0073b64a9_0001_9839f06eb9",
     "original": "裏切ったな、僕の気持ちを裏切ったな！\\n父さんと同じに裏切ったんだ…！",
-    "translation": "",
-    "context": "File: BTL_TBR/BTL_TBR_S1.NUT\nLine: 61\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_001"
+    "translation": "背叛了啊，你背叛了我的感情！\\n和父亲一样背叛了我…！",
+    "context": "File: BTL_TBR/BTL_TBR_S1.NUT\nLine: 61\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_001",
+    "stage": 1
   },
   {
     "key": "e_b0073b64a9_0002_be651a8bb0",
     "original": "待っていたよ、シンジ君",
-    "translation": "",
-    "context": "File: BTL_TBR/BTL_TBR_S1.NUT\nLine: 69\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_002"
+    "translation": "一直在等你呢，真嗣君",
+    "context": "File: BTL_TBR/BTL_TBR_S1.NUT\nLine: 69\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_002",
+    "stage": 1
   },
   {
     "key": "e_b0073b64a9_0003_d9a5823179",
     "original": "カヲル君！",
-    "translation": "",
-    "context": "File: BTL_TBR/BTL_TBR_S1.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_002"
+    "translation": "薰君！",
+    "context": "File: BTL_TBR/BTL_TBR_S1.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_002",
+    "stage": 1
   },
   {
     "key": "e_b0073b64a9_0004_9f4699c20a",
     "original": "アスカ、ごめんよ！",
-    "translation": "",
-    "context": "File: BTL_TBR/BTL_TBR_S1.NUT\nLine: 87\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_004"
+    "translation": "明日香，对不起！",
+    "context": "File: BTL_TBR/BTL_TBR_S1.NUT\nLine: 87\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na52_0100_01_004",
+    "stage": 1
   }
 ]

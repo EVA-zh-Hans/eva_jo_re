@@ -2,8 +2,9 @@
   {
     "key": "e_d368073af8_0005_c5974713b0",
     "original": "チュートリアル",
-    "translation": "",
-    "context": "File: BTNNAVI/TUT1.XML\nLine: 4\nElement: TITLE\nAttribute: str"
+    "translation": "教程",
+    "context": "File: BTNNAVI/TUT1.XML\nLine: 4\nElement: TITLE\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_d368073af8_0010_e721d064de",

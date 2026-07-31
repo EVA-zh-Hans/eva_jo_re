@@ -2,79 +2,92 @@
   {
     "key": "e_a1563ec301_0001_3574f547eb",
     "original": "なにもかも終わって\\nぼんやり歩いている時に、",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "当一切终结\\n茫然漫步时，",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 33\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_a1563ec301_0002_450679e5b8",
     "original": "歌声を聴いた",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "听见了歌声",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 34\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_a1563ec301_0003_dd97a93166",
     "original": "歌はいいね…\\n願わくはいつも歌を歌っていたいものだ",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_018_1"
+    "translation": "歌唱真好…\\n但愿能永远这样唱下去",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_018_1",
+    "stage": 1
   },
   {
     "key": "e_a1563ec301_0004_f28beae1d6",
     "original": "…昔、一人の自己進化する使徒がいました",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_018_2"
+    "translation": "…从前有位不断自我进化的使徒",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_018_2",
+    "stage": 1
   },
   {
     "key": "e_a1563ec301_0005_946c148d34",
     "original": "使徒は進化の果ての究極の答えとして、\\n共生を選びました",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_018_3"
+    "translation": "使徒在进化尽头选择的终极答案是\\n共生",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_018_3",
+    "stage": 1
   },
   {
     "key": "e_a1563ec301_0006_c52ca20180",
     "original": "…今は人間と共に",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_018_4"
+    "translation": "…如今与人类同在",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_018_4",
+    "stage": 1
   },
   {
     "key": "e_a1563ec301_0007_0354f13164",
     "original": "君の傍で歌っていていいかい？",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 53\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_018_5"
+    "translation": "可以在你身边继续歌唱吗？",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 53\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_018_5",
+    "stage": 1
   },
   {
     "key": "e_a1563ec301_0008_557bde2f6a",
     "original": "あなたが戦いで得たものは、",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "你在战斗中获得的，",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 66\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_a1563ec301_0009_17eb03d632",
     "original": "かつての敵だった",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "曾经的敌人",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_a1563ec301_0010_bd8d4e6b77",
     "original": "人の欠けていたものは人の慈悲である",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "人类所欠缺的正是人类的慈悲",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 68\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_a1563ec301_0011_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 72\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_a1563ec301_0012_7ea6f3d562",
     "original": "そして…",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "然后…",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 76\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_a1563ec301_0013_b80b71fb19",
     "original": "普通の日々がはじまる",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 77\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "平凡的日子开始了",
+    "context": "File: KAWORU/CHR_KAWORU_END.NUT\nLine: 77\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

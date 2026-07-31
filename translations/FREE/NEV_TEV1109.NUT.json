@@ -2,50 +2,58 @@
   {
     "key": "e_ee39c39f96_0001_cfae7c3891",
     "original": "自滅プログラム、\\nバルタザールに展開！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0077_09_002"
+    "translation": "自毁程序\\n向BALTHASAR部署！！",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0077_09_002",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0002_cc5a79490b",
     "original": "やった！！\\n人工知能により自律爆破が解除されました",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 196\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0077_09_002_1"
+    "translation": "成功了！！\\n人工智能已解除自爆程序",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 196\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0077_09_002_1",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0003_9747fb4a15",
     "original": "助かった…\\nみんな死なずに済んだんだ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0077_01_002"
+    "translation": "得救了…\\n大家都活下来了…",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA02_0077_01_002",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0004_7bbdc1ddf1",
     "original": "お疲れさん\\n約束、守ってくれたのね▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 257\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1109_04_001"
+    "translation": "辛苦了\\n遵守了约定呢▽",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 257\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1109_04_001",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0005_adf7b1eba8",
     "original": "やっぱり、マギが\\nお母さんだったから？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 262\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1109_04_001_1"
+    "translation": "果然因为MAGI\\n是母亲的缘故？",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 262\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1109_04_001_1",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0006_5836cb2349",
     "original": "違うと思うわ…\\n母さんの事、そんなに好きじゃなかったから▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 267\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_002"
+    "translation": "不是哦…\\n我本来就没多喜欢母亲大人▽",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 267\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_002",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0007_9022839f04",
     "original": "科学者としての判断ね▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 287\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_002_1"
+    "translation": "作为科学家的判断呢▽",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 287\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_002_1",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0008_0b651c90ca",
     "original": "母さんが死ぬ前の晩、言ってたわ\\nマギは三人の自分なんだって",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 293\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_003"
+    "translation": "妈妈临终前那晚说过……MAGI是她三个自我的化身",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 293\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_003",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0009_b5999fb8c4",
@@ -56,61 +64,71 @@
   {
     "key": "e_ee39c39f96_0010_216ec874f5",
     "original": "科学者としての自分、母としての自分、\\n女としての自分▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 338\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_005"
+    "translation": "科学家的自己、母亲的自己、女人的自己▽",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 338\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_005",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0011_10a4502cab",
     "original": "その三人がせめぎあっているのが、マギなのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 341\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_005_1"
+    "translation": "那三者相互角力的系统，就是MAGI",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 341\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_005_1",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0012_99640b0915",
     "original": "…そうなんだ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 367\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1109_04_007"
+    "translation": "……这样啊",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 367\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1109_04_007",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0013_07f0e3991f",
     "original": "私は母親にはなれそうもないから、\\n母としての母さんはわからないわ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 389\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_008"
+    "translation": "我这辈子都当不了母亲，所以无法理解作为母亲的妈妈▽",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 389\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_008",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0014_a8ea8bd83b",
     "original": "けど、科学者としてのあの人は尊敬もしていた▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 394\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_008_1"
+    "translation": "但作为科学家的她，确实令我敬佩▽",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 394\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_008_1",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0015_fdb7fbe647",
     "original": "でもね、女としては憎んでさえいたのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 417\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_008_2"
+    "translation": "可作为女人……我甚至憎恨过她",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 417\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_008_2",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0016_d98e23a4bd",
     "original": "今日は、おしゃべりじゃない？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 440\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1109_04_009"
+    "translation": "今天话很多嘛？",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 440\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1109_04_009",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0017_e83b97865e",
     "original": "たまにはね…▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 463\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_010"
+    "translation": "偶尔啦……▽",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 463\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_010",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0018_8b67a3cf52",
     "original": "カスパーは、女としてのパターンが\\nインプットされていたの▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 484\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_010_1"
+    "translation": "CASPER被输入了女性人格的模板▽",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 484\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_010_1",
+    "stage": 1
   },
   {
     "key": "e_ee39c39f96_0019_81da3f71ca",
     "original": "最後まで女でいる事を守ったのね\\nほんと…母さんらしいわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 489\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_010_2"
+    "translation": "直到最后都坚守着女性身份……真像妈妈的作风",
+    "context": "File: FREE/NEV_TEV1109.NUT\nLine: 489\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1109_07_010_2",
+    "stage": 1
   }
 ]

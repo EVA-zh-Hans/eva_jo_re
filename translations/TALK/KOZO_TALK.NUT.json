@@ -8,20 +8,23 @@
   {
     "key": "e_6fd828a5c0_0003_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 103"
+    "translation": "丽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 103",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0004_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 104"
+    "translation": "明日香",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 104",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0005_5f85a7dfcc",
     "original": "カヲル",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 105"
+    "translation": "薰",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 105",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0006_6ebcfff41c",
@@ -92,8 +95,9 @@
   {
     "key": "e_6fd828a5c0_0017_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 117"
+    "translation": "Pen Pen",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 117",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0018_8bfc665fe2",
@@ -104,20 +108,23 @@
   {
     "key": "e_6fd828a5c0_0019_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 119"
+    "translation": "丽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 119",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0020_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 120"
+    "translation": "明日香",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 120",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0021_5f85a7dfcc",
     "original": "カヲル",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 121"
+    "translation": "薰",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 121",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0022_6ebcfff41c",
@@ -188,8 +195,9 @@
   {
     "key": "e_6fd828a5c0_0033_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 133"
+    "translation": "Pen Pen",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 133",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0034_8bfc665fe2",
@@ -200,20 +208,23 @@
   {
     "key": "e_6fd828a5c0_0035_7faf5c4e05",
     "original": "レイ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 135"
+    "translation": "丽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 135",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0036_d40a6a7733",
     "original": "アスカ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 136"
+    "translation": "明日香",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 136",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0037_5f85a7dfcc",
     "original": "カヲル",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 137"
+    "translation": "薰",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 137",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0038_6ebcfff41c",
@@ -284,8 +295,9 @@
   {
     "key": "e_6fd828a5c0_0049_faed743884",
     "original": "ペンペン",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 149"
+    "translation": "Pen Pen",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 149",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0050_2fea3856a6",
@@ -1412,8 +1424,9 @@
   {
     "key": "e_6fd828a5c0_0424_b80b71fb19",
     "original": "普通の日々がはじまる",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 500\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "平凡的日子开始了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 500\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0426_267add46cd",
@@ -1424,8 +1437,9 @@
   {
     "key": "e_6fd828a5c0_0428_cb62666af5",
     "original": "冬月は笑った",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 502\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "冬月笑了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 502\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0430_187ac71e65",
@@ -1436,8 +1450,9 @@
   {
     "key": "e_6fd828a5c0_0432_7840849020",
     "original": "君もおくれていた勉強を\\n取り返す必要があるだろう？",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 504\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_020_2"
+    "translation": "你也得把落下的功课\\n补回来才行吧？",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 504\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_020_2",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0434_aafb6a2b08",
@@ -1460,8 +1475,9 @@
   {
     "key": "e_6fd828a5c0_0440_8d4795eec6",
     "original": "おめでとう\\n人の補完はなされた",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 508\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "恭喜\\n人类的补完已完成",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 508\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0478_f0978b778f",

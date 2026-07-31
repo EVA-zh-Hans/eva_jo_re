@@ -38,8 +38,9 @@
   {
     "key": "e_bb62ee74c8_0007_6bfec2b23e",
     "original": "　　初号機ケイジ",
-    "translation": "",
-    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 26"
+    "translation": "　　初号机机库",
+    "context": "File: PREPARE/PRE_GMK.NUT\nLine: 26",
+    "stage": 1
   },
   {
     "key": "e_bb62ee74c8_0008_21a3aeab4f",

@@ -2,80 +2,93 @@
   {
     "key": "e_431c164d39_0001_bc106c9b61",
     "original": "父さん！\\n父さんはトウジを殺そうとしたんだ！▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 180\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_003"
+    "translation": "父亲！\n您想杀了冬二对吧！▽",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 180\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_003",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0002_81d6d86b1c",
     "original": "この僕の手で！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 183\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_003_1"
+    "translation": "用我这双手！",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 183\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_003_1",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0003_bccc5b5c88",
     "original": "しかし、シンジ君\\nああしなければ、君がやられていたぞ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 217\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1314_09_001"
+    "translation": "但是真嗣君\n不那样做的话，死的就是你了",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 217\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1314_09_001",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0004_06be0810f4",
     "original": "そんなの関係ないよっ！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 229\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_004"
+    "translation": "这种事根本无所谓！！",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 229\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_004",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0005_35538f80d1",
     "original": "だが、それも事実だ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 265\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1314_09_002"
+    "translation": "但这也是事实",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 265\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1314_09_002",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0006_db225f2d11",
     "original": "そんなこと言って\\nこれ以上、僕を怒らせないでよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 269\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_005"
+    "translation": "别再说这种话\n别再激怒我了",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 269\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_005",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0007_4ce96e5a75",
     "original": "初号機の力があれば、\\n本部を破壊する事だってできるよ！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 287\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_005_1"
+    "translation": "只要借助初号机的力量\n连总部都能摧毁！",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 287\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_005_1",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0008_9ea6f216f0",
     "original": "父さん、そこにいるんだろ？\\n何か言えよっ！！　答えてよ！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 301\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_005_2"
+    "translation": "父亲，你在那里的吧？\n说点什么啊！！回答我！！",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 301\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_005_2",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0009_bd19710cf4",
     "original": "ＬＣＬ圧縮濃度を限界まで上げろ\\n子供のダダに付き合っている暇はない",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 312\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0017_05_001"
+    "translation": "把LCL压缩浓度调到极限\n没空陪小孩子胡闹",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 312\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA05_0017_05_001",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0010_ec59bbbb0c",
     "original": "…かはっ！？\\n何をしたんだ…ちくしょう、ちくしょう…！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 336\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_006"
+    "translation": "……哈啊！？\n你干了什么……可恶、可恶……！！",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 336\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_006",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0011_167f3c5930",
     "original": "…父さん",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 355\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_007"
+    "translation": "……父亲",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 355\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_007",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0012_969c7bd0bb",
     "original": "…トウジ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 360\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_007_1"
+    "translation": "……冬二……",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 360\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA05_0017_01_007_1",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0013_4d233d2848",
     "original": "出たまえ、碇シンジ君\\n総司令がお会いになる",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 420\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1401_83_001"
+    "translation": "出来吧，碇真嗣君\n总司令要见你",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 420\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1401_83_001",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0014_cb25dbc346",
@@ -86,8 +99,9 @@
   {
     "key": "e_431c164d39_0015_797137606f",
     "original": "来たか、シンジ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 462\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1401_05_003"
+    "translation": "来了啊，真嗣",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 462\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1401_05_003",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0016_cb25dbc346",
@@ -98,14 +112,16 @@
   {
     "key": "e_431c164d39_0017_42ccda85ca",
     "original": "さて…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 469\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1401_05_005"
+    "translation": "那么……",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 469\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1401_05_005",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0018_3541b888a6",
     "original": "命令違反、エヴァの私的所有、\\n稚拙な恫喝、これらは全て犯罪行為だ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 501\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1401_05_005_1"
+    "translation": "违抗命令、私自占有EVA、\n拙劣的恐吓，这些都是犯罪行为",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 501\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1401_05_005_1",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0019_cb25dbc346",
@@ -116,80 +132,93 @@
   {
     "key": "e_431c164d39_0020_5278596c8b",
     "original": "何か言いたい事があるか？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 541\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1401_05_007"
+    "translation": "有什么想说的吗？",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 541\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1401_05_007",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0021_8f90d85ec1",
     "original": "はい",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 545\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_008"
+    "translation": "明白",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 545\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_008",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0022_fe4c915b46",
     "original": "僕はもう、エヴァには乗りたくありません\\nここにも居たくありません",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 581\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_008_1"
+    "translation": "我已经不想再驾驶EVA了\n也不想继续待在这里",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 581\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_008_1",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0023_b3f23fb4a4",
     "original": "では、出ていけ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 585\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1401_05_009"
+    "translation": "那就滚出去",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 585\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1401_05_009",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0024_ffff666f7b",
     "original": "お前には失望した、もう会う事もあるまい",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 631\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1401_05_013"
+    "translation": "对你很失望，以后不必再见了",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 631\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1401_05_013",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0025_d3dabd14b0",
     "original": "今まで…お世話になりました",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 700\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_015"
+    "translation": "一直以来……承蒙关照了",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 700\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_015",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0026_410eed6391",
     "original": "本当に出ていくの？\\nもう一度考え直す事は…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 704\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_016"
+    "translation": "真的要离开吗？\n不再考虑一下……",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 704\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_016",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0027_6e003a0427",
     "original": "いいえ、それはありませんよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 736\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_017"
+    "translation": "不，没有这个必要",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 736\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_017",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0028_ed5aff2fc6",
     "original": "一つだけ教えてください、なぜ、トウジなんですか？\\nフォース・チルドレンが",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 784\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_023"
+    "translation": "请告诉我一件事，为什么是冬二？\n第四适格者的事",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 784\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_023",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0029_4718f93b67",
     "original": "第４次選抜候補者は、\\n全てあなたのクラスメイトだったのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 813\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_024"
+    "translation": "第四次选拔的候补者\n全都是你的同班同学",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 813\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_024",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0030_271870a583",
     "original": "私も最近知ったわ\\n全て仕組まれていた事だったのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 817\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_024_1"
+    "translation": "我也是最近才知道\n这一切都是被安排好的",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 817\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_024_1",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0031_fde8d6f500",
     "original": "みんなが…クラスのみんなが",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 847\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_025"
+    "translation": "大家……班上的大家",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 847\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_025",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0032_aac9f0a618",
     "original": "鈴原君の事はいくら言葉で謝っても\\n「ごめん」で取り消されるミスではないわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 884\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_026"
+    "translation": "铃原君的事不是用几句道歉\\n说声「对不起」就能弥补的过错",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 884\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_026",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0033_4be66cf94e",
@@ -200,49 +229,57 @@
   {
     "key": "e_431c164d39_0034_445ed219e3",
     "original": "でも、シンジ君…正直、私はあなたに\\n自分の夢、願い、目的を重ねていたわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 891\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_028"
+    "translation": "但是真嗣君……说实话\\n我把自己的梦想、愿望和目标都寄托在你身上了",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 891\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_028",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0035_39e9b38221",
     "original": "それが、あなたの\\n重荷になっているのも知ってる",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 895\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_028_1"
+    "translation": "我也知道这成为了\\n你的负担",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 895\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_028_1",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0036_af3d13bae1",
     "original": "でも私達は、ネルフの皆は、\\nあなたに未来を託すしかなかったのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 927\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_028_2"
+    "translation": "可我们——NERV的大家\\n只能把未来托付给你啊",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 927\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_028_2",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0037_ffb80a2401",
     "original": "それだけは覚えておいてね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 957\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_028_3"
+    "translation": "唯独这一点请你记住",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 957\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_028_3",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0038_7ffece1d49",
     "original": "勝手な言い分ですね",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 986\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_029"
+    "translation": "真是自私的说法呢",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 986\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_029",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0039_98b7d4601d",
     "original": "それはわかってるわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 990\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_030"
+    "translation": "这点我很清楚",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 990\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_030",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0040_ef47d3fed1",
     "original": "本部までのパスコードと\\nあなたの部屋はそのままにしておくから",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 1024\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_030_1"
+    "translation": "通往总部的密码\\n和你的房间都会保持原样",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 1024\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_030_1",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0041_3439bb2e86",
     "original": "無駄ですよ、片付けておいてください\\n僕はもう、エヴァには乗りません",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 1034\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_031"
+    "translation": "没用的，请收拾掉吧\\n我已经不会再驾驶EVA了",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 1034\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1401_01_031",
+    "stage": 1
   }
 ]

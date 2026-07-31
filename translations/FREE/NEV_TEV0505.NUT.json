@@ -2,307 +2,358 @@
   {
     "key": "e_2eca10fa50_0001_8a895610d1",
     "original": "シンちゃん",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 186\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_001"
+    "translation": "小真",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 186\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_001",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0002_f62751e08a",
     "original": "はい…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 189\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0505_01_002"
+    "translation": "嗯…",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 189\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0505_01_002",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0003_0df969033b",
     "original": "仕事で旧東京まで行ってくるわ\\n多分、帰りは遅いから",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 223\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_003"
+    "translation": "我要去旧东京出差\\n可能很晚才能回来",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 223\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_003",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0004_e1be4bbedc",
     "original": "食事は一人で適当に済ませておいてね\\nじゃ、行ってくるわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 226\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_005"
+    "translation": "晚饭你自己随便解决吧\\n那我出门了",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 226\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_005",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0005_dbcc6180d9",
     "original": "本日はお忙しいところ、我が日本重化学工業\\n共同体が誇る新製品の実演会にお越しいただき、",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 293\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_006"
+    "translation": "今日承蒙各位百忙之中莅临\\n日本重化学工业共同体引以为傲的新产品演示会",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 293\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_006",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0006_084cf05b76",
     "original": "誠にありがとうございました",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 296\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_006_1"
+    "translation": "衷心感谢各位莅临",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 296\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_006_1",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0007_dbdacb80c1",
     "original": "後程実機をご覧いただきますが、\\nご質問のある方は、この場にてどうぞ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 319\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_006_2"
+    "translation": "稍后将展示实体机，若有疑问请现在提出",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 319\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_006_2",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0008_8f90d85ec1",
     "original": "はい",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 325\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_007"
+    "translation": "明白",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 325\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_007",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0009_3e8fa438c7",
     "original": "これは、赤木リツコ博士\\nお越しいただけて光栄の至りです",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 349\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_008"
+    "translation": "赤木律子博士亲临现场，实在荣幸之至",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 349\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_008",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0010_d2d096fe12",
     "original": "配布されたこの資料によると、\\n内燃機関を内蔵とありますが",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 374\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_009"
+    "translation": "根据分发资料显示，本机搭载了内燃机",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 374\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_009",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0011_8685a46d4a",
     "original": "格闘戦を前提とした陸戦兵器に\\nリアクターを内蔵する事",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 377\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_009_1"
+    "translation": "在以格斗战为前提的陆战兵器中内置反应堆",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 377\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_009_1",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0012_318df25f5a",
     "original": "これは、安全面においてリスクが\\n大きすぎると思われます",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 380\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_009_2"
+    "translation": "这在安全性上存在极大隐患",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 380\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_009_2",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0013_39be840f15",
     "original": "ま、これが本機の大きな特徴でして、\\n連続１５０日間の作戦行動が保証されております",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 395\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_010"
+    "translation": "这正是本机的显著优势，可保障连续150天作战行动",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 395\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_010",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0014_d466d96539",
     "original": "５分も動けない決戦兵器よりは\\n役に立つと思いますが…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 398\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_010_1"
+    "translation": "总比只能运作五分钟的决战兵器实用得多……",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 398\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_010_1",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0015_a318c819a7",
     "original": "遠隔操縦では、緊急対処に問題を残します",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 424\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_011"
+    "translation": "远程操控难以应对紧急状况",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 424\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_011",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0016_893ef2beab",
     "original": "パイロットに負担をかけ、\\n精神汚染を起こすよりは、より人道的だと思います",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 438\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_012"
+    "translation": "比起让驾驶员承受精神污染，这显然更人道",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 438\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_012",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0017_c3380c239c",
     "original": "コントロール、人的制御の問題は？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 452\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_013"
+    "translation": "控制系统和人员操控方面的问题呢？",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 452\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_013",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0018_d469b7850b",
     "original": "制御不能に陥り、暴走を許す危険極まりない\\n決戦兵器よりは、より安全だと思いますよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 468\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_014"
+    "translation": "总比失控暴走的决战兵器安全得多",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 468\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_014",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0019_7f61d197e9",
     "original": "ネルフの主力兵器以外、\\nあの敵性体は倒せません",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 497\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_019"
+    "translation": "除了NERV的主力兵器，无人能击败那些使徒",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 497\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_019",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0020_9c7faf6051",
     "original": "Ａ．Ｔ．フィールドですか？\\nそれも今では時間の問題に過ぎません",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 511\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_020"
+    "translation": "AT力场？如今那不过是时间问题",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 511\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_020",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0021_3a0330ef87",
     "original": "いつまでもネルフの時代ではありませんよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 514\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_020_1"
+    "translation": "NERV的时代不会永远持续",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 514\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_020_1",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0022_a63e54c464",
     "original": "何よ、トッチャンボーヤみたいな顔しちゃってさぁ！\\nムッカツクぅぅぅ！！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 544\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_021"
+    "translation": "干嘛摆出副臭脸啊！气死我了——！！",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 544\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_021",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0023_afa607a72e",
     "original": "自分を自慢し、ほめてもらいたがっている\\nたいした男じゃないわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 547\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_022"
+    "translation": "不过是个渴望被吹捧的庸俗男人",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 547\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0505_07_022",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0024_5a55e9f414",
     "original": "にしても、極秘のはずのエヴァの暴走、\\nＡ．Ｔ．フィールド…何であいつが知ってるのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 550\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_023"
+    "translation": "但EVA暴走和AT力场都是最高机密，他怎么会知道？",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 550\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_023",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0025_6f370dbcb7",
     "original": "情報、ダダ漏れじゃない\\n諜報部は何やってんのかしら？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 553\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_023_1"
+    "translation": "情报泄露成这样，谍报部是干什么吃的？",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 553\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_023_1",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0026_c011fae0df",
     "original": "お待たせしました！　皆さん御覧下さい、\\nこれがＪ．Ａ．ジェットアローンです",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 584\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_024"
+    "translation": "让各位久等了！请看——这就是JA·Jet Alone",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 584\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_024",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0027_9d3643d946",
     "original": "何だ…？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 595\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_027"
+    "translation": "怎么回事…？",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 595\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_027",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0028_b1bb619e2d",
     "original": "た、大変だ…\\nＪ．Ａ．の制御が利かない…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 628\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_029"
+    "translation": "糟、糟了…JA系统失控…",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 628\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_029",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0029_d67d011cbd",
     "original": "あらら…\\n早くもトラブル発生",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 631\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_028"
+    "translation": "哎呀呀…这么快就出故障了",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 631\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_028",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0030_7eb462b011",
     "original": "制御棒の作動不能、\\n炉心融解の危険あり！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 657\nCall: im.event\nSpeaker: IMC_CONTROLLER\nVoice: NA10_0505_81_033"
+    "translation": "控制棒失效，存在堆芯熔毁风险！",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 657\nCall: im.event\nSpeaker: IMC_CONTROLLER\nVoice: NA10_0505_81_033",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0031_c4cfd7ce54",
     "original": "停止手段は？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 660\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_034"
+    "translation": "停止方法呢？",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 660\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_034",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0032_c7d4f7a75c",
     "original": "方法は全て試しました！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 663\nCall: im.event\nSpeaker: IMC_CONTROLLER\nVoice: NA10_0505_81_035"
+    "translation": "所有方法都试过了！",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 663\nCall: im.event\nSpeaker: IMC_CONTROLLER\nVoice: NA10_0505_81_035",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0033_90a0634885",
     "original": "いいえ…全てを白紙に戻す、\\n最後の手段が残ってるはずよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 666\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_036"
+    "translation": "不…还有将一切归零的\\n最终手段可用",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 666\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_036",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0034_df6a9e7d10",
     "original": "そのパスワードを教えなさい",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 669\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_036_1"
+    "translation": "把密码告诉我",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 669\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_036_1",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0035_8dd85eca3a",
     "original": "全プログラムのデリートは最高機密、\\n私の管轄外だ…口外の権限はない",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 672\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_037"
+    "translation": "全程序删除是最高机密\\n超出我的权限范围…无权透露",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 672\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_037",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0036_a74cd0b8fc",
     "original": "Ｊ．Ａ．、厚木方面に向かい、進行中",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 705\nCall: im.event\nSpeaker: IMC_CONTROLLER\nVoice: NA10_0505_81_038"
+    "translation": "J.A.正朝厚木方向移动中",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 705\nCall: im.event\nSpeaker: IMC_CONTROLLER\nVoice: NA10_0505_81_038",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0037_18b7e01f5a",
     "original": "時間がないわ、これより先は\\n私の独断で行動します！　あしからず",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 708\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_039"
+    "translation": "没时间了，接下来\\n我要独断专行！别见怪",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 708\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_039",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0038_79d509a64c",
     "original": "もしもし、日向君？\\nこちら、葛城",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 739\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_039_2"
+    "translation": "喂喂，日向君？\\n我是葛城",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 739\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_039_2",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0039_9df141959f",
     "original": "日本重化学工業共同体が開発した\\n使徒迎撃用ロボットが、披露会場にて暴走…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 742\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_039_3"
+    "translation": "日本重化学工业共同体开发的\\n使徒迎击机器人，在发布会上失控…",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 742\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_039_3",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0040_f457681543",
     "original": "すぐに初号機をまわして！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 745\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_039_4"
+    "translation": "立刻调派初号机过来！",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 745\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_039_4",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0041_5309eb7fa9",
     "original": "了解！　初号機の許可を申請し、\\nすぐに駆けつけます",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 777\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0505_09_040"
+    "translation": "明白！申请初号机出动许可\\n马上赶往现场",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 777\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0505_09_040",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0042_de149ec321",
     "original": "何だ、アレ？\\nアレがロボットなのか…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 834\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0505_01_042"
+    "translation": "那是什么？\\n那就是机器人吗…",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 834\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0505_01_042",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0043_433cf46877",
     "original": "シンジ君、私よ！！　あれが目標のＪ．Ａ．、\\n炉心融解の可能性があります",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 871\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_044"
+    "translation": "真嗣君，是我！！目标J.A.\\n可能发生堆芯熔毁",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 871\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_044",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0044_7c83547d40",
     "original": "だから、目標をこれ以上人口密集地に\\n近づけるわけにはいかないの",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 874\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_044_1"
+    "translation": "所以绝不能让目标\\n再接近人口密集区",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 874\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_044_1",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0045_5f2fda7c68",
     "original": "目標と併走し、\\n私を背後部に取り付けて",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 903\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_044_2"
+    "translation": "和目标保持并行\\n让我从后方登机",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 903\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_044_2",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0046_e7593d7a49",
     "original": "以後は目標の移動を\\n可能な限り塞ぎ止めてね！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 943\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_044_3"
+    "translation": "之后要尽全力\\n封锁目标的移动路线！",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 943\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_044_3",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0047_8ecad3fd0e",
     "original": "ミサトさんが乗るんですか？\\nそんな無茶な！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 946\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0505_01_045"
+    "translation": "美里小姐要登机？\\n太乱来了！？",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 946\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0505_01_045",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0048_e46bc9e472",
     "original": "他にベターな方法がないの…後悔しないように\\nしたいじゃない？　さ、行くわよ！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 968\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_046"
+    "translation": "没有更好的办法了…不想留下遗憾吧？\\n来，出发了！",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 968\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_046",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0049_549c988207",
     "original": "待ってくれ！\\nプログラムの消去パスワードだ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 971\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_047"
+    "translation": "等等！\\n这是程序删除密码…",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 971\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_047",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0050_548a3584e3",
     "original": "「希望」、パスワードは「希望」だ…\\n…頼みます、ネルフの方々",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 974\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_047_1"
+    "translation": "「希望」，密码是「希望」…\\n…拜托了，NERV的各位",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 974\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_047_1",
+    "stage": 1
   },
   {
     "key": "e_2eca10fa50_0051_e7a2dbe5af",
     "original": "…ありがとう",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 977\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_048"
+    "translation": "…谢谢",
+    "context": "File: FREE/NEV_TEV0505.NUT\nLine: 977\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_048",
+    "stage": 1
   }
 ]
