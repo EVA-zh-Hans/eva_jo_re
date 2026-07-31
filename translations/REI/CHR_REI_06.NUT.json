@@ -65,8 +65,9 @@
   {
     "key": "e_b8371d2aae_0011_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 200\nCall: im.play\nSpeaker: IMC_REI"
+    "translation": "……",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 200\nCall: im.play\nSpeaker: IMC_REI",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0012_bdb8773696",
@@ -120,8 +121,9 @@
   {
     "key": "e_b8371d2aae_0021_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 236\nCall: im.play\nSpeaker: IMC_REI"
+    "translation": "……",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 236\nCall: im.play\nSpeaker: IMC_REI",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0022_5d6fc5d564",

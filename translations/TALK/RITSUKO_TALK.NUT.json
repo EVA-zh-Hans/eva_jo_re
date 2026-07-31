@@ -338,8 +338,9 @@
   {
     "key": "e_9e902a37f3_0050_2b7f5587a4",
     "original": "初めまして　かしら　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 152\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "初次见面呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 152\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0052_410e9a45b9",
@@ -358,14 +359,16 @@
   {
     "key": "e_9e902a37f3_0056_5a8da37d0c",
     "original": "元気そうね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 155\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "看起来挺精神的",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 155\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0058_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 156\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 156\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0060_79fd4117e6",
@@ -398,14 +401,16 @@
   {
     "key": "e_9e902a37f3_0068_ce0074308c",
     "original": "%s、\\nもっとがんばれば良かったのに　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 161\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "%s、\\n要是再努力一点就好了",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 161\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0070_a2012a251d",
     "original": "%sは、犬死だったわ\\n意味が、ない　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 162\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "%s的死毫无价值\\n根本……没有意义",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 162\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0072_cf1211da33",
@@ -445,14 +450,16 @@
   {
     "key": "e_9e902a37f3_0082_98dd24017d",
     "original": "仕事、たまってるわよ　おかえりなさい　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 168\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "工作都堆成山了　欢迎回来",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 168\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0084_1b64929ce7",
     "original": "退院できたのね　良かった　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 169\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "能出院了呢 太好了",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 169\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0086_446e84cf8c",
@@ -464,44 +471,51 @@
   {
     "key": "e_9e902a37f3_0088_ec0fe56660",
     "original": "退院していたのね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 171\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "原来已经出院了啊",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 171\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0090_d8669d07c3",
     "original": "もっと入院していても良かったのに　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 172\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "其实再多住一阵子也没关系的",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 172\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0092_cb6bff4f11",
     "original": "%sが戻ってきて良かったわ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 173\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "%s能回来真是太好了",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 173\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0094_ebf2102deb",
     "original": "%s、退院したそうよ\\n無理しないといいけれど　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 174\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "%s听说你出院了\n别太勉强自己",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 174\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0096_ba770b32c0",
     "original": "%sが退院したらしいわ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 175\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "听说%s出院了呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 175\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0098_ba770b32c0",
     "original": "%sが退院したらしいわ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 176\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "听说%s出院了呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 176\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0100_38b1dee70c",
     "original": "%sが戻ってきたらしいわ\\n心やすらぐ休暇は終わりね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 177\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "听说%s回来了呢\n令人心安的休假就此结束了",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 177\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0102_cf1211da33",
@@ -555,8 +569,9 @@
   {
     "key": "e_9e902a37f3_0116_d98c154742",
     "original": "油断禁物　怪我もね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 185\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "不可大意　受伤也是",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 185\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0118_489e18188b",
@@ -582,38 +597,44 @@
   {
     "key": "e_9e902a37f3_0124_43ed95229e",
     "original": "%s、痛みを隠そうとするの\\n心配だから、貴方も見てあげて　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 189\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "%s总想隐藏伤痛\\n我很担心，你也要多关照她",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 189\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0126_6c05189a4b",
     "original": "%sは大丈夫なのかしら　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 190\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "%s应该不要紧吧",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 190\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0128_92e2615b8f",
     "original": "%sが怪我したのはいいけれど…\\nいえ　いいわ　あまり言うと、人が悪いから　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 191\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "%s受伤倒是无所谓……\\n不　算了　说太多显得我刻薄",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 191\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0130_bb692f4996",
     "original": "%s、すぐに病院送りにならないといいわね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 192\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "%s最好别马上被送进医院",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 192\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0132_4a405db51c",
     "original": "喜んでくれるといいけれど　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 193\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "希望你会喜欢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 193\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0134_7c4906818c",
     "original": "似合うかしら　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 194\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "合适吗",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 194\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0136_4986135707",
@@ -632,20 +653,23 @@
   {
     "key": "e_9e902a37f3_0140_b47199a7d5",
     "original": "貴方に見せるものじゃないわ　顔を背けて　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 197\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "才不是给你看的　把脸转过去",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 197\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0142_32db3fdf34",
     "original": "似合ってるわ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 198\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "很合适呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 198\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0144_5112f2669c",
     "original": "８０点ね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 199\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "80分吧",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 199\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0146_0921b81a24",
@@ -657,32 +681,37 @@
   {
     "key": "e_9e902a37f3_0148_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 201\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 201\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0150_63cffc3703",
     "original": "突っ込んだら負けだと思うけど　着替えたのね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 202\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "虽然追问就输了　不过确实换了呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 202\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0152_c3fd679490",
     "original": "なにが%sにおきたのかしら　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 203\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "%s发生什么了吗",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 203\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0154_3ae6a02205",
     "original": "%s、おしゃれしてるわね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 204\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "%s、打扮得很时髦嘛",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 204\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0156_3835e5cdb8",
     "original": "%sには興味あるわ\\n主に服に、だけど　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 205\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "对%s有点兴趣呢\\n主要是衣服方面",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 205\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0158_f35ba81abe",
@@ -694,38 +723,44 @@
   {
     "key": "e_9e902a37f3_0160_4d3319fea4",
     "original": "%sのこと、\\n意外に嫌いなのよね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 207\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "关于%s\\n意外地很讨厌呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 207\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0162_753afd2e47",
     "original": "どうやら人類は生き残りそうよ\\n結構最後まで、生き残るかも　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 208\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "看来人类能幸存下来呢\\n说不定能撑到最后",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 208\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0164_4c8d6c12c3",
     "original": "勝ったわね　それも、楽勝で　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 209\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "赢了呢　而且还是轻松取胜",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 209\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0166_e860872a22",
     "original": "大活躍だったみたいね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 210\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "好像表现很活跃嘛",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 210\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0168_b60760c673",
     "original": "敵が弱かったみたいね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 211\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "敌人似乎太弱了呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 211\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0170_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 212\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 212\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0172_672397dbfe",
@@ -737,8 +772,9 @@
   {
     "key": "e_9e902a37f3_0174_56d2e9fdc3",
     "original": "勝ち方を選んで　被害、大きすぎよ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 214\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "选择获胜方式时　造成的损害太大了",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 214\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0176_60481c4afa",
@@ -757,128 +793,149 @@
   {
     "key": "e_9e902a37f3_0180_91a76e68f2",
     "original": "毎回、焦らせるわね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 217\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "每次都让人提心吊胆呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 217\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0182_881637abcb",
     "original": "…次に期待しているわ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 218\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "……期待你下次表现",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 218\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0184_c4e4816bbd",
     "original": "その調子　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 219\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "保持这个状态",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 219\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0186_a2858f1f44",
     "original": "模擬戦でも、そこまで勝てるなら安心ね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 220\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "模拟战都能打到这种程度　我就放心了",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 220\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0188_11d0f5652a",
     "original": "実戦、がんばってね　期待してるわ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 221\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "实战要加油哦　我很期待",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 221\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0190_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 222\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 222\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0192_526095a728",
     "original": "…実戦もそうなるといいわね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 223\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "……实战也能这样就好了",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 223\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0194_8bdca0d422",
     "original": "模擬戦は　いい練習になっているみたいね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 224\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "模拟战似乎是很不错的练习呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 224\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0196_8774004f60",
     "original": "検討課題は残った、か　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 225\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "还有需要改进的地方啊",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 225\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0198_b47954c185",
     "original": "調子がいいとは言えないわね　がんばって　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 226\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "状态不太理想呢　加油吧",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 226\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0200_31ec23d721",
     "original": "実戦が思いやられるわね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 227\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "实战很让人担心呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 227\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0202_8cd155af11",
     "original": "もっとしっかりしなさい　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 228\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "给我更认真点",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 228\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0204_75ec844fd8",
     "original": "次は勝てるといいわね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 229\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "下次希望能赢呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 229\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0206_4384aaa575",
     "original": "実戦で負けなければいいわ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 230\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "实战别输就行",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 230\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0208_814cf65f8b",
     "original": "負けるのも勉強よ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 231\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "失败也是种学习",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 231\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0210_18f883379d",
     "original": "貴重なデータ、ね\\n模擬戦に負け　と　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 232\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "珍贵的数据呢\\n模拟战输掉　这种",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 232\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0212_13e0643cdf",
     "original": "模擬戦だけど、真面目にやってね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 233\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "虽然是模拟战　也要认真对待哦",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 233\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0214_75ec844fd8",
     "original": "次は勝てるといいわね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 234\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "下次希望能赢呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 234\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0216_c416a3aa4d",
     "original": "無様ね　心配だわ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 235\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "真难看　让人担心",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 235\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0218_c7d067e6d3",
     "original": "酷い負け方ね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 236\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "输得真惨呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 236\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0220_d7b85bf645",
     "original": "無様ね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 237\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "真难看",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 237\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0222_0e7ec2e4bc",
@@ -890,80 +947,93 @@
   {
     "key": "e_9e902a37f3_0224_6d204c1b8f",
     "original": "このままいければいいわね\\nプライベートも　戦闘も　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 239\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "能保持现状就好了\\n无论是私生活　还是战斗",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 239\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0226_3efc77cfb3",
     "original": "優勢を確立できた気がするわ　気を抜かないでね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 240\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "感觉已经建立优势了　别松懈哦",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 240\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0228_52546ca7a8",
     "original": "こういう時が一番怖いのよ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 241\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "这种时候最危险",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 241\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0230_0ecd26a1d7",
     "original": "平和ね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 242\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "真和平呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 242\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0232_0e062db71d",
     "original": "…その目が、気に入らないのね\\n私は　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 243\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "…你那眼神真让人不爽\\n我啊",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 243\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0234_090822a399",
     "original": "いい調子よ　がんばって　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 244\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "状态不错嘛　继续保持",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 244\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0236_dcbe1d44d0",
     "original": "使徒の進化を、人の成長が上回っている\\nすごいことなのよ　これは　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 245\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "人类的成长超越了使徒的进化\\n这可是很了不起的事",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 245\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0238_32dd566002",
     "original": "使徒の進化を、人の成長が上回っている　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 246\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "人类的成长超越了使徒的进化",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 246\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0240_c632cf18bb",
     "original": "少しは有利ね　確かに　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 247\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "确实稍微占优",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 247\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0242_7a0d7bd16a",
     "original": "少しは有利ね　確かに\\nでも調子に乗らないで　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 248\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "确实稍微占优\\n但别得意忘形",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 248\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0244_fdf190e9bf",
     "original": "敵が進化してるって、知ってた？\\nあれはあれで、必死なのかもね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 249\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "知道敌人在进化吗？\\n它们说不定也很拼命呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 249\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0246_8f9bf9ffd8",
     "original": "戦いは均衡状態よ\\nそう信じたくて仕方ないところ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 250\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "战况处于均衡状态\\n虽然我很想这么相信",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 250\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0248_cd2de5e471",
     "original": "戦いは均衡状態よ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 251\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "战况是均衡的",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 251\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0250_68d19b6abe",
@@ -975,20 +1045,23 @@
   {
     "key": "e_9e902a37f3_0252_ee9ef790e8",
     "original": "街はあまり壊さないようにね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 253\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "尽量别把街道破坏得太严重",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 253\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0254_da8aeb84b2",
     "original": "戦況は良くないけど、無理はしないで\\n焦るのは禁物よ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 254\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "战况虽然不利，但别勉强自己\\n焦躁是大忌",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 254\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0256_a58ef49c2d",
     "original": "がんばりましょう\\n今はそれしか、言えないわ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 255\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "加油吧\\n现在也只能这么说了",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 255\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0258_2226771108",
@@ -1000,26 +1073,30 @@
   {
     "key": "e_9e902a37f3_0260_6eab64281d",
     "original": "建物の修復が間に合わないわ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 257\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "建筑修复根本来不及",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 257\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0262_0bef1121e1",
     "original": "もっとうまく、戦って欲しいわね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 258\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "真希望你能打得更好些",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 258\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0264_4a188e7cc0",
     "original": "希望を捨てたら終わりよ\\nがんばりましょう　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 259\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "放弃希望就全完了\\n继续努力",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 259\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0266_0d6d1ea6fd",
     "original": "希望を捨てたら終わりよ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 260\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "放弃希望就全完了",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 260\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0268_660f54d3bc",
@@ -1031,8 +1108,9 @@
   {
     "key": "e_9e902a37f3_0270_1d1c1ab5cd",
     "original": "疎開もできないのがつらいところね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 262\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "连疏散都做不到才是最痛苦的",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 262\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0272_a07752ad72",
@@ -1051,8 +1129,9 @@
   {
     "key": "e_9e902a37f3_0276_6982cb4d3f",
     "original": "%sが意外と注目を集めているようよ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 265\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "%s意外地引人注目呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 265\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0278_7bfcaf4463",
@@ -1113,8 +1192,9 @@
   {
     "key": "e_9e902a37f3_0294_39f72a89d5",
     "original": "司令は、ただの怖がりなのよ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 274\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "司令不过是个胆小鬼",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 274\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0296_a3c082a4ac",
@@ -1126,38 +1206,44 @@
   {
     "key": "e_9e902a37f3_0298_4dc85f8904",
     "original": "使徒は、人になりたいのよ　あるいは\\n我々が使徒になりたいのかも知れないけれど　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 276\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "使徒想变成人类\\n或者说也许是我们想变成使徒",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 276\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0300_0dc95e1be6",
     "original": "今日も暑いわね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 277\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "今天也好热呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 277\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0302_0347d54a41",
     "original": "学校は重要よ　大人になったらわかるわ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 278\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "学校很重要哦 长大后就明白了",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 278\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0304_46318526f5",
     "original": "休むのも、仕事のうちよ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 279\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "休息也是工作的一部分",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 279\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0306_c2e57370cc",
     "original": "人間関係は、子供の頃から死ぬまで\\n苦労するものよ　あきらめることね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 280\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "人际关系啊，从孩提时代到死都会让人苦恼的 趁早放弃吧",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 280\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0308_c99c0f4a28",
     "original": "そういえば、司令、アレでもかわいいのよ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 281\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "说起来，司令那样也挺可爱的",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 281\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0310_bb63169538",
@@ -1169,8 +1255,9 @@
   {
     "key": "e_9e902a37f3_0312_6956df009a",
     "original": "猫の置物を集めるのが趣味なの　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 283\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "收集猫咪摆件是我的爱好",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 283\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0314_fab0ae72e2",
@@ -1182,32 +1269,37 @@
   {
     "key": "e_9e902a37f3_0316_43e62007ec",
     "original": "…ウブなのね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 285\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "……真纯情呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 285\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0318_4f60e25b83",
     "original": "色、変わってきたでしょ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 286\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "颜色，开始变化了吧",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 286\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0320_901c72c486",
     "original": "臭いが重要なのよ　ほら　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 287\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "气味很重要哦 你看",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 287\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0322_82b59421db",
     "original": "駄目よ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 288\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "不行哦",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 288\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0324_d542269527",
     "original": "スキルプログラムには容量限界があるから、\\nうまく組み合わせてね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 289\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "技能程序有容量限制，要合理搭配使用",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 289\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0326_c17e8f6ebe",
@@ -1226,26 +1318,30 @@
   {
     "key": "e_9e902a37f3_0330_26f34e47e7",
     "original": "同じ手を、あまり使わないようにね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 292\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "同样的招式别用太多次",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 292\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0332_2bdc23d9a1",
     "original": "司令は、ああ見えてかわいいのよ　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 293\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "司令那副模样其实挺可爱的",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 293\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0334_d531292594",
     "original": "冬月副司令は昔は教授だったの\\n大学の先生ね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 294\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "冬月副司令以前是教授\n大学老师哦",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 294\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0336_d68f24deda",
     "original": "ミサトはあいかわらずちゃらんぽらんね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 295\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "美里还是那么吊儿郎当",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 295\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0338_e41787b54f",
@@ -1264,14 +1360,16 @@
   {
     "key": "e_9e902a37f3_0342_7b02cbdb88",
     "original": "…話題、ないわね　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 298\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "……没什么话题呢",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 298\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0344_3e1f92d053",
     "original": "いい加減にして　",
-    "translation": "",
-    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 299\nSpeaker: IMC_RITSUKO\nVoice: "
+    "translation": "适可而止",
+    "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 299\nSpeaker: IMC_RITSUKO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_9e902a37f3_0346_c4f4d44797",

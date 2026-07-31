@@ -37,14 +37,16 @@
   {
     "key": "e_d92c4023da_0006_c852f2a372",
     "original": "……！？",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 58\nCall: im.event\nSpeaker: IMC_SHINJI"
+    "translation": "……！？",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 58\nCall: im.event\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_d92c4023da_0007_a908898f36",
     "original": "…！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 94\nCall: im.event\nSpeaker: IMC_MISATO"
+    "translation": "…！",
+    "context": "File: BTL/NEV_BEV1404.NUT\nLine: 94\nCall: im.event\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_d92c4023da_0008_2ea7ca1f8f",

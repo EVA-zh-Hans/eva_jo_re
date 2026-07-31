@@ -401,8 +401,9 @@
   {
     "key": "e_4615c83b0a_0068_15b80b6094",
     "original": "%s、死ぬほど悪い奴じゃなかったのに　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 161\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s明明不是罪大恶极的人啊",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 161\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0070_1a54fce2d4",
@@ -414,8 +415,9 @@
   {
     "key": "e_4615c83b0a_0072_45b5c4f0d7",
     "original": "やっと退院できたよ\\n…逢いたかった　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 163\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "终于出院了\\n……好想见你",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 163\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0074_389f10a46e",
@@ -427,14 +429,16 @@
   {
     "key": "e_4615c83b0a_0076_0b77c2130f",
     "original": "怪我したおかげで、休めたよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 165\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "多亏受伤才能休息",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 165\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0078_23f48c1b29",
     "original": "迷惑かけて、ごめんね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 166\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "给你添麻烦了，对不起",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 166\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0080_36a60029ba",
@@ -453,26 +457,30 @@
   {
     "key": "e_4615c83b0a_0084_f832742ee7",
     "original": "退院したんだ！　よかったっ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 169\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "出院了！太好了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 169\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0086_b00c4dbb30",
     "original": "無理、したら駄目だよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 170\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "别太勉强自己",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 170\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0088_2cac9d1b85",
     "original": "お久しぶりです　…ええと　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 171\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "好久不见……那个",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 171\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0090_c64d5a0de3",
     "original": "あ、退院したんだ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 172\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "啊，出院了啊",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 172\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0092_778a60818a",
@@ -484,44 +492,51 @@
   {
     "key": "e_4615c83b0a_0094_a74b866249",
     "original": "%sが退院したんだ！\\nよかった…　うん　よかった　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 174\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s出院了啊！\\n太好了……嗯，太好了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 174\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0096_fe853e1916",
     "original": "%s退院したんだ\\nよかった　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 175\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s出院了\\n太好了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 175\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0098_9627a193f3",
     "original": "%s、退院したって\\n大丈夫かな　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 176\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s出院了\\n不要紧吧",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 176\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0100_2584fd9c53",
     "original": "%s…\\n僕が心配しても仕方ないんだけど　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 177\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s……\\n虽然我担心也没用",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 177\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0102_37abde7114",
     "original": "%sでも\\n死んで欲しくはないよね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 178\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s的话\\n我也不希望你死掉啊",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 178\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0104_4c4af48180",
     "original": "もう少しで…入院だったよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 179\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "差点就要……住院了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 179\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0106_47921a34ea",
     "original": "痛い思い、しちゃったんだ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 180\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "真是……疼死了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 180\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0108_a9c039d09e",
@@ -533,8 +548,9 @@
   {
     "key": "e_4615c83b0a_0110_3971b81ea9",
     "original": "言われたとおりやっていたら、\\nこれだったよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 182\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "明明按他们说的做了\\n结果却变成这样",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 182\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0112_85b5cf7662",
@@ -567,8 +583,9 @@
   {
     "key": "e_4615c83b0a_0120_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 187\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 187\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0122_362f3c3b55",
@@ -587,26 +604,30 @@
   {
     "key": "e_4615c83b0a_0126_283e65e3ec",
     "original": "%s、\\nあんまり痛くないといいんだけど　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 190\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s\\n希望你不会太疼",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 190\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0128_438368eafe",
     "original": "%s、大丈夫かな\\n心配、かも知れない　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 191\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s\\n应该没事吧……有点担心",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 191\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0130_9c56645111",
     "original": "%s、\\n怪我したんだって　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 192\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s\\n听说你受伤了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 192\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0132_5500345b35",
     "original": "たとえ%sでも、\\n怪我はしないほうがいいよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 193\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "就算是%s\\n也最好不要受伤啊",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 193\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0134_4b25e075e8",
@@ -618,8 +639,9 @@
   {
     "key": "e_4615c83b0a_0136_3daca8b14a",
     "original": "に、似合うかな　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 195\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "还……还合适吗",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 195\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0138_69cd011992",
@@ -652,8 +674,9 @@
   {
     "key": "e_4615c83b0a_0146_9ace001a83",
     "original": "似合いますよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 200\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "很合适哦",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 200\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0148_90656ba68a",
@@ -672,8 +695,9 @@
   {
     "key": "e_4615c83b0a_0152_171991009f",
     "original": "あんまり変わってないね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 203\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "好像没什么变化呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 203\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0154_37dd54b162",
@@ -692,32 +716,37 @@
   {
     "key": "e_4615c83b0a_0158_6e9d0da1a6",
     "original": "%s、服装変えてるね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 206\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s，换衣服了呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 206\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0160_1a0637ae7b",
     "original": "%sになにがあったのかなあ\\nうん　服、変わってたから　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 207\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s遇到什么事了吗…\n嗯、因为衣服变了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 207\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0162_02bb834179",
     "original": "%s、なにかあったのかな　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 208\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s，发生什么了吗",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 208\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0164_b3cc5e3f31",
     "original": "勝ったね　きっと　みんな喜ぶよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 209\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "赢了呢、大家一定都会高兴的",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 209\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0166_9c6f44a7b6",
     "original": "楽勝と言われてるんだって\\n嫌だよね　一言で片付けられるって　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 210\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "听说被说是轻松取胜…\n真讨厌啊、被一句话就打发掉",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 210\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0168_3b477f5f6d",
@@ -729,56 +758,65 @@
   {
     "key": "e_4615c83b0a_0170_007ad462bc",
     "original": "あんまり笑ってると、次で苦労するよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 212\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "笑太开心的话、下次会吃苦头哦",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 212\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0172_37ca159927",
     "original": "お互い、生きててよかったね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 213\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "我们都…活下来真是太好了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 213\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0174_d0640d6ba6",
     "original": "%sが、生きててよかった　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 214\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s能活着…真是太好了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 214\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0176_cc3cf943de",
     "original": "ぎりぎりでも、勝ちは勝ちだよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 215\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "勉强取胜也是胜利啊",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 215\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0178_08e27bd085",
     "original": "戦闘、どきどきするよね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 216\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "战斗时、心跳得好快呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 216\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0180_92937f8eb1",
     "original": "勝ったね…\\n今はそれだけでいいや　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 217\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "赢了呢…\n现在这样就够了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 217\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0182_5e4ebf4ed6",
     "original": "運、よかったよね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 218\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "运气、真不错呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 218\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0184_3e7533e927",
     "original": "上手だったよ　模擬戦　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 219\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "模拟战、打得很好呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 219\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0186_67f6c6d427",
     "original": "いいね\\n模擬戦でもアレだけいければって思うよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 220\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "真不错\n模拟战能做到那种程度的话",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 220\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0188_dd2f76f988",
@@ -790,8 +828,9 @@
   {
     "key": "e_4615c83b0a_0190_db5e609882",
     "original": "実戦、うまくいくといいね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 222\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "实战、希望能顺利呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 222\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0192_8f97c9470f",
@@ -803,26 +842,30 @@
   {
     "key": "e_4615c83b0a_0194_3b5242aa65",
     "original": "ぎりぎり、だったね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 224\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "真是、千钧一发呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 224\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0196_a313887c31",
     "original": "本番なら、どうなるかな　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 225\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "正式作战的话、会怎样呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 225\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0198_8c57087e19",
     "original": "勝てて、よかったね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 226\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "能赢、太好了呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 226\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0200_21313f2395",
     "original": "…がんばろう　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 227\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "……加油吧",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 227\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0202_672397dbfe",
@@ -834,32 +877,37 @@
   {
     "key": "e_4615c83b0a_0204_ee6397b811",
     "original": "模擬線で、よかったね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 229\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "幸好只是模拟战呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 229\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0206_9d7b3bdc13",
     "original": "次があるよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 230\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "还有下次的",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 230\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0208_26c52252b9",
     "original": "模擬線で負けただけだよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 231\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "只是在模拟战输了而已",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 231\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0210_523ee5de37",
     "original": "…ええと　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 232\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "……那个",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 232\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0212_2e6acce1c9",
     "original": "本番では、負けないといいね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 233\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "正式作战时别输就好了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 233\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0214_00a115057e",
@@ -871,50 +919,58 @@
   {
     "key": "e_4615c83b0a_0216_80eaf5e8ec",
     "original": "ははは　酷い負けだって　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 235\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "哈哈哈 输得真惨啊",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 235\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0218_fa8f6070f9",
     "original": "がんばろう　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 236\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "加油吧",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 236\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0220_9decba8203",
     "original": "模擬戦で、よかった　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 237\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "幸好只是模拟战",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 237\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0222_b996c1a962",
     "original": "ええと、いいことも、あるよ　きっと　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 238\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "那个 肯定会有好事发生的",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 238\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0224_be9be6f3f9",
     "original": "…無理、しちゃ駄目だよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 239\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "……别太勉强自己啊",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 239\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0226_a4858eb005",
     "original": "笑顔が…　多いんだ　最近\\nそれだけだけど、少し嬉しいんだ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 240\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "最近笑容……变多了呢\n虽然只是这样 但有点开心",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 240\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0228_026facaa22",
     "original": "学校の勉強、がんばろう\\n今のうちに遅れとりもどさなくっちゃ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 241\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "学校的功课要加油\n趁现在把落下的补回来才行",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 241\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0230_85748f4803",
     "original": "平和になりそうだし、\\nもっとこうして話せると、いいよね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 242\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "好像快要和平了\n能多这样聊天就好了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 242\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0232_500b942aac",
@@ -940,14 +996,16 @@
   {
     "key": "e_4615c83b0a_0238_e4d6c1b1f4",
     "original": "何でこの街が襲われるか、\\n不思議に思った事はない？　僕はいつもそう思ってる　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 246\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "为什么这座城市会被袭击\n你没觉得奇怪吗？ 我一直在想这件事",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 246\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0240_343a2490fc",
     "original": "勝ってると、いいよね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 247\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "能赢就好了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 247\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0242_a3a0787fdc",
@@ -966,44 +1024,51 @@
   {
     "key": "e_4615c83b0a_0246_4a92dc2952",
     "original": "戦いは、これからだって　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 250\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "战斗才刚开始呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 250\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0248_6cd7deb3f7",
     "original": "なんで、なのかな…\\nこの街に、使徒が狙う何があると言うんだろう　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 251\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "到底是为什么呢…\n这座城市有什么使徒想要的东西吗",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 251\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0250_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 252\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 252\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0252_1c7451abed",
     "original": "何で戦ってんだろう　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 253\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "为什么要战斗呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 253\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0254_94f9e44c88",
     "original": "死んじゃ、駄目だよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 254\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "不可以死啊",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 254\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0256_9207de7679",
     "original": "死にたくないな…\\nいつもそればっかり　考えてる　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 255\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "不想死啊…\\n脑子里总想着这件事",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 255\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0258_477574e1f6",
     "original": "街なのに見晴らしよくなったら、嫌だよね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 256\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "明明是城市却变得视野开阔的话，会很讨厌吧",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 256\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0260_e953ec1a09",
@@ -1015,8 +1080,9 @@
   {
     "key": "e_4615c83b0a_0262_1049121aae",
     "original": "いやだいやだ\\n僕にそもそも戦闘なんて無理なんだよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 258\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "不要不要\\n我根本不适合战斗",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 258\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0264_a9ac984ab2",
@@ -1028,14 +1094,16 @@
   {
     "key": "e_4615c83b0a_0266_ce8f5a75b4",
     "original": "負けたくない、負けたくないんだ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 260\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "不想输，绝对不想输",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 260\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0268_2c2e3d774e",
     "original": "疎開の心配しないでいいのはいいよね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 261\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "不用操心疏散避难真是太好了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 261\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0270_eca90ef3af",
@@ -1047,8 +1115,9 @@
   {
     "key": "e_4615c83b0a_0272_8cceeb55ca",
     "original": "君よりは、僕のほうが長生きするよ\\n１秒くらいかもしれないけど　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 263\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "我肯定比你活得久\\n虽然可能只多一秒",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 263\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0274_24c4fc3f17",
@@ -1123,26 +1192,30 @@
   {
     "key": "e_4615c83b0a_0294_2ada1c9eea",
     "original": "学校とか、あんまりいかなくて良くていいよね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 274\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "不用经常去学校也挺好的",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 274\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0296_88fc759238",
     "original": "僕がパイロットなんかでいいのかな\\nいつも、そう思ってる　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 275\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "我真的适合当驾驶员吗\\n一直在想这个问题",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 275\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0298_e993efb9fa",
     "original": "最近、天井を観察することが多いんだ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 276\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "最近经常观察天花板",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 276\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0300_d04be834e4",
     "original": "明日は、もっと温度上がるって　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 277\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "听说明天会更热",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 277\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0302_558243810b",
@@ -1154,26 +1227,30 @@
   {
     "key": "e_4615c83b0a_0304_644be12d91",
     "original": "パイロットって実は\\n恐怖と戦うのが主な仕事なんだ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 279\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "驾驶员的工作本质\\n其实是与恐惧对抗",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 279\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0306_a0bf3f8161",
     "original": "人と、どうやれば楽しく付き合えるのかな　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 280\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "怎样才能和别人愉快相处呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 280\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0308_3501ca0b93",
     "original": "友達は、好きだよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 281\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "朋友……我很喜欢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 281\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0310_3d52beef3f",
     "original": "嫌いなものは、僕が嫌いなのは、\\n一人ぼっちかな　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 282\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "讨厌的东西…我最讨厌的\\n大概就是独自一人吧",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 282\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0312_c14be98cc9",
@@ -1185,14 +1262,16 @@
   {
     "key": "e_4615c83b0a_0314_c9cdb7583e",
     "original": "ぼ、僕と遊んでみませんか…なんて　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 284\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "要、要不要和我一起玩…之类的",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 284\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0316_a6ac8a5982",
     "original": "か、顔が近いよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 285\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "脸、脸靠太近了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 285\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0318_00f79ee7de",
@@ -1204,14 +1283,16 @@
   {
     "key": "e_4615c83b0a_0320_2d25e50add",
     "original": "僕の身体なんて…あ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 287\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "我的身体…啊",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 287\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0322_9c2372d458",
     "original": "駄目だよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 288\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "不可以",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 288\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0324_69b95126a8",
@@ -1230,20 +1311,23 @@
   {
     "key": "e_4615c83b0a_0328_d82bb9503c",
     "original": "使徒は、進化してるんだって　\\n向こうも必死、なんだよね　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 291\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "听说使徒也在进化\\n对方也很拼命呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 291\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0330_3dc0a82343",
     "original": "アスカ、不意に顔を近づけてくるんだ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 292\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "明日香总是突然把脸凑过来",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 292\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0332_32a926ec0e",
     "original": "綾波はかわいいと思うよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 293\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "我觉得绫波很可爱",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 293\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0334_eaa91fc817",
@@ -1255,14 +1339,16 @@
   {
     "key": "e_4615c83b0a_0336_d428240e92",
     "original": "父さんは…良く分らない　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 295\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "父亲他…我完全搞不懂",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 295\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0338_1b37a1f3b9",
     "original": "そ、そういえば、\\nゴミ出しの日が変わりそうなんだよ　",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 296\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "对、对了\\n听说扔垃圾的日子要改了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 296\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0340_bb433fbcd6",

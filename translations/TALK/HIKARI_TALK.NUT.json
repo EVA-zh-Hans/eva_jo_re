@@ -338,14 +338,16 @@
   {
     "key": "e_7a2827915e_0050_c100c28e41",
     "original": "こんにちは　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 152\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "你好",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 152\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0052_51782c52fe",
     "original": "……？▽",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 153\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "……？▽",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 153\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0054_d14ae53c9a",
@@ -378,8 +380,9 @@
   {
     "key": "e_7a2827915e_0062_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 158\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 158\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0064_70be6a3711",
@@ -398,26 +401,30 @@
   {
     "key": "e_7a2827915e_0068_16fd23d542",
     "original": "%sが、もういないなんて…　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 161\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s已经、不在了啊…",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 161\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0070_c678867bb8",
     "original": "%s、\\n死んじゃったんだよね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 162\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s、\\n已经去世了呢",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 162\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0072_ce0074308c",
     "original": "%s、\\nもっとがんばれば良かったのに　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 163\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s、\\n要是再努力一点就好了",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 163\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0074_6a0cbcf76f",
     "original": "%sが死んでも、\\n嬉しくなんかないよ　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 164\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s即使死了、\\n我也不会开心的",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 164\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0076_cf1211da33",
@@ -457,14 +464,16 @@
   {
     "key": "e_7a2827915e_0086_7942e2b5ff",
     "original": "…怪我して、\\nあんまり私を泣かさないでね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 170\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……别受伤了，\\n别让我哭太多次啊",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 170\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0088_49b5b64d17",
     "original": "退院できて良かったね　\\n無理しないでね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 171\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "能出院真是太好了\\n别太勉强自己",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 171\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0090_446e84cf8c",
@@ -476,14 +485,16 @@
   {
     "key": "e_7a2827915e_0092_d880b6c2cc",
     "original": "退院したんだね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 173\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "出院了呢",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 173\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0094_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 174\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 174\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0096_d7a5f9da2c",
@@ -495,8 +506,9 @@
   {
     "key": "e_7a2827915e_0098_426d108384",
     "original": "%s…\\nいっそ、入院のままでも良かったのに　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 176\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s……\\n干脆一直住院还比较好",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 176\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0100_4217ed4047",
@@ -508,14 +520,16 @@
   {
     "key": "e_7a2827915e_0102_46dce56a3b",
     "original": "%s、退院したんだって　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 178\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s、听说你出院了",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 178\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0104_91f7c1a921",
     "original": "%sって、退院したんだ　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 179\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s居然出院了啊",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 179\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0106_e1da5527e9",
@@ -576,38 +590,44 @@
   {
     "key": "e_7a2827915e_0122_793cce9efd",
     "original": "…痛そう　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 188\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……看起来很痛",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 188\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0124_793cce9efd",
     "original": "…痛そう　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 189\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……看起来很痛",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 189\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0126_3655924e65",
     "original": "それぐらいで済んで良かったね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 190\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "能只受这点伤真是万幸",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 190\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0128_e393433910",
     "original": "%s、大丈夫かなあ…　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 191\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s、不要紧吧……",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 191\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0130_7f3bfca412",
     "original": "%sのこと、心配なんだ…　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 192\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "很担心%s啊……",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 192\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0132_c8ab6a6608",
     "original": "%s、怪我したって　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 193\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s、听说你受伤了",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 193\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0134_4c9a5c0caf",
@@ -675,26 +695,30 @@
   {
     "key": "e_7a2827915e_0152_b9ffb2151a",
     "original": "似合ってるよ　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 203\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "很合适呢",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 203\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0154_6360082ee3",
     "original": "どうしちゃったの、その格好　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 204\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "怎么搞的、这身打扮",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 204\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0156_ec3982f5e1",
     "original": "うー、うーん　あはは\\nううん　なんでもない　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 205\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "唔、嗯……啊哈哈\\n没、没什么啦",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 205\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0158_7fc590dc5e",
     "original": "%s、いいよね\\nずっとあの格好がいいのに　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 206\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s、这样很棒呢\\n一直保持那个造型就好了",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 206\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0160_f5e81b5d16",
@@ -706,14 +730,16 @@
   {
     "key": "e_7a2827915e_0162_09ab3e88db",
     "original": "%s、どうしたんだろ　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 208\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s、发生什么了吗",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 208\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0164_3a46504d35",
     "original": "%s、なにがあったのかな　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 209\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s、遇到什么事了吗",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 209\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0166_b5daebfe44",
@@ -725,20 +751,23 @@
   {
     "key": "e_7a2827915e_0168_2e6cb1ed8d",
     "original": "戦闘で活躍しても…\\nえっと、仲良くしてね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 211\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "就算在战斗中表现活跃……\n那个、请和我好好相处",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 211\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0170_8d063d2282",
     "original": "%s、ヒーローになったってほんと？\\nあ、なーんだ　そうか　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 212\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s、听说你成英雄了？\n啊、原来是这样啊",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 212\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0172_6aec954e17",
     "original": "みんなが、%sの噂してる　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 213\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "大家、都在传%s的八卦",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 213\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0174_057f4bdfdb",
@@ -750,8 +779,9 @@
   {
     "key": "e_7a2827915e_0176_f4140d637f",
     "original": "シェルターに入ってて、\\nなにが起きたか、全然わからなかった　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 215\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "一直待在避难所里\n完全不知道外面发生了什么",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 215\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0178_b176b80119",
@@ -763,14 +793,16 @@
   {
     "key": "e_7a2827915e_0180_33bf0d96b1",
     "original": "シェルターね　大きく揺れたんだ　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 217\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "避难所那边、晃得好厉害",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 217\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0182_fea1437303",
     "original": "……？",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 218\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……？",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 218\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0184_3c412d4f3b",
@@ -929,20 +961,23 @@
   {
     "key": "e_7a2827915e_0228_4815007d5b",
     "original": "平和になったら、\\nもっとデートとかしようね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 241\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "等和平之后\n再多约会几次吧",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 241\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0230_a1ef16d09b",
     "original": "…ありがとう　\\nううん　なんとなく　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 242\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……谢谢\n不、没什么特别的意思",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 242\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0232_cb8591a339",
     "original": "何とか普通の生活おくれているよね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 243\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "总算能过上普通生活了呢",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 243\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0234_c06415d901",
@@ -954,8 +989,9 @@
   {
     "key": "e_7a2827915e_0236_760c956fd2",
     "original": "…平和になっても会いたくない人は\\n相変わらずいるよね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 245\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……就算和平了\n还是会有不想见的人呢",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 245\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0238_a6fbaf450f",
@@ -974,8 +1010,9 @@
   {
     "key": "e_7a2827915e_0242_631b29951e",
     "original": "このまま平和になればいいなあ　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 248\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "希望就这样一直和平下去",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 248\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0244_b4f2d04e15",
@@ -987,8 +1024,9 @@
   {
     "key": "e_7a2827915e_0246_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 250\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 250\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0248_37249a2e3a",
@@ -1000,38 +1038,44 @@
   {
     "key": "e_7a2827915e_0250_7520ab8bd4",
     "original": "なんだったら、\\n私とか、見捨ててもいいから　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 252\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "实在不行的话\n抛弃我也没关系",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 252\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0252_87b2b70432",
     "original": "戦いになったら守ってね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 253\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "要是打起来的话要保护我哦",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 253\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0254_b191a33c3a",
     "original": "この街が襲われる理由って、\\nなんだろうね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 254\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "这座城市被袭击的理由……\n到底是什么呢",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 254\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0256_352e30f217",
     "original": "何で戦うんだろ　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 255\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "为什么要战斗呢",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 255\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0258_9c022f971d",
     "original": "街　壊れないといいよね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 256\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "城市……别被毁掉就好了",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 256\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0260_3c0db80dbb",
     "original": "戦いとか、\\n逃げ出せればいいのにね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 257\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "要是能从战斗中……\n逃掉就好了",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 257\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0262_423b15045f",
@@ -1050,14 +1094,16 @@
   {
     "key": "e_7a2827915e_0266_0fa22432e5",
     "original": "この街が襲われるのは、\\nきっとあのロボットのせいだよ　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 260\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "这座城市被袭击……\n肯定都是那个机器人的错",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 260\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0268_bfb1063ff3",
     "original": "ひょっとしたら、引っ越すかも　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 261\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "说不定……要搬走了",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 261\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0270_72ccf3c6a9",
@@ -1111,8 +1157,9 @@
   {
     "key": "e_7a2827915e_0284_c1cf157918",
     "original": "貴方のことがだいっきらいだった　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 269\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "我最最讨厌你了",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 269\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0286_5221de5965",
@@ -1138,8 +1185,9 @@
   {
     "key": "e_7a2827915e_0292_801bee16a5",
     "original": "%s…か\\n私は苦手だな　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 273\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "%s…啊\n我不太擅长应付呢",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 273\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0294_fb8facfa8b",
@@ -1186,8 +1234,9 @@
   {
     "key": "e_7a2827915e_0306_d706a5c945",
     "original": "どうなるのかな　私たち　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 280\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "我们……会变成怎样呢",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 280\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0308_2175f00838",
@@ -1199,8 +1248,9 @@
   {
     "key": "e_7a2827915e_0310_93dfc19bf4",
     "original": "どうしようもできないところで、\\n私の友達が、危ないめにあってる　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 282\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "在无能为力的地方\\n我的朋友正遭遇危险",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 282\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0312_6a5f639ea8",
@@ -1212,14 +1262,16 @@
   {
     "key": "e_7a2827915e_0314_778662f225",
     "original": "今年は、猛暑になるんだって　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 284\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "听说今年会是酷暑呢",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 284\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0316_3446356172",
     "original": "勉強できるのって、大事だよね\\nきっと　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 285\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "能学习这件事\\n真的很重要吧",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 285\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0318_ac7d978c47",
@@ -1231,8 +1283,9 @@
   {
     "key": "e_7a2827915e_0320_6d8624445c",
     "original": "人間関係は…\\nもっと、自分が素直になれたらなあって　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 287\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "人际关系啊…\\n要是能更坦率些就好了",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 287\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0322_9393b4722b",
@@ -1244,50 +1297,58 @@
   {
     "key": "e_7a2827915e_0324_d473dfa405",
     "original": "嫌いなものは…\\n戦争とかって、ひねりなさすぎかな　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 289\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "讨厌的东西是…\\n战争之类太直白的东西",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 289\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0326_e9e0c8678f",
     "original": "お料理が趣味と言えば趣味…かなあ　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 290\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "烹饪算是爱好吧…大概",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 290\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0328_46aa9699f4",
     "original": "たまには学校サボってみちゃう？\\nなあんてね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 291\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "偶尔也会想逃课呢\\n开玩笑的啦",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 291\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0330_815fbe4e7c",
     "original": "…お互い、顔赤いよね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 292\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "…我们俩脸都红了呢",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 292\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0332_786325845a",
     "original": "一度…これしてみたかったんだ\\n…ごめんね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 293\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "一直…想试试这样\\n…对不起",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 293\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0334_aaed03b42e",
     "original": "…息があたると、\\n緊張するね　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 294\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "…呼吸喷到脸上\\n会让人紧张呢",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 294\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0336_a51d436c8b",
     "original": "…やめてください　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 295\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "…请停下来",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 295\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0338_ac3e8a0d7c",
     "original": "重いもの持つと動き遅くなるよね\\nそれで今日遅刻しそうになっちゃった　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 296\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "拿着重东西动作就会变慢\\n今天差点因此迟到",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 296\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0340_20899e2323",
@@ -1313,26 +1374,30 @@
   {
     "key": "e_7a2827915e_0346_483e1fc535",
     "original": "鈴原、まあ、子供っぽくて\\nああ、いいかなあって　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 300\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "铃原虽然孩子气\\n但这样也不错啦",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 300\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0348_18c6fc28ce",
     "original": "面倒見るのとか好きだから…\\n手がかかっても、いいかなって　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 301\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "喜欢照顾别人…\\n就算麻烦点也没关系",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 301\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0350_197d7e9841",
     "original": "んー　みんな好きかな　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 302\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "嗯～大家都喜欢吧",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 302\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0352_21f35ded19",
     "original": "ペンペン、かわいいよね\\n私も飼いたいな　",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 303\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "企鹅penpen好可爱\\n我也想养一只",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 303\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0354_b9dfe4b493",
@@ -1575,8 +1640,9 @@
   {
     "key": "e_7a2827915e_0422_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 499\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 499\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0424_e6a70222f6",
@@ -1644,8 +1710,9 @@
   {
     "key": "e_7a2827915e_0442_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 509\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 509\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0444_8301ca85af",
@@ -1678,8 +1745,9 @@
   {
     "key": "e_7a2827915e_0452_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 514\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 514\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0454_9907edb980",
@@ -1698,8 +1766,9 @@
   {
     "key": "e_7a2827915e_0458_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 517\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 517\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0460_834369548f",
@@ -1781,20 +1850,23 @@
   {
     "key": "e_7a2827915e_0482_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 529\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 529\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0484_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 530\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 530\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0486_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 531\nSpeaker: IMC_HIKARI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 531\nSpeaker: IMC_HIKARI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0488_a0dcf967b3",
@@ -1918,8 +1990,9 @@
   {
     "key": "e_7a2827915e_0608_300eb07b0e",
     "original": "ＯＫ",
-    "translation": "",
-    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 563\nVoice: 目をそらす"
+    "translation": "确定",
+    "context": "File: TALK/HIKARI_TALK.NUT\nLine: 563\nVoice: 目をそらす",
+    "stage": 1
   },
   {
     "key": "e_7a2827915e_0609_9e1b3ce7ce",

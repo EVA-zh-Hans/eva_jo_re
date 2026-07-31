@@ -16,20 +16,23 @@
   {
     "key": "e_8b600e200d_0003_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_KAJI"
+    "translation": "……",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 47\nCall: im.event\nSpeaker: IMC_KAJI",
+    "stage": 1
   },
   {
     "key": "e_8b600e200d_0004_b5999fb8c4",
     "original": "…………",
-    "translation": "",
-    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_KAJI"
+    "translation": "…………",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_KAJI",
+    "stage": 1
   },
   {
     "key": "e_8b600e200d_0005_cb25dbc346",
     "original": "………………",
-    "translation": "",
-    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_KAJI"
+    "translation": "………………",
+    "context": "File: KAJI/CHR_KAJI_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_KAJI",
+    "stage": 1
   },
   {
     "key": "e_8b600e200d_0006_9b3eb33844",

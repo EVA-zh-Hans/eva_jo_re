@@ -107,8 +107,9 @@
   {
     "key": "e_58ee56a01b_0016_cb25dbc346",
     "original": "………………",
-    "translation": "",
-    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_SHINJI"
+    "translation": "………………",
+    "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 166\nCall: im.event\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_58ee56a01b_0017_9ebf0f14e4",

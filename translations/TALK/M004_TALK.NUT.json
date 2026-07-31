@@ -380,8 +380,9 @@
   {
     "key": "e_3f94afda34_0062_f08afa6edb",
     "original": "%s…",
-    "translation": "",
-    "context": "File: TALK/M004_TALK.NUT\nLine: 158\nSpeaker: IMC_WORKER\nVoice: "
+    "translation": "%s……",
+    "context": "File: TALK/M004_TALK.NUT\nLine: 158\nSpeaker: IMC_WORKER\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3f94afda34_0064_6f9a0bd8b2",

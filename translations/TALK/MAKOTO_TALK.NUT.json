@@ -352,8 +352,9 @@
   {
     "key": "e_4ed3ef73c1_0054_5a42c1efbf",
     "original": "君に会えて嬉しいよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 154\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "能见到你真开心",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 154\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0056_855f613679",
@@ -379,8 +380,9 @@
   {
     "key": "e_4ed3ef73c1_0062_f08afa6edb",
     "original": "%s…",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 158\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s……",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 158\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0064_f7dd53e154",
@@ -399,8 +401,9 @@
   {
     "key": "e_4ed3ef73c1_0068_9ccde7e69a",
     "original": "%sは…\\nいや　もう終わったことだ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 161\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s已经……\\n不，都过去了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 161\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0070_2a53e4f17a",
@@ -447,8 +450,9 @@
   {
     "key": "e_4ed3ef73c1_0082_18be5e4293",
     "original": "退院おめでとう　\\n実のところ、結構会えなくて寂しかった　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 168\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "恭喜出院\\n说真的，这么久没见还挺寂寞的",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 168\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0084_d6f9f28979",
@@ -460,50 +464,58 @@
   {
     "key": "e_4ed3ef73c1_0086_b9bf185806",
     "original": "退院おめでとう　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 170\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "恭喜出院",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 170\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0088_2fa0c25b8a",
     "original": "ああ、退院してたんだ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 171\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "啊，原来已经出院了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 171\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0090_eb35e863b4",
     "original": "うーん\\nいや、なんでもないよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 172\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "唔……\n不，没什么",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 172\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0092_f8624359bc",
     "original": "%sが退院してくれてよかったよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 173\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s能出院真是太好了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 173\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0094_63097141aa",
     "original": "%s、退院したんだけど、\\n無理しないか心配でね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 174\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s、虽然出院了……\\n但很担心你会不会勉强自己",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 174\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0096_8524bed6fb",
     "original": "%sなら、もう退院してるよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 175\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s的话、应该已经出院了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 175\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0098_8524bed6fb",
     "original": "%sなら、もう退院してるよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 176\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s的话、应该已经出院了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 176\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0100_8524bed6fb",
     "original": "%sなら、もう退院してるよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 177\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s的话、应该已经出院了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 177\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0102_cf1211da33",
@@ -550,8 +562,9 @@
   {
     "key": "e_4ed3ef73c1_0114_0bad753581",
     "original": "痛いようなら手伝うよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 184\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "要是疼的话我来帮忙",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 184\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0116_74d982e705",
@@ -584,26 +597,30 @@
   {
     "key": "e_4ed3ef73c1_0124_22d0d8f11a",
     "original": "%sの怪我\\nあんまりひどくないといいんだけどね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 189\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s的伤\\n希望别太严重才好",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 189\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0126_d8e8802d4c",
     "original": "%sか、大丈夫なのかな　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 190\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s啊，真的没问题吗",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 190\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0128_c272ab5372",
     "original": "%sが怪我する、か\\n戦力低下が怖いね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 191\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s受伤了啊\\n战力下降真是让人担心",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 191\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0130_8d0e879cae",
     "original": "個人としてはともかく、\\n戦力が減ったのはつらいね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 192\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "个人层面暂且不论\\n战力削减实在令人头疼",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 192\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0132_cf1211da33",
@@ -643,26 +660,30 @@
   {
     "key": "e_4ed3ef73c1_0142_ba64c2d529",
     "original": "やあ、その格好は写真にでも取りたいね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 198\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "哎呀，这身打扮真想拍张照片呢",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 198\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0144_20b39e7d25",
     "original": "似合ってますよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 199\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "很合适哦",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 199\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0146_53907bd4f0",
     "original": "なんかいつもと雰囲気違うね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 200\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "总觉得和平时氛围不太一样呢",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 200\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0148_51782c52fe",
     "original": "……？▽",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 201\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "……？▽",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 201\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0150_ae99c9b8be",
@@ -674,20 +695,23 @@
   {
     "key": "e_4ed3ef73c1_0152_a3da034842",
     "original": "何があったんだい？\\nそんな格好して　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 203\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "发生什么事了？\n这身打扮",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 203\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0154_3182b30975",
     "original": "%s、かわいいのはいいけど、\\n僕は心配だよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 204\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s、可爱是可爱，\n但我会担心啊",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 204\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0156_0c12463734",
     "original": "%s、\\nあんな格好できたんだねえ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 205\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s、\n居然能做出那种打扮呢",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 205\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0158_46aeef2200",
@@ -706,62 +730,72 @@
   {
     "key": "e_4ed3ef73c1_0162_45a27562c1",
     "original": "%sがおしゃれするのはいいけど、\\nいつにもまして嫌な感じだね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 208\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "%s打扮时髦是挺好，\\n但比平时更让人不舒服了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 208\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0164_fec78b98ac",
     "original": "まあ勝てたとか人類とかじゃなく、\\n君が無事で、僕はよかったよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 209\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "比起什么战胜敌人拯救人类，\\n你能平安无事，我就很开心了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 209\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0166_bf9f916bf7",
     "original": "エヴァは強いな　…君もね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 210\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "EVA很强啊……你也是",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 210\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0168_3120ba3b15",
     "original": "大活躍だったね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 211\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "真是大显身手呢",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 211\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0170_ecdb53ce8d",
     "original": "楽勝だったらしいじゃないか　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 212\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "听说赢得挺轻松嘛",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 212\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0172_9fa866a64e",
     "original": "敵が弱くてよかったね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 213\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "敌人太弱真是太好了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 213\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0174_9397124a4c",
     "original": "おめでとう　まあ、勝ちは勝ちだよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 214\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "恭喜 不过赢了就是赢了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 214\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0176_737a1f268a",
     "original": "もっと戦いやすい場所で戦ったほうが\\nいいかもしれませんね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 215\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "或许该选个更有利的战场呢",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 215\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0178_582ebdb31f",
     "original": "辛勝ですね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 216\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "真是险胜啊",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 216\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0180_95ce109174",
     "original": "得意なところで戦ったほうがいいよ\\n被害が大きすぎる　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 217\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "还是在擅长的地方战斗比较好\\n造成的损害太大了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 217\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0182_64dff1afef",
@@ -773,44 +807,51 @@
   {
     "key": "e_4ed3ef73c1_0184_aa35723dbb",
     "original": "うまい戦いぶりだったよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 219\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "打得漂亮",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 219\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0186_870e3fa8a5",
     "original": "模擬戦でも\\n勝てると気持ちが良さそうだね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 220\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "就连模拟战\\n能赢下来心情也会变好吧",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 220\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0188_a5cff06864",
     "original": "いい調子じゃないか　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 221\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "状态不错嘛",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 221\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0190_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 222\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 222\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0192_1146946c31",
     "original": "……　まあ、いいたくはないけど、\\nいい戦いだったよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 223\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "……　虽然不太想说，\\n不过打得不错",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 223\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0194_8b186abbfc",
     "original": "勝ちは勝ちさ\\n次も勝てるといいね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 224\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "赢了就是赢了\\n下次也继续赢下去吧",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 224\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0196_42816be7c2",
     "original": "問題点を次にいかせるといいね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 225\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "能把问题留到下次解决就好",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 225\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0198_f97db533c5",
@@ -822,14 +863,16 @@
   {
     "key": "e_4ed3ef73c1_0200_3728d58078",
     "original": "次は楽に勝てるといいね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 227\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "下次能轻松取胜就好了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 227\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0202_baa9ea749f",
     "original": "次はどんなことして笑わせてくれるのかな　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 228\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "下次会用什么方式逗我笑呢",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 228\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0204_b35829ad33",
@@ -855,50 +898,58 @@
   {
     "key": "e_4ed3ef73c1_0210_5c8b7da89e",
     "original": "もう少し色々な人に、\\n話を聞いたほうがいいかもしれないね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 232\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "或许该再多找些人\\n打听打听情况",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 232\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0212_6514e732f9",
     "original": "惜しかったね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 233\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "真可惜啊",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 233\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0214_e63bbdf998",
     "original": "惜しかったね　模擬戦　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 234\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "模拟战真是可惜了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 234\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0216_5054fdf925",
     "original": "適当に模擬戦とかやってると\\n実戦で死ぬよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 235\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "要是随便应付模拟战的话\\n实战可是会送命的",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 235\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0218_8fa9bebe85",
     "original": "まあ、次はもっとマシな負け方をしよう　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 236\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "嘛，下次争取输得漂亮点吧",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 236\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0220_a09e90cffb",
     "original": "模擬戦で良かったよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 237\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "幸好只是模拟战",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 237\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0222_f736fcb4a5",
     "original": "ははは\\nいやー　惨敗だったね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 238\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "哈哈哈\\n哎呀～输得真惨啊",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 238\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0224_0aa7df343b",
     "original": "酷い負けだったね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 239\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "输得真难看呢",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 239\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0226_f33e3423a4",
@@ -910,38 +961,44 @@
   {
     "key": "e_4ed3ef73c1_0228_da4162e213",
     "original": "司令も副司令も厳しい顔をしている\\nまだ、なにかあると思うよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 241\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "司令和副司令都板着脸\\n感觉还会发生什么",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 241\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0230_12fc45fece",
     "original": "このままめでたしめでたし\\n…は無理そうだね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 242\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "想就这样圆满收场\\n…看来不太可能呢",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 242\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0232_845348c349",
     "original": "勝ってる勝ってる\\n僕たちいけてるよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 243\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "赢定了赢定了\\n我们干得漂亮",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 243\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0234_389838ea0a",
     "original": "人類は優勢だよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 244\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "人类占据优势了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 244\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0236_5d980a8bf1",
     "original": "人類は優勢だよ\\nよかったよかった　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 245\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "人类占据优势了\\n太好了太好了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 245\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0238_5ac876652c",
     "original": "国連と言うより、それを操るものの動きが怪しすぎる\\n参ったな　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 246\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "与其说是UN军队\\n不如说幕后操纵者的动向太可疑了\\n真难办啊",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 246\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0240_b329a8b2b3",
@@ -953,8 +1010,9 @@
   {
     "key": "e_4ed3ef73c1_0242_58067368cd",
     "original": "無用心だなあ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 248\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "真是大意啊",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 248\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0244_0e8121dc90",
@@ -966,44 +1024,51 @@
   {
     "key": "e_4ed3ef73c1_0246_16f83a42e4",
     "original": "また、侵入者用の対人予算けずられた\\n無用心だなあ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 250\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "入侵者应对预算又被削减了\n真是大意啊",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 250\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0248_70330582d1",
     "original": "ま、精々お互いがんばろうよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 251\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "嘛，总之彼此都多努力吧",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 251\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0250_5684d273de",
     "original": "がんばってね　応援してるよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 252\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "加油哦　我会支持你的",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 252\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0252_ec4c54e26c",
     "original": "ここには秘密のものがありますから、\\n敵はそれ狙いで来てるんですよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 253\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "这里藏着秘密的东西，\\n敌人就是冲着这个来的",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 253\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0254_ec4c54e26c",
     "original": "ここには秘密のものがありますから、\\n敵はそれ狙いで来てるんですよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 254\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "这里藏着秘密的东西，\\n敌人就是冲着这个来的",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 254\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0256_ec4c54e26c",
     "original": "ここには秘密のものがありますから、\\n敵はそれ狙いで来てるんですよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 255\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "这里藏着秘密的东西，\\n敌人就是冲着这个来的",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 255\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0258_5684d273de",
     "original": "がんばってね　応援してるよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 256\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "加油哦　我会支持你的",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 256\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0260_c4c7e3fa10",
@@ -1015,26 +1080,30 @@
   {
     "key": "e_4ed3ef73c1_0262_2d47df3390",
     "original": "模擬戦やって対応を考えよう　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 258\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "先进行模拟战来研究对策吧",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 258\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0264_6b846db8e7",
     "original": "葛城さんが心配だよ\\n被害が大きいからね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 259\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "很担心葛城小姐呢\\n毕竟损害太大了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 259\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0266_f29fccd5c5",
     "original": "市街地の被害は酷いね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 260\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "市区的损毁相当严重啊",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 260\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0268_5278556afa",
     "original": "結構苦戦してるせいかな　大変だよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 261\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "看来是陷入苦战了呢　真是够呛",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 261\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0270_2d6b429ee7",
@@ -1053,20 +1122,23 @@
   {
     "key": "e_4ed3ef73c1_0274_d0e3521a7e",
     "original": "裁きの日はきたれり、か　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 264\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "审判之日终于降临了吗",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 264\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0276_8c86e34015",
     "original": "最後の戦いを待とう　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 265\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "静候最终之战吧",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 265\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0278_1ef4d3d7fe",
     "original": "逃げたいけど逃げる先もないんだよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 266\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "想逃却无处可逃啊",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 266\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0280_719b7d202f",
@@ -1148,26 +1220,30 @@
   {
     "key": "e_4ed3ef73c1_0302_9cf2b6122c",
     "original": "最近国連軍の戦車をよく見るね\\n使徒だけねらってるか　それが問題だね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 278\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "最近常看到UN军队的坦克呢\\n只盯着使徒打吗——这才是问题所在",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 278\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0304_d67a9f1b58",
     "original": "使徒と人間はほとんど同じなんだよ\\nまあ、遺伝子的には　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 279\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "使徒和人类几乎是一样的\\n当然，从基因层面来说",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 279\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0306_b3433868dd",
     "original": "たまには地上にあがって\\n本当の太陽と対面したいよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 280\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "偶尔也想回到地面\\n和真正的太阳打个照面",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 280\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0308_94d49db6ea",
     "original": "今日も暑いね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 281\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "今天也好热啊",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 281\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0310_6c9c274f77",
@@ -1179,14 +1255,16 @@
   {
     "key": "e_4ed3ef73c1_0312_62454d5eeb",
     "original": "仕事といっても\\n僕の場合は気楽なものだよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 283\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "说是工作\n对我来说还挺轻松的",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 283\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0314_be06942d97",
     "original": "本当に必要な友達は少数だと思うよ\\n僕の場合は０だったね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 284\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "真正需要的朋友很少吧\n我的话……一个都没有呢",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 284\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0316_dcd73b7212",
@@ -1205,56 +1283,65 @@
   {
     "key": "e_4ed3ef73c1_0320_18fe8f666a",
     "original": "僕の場合はネルフを操ってる国連が嫌いかな\\nうさんくさくてね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 287\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "我的话……大概讨厌操纵NERV的UN军队吧\n总觉得很可疑呢",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 287\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0322_41a2470a96",
     "original": "趣味は情報集めかな\\n昔からコンピューター好きでね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 288\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "兴趣是收集情报\n从小就喜欢电脑",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 288\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0324_7aedae7915",
     "original": "遊びか　いいんじゃないかな\\n１日ＴＶゲームとか　今ははやらないかな　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 289\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "娱乐活动？玩玩也无妨\n整天打电视游戏什么的……现在应该不玩了吧",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 289\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0326_b94e1b3fdd",
     "original": "…眼鏡は取りませんからね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 290\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "……眼镜我是不会摘的",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 290\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0328_10e14b3fed",
     "original": "大胆だな…　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 291\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "真是大胆啊……",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 291\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0330_6ddd262703",
     "original": "そうきましたか\\nじゃあ、僕はこれで…　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 292\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "这样啊……\n那我就先告辞了",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 292\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0332_7e1dea865c",
     "original": "何を考えているんですか　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 293\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "在想什么呢",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 293\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0334_6912ce5dc7",
     "original": "破壊力のある武器は重いんだよ　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 294\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "破坏力强的武器都很沉啊",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 294\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0336_a7138f0a77",
     "original": "弾の数が多い武器は、郊外では便利だと思うよ\\n何せ郊外はビルがあまり建てられないからね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 295\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "弹匣容量大的武器在郊区很实用\n毕竟郊外没多少高楼大厦",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 295\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0338_f127f45313",
@@ -1273,14 +1360,16 @@
   {
     "key": "e_4ed3ef73c1_0342_769956fc38",
     "original": "司令のことは、よくわからないんだ\\nごめん　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 298\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "关于司令的事…实在不太清楚呢\\n抱歉",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 298\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0344_e331b47dc1",
     "original": "一緒の職場にいても\\n名前思い出せない人はいるよね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 299\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "就算在同一个职场工作\\n也会有想不起名字的人吧",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 299\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0346_df344b8fe0",
@@ -1292,8 +1381,9 @@
   {
     "key": "e_4ed3ef73c1_0348_2c54e60e4d",
     "original": "あー　話題なくなりましたね　",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 301\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "啊～话题接不下去了呢",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 301\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0350_1391c8e20e",
@@ -1641,8 +1731,9 @@
   {
     "key": "e_4ed3ef73c1_0448_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 512\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 512\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0450_3ff58f4c43",
@@ -1808,14 +1899,16 @@
   {
     "key": "e_4ed3ef73c1_0496_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 536\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 536\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0498_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 537\nSpeaker: IMC_MAKOTO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 537\nSpeaker: IMC_MAKOTO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0500_9b084fab98",

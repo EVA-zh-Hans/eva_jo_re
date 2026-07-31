@@ -415,14 +415,16 @@
   {
     "key": "e_055684bc33_0072_fea1437303",
     "original": "……？",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 163\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……？",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 163\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0074_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 164\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 164\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0076_cf1211da33",
@@ -476,8 +478,9 @@
   {
     "key": "e_055684bc33_0090_ca64049898",
     "original": "キュー　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 172\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "啾～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 172\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0092_b0ed2643c9",
@@ -524,8 +527,9 @@
   {
     "key": "e_055684bc33_0104_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 179\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 179\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0106_90e1137a61",
@@ -537,8 +541,9 @@
   {
     "key": "e_055684bc33_0108_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 181\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 181\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0110_90e1137a61",
@@ -606,20 +611,23 @@
   {
     "key": "e_055684bc33_0128_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 191\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 191\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0130_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 192\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 192\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0132_49e760788a",
     "original": "ケッ　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 193\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "咯",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 193\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0134_96d7fb13db",
@@ -638,14 +646,16 @@
   {
     "key": "e_055684bc33_0138_47f689a070",
     "original": "キュゥ…　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 196\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "啾…",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 196\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0140_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 197\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 197\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0142_ef93e5baa7",
@@ -657,8 +667,9 @@
   {
     "key": "e_055684bc33_0144_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 199\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 199\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0146_ef93e5baa7",
@@ -670,8 +681,9 @@
   {
     "key": "e_055684bc33_0148_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 201\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 201\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0150_29a8ddec8e",
@@ -746,8 +758,9 @@
   {
     "key": "e_055684bc33_0170_51782c52fe",
     "original": "……？▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 212\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……？▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 212\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0172_d474ad5bc2",
@@ -766,8 +779,9 @@
   {
     "key": "e_055684bc33_0176_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 215\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 215\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0178_0f9d2064b6",
@@ -786,8 +800,9 @@
   {
     "key": "e_055684bc33_0182_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 218\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 218\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0184_039174f207",
@@ -799,8 +814,9 @@
   {
     "key": "e_055684bc33_0186_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 220\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 220\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0188_039174f207",
@@ -812,8 +828,9 @@
   {
     "key": "e_055684bc33_0190_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 222\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 222\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0192_ef93e5baa7",
@@ -825,8 +842,9 @@
   {
     "key": "e_055684bc33_0194_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 224\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 224\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0196_8c85fb6210",
@@ -866,20 +884,23 @@
   {
     "key": "e_055684bc33_0206_fea1437303",
     "original": "……？",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 230\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……？",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 230\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0208_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 231\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 231\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0210_70beaf4bac",
     "original": "…クェー　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 232\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "…咕——",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 232\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0212_63816c3a3e",
@@ -912,20 +933,23 @@
   {
     "key": "e_055684bc33_0220_fea1437303",
     "original": "……？",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 237\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……？",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 237\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0222_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 238\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 238\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0224_70beaf4bac",
     "original": "…クェー　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 239\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "…咕——",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 239\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0226_cf1211da33",
@@ -1098,20 +1122,23 @@
   {
     "key": "e_055684bc33_0274_6b01338fb1",
     "original": "クック－　キュー　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 264\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "咕咕——啾",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 264\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0276_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 265\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 265\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0278_331712f566",
     "original": "…ゲェ　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 266\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "…嘎",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 266\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0280_141b637dcb",
@@ -1130,14 +1157,16 @@
   {
     "key": "e_055684bc33_0284_b3c395b9b7",
     "original": "キュウクエ　クエクエ　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 269\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "啾咕　咕咕",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 269\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0286_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 270\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 270\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0288_ad78a1c8a8",
@@ -1170,8 +1199,9 @@
   {
     "key": "e_055684bc33_0296_abc0fa75c3",
     "original": "キュウキュウ　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 275\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "啾啾",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 275\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0298_bc313b5349",
@@ -1211,14 +1241,16 @@
   {
     "key": "e_055684bc33_0308_8c2dec1274",
     "original": "クゥー　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 281\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "咕～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 281\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0310_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 282\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 282\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0312_ef93e5baa7",
@@ -1230,8 +1262,9 @@
   {
     "key": "e_055684bc33_0314_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 284\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 284\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0316_141b637dcb",
@@ -1250,14 +1283,16 @@
   {
     "key": "e_055684bc33_0320_8c2dec1274",
     "original": "クゥー　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 287\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "咕～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 287\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0322_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 288\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 288\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0324_f215d3f936",
@@ -1269,8 +1304,9 @@
   {
     "key": "e_055684bc33_0326_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 290\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 290\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0328_7f0b24d924",
@@ -1296,14 +1332,16 @@
   {
     "key": "e_055684bc33_0334_8c2dec1274",
     "original": "クゥー　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 294\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "咕～",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 294\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0336_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 295\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 295\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0338_213f829229",
@@ -1315,8 +1353,9 @@
   {
     "key": "e_055684bc33_0340_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 297\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 297\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0342_f215d3f936",
@@ -1342,8 +1381,9 @@
   {
     "key": "e_055684bc33_0348_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 301\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 301\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0350_0755a2cb11",
@@ -1362,8 +1402,9 @@
   {
     "key": "e_055684bc33_0354_51782c52fe",
     "original": "……？▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 304\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……？▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 304\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0356_20060e3ad7",
@@ -1375,8 +1416,9 @@
   {
     "key": "e_055684bc33_0358_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 306\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 306\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0360_56ee4e4b45",
@@ -1521,8 +1563,9 @@
   {
     "key": "e_055684bc33_0400_25863ae4c5",
     "original": "キュ、キュー　",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 327\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "啾、啾啾",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 327\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0402_872333453f",
@@ -1562,8 +1605,9 @@
   {
     "key": "e_055684bc33_0412_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 333\nSpeaker: IMC_PENPEN\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/PENPEN_TALK.NUT\nLine: 333\nSpeaker: IMC_PENPEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_055684bc33_0414_d1a1694b1c",

@@ -23,8 +23,9 @@
   {
     "key": "e_d94a26bad9_0004_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_MISATO"
+    "translation": "……",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0005_92ee339aec",
@@ -43,14 +44,16 @@
   {
     "key": "e_d94a26bad9_0007_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_MISATO"
+    "translation": "……",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0008_b5999fb8c4",
     "original": "…………",
-    "translation": "",
-    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_MISATO"
+    "translation": "…………",
+    "context": "File: MISATO/CHR_MISATO_END.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_d94a26bad9_0009_437198a806",

@@ -345,8 +345,9 @@
   {
     "key": "e_ecf058da75_0052_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 153\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 153\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0054_313be5ae5d",
@@ -358,14 +359,16 @@
   {
     "key": "e_ecf058da75_0056_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 155\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 155\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0058_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 156\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 156\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0060_dd6c0da515",
@@ -377,8 +380,9 @@
   {
     "key": "e_ecf058da75_0062_ca40453c51",
     "original": "……\\n黙っているんじゃ　わからないわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 158\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\n沉默的话 是不会明白的",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 158\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0064_6e275dc726",
@@ -390,128 +394,149 @@
   {
     "key": "e_ecf058da75_0066_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 160\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 160\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0068_b5c447b510",
     "original": "%s、死亡　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 161\nSpeaker: IMC_REI\nVoice: "
+    "translation": "%s，死亡",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 161\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0070_e0e0a856d2",
     "original": "……\\n%sが死んだわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 162\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\\n%s已经死了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 162\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0072_e0e0a856d2",
     "original": "……\\n%sが死んだわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 163\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\\n%s已经死了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 163\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0074_8aa5df1849",
     "original": "貴方が悲しそうな顔をすると、\\n怪我できないと感じる　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 164\nSpeaker: IMC_REI\nVoice: "
+    "translation": "看到你悲伤的表情\\n就觉得不能受伤",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 164\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0076_43a3727671",
     "original": "……\\n怪我は、いつものことよ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 165\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\\n受伤是家常便饭",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 165\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0078_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 166\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 166\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0080_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 167\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 167\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0082_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 168\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 168\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0084_2ab4d96b15",
     "original": "…よかった　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 169\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……太好了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 169\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0086_f87bd1aea4",
     "original": "…戦いは、続くわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 170\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……战斗，还会继续",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 170\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0088_b56d08caa3",
     "original": "……\\n次の作戦の情報を、集めて置いてください　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 171\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\\n请收集好下次作战的情报",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 171\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0090_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 172\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 172\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0092_d7ec63d09e",
     "original": "……\\n怪我は、しないほうがいいわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 173\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\\n最好不要受伤",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 173\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0094_c272d428cb",
     "original": "%sは、退院したわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 174\nSpeaker: IMC_REI\nVoice: "
+    "translation": "%s已经出院了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 174\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0096_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 175\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 175\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0098_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 176\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 176\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0100_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 177\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 177\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0102_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 178\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 178\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0104_cb72c2b9df",
     "original": "…あ\\n…ありがとう　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 179\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……谢\\n……谢谢你",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 179\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0106_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 180\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 180\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0108_313be5ae5d",
@@ -523,14 +548,16 @@
   {
     "key": "e_ecf058da75_0110_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 182\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 182\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0112_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 183\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 183\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0114_d1ae9a7110",
@@ -549,8 +576,9 @@
   {
     "key": "e_ecf058da75_0118_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 186\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 186\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0120_6278b03de1",
@@ -562,8 +590,9 @@
   {
     "key": "e_ecf058da75_0122_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 188\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 188\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0124_728e2ebf9e",
@@ -575,68 +604,79 @@
   {
     "key": "e_ecf058da75_0126_2042f324cd",
     "original": "%sを、心配してる　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 190\nSpeaker: IMC_REI\nVoice: "
+    "translation": "在担心%s",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 190\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0128_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 191\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 191\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0130_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 192\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 192\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0132_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 193\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 193\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0134_ec99f4919b",
     "original": "%s、怪我ですんだのね　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 194\nSpeaker: IMC_REI\nVoice: "
+    "translation": "%s只是受了点伤呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 194\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0136_553f1cc8b4",
     "original": "…貴方のためよ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 195\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……是为了你",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 195\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0138_e5956dc2a4",
     "original": "着る物がなかったの　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 196\nSpeaker: IMC_REI\nVoice: "
+    "translation": "没有能穿的衣服",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 196\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0140_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 197\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 197\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0142_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 198\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 198\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0144_746b68b270",
     "original": "……\\n私を見ても、使徒には勝てないわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 199\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\n就算看着我 也战胜不了使徒",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 199\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0146_abecc3c538",
     "original": "似合ってる　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 200\nSpeaker: IMC_REI\nVoice: "
+    "translation": "很合适",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 200\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0148_b7806bee0c",
@@ -648,8 +688,9 @@
   {
     "key": "e_ecf058da75_0150_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 202\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 202\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0152_b7806bee0c",
@@ -661,8 +702,9 @@
   {
     "key": "e_ecf058da75_0154_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 204\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 204\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0156_5dff617599",
@@ -674,32 +716,37 @@
   {
     "key": "e_ecf058da75_0158_8a7abe0d0c",
     "original": "%sは%s、\\n格好では決まらないわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 206\nSpeaker: IMC_REI\nVoice: "
+    "translation": "%s是%s、\n外表并不能决定一切",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 206\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0160_0231b89153",
     "original": "%sの服が違うわ\\n着るものが、なかったのかも　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 207\nSpeaker: IMC_REI\nVoice: "
+    "translation": "%s的衣服不一样呢\n或许只是，没有其他可穿的",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 207\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0162_55050050c0",
     "original": "%sの服が違うわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 208\nSpeaker: IMC_REI\nVoice: "
+    "translation": "%s的衣服不一样呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 208\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0164_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 209\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 209\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0166_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 210\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 210\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0168_af50de57e5",
@@ -711,182 +758,212 @@
   {
     "key": "e_ecf058da75_0170_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 212\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 212\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0172_b952a188be",
     "original": "勝ったわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 213\nSpeaker: IMC_REI\nVoice: "
+    "translation": "赢了呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 213\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0174_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 214\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 214\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0176_2c6608e1d5",
     "original": "……\\n勝ってるのだから、不満はないわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 215\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\n既然赢了，就没有不满",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 215\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0178_1fb9f1b36d",
     "original": "勝ってるわ\\nだから、笑ってもいい　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 216\nSpeaker: IMC_REI\nVoice: "
+    "translation": "赢了呢\n所以，笑一笑也可以",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 216\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0180_a2aa0556dc",
     "original": "勝ってるわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 217\nSpeaker: IMC_REI\nVoice: "
+    "translation": "赢了呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 217\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0182_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 218\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 218\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0184_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 219\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 219\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0186_57e2f900fe",
     "original": "……\\n次は勝てるか、わからないわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 220\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\n下次能否取胜，还不知道",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 220\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0188_ab02fde637",
     "original": "エヴァを、使いこなしてるわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 221\nSpeaker: IMC_REI\nVoice: "
+    "translation": "EVA，已经能熟练操作了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 221\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0190_82024ef75e",
     "original": "いい調子ね　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 222\nSpeaker: IMC_REI\nVoice: "
+    "translation": "状态不错呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 222\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0192_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 223\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 223\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0194_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 224\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 224\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0196_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 225\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 225\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0198_7b789fde81",
     "original": "…あなたは勝ったわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 226\nSpeaker: IMC_REI\nVoice: "
+    "translation": "…你赢了呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 226\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0200_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 227\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 227\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0202_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 228\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 228\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0204_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 229\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 229\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0206_7b789fde81",
     "original": "…あなたは勝ったわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 230\nSpeaker: IMC_REI\nVoice: "
+    "translation": "…你赢了呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 230\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0208_73b6ce55a4",
     "original": "惜しかったわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 231\nSpeaker: IMC_REI\nVoice: "
+    "translation": "真可惜呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 231\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0210_1330320daa",
     "original": "もう少しね　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 232\nSpeaker: IMC_REI\nVoice: "
+    "translation": "还差一点",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 232\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0212_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 233\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 233\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0214_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 234\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 234\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0216_b5bf0ab25a",
     "original": "模擬戦よ　それ以上ではないわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 235\nSpeaker: IMC_REI\nVoice: "
+    "translation": "只是模拟战　仅此而已",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 235\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0218_ad6685f585",
     "original": "…ぶざまだね　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 236\nSpeaker: IMC_REI\nVoice: "
+    "translation": "…真难堪呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 236\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0220_72a1af3b8a",
     "original": "惨敗ね　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 237\nSpeaker: IMC_REI\nVoice: "
+    "translation": "惨败呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 237\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0222_9711192061",
     "original": "次は、負けないわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 238\nSpeaker: IMC_REI\nVoice: "
+    "translation": "下次不会输了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 238\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0224_72a1af3b8a",
     "original": "惨敗ね　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 239\nSpeaker: IMC_REI\nVoice: "
+    "translation": "惨败呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 239\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0226_bd14f9e3c2",
     "original": "ぶざまね　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 240\nSpeaker: IMC_REI\nVoice: "
+    "translation": "真难看呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 240\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0228_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 241\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 241\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0230_83eeb2e997",
@@ -898,20 +975,23 @@
   {
     "key": "e_ecf058da75_0232_a2aa0556dc",
     "original": "勝ってるわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 243\nSpeaker: IMC_REI\nVoice: "
+    "translation": "赢了呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 243\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0234_a2aa0556dc",
     "original": "勝ってるわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 244\nSpeaker: IMC_REI\nVoice: "
+    "translation": "赢了呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 244\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0236_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 245\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 245\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0238_d7b344fd52",
@@ -923,68 +1003,79 @@
   {
     "key": "e_ecf058da75_0240_94640c865c",
     "original": "戦況は優勢よ\\n喜んで、いい　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 247\nSpeaker: IMC_REI\nVoice: "
+    "translation": "战况占优\\n高兴点也无妨",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 247\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0242_a74262582f",
     "original": "戦況は優勢よ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 248\nSpeaker: IMC_REI\nVoice: "
+    "translation": "战况占优",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 248\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0244_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 249\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 249\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0246_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 250\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 250\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0248_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 251\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 251\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0250_b670d2fce0",
     "original": "言うべきことは何もないわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 252\nSpeaker: IMC_REI\nVoice: "
+    "translation": "没什么好说的",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 252\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0252_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 253\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 253\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0254_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 254\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 254\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0256_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 255\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 255\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0258_098cdc05ce",
     "original": "もっと、本気で戦った方がいい　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 256\nSpeaker: IMC_REI\nVoice: "
+    "translation": "你应该更认真地战斗",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 256\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0260_712cece83a",
     "original": "……\\n貴方が、悲しまないようにするわ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 257\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\\n我不想看到你悲伤",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 257\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0262_ea92dcbe28",
@@ -1003,20 +1094,23 @@
   {
     "key": "e_ecf058da75_0266_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 260\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 260\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0268_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 261\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 261\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0270_b10e0538e6",
     "original": "あなたは死なないわ\\n私が守るもの　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 262\nSpeaker: IMC_REI\nVoice: "
+    "translation": "你不会死的\\n因为我会守护你",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 262\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0272_312f5bf113",
@@ -1028,50 +1122,58 @@
   {
     "key": "e_ecf058da75_0274_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 264\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 264\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0276_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 265\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 265\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0278_e751e1f7dd",
     "original": "戦況は、絶望的ね　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 266\nSpeaker: IMC_REI\nVoice: "
+    "translation": "战况…已经绝望了呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 266\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0280_29bf0e8215",
     "original": "%s、噂になってる　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 267\nSpeaker: IMC_REI\nVoice: "
+    "translation": "%s，已经成为话题了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 267\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0282_29bf0e8215",
     "original": "%s、噂になってる　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 268\nSpeaker: IMC_REI\nVoice: "
+    "translation": "%s，已经成为话题了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 268\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0284_29bf0e8215",
     "original": "%s、噂になってる　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 269\nSpeaker: IMC_REI\nVoice: "
+    "translation": "%s，已经成为话题了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 269\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0286_29bf0e8215",
     "original": "%s、噂になってる　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 270\nSpeaker: IMC_REI\nVoice: "
+    "translation": "%s，已经成为话题了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 270\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0288_29bf0e8215",
     "original": "%s、噂になってる　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 271\nSpeaker: IMC_REI\nVoice: "
+    "translation": "%s，已经成为话题了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 271\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0290_16569e745e",
@@ -1097,8 +1199,9 @@
   {
     "key": "e_ecf058da75_0296_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 275\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 275\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0298_00fd31ba99",
@@ -1110,20 +1213,23 @@
   {
     "key": "e_ecf058da75_0300_11f9a4677c",
     "original": "…肉を抜くのに苦労するの\\n料理から　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 277\nSpeaker: IMC_REI\nVoice: "
+    "translation": "…从料理里挑出肉很费功夫呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 277\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0302_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 278\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 278\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0304_f14410673c",
     "original": "みんなは　色々なことがある\\n私には、それがない　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 279\nSpeaker: IMC_REI\nVoice: "
+    "translation": "大家都有各种各样的事\n而我，什么都没有",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 279\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0306_183c1d3c91",
@@ -1135,8 +1241,9 @@
   {
     "key": "e_ecf058da75_0308_ce3891c869",
     "original": "学校　いかなければならないところ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 281\nSpeaker: IMC_REI\nVoice: "
+    "translation": "学校 不得不去的地方",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 281\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0310_14b0dcb452",
@@ -1148,32 +1255,37 @@
   {
     "key": "e_ecf058da75_0312_0b4be59818",
     "original": "…良く分らない　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 283\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……不太明白",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 283\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0314_5cecbb22a6",
     "original": "好きなものは…　言いたくない　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 284\nSpeaker: IMC_REI\nVoice: "
+    "translation": "喜欢的东西……不想说",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 284\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0316_1d26fb3e1f",
     "original": "肉は、嫌い　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 285\nSpeaker: IMC_REI\nVoice: "
+    "translation": "讨厌吃肉",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 285\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0318_28cf4e12f2",
     "original": "考えるのが好き　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 286\nSpeaker: IMC_REI\nVoice: "
+    "translation": "喜欢思考",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 286\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0320_07fce322e5",
     "original": "…なんといっていいかわからない　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 287\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……不知该说什么好",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 287\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0322_a16d8826a5",
@@ -1185,74 +1297,86 @@
   {
     "key": "e_ecf058da75_0324_ec9ea718c2",
     "original": "さわるの、好きなのね　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 289\nSpeaker: IMC_REI\nVoice: "
+    "translation": "很喜欢触碰呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 289\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0326_9b6c8e0b3f",
     "original": "…んっ　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 290\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……嗯",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 290\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0328_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 291\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 291\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0330_84a9c98f93",
     "original": "構えると動きが遅くなるわ\\n使い分けて　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 292\nSpeaker: IMC_REI\nVoice: "
+    "translation": "摆出架势动作会变慢哦\\n要灵活运用",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 292\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0332_002c4c682b",
     "original": "使徒がガードをしている時に、近付いてガード\\n浸食できるわ　自分もＡ．Ｔ．をなくすけど　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 293\nSpeaker: IMC_REI\nVoice: "
+    "translation": "当使徒展开防御时，靠近就能侵蚀它的AT力场\\n不过自己也会暂时失去AT力场",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 293\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0334_9bdc42e659",
     "original": "使徒は、進化してるわ\\n能力が、対応して変化していっている　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 294\nSpeaker: IMC_REI\nVoice: "
+    "translation": "使徒正在进化\\n能力会随着应对方式不断变化",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 294\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0336_0b4be59818",
     "original": "…良く分らない　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 295\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……不太明白",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 295\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0338_d4ee87807f",
     "original": "司令は、親切にしてくれる　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 296\nSpeaker: IMC_REI\nVoice: "
+    "translation": "司令对我很温柔",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 296\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0340_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 297\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 297\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0342_07f3fbd13d",
     "original": "碇君のことは良く分らない\\n理解するのは怖い　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 298\nSpeaker: IMC_REI\nVoice: "
+    "translation": "我不太了解碇君\\n害怕去理解他",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 298\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0344_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 299\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 299\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0346_01942952c9",
     "original": "……　",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 300\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 300\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0348_20529546b9",
@@ -1404,8 +1528,9 @@
   {
     "key": "e_ecf058da75_0390_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 483\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 483\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0392_bdb8773696",
@@ -1438,8 +1563,9 @@
   {
     "key": "e_ecf058da75_0400_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 488\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 488\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0402_b9514db9d4",
@@ -1479,8 +1605,9 @@
   {
     "key": "e_ecf058da75_0412_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 494\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 494\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0414_05a5ec0bb8",
@@ -1499,14 +1626,16 @@
   {
     "key": "e_ecf058da75_0418_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 497\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 497\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0420_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 498\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 498\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0422_59e940271e",
@@ -1553,8 +1682,9 @@
   {
     "key": "e_ecf058da75_0434_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 505\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 505\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0436_35b4d1da85",

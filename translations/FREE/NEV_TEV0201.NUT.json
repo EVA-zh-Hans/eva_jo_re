@@ -2,8 +2,9 @@
   {
     "key": "e_b83e3d3d38_0001_a501733eef",
     "original": "………………………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 136\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "………………………",
+    "context": "File: FREE/NEV_TEV0201.NUT\nLine: 136\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b83e3d3d38_0002_803b41953d",

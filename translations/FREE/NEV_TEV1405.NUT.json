@@ -37,8 +37,9 @@
   {
     "key": "e_c218471a64_0006_b5999fb8c4",
     "original": "…………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 358\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "…………",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 358\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_c218471a64_0007_34be169174",
@@ -302,8 +303,9 @@
   {
     "key": "e_c218471a64_0044_fed43248ce",
     "original": "…！！▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 1268\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_035"
+    "translation": "…！！▽",
+    "context": "File: FREE/NEV_TEV1405.NUT\nLine: 1268\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_035",
+    "stage": 1
   },
   {
     "key": "e_c218471a64_0045_ea70bebfcf",

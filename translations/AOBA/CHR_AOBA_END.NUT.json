@@ -23,14 +23,16 @@
   {
     "key": "e_830200f69b_0004_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: AOBA/CHR_AOBA_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_AOBA"
+    "translation": "……",
+    "context": "File: AOBA/CHR_AOBA_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_AOBA",
+    "stage": 1
   },
   {
     "key": "e_830200f69b_0005_b5999fb8c4",
     "original": "…………",
-    "translation": "",
-    "context": "File: AOBA/CHR_AOBA_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_AOBA"
+    "translation": "…………",
+    "context": "File: AOBA/CHR_AOBA_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_AOBA",
+    "stage": 1
   },
   {
     "key": "e_830200f69b_0006_782bd09fbe",

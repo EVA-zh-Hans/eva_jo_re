@@ -16,8 +16,9 @@
   {
     "key": "e_45e2164256_0003_1505de66d1",
     "original": "…！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1403.NUT\nLine: 286\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1403_01_002"
+    "translation": "…！？",
+    "context": "File: FREE/NEV_TEV1403.NUT\nLine: 286\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1403_01_002",
+    "stage": 1
   },
   {
     "key": "e_45e2164256_0004_1c53ae8aea",
@@ -162,8 +163,9 @@
   {
     "key": "e_45e2164256_0024_cb25dbc346",
     "original": "………………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1403.NUT\nLine: 806\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "………………",
+    "context": "File: FREE/NEV_TEV1403.NUT\nLine: 806\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_45e2164256_0025_d982dd2b38",
@@ -217,8 +219,9 @@
   {
     "key": "e_45e2164256_0032_1505de66d1",
     "original": "…！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1403.NUT\nLine: 1059\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1403_04_031"
+    "translation": "…！？",
+    "context": "File: FREE/NEV_TEV1403.NUT\nLine: 1059\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1403_04_031",
+    "stage": 1
   },
   {
     "key": "e_45e2164256_0033_8cfaafadcc",
@@ -258,8 +261,9 @@
   {
     "key": "e_45e2164256_0038_b5999fb8c4",
     "original": "…………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1403.NUT\nLine: 1106\nCall: im.event\nSpeaker: IMC_GENDO"
+    "translation": "…………",
+    "context": "File: FREE/NEV_TEV1403.NUT\nLine: 1106\nCall: im.event\nSpeaker: IMC_GENDO",
+    "stage": 1
   },
   {
     "key": "e_45e2164256_0039_4c9e599865",

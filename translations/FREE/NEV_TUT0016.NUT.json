@@ -30,8 +30,9 @@
   {
     "key": "e_cc9e2e6c88_0005_c355218ea8",
     "original": "…？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "…？",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0006_28bc1ad712",

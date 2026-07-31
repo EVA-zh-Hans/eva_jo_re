@@ -37,8 +37,9 @@
   {
     "key": "e_857f565f85_0006_8506ee0889",
     "original": "　　ジオフロント",
-    "translation": "",
-    "context": "File: SYSTEM/MAP_STATUS.NUT\nLine: 11\nVoice: 　　初号機ケイジ"
+    "translation": "地下都市",
+    "context": "File: SYSTEM/MAP_STATUS.NUT\nLine: 11\nVoice: 　　初号機ケイジ",
+    "stage": 1
   },
   {
     "key": "e_857f565f85_0007_6bfec2b23e",

@@ -44,8 +44,9 @@
   {
     "key": "e_b9243d59bc_0007_98739b95cc",
     "original": "……！",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 280\nCall: im.event\nSpeaker: IMC_SHINJI"
+    "translation": "……！",
+    "context": "File: FREE/NEV_SEV0301.NUT\nLine: 280\nCall: im.event\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_b9243d59bc_0008_be5ea55af3",

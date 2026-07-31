@@ -338,8 +338,9 @@
   {
     "key": "e_89badcf1cb_0050_e07283bff0",
     "original": "初めまして　よろしくね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 152\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "初次见面　请多关照",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 152\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0052_42ea005490",
@@ -400,14 +401,16 @@
   {
     "key": "e_89badcf1cb_0068_5188ea952a",
     "original": "誰だって死ぬのよ\\nだから、あんまり気にしない　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 161\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "谁都会死的\\n所以，别太在意",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 161\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0070_62aedda26f",
     "original": "%sかぁ\\n死ねばいいわけじゃないのになぁ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 162\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s啊\\n死了可不好办呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 162\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0072_cf1211da33",
@@ -454,62 +457,72 @@
   {
     "key": "e_89badcf1cb_0084_cb89c3c967",
     "original": "えーと　なんだか、なんて言おうか考えていたら、\\n頭こんがらがっちゃったわ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 169\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "那个…不知怎么的，想着该说什么好\\n结果脑子一团乱",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 169\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0086_8099472c30",
     "original": "…おかえりなさい　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 170\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "…欢迎回来",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 170\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0088_cc3a4103ac",
     "original": "…元気そうで良かった　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 171\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "……看起来精神不错呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 171\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0090_c64d5a0de3",
     "original": "あ、退院したんだ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 172\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "啊，出院了啊",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 172\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0092_900c6d32e3",
     "original": "あらあら、憎まれっ子世にはばかるね\\nううん　なんでもないわ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 173\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "哎呀呀，讨厌鬼反而活得挺滋润嘛\n唔…当我没说",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 173\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0094_449f66a129",
     "original": "%s、退院してるわね\\n少しは休めてるならいいんだけど　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 174\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s出院了呢\n能好好休息的话就再好不过了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 174\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0096_4a0ea18c5b",
     "original": "%s、退院してるわよ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 175\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s，已经出院了哦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 175\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0098_ed48b8b2e8",
     "original": "%sなら退院してるわよ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 176\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s应该已经出院了吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 176\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0100_91f7c1a921",
     "original": "%sって、退院したんだ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 177\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s居然出院了啊",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 177\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0102_ba3fb961b1",
     "original": "%sって、退院してるのよねー　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 178\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s啊～已经出院了呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 178\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0104_cf1211da33",
@@ -549,14 +562,16 @@
   {
     "key": "e_89badcf1cb_0114_7f54a52470",
     "original": "…自分が恥ずかしくなるわ\\nそれでも戦えって言うしかないんだもの　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 184\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "……连我自己都觉得羞耻呢\n但除了让你继续战斗别无选择",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 184\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0116_5846af59b0",
     "original": "…薬で痛みをけしてるだけだから\\n無理しちゃダメよ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 185\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "……只是靠药物压制疼痛而已\n不许勉强自己哦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 185\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0118_7567d51289",
@@ -582,44 +597,51 @@
   {
     "key": "e_89badcf1cb_0124_204c8330cb",
     "original": "ああもう　%sが怪我してから\\n仕事が手につかないわ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 189\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "真是的　自从%s受伤后\\n工作都没法集中了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 189\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0126_740b597fb1",
     "original": "%s、大丈夫かしら　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 190\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s、不要紧吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 190\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0128_0992ea3536",
     "original": "%s、\\n怪我してるから気をつけてやってね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 191\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s、\\n你受伤了要多加小心啊",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 191\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0130_830e5ea8e4",
     "original": "%sの怪我、\\nあまりひどくないといいんだけど　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 192\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s的伤\\n希望别太严重才好",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 192\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0132_b1a5e76850",
     "original": "%sでも戦力なのよね…\\n悲しいけど　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 193\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "虽然%s也能当战力……\\n真让人难过",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 193\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0134_08d256e8be",
     "original": "まあ、気に入ってくれるといいんだけどね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 194\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "嘛，能喜欢上就好了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 194\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0136_d1334dd78c",
     "original": "えへへー\\n結構、似合うでしょう　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 195\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "嘿嘿～\\n还挺适合的吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 195\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0138_992c814888",
@@ -652,8 +674,9 @@
   {
     "key": "e_89badcf1cb_0146_59e06edf45",
     "original": "まあまあね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 200\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "还算可以吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 200\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0148_a1e9934aa6",
@@ -700,8 +723,9 @@
   {
     "key": "e_89badcf1cb_0160_0bda9a7012",
     "original": "%s…\\nあ、ううん　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 207\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s……\n啊、没事",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 207\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0162_d8c3321f00",
@@ -720,32 +744,37 @@
   {
     "key": "e_89badcf1cb_0166_5b6a60661e",
     "original": "楽勝だったわね\\n少し、自信ないけど　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 210\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "轻松取胜了呢\\n虽然我还有点没自信",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 210\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0168_98bd555c3e",
     "original": "今回は　私たちの勝ちってわけ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 211\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "这次是我们赢了呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 211\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0170_fca82d7b73",
     "original": "勝った、勝った\\n嬉しいものね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 212\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "赢啦赢啦\\n真开心呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 212\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0172_451c0becaa",
     "original": "次もうまくいくといいわね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 213\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "希望下次也能顺利呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 213\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0174_d4f5f456ce",
     "original": "ありがとう　戦ってくれて　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 214\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "谢谢你 为我而战",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 214\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0176_d31bdf004f",
@@ -764,32 +793,37 @@
   {
     "key": "e_89badcf1cb_0180_9e15e20e17",
     "original": "まあ、勝ったのは勝ったんだし、\\n小言は言わないわ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 217\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "嘛 赢了就是赢了\n我就不多唠叨啦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 217\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0182_220e0b4010",
     "original": "何とか勝てたから、よかったものの、ね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 218\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "好歹算是赢了，还算不错吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 218\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0184_08bb2e4449",
     "original": "先が思いやられるわね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 219\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "真是前途堪忧呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 219\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0186_76527e4b2f",
     "original": "先が思いやられるわね\\n長生きするよう、がんばってね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 220\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "真是前途堪忧呢\n要努力活得长久些哦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 220\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0188_0828c55b19",
     "original": "いい動きしてるわ\\nエヴァを手足以上につかってる　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 221\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "动作很漂亮嘛\n简直把EVA用得比自己的手脚还灵活",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 221\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0190_985e7105db",
@@ -808,32 +842,37 @@
   {
     "key": "e_89badcf1cb_0194_360bf80663",
     "original": "ゲームじゃないのよ\\n模擬戦は　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 224\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "这可不是游戏\\n模拟战也是",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 224\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0196_04dbbbf8a7",
     "original": "へらへら笑ってるほど、実戦は甘くないわよ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 225\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "实战可没轻松到能让你嬉皮笑脸的程度",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 225\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0198_604126e795",
     "original": "どきどきするわね　模擬戦でも　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 226\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "心跳加速了呢\\n就算是模拟战",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 226\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0200_e5567d810f",
     "original": "検討課題は残ったけど　それだけよ\\nお疲れさま　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 227\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "虽然还有待改进的地方\\n不过就这样吧\\n辛苦了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 227\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0202_d17a826660",
     "original": "いい傾向だわ　がんばって　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 228\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "势头不错呢　继续加油",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 228\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0204_cb6d3f4f03",
@@ -852,8 +891,9 @@
   {
     "key": "e_89badcf1cb_0208_787633290b",
     "original": "もう少しね　がんばって　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 231\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "还差一点呢　再加把劲",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 231\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0210_400f519732",
@@ -872,14 +912,16 @@
   {
     "key": "e_89badcf1cb_0214_2a0d329ce1",
     "original": "ひど　なに今の模擬戦　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 234\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "太差劲了……刚才的模拟战算什么啊",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 234\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0216_ff4991a88c",
     "original": "真面目にやって\\nでないと、死ぬわよ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 235\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "不认真对待的话\\n可是会死的哦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 235\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0218_85c45585b0",
@@ -891,32 +933,37 @@
   {
     "key": "e_89badcf1cb_0220_19c1d4142f",
     "original": "惨敗ね\\nもう少しましかと思ったけど　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 237\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "惨败呢\\n本以为能表现更好些的",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 237\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0222_72a1af3b8a",
     "original": "惨敗ね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 238\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "惨败呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 238\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0224_544af490f5",
     "original": "実戦なら　世界終わりよ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 239\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "实战的话 世界就要完蛋了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 239\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0226_bb2dda5862",
     "original": "怒る気にもならないけど、\\nもすこしがんばれ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 240\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "连生气的力气都没有了，\\n不过还是再努力一点吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 240\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0228_2ff304f089",
     "original": "…まだ、一戦二戦、あるかもしれないわよ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 241\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "……说不定，还有一两场战斗在等着呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 241\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0230_ed3c024cfb",
@@ -935,38 +982,44 @@
   {
     "key": "e_89badcf1cb_0234_76094d9d62",
     "original": "お疲れさま　助かってるわ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 244\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "辛苦了　帮大忙了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 244\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0236_c87cdf95d2",
     "original": "平和の次はに日常が帰ってくる…\\nなんて甘いことはないか　うーん　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 245\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "和平之后日常就会回来…\\n这种天真想法果然不现实呢　唔～",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 245\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0238_fac387d27a",
     "original": "…よくやったといっておくわ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 246\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "…姑且夸你干得不错吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 246\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0240_71b35406dc",
     "original": "シナリオ、うまくいきすぎているわね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 247\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "剧本进展得太过顺利了呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 247\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0242_c9090ef2d2",
     "original": "残る敵を全滅させるまでは、\\n気をぬけないわよ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 248\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "在歼灭剩余敌人之前\\n可别松懈哦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 248\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0244_e9bf42723c",
     "original": "戦況はまあまあってところね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 249\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "战况还算马马虎虎吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 249\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0246_81a24e15bd",
@@ -978,14 +1031,16 @@
   {
     "key": "e_89badcf1cb_0248_7a12dd039f",
     "original": "まあまね　今の状況は　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 251\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "目前状况还算可以",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 251\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0250_f92f9d3590",
     "original": "エヴァ、か　私にもちょーっち\\nわかんないところあるのよねー　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 252\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "EVA啊…其实我也有点\\n搞不明白的地方呢～",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 252\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0252_084305745b",
@@ -997,20 +1052,23 @@
   {
     "key": "e_89badcf1cb_0254_e9bf42723c",
     "original": "戦況はまあまあってところね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 254\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "战况还算马马虎虎吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 254\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0256_8a2c048a88",
     "original": "…ぶつくさ言ってないで\\n戦うしかないんだから　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 255\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "…别发牢骚了\\n我们只能战斗到底",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 255\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0258_1d222d474f",
     "original": "小言は言いたくないけど、\\nもっとがんばって　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 256\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "虽然不想唠叨……\n但请再加把劲",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 256\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0260_ac32124c36",
@@ -1022,32 +1080,37 @@
   {
     "key": "e_89badcf1cb_0262_01d12e4ac5",
     "original": "この街だからこれくらいで済んでるのよ\\nここは、要塞化してるから　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 258\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "多亏这座要塞化的城市\n损失才能控制在当前程度",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 258\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0264_1911f16719",
     "original": "んー　ちょっちまずいわね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 259\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "唔……有点不妙呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 259\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0266_d95b9db412",
     "original": "エヴァが期待された通りに働ければ\\n良かったんだけど　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 260\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "要是EVA能如预期般运作\n本可以做得更好的",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 260\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0268_4440dac98a",
     "original": "訓練、もっとやっておいて　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 261\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "训练，应该再多做些准备",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 261\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0270_69bdc23dbd",
     "original": "あなたのせいじゃないわ\\n大人が、悪いのよ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 262\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "不是你的错\\n是大人们的责任",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 262\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0272_bbd994f9e9",
@@ -1066,20 +1129,23 @@
   {
     "key": "e_89badcf1cb_0276_d31c8ad38c",
     "original": "がんばって　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 265\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "加油",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 265\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0278_e68b89d8b6",
     "original": "どうせ逃げ場なんてないわ\\nここで死ぬだけよ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 266\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "反正也无处可逃\\n只能死在这里了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 266\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0280_af55cfe432",
     "original": "もう、負けられないわね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 267\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "已经，不能再输了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 267\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0282_9de62a51fa",
@@ -1112,8 +1178,9 @@
   {
     "key": "e_89badcf1cb_0290_3d20c557db",
     "original": "%sかぁ\\n嫌われてるのよねえ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 272\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s啊\\n好像被讨厌了呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 272\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0292_f63df54558",
@@ -1160,20 +1227,23 @@
   {
     "key": "e_89badcf1cb_0304_b7559fb865",
     "original": "今年の目標は人間らしい生活よ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 279\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "今年的目标是过像样的生活",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 279\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0306_74c8fc6638",
     "original": "ゴキブリを抑制さえすれば、\\nもっと掃除しないでいけそうな気がする　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 280\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "只要控制住蟑螂的话～\n说不定就不用经常打扫了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 280\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0308_0909033ad8",
     "original": "そうね　昔はもっと、騒がしかったわ\\n良く覚えてないんだけどね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 281\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "是啊，以前可要热闹多了……\\n虽然记不太清了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 281\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0310_5b321f0f40",
@@ -1192,14 +1262,16 @@
   {
     "key": "e_89badcf1cb_0314_118a088c6e",
     "original": "仕事は給料　まずはそう思うことよね\\nそれで結構、のりきれるもんよ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 284\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "工作就是为了薪水\\n这么想就能挺过去啦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 284\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0316_a23adce447",
     "original": "１４くらいで人間関係に困らないの　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 285\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "十四岁左右就不会\\n为人际关系烦恼了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 285\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0318_b868156281",
@@ -1218,8 +1290,9 @@
   {
     "key": "e_89badcf1cb_0322_c66b7c687b",
     "original": "若いんだから夜遊びとか覚えなさい\\nやったら怒るけど　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 288\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "年轻人就该学会夜游啊\n不过真敢去的话我会生气哦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 288\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0324_189095e40b",
@@ -1238,8 +1311,9 @@
   {
     "key": "e_89badcf1cb_0328_61702a7692",
     "original": "そんなに興味あるの？\\n私のココに　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 291\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "就这么感兴趣吗？\\n对我的这里",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 291\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0330_4535ffa2e1",
@@ -1251,20 +1325,23 @@
   {
     "key": "e_89badcf1cb_0332_faed988544",
     "original": "ココじゃ駄目　もー　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 293\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "这里不行啦～真是的",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 293\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0334_57089e3bec",
     "original": "移動スキルを実装しておくと、\\nダッシュしてもＡ．Ｔ．の減りが少ないわよ　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 294\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "装备移动技能的话，\\n就算冲刺AT力场也消耗得比较少哦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 294\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0336_a43ba65389",
     "original": "クリティカルスキルは一発逆転の確率を上げるわ\\nいい当たりが出やすくなるの　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 295\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "暴击技能能提高逆转概率\\n更容易打出漂亮一击",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 295\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0338_167ece66e3",
@@ -1276,32 +1353,37 @@
   {
     "key": "e_89badcf1cb_0340_50bdb7ea2d",
     "original": "加持くん？\\nうーん　まあ、微妙　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 297\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "加持君？\\n唔……该怎么说呢，有点微妙",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 297\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0342_b7fa17d723",
     "original": "リツコとは大学時代からの知り合いなの　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 298\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "律子是我大学时代就认识的老朋友",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 298\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0344_628c925266",
     "original": "司令は\\n私だってあんまり話したことはないわね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 299\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "就算是司令\\n我也没怎么和他说过话呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 299\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0346_be72d7024f",
     "original": "シンちゃんはかわいいかな\\n私の分身…みたいなものかも　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 300\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "小真嗣很可爱呢\\n简直像是……我的分身一样",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 300\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0348_92fdd36fef",
     "original": "話題ないわね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 301\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "真是没话题可聊呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 301\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0350_c995cc9e74",
@@ -1355,8 +1437,9 @@
   {
     "key": "e_89badcf1cb_0364_a9f87d0d3d",
     "original": "戦闘で獲得した予算を使うことで、\\n第３新東京市の復興を支援する事ができるから ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 470\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "通过使用战斗获得的预算，\\n可以支援第三新东京市的重建工作",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 470\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0366_f00dbd95f4",
@@ -1368,14 +1451,16 @@
   {
     "key": "e_89badcf1cb_0368_02ed5ac802",
     "original": "適当に話してみて、\\nあきたら戻ってきてね　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 472\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "随便聊聊看吧，\\n觉得无聊了就回来",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 472\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0370_8f1de4c9e7",
     "original": "さ、次は\\n戦闘準備の説明をしましょうか　",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 473\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "那么接下来\\n给你说明战斗准备事项吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 473\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0372_d553a40226",
@@ -2045,8 +2130,9 @@
   {
     "key": "e_89badcf1cb_0562_fea1437303",
     "original": "……？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 569\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "……？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 569\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0564_29a0440a94",
@@ -2128,20 +2214,23 @@
   {
     "key": "e_89badcf1cb_0586_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 581\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 581\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0588_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 582\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 582\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0590_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 583\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 583\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0592_bc9922321f",
@@ -2188,8 +2277,9 @@
   {
     "key": "e_89badcf1cb_0604_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 590\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 590\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0606_4bb24f4006",
@@ -2201,8 +2291,9 @@
   {
     "key": "e_89badcf1cb_0608_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 592\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 592\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0610_ad13a39644",

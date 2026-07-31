@@ -23,14 +23,16 @@
   {
     "key": "e_9d1a186e5d_0004_32a618a984",
     "original": "　 主要人物の選択",
-    "translation": "",
-    "context": "File: PREPARE/RELATION.NUT\nLine: 62\nCall: win.set_string"
+    "translation": "选择主要人物",
+    "context": "File: PREPARE/RELATION.NUT\nLine: 62\nCall: win.set_string",
+    "stage": 1
   },
   {
     "key": "e_9d1a186e5d_0005_1f3ae5f033",
     "original": "　 対象人物の選択",
-    "translation": "",
-    "context": "File: PREPARE/RELATION.NUT\nLine: 104\nCall: win.set_string"
+    "translation": "选择目标人物",
+    "context": "File: PREPARE/RELATION.NUT\nLine: 104\nCall: win.set_string",
+    "stage": 1
   },
   {
     "key": "e_9d1a186e5d_0006_d2ecd6e638",

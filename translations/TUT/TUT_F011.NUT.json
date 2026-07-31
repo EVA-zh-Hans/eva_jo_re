@@ -23,13 +23,15 @@
   {
     "key": "e_8ca43a0a45_0004_b0bffa231e",
     "original": "　<07>緑<//>：機能コマンド\\n　<02>黄色<//>：ヘルプ、説明セリフ▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F011.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "　<07>绿色<//>：功能指令\\n　<02>黄色<//>：帮助与说明语句▽",
+    "context": "File: TUT/TUT_F011.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_8ca43a0a45_0005_b8ba919679",
     "original": "　<10>オレンジ<//>：戦闘情報\\n　白：一般会話",
-    "translation": "",
-    "context": "File: TUT/TUT_F011.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "　<10>橙色<//>：战斗情报\\n　白色：普通对话",
+    "context": "File: TUT/TUT_F011.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

@@ -226,8 +226,9 @@
   {
     "key": "e_2d3efde532_0033_1505de66d1",
     "original": "…！？",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0101.NUT\nLine: 879\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_0101_01_031"
+    "translation": "…！？",
+    "context": "File: FREE/NEV_SEV0101.NUT\nLine: 879\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_0101_01_031",
+    "stage": 1
   },
   {
     "key": "e_2d3efde532_0034_67f261e15c",

@@ -16,8 +16,9 @@
   {
     "key": "e_5aeb39b09b_0003_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 257\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "……",
+    "context": "File: FREE/NEV_TEV1503.NUT\nLine: 257\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_5aeb39b09b_0004_5748f347be",

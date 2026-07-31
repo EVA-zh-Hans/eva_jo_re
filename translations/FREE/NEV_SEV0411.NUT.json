@@ -9,8 +9,9 @@
   {
     "key": "e_16b13d9aea_0002_cb25dbc346",
     "original": "………………",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 95\nCall: im.event\nSpeaker: IMC_REI"
+    "translation": "………………",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 95\nCall: im.event\nSpeaker: IMC_REI",
+    "stage": 1
   },
   {
     "key": "e_16b13d9aea_0003_8f76c895d0",
@@ -57,7 +58,8 @@
   {
     "key": "e_16b13d9aea_0009_98739b95cc",
     "original": "……！",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 150\nCall: im.event\nSpeaker: IMC_REI"
+    "translation": "……！",
+    "context": "File: FREE/NEV_SEV0411.NUT\nLine: 150\nCall: im.event\nSpeaker: IMC_REI",
+    "stage": 1
   }
 ]

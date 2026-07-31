@@ -37,8 +37,9 @@
   {
     "key": "e_2fb1dc591d_0006_8506ee0889",
     "original": "　　ジオフロント",
-    "translation": "",
-    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26\nVoice: 　　初号機ケイジ"
+    "translation": "地下都市",
+    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26\nVoice: 　　初号機ケイジ",
+    "stage": 1
   },
   {
     "key": "e_2fb1dc591d_0007_6bfec2b23e",

@@ -212,8 +212,9 @@
   {
     "key": "e_9e783d215a_0031_cb25dbc346",
     "original": "………………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 532\nCall: im.event\nSpeaker: IMC_SHINJI"
+    "translation": "………………",
+    "context": "File: FREE/NEV_TEV1203.NUT\nLine: 532\nCall: im.event\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_9e783d215a_0032_cadcdc8883",

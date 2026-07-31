@@ -37,20 +37,23 @@
   {
     "key": "e_c2fcaa9fd6_0006_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_HIKARI"
+    "translation": "……",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_HIKARI",
+    "stage": 1
   },
   {
     "key": "e_c2fcaa9fd6_0007_b5999fb8c4",
     "original": "…………",
-    "translation": "",
-    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_HIKARI"
+    "translation": "…………",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_HIKARI",
+    "stage": 1
   },
   {
     "key": "e_c2fcaa9fd6_0008_cb25dbc346",
     "original": "………………",
-    "translation": "",
-    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_HIKARI"
+    "translation": "………………",
+    "context": "File: HIKARI/CHR_HIKARI_END.NUT\nLine: 52\nCall: im.event\nSpeaker: IMC_HIKARI",
+    "stage": 1
   },
   {
     "key": "e_c2fcaa9fd6_0009_b1f2cc52ed",

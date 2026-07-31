@@ -205,8 +205,9 @@
   {
     "key": "e_24c0d0c384_0030_5f2e46dabe",
     "original": "…………………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 872\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_0501_01_017"
+    "translation": "…………………",
+    "context": "File: FREE/NEV_TEV0501.NUT\nLine: 872\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_0501_01_017",
+    "stage": 1
   },
   {
     "key": "e_24c0d0c384_0031_2b26d88db1",

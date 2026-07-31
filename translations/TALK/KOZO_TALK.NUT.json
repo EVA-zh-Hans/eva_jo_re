@@ -338,8 +338,9 @@
   {
     "key": "e_6fd828a5c0_0050_2fea3856a6",
     "original": "やあ　新顔だね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 152\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "哟　新面孔呢",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 152\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0052_386698dcb0",
@@ -351,14 +352,16 @@
   {
     "key": "e_6fd828a5c0_0054_6283837129",
     "original": "元気そうだね　結構　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 154\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "看起来精神不错　很好",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 154\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0056_dfce8cce2f",
     "original": "元気そうだね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 155\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "看起来很有精神呢",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 155\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0058_8951dddcb3",
@@ -398,8 +401,9 @@
   {
     "key": "e_6fd828a5c0_0068_e6cdb44705",
     "original": "%sねえ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 161\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s啊",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 161\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0070_dc1888da37",
@@ -446,32 +450,37 @@
   {
     "key": "e_6fd828a5c0_0082_0ef183120b",
     "original": "退院おめでとう\\n私からもお祝いを述べさせてくれ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 168\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "恭喜出院\n请允许我也送上祝福",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 168\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0084_7b1a271df5",
     "original": "不憫だが、がんばってくれたまえ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 169\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "虽然可怜　但还请继续努力",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 169\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0086_72fe22f5b5",
     "original": "なんとか病院から出てきたみたいだね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 170\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "总算从医院出来了啊",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 170\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0088_d880b6c2cc",
     "original": "退院したんだね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 171\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "出院了呢",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 171\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0090_6858f2df46",
     "original": "ああ、退院したようでよかった　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 172\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "啊　能顺利出院真是太好了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 172\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0092_53d249b5c6",
@@ -483,26 +492,30 @@
   {
     "key": "e_6fd828a5c0_0094_2f47ac9d84",
     "original": "%sが退院したそうだよ\\nいや、よかった　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 174\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "听说%s出院了\\n真是太好了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 174\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0096_9d38754e5a",
     "original": "%sが退院したそうだよ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 175\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "听说%s出院了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 175\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0098_fdb778bf36",
     "original": "%sが退院したそうだ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 176\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s出院了吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 176\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0100_cd61cd7b72",
     "original": "%sが退院したそうだね\\nいや、それだけだが　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 177\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s总算出院了呢\\n嗯，就这样",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 177\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0102_cf1211da33",
@@ -591,8 +604,9 @@
   {
     "key": "e_6fd828a5c0_0126_0c30c0efb6",
     "original": "%sは大丈夫かな　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 190\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s应该没事吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 190\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0128_bd15f34cef",
@@ -604,8 +618,9 @@
   {
     "key": "e_6fd828a5c0_0130_04a83bb918",
     "original": "%sの戦力評価が\\n下がってないといいが　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 192\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s的战力评价\\n可别因此下降才好啊",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 192\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0132_cf1211da33",
@@ -645,62 +660,72 @@
   {
     "key": "e_6fd828a5c0_0142_577d7d5f3e",
     "original": "なかなか似合ってるよ\\n素敵だと思う　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 198\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "意外地很合适呢\\n我觉得很棒",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 198\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0144_999ea97a98",
     "original": "ふむ　まあ、そうだね\\n良く似合っている　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 199\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "嗯…确实\\n非常相称",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 199\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0146_9116f57efb",
     "original": "ふむ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 200\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "唔",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 200\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0148_a5a8771edd",
     "original": "何か間違えたのかね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 201\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "哪里搞错了吗",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 201\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0150_4418cadfdb",
     "original": "大変に間違った感じだね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 202\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "完全就是错误的感觉啊",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 202\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0152_d0021d95cd",
     "original": "%sが目の毒でね\\nいや　眼福かな　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 203\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s真是让人眼花呢\\n不，该说是眼福才对",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 203\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0154_b799f4b635",
     "original": "%sがどうかしたのかね\\nああ、着替えか　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 204\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s怎么了\\n啊，换衣服啊",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 204\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0156_52fa263fbe",
     "original": "%sがどうかしたのかね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 205\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s出什么事了吗",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 205\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0158_52fa263fbe",
     "original": "%sがどうかしたのかね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 206\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s出什么事了吗",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 206\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0160_cff3554309",
     "original": "%sがどうかしたのかね\\nああ　あの酷い格好か　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 207\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s怎么回事\\n啊…那身糟糕打扮啊",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 207\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0162_810e2949d2",
@@ -712,20 +737,23 @@
   {
     "key": "e_6fd828a5c0_0164_889fa8bfdb",
     "original": "さてさて　うまく勝ちはしたが　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 209\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "虽说赢得漂亮",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 209\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0166_9f52639364",
     "original": "まあ　当然の結果だね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 210\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "嘛，这是理所当然的结果",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 210\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0168_c269129dc4",
     "original": "君にしては良くやってくれた　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 211\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "对你来说算是做得不错了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 211\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0170_ceec2cbf55",
@@ -737,20 +765,23 @@
   {
     "key": "e_6fd828a5c0_0172_8f8c8f0c20",
     "original": "建物の配置を考えるべきだろうね\\nでも、おめでとう　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 213\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "该好好考虑建筑物布局才对\n不过，恭喜了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 213\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0174_56b1674038",
     "original": "勝ててよかったよ\\nこんなところでは、つまづけないからね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 214\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "能赢真是太好了\n在这种地方可不能栽跟头",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 214\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0176_a365034d84",
     "original": "まあ、勝ててよかった　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 215\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "嘛，能赢就好",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 215\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0178_31b915de10",
@@ -762,62 +793,72 @@
   {
     "key": "e_6fd828a5c0_0180_4c67221b50",
     "original": "次は、もっといい勝ち方をしたまえ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 217\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "下次要用更好的方式取胜",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 217\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0182_48b7f4ac3b",
     "original": "いい戦いだったよ\\n安心して見ていられた　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 218\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "打得不错\n我观战得很安心",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 218\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0184_c586f43db7",
     "original": "ふむ　文句の付けようがないね\\nよくやった　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 219\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "嗯…无可挑剔\n干得好",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 219\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0186_6e9e1795fb",
     "original": "模擬戦とはいえ\\nいや、よくやったよ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 220\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "虽然是模拟战\n不过确实干得漂亮",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 220\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0188_c586f43db7",
     "original": "ふむ　文句の付けようがないね\\nよくやった　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 221\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "嗯…无可挑剔\n干得好",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 221\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0190_f228bbc353",
     "original": "まあまあだ　もっとがんばりたまえ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 222\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "马马虎虎吧 再加把劲",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 222\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0192_8b7513bed8",
     "original": "いい、戦いだったよ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 223\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "不错，这场战斗很精彩",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 223\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0194_62c66dd96a",
     "original": "模擬戦熱心なのはいいことだよ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 224\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "热衷模拟战是好事",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 224\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0196_b2f1aa3b06",
     "original": "まあまあだね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 225\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "还算不错",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 225\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0198_d804baed11",
     "original": "ぎりぎりだが、まあ、合格点だろう　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 226\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "勉强及格，算是达标了吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 226\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0200_ac934fd7cf",
@@ -836,32 +877,37 @@
   {
     "key": "e_6fd828a5c0_0204_b770b5f22c",
     "original": "建物が一番重要だ\\nうまく使ってみたまえ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 229\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "建筑物才是关键\n好好运用它们吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 229\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0206_212b5ae36d",
     "original": "もう少し建物を有効活用したほうが\\nいいんじゃないかね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 230\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "该更充分利用建筑物\n你觉得呢？",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 230\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0208_a262b6cb03",
     "original": "ふうむ　まだまだだね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 231\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "唔…还差得远呢",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 231\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0210_cd1d3fc955",
     "original": "戦い方を根本から考え直したまえ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 232\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "从根本上重新思考战斗方式吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 232\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0212_ac81b00078",
     "original": "…次は注意したまえ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 233\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "…下次要注意了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 233\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0214_92029e41e6",
@@ -894,20 +940,23 @@
   {
     "key": "e_6fd828a5c0_0222_03700e04b3",
     "original": "人間同士が協力できるのは、\\nここまでだろうね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 238\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "人类之间的协作\n恐怕到此为止了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 238\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0224_04b3145e2e",
     "original": "…次は人類との戦いだろうね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 239\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "…下次就是与人类的战争了吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 239\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0226_a1069c5635",
     "original": "君のおかげで助かっているよ　\\nありがとう　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 240\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "多亏有你才得救呢\\n谢谢",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 240\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0228_06d3383f74",
@@ -919,20 +968,23 @@
   {
     "key": "e_6fd828a5c0_0230_168db86d41",
     "original": "戦闘の準備を進めておきたまえ\\nそろそろ本番だ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 242\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "做好战斗准备\\n马上就要正式上场了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 242\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0232_ec57452065",
     "original": "私の思った通り、\\nやっぱりエヴァは強いのだね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 243\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "正如我所料\\nEVA果然很强呢",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 243\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0234_b04115e34a",
     "original": "使徒との戦いは、全体の一部さ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 244\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "与使徒的战斗不过是全局的一环",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 244\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0236_f7b3cc3b55",
@@ -944,44 +996,51 @@
   {
     "key": "e_6fd828a5c0_0238_90d0ead10b",
     "original": "戦況は有利だ\\nそのままやってくれたまえ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 246\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "战况有利\\n继续保持下去吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 246\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0240_08341717da",
     "original": "まあ、ほめておくよ\\nよくやってくれている　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 247\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "姑且表扬你吧\\n干得不错",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 247\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0242_ed8ac97ae7",
     "original": "エヴァは…\\nいや　がんばってくれたまえ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 248\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "EVA……\\n不　继续努力吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 248\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0244_db820a3ad4",
     "original": "戦況は均衡状態だよ　…まあ、\\n崩れているのを待っているだけとも言うがね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 249\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "战况处于胶着状态　……不过\\n也可以说只是在等待平衡被打破",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 249\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0246_b5c2a6d0b6",
     "original": "戦況は均衡状態だよ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 250\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "战况处于胶着状态",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 250\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0248_b41ed4886e",
     "original": "使徒との戦闘は避けられぬ必然だ\\n悲しいことだがね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 251\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "与使徒的战斗是不可避免的宿命\\n虽然很悲哀",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 251\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0250_6305161360",
     "original": "……　まあ、いずれ分るよ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 252\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "……　也罢　总有一天你会明白",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 252\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0252_3b4962b354",
@@ -993,14 +1052,16 @@
   {
     "key": "e_6fd828a5c0_0254_5169e1b133",
     "original": "戦況は不利だよ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 254\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "战况不利啊",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 254\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0256_2108768709",
     "original": "計画とは少し違うな\\nいや　そうでもないか…　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 255\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "计划似乎有些偏差\\n不　或许也没差……",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 255\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0258_d85d975022",
@@ -1012,8 +1073,9 @@
   {
     "key": "e_6fd828a5c0_0260_4747ccf248",
     "original": "もっと、うまく戦ってくれたまえ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 257\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "下次要打得更好些",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 257\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0262_7623dd67dd",
@@ -1025,14 +1087,16 @@
   {
     "key": "e_6fd828a5c0_0264_3b18ab5155",
     "original": "その日がくれば、\\nきっと言う暇なんかないだろうからね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 259\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "等到那天来临\\n恐怕就没机会说了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 259\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0266_5dfa4f5ddf",
     "original": "そろそろ碇が動くだろうな\\nいや、なんでもない　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 260\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "碇差不多该行动了吧\\n不　当我没说",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 260\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0268_6511961a84",
@@ -1044,8 +1108,9 @@
   {
     "key": "e_6fd828a5c0_0270_27799ade0f",
     "original": "そろそろ、終わるね　人類も　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 262\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "差不多该终结了　人类也是",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 262\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0272_1d4cac7c83",
@@ -1127,32 +1192,37 @@
   {
     "key": "e_6fd828a5c0_0294_bd4a548827",
     "original": "最近国連軍の戦車が多い\\n頼んでもいないのにね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 274\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "最近UN军队的坦克变多了\n明明没请求支援",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 274\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0296_015d0fed0b",
     "original": "非常に倒錯した言い方だが、使徒のおかげで\\n私たちは安心して眠れるのかも知れないね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 275\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "虽然说法很扭曲\n但多亏使徒我们才能安睡吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 275\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0298_4acc42f049",
     "original": "やれやれ　歳を感じるよ\\n君たちを見てるとね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 276\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "哎呀呀　看着你们\n我都感觉岁月不饶人了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 276\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0300_b475a6073f",
     "original": "今日も暑くなりそうだね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 277\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "今天看来也会很热",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 277\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0302_ca8f2d6acc",
     "original": "学校か\\nいつのまにか教えるほうが長くなったからねえ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 278\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "学校吗\n不知不觉教书的时间比上学还长了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 278\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0304_7891c9fc47",
@@ -1164,14 +1234,16 @@
   {
     "key": "e_6fd828a5c0_0306_2f8b16d00a",
     "original": "勇気とは新しいことへの挑戦であり、\\nどんな仕事も挑戦の連続でないと、うまくいかない　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 280\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "所谓勇气就是挑战新事物\n任何工作都需要持续挑战才能做好",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 280\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0308_cf9c403aec",
     "original": "友人を見れば自分がわかるものだよ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 281\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "看朋友就能明白自己",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 281\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0310_d591dc53d4",
@@ -1183,50 +1255,58 @@
   {
     "key": "e_6fd828a5c0_0312_8e8a3cbd9a",
     "original": "まあ、私の場合は\\n負ける将棋が一番嫌いだがね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 283\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "不过对我来说\n最讨厌输棋",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 283\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0314_9e329309ae",
     "original": "趣味とは好きなもののことだよ\\n君の趣味はなにか、考えてみることだ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 284\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "兴趣就是喜欢的东西\n你该想想自己的兴趣是什么",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 284\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0316_39511ec71a",
     "original": "遊ぶのはいつでもできるさ\\n生き残ることを優先するといいね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 285\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "玩乐随时都可以\n优先考虑生存更重要",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 285\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0318_6aafdbef78",
     "original": "…変な気持ちだな　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 286\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "…感觉真奇怪",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 286\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0320_12cd54f3ba",
     "original": "老人に興味でもあるのかね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 287\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "对老头子感兴趣？",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 287\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0322_5872f72f94",
     "original": "すいつくような若い肌だね\\n気持ちがいい　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 288\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "年轻人黏滑的肌肤真不错\n很舒服",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 288\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0324_4e1f423438",
     "original": "？\\n最近の若者は理解できんな　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 289\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "？\n现在的年轻人真难懂",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 289\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0326_f5ea1467b5",
     "original": "…敵に追いつかなければ、\\n意味はないな　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 290\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "…追不上敌人的话\n就没有意义",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 290\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0328_6b4ca33e0f",
@@ -1238,14 +1318,16 @@
   {
     "key": "e_6fd828a5c0_0330_3a6dc08192",
     "original": "自分なりの勝ちパターンを\\n開発したらどうだね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 292\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "不如开发一套属于自己的必胜模式吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 292\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0332_8b73a0727f",
     "original": "司令は、昔は私の教え子だったんだよ\\nできのいい教え子じゃなかったな　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 293\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "司令以前是我的学生\\n可不是什么优秀学生啊",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 293\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0334_271997dd43",
@@ -1257,26 +1339,30 @@
   {
     "key": "e_6fd828a5c0_0336_b66792ef7e",
     "original": "レイは…いや、なんでもない\\nなかよくしてやってくれ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 295\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "丽她……不，没什么\\n希望你能好好待她",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 295\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0338_88370c2227",
     "original": "最近の若いものの\\n考えていることがわからない　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 296\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "最近年轻人的想法\\n实在难以理解",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 296\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0340_9a3eed75fb",
     "original": "ふう　話題がないのも考え物だね　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 297\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "呼……没有话题可聊也是问题啊",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 297\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0342_b6f065c90e",
     "original": "いい加減にしてくれたまえ　",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 298\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "适可而止吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 298\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0344_0b2c91f12d",
@@ -1365,20 +1451,23 @@
   {
     "key": "e_6fd828a5c0_0368_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 472\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 472\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0370_fde9e419d4",
     "original": "……\\n……▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 473\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "……\\n……▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 473\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0372_fde9e419d4",
     "original": "……\\n……▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 474\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "……\\n……▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 474\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0374_e315f8fcf5",
@@ -1425,8 +1514,9 @@
   {
     "key": "e_6fd828a5c0_0386_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 481\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 481\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0388_5beb9f238d",

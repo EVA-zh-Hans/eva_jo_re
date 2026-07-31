@@ -79,8 +79,9 @@
   {
     "key": "e_7bf450ae05_0012_5f2e46dabe",
     "original": "…………………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 331\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1202_12_010"
+    "translation": "…………………",
+    "context": "File: FREE/NEV_TEV1202.NUT\nLine: 331\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1202_12_010",
+    "stage": 1
   },
   {
     "key": "e_7bf450ae05_0013_0fc8bf5c4f",

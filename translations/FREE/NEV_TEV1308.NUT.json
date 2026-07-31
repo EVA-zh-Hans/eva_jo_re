@@ -79,8 +79,9 @@
   {
     "key": "e_b10c846454_0012_9833251ad9",
     "original": "……………▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 305\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "……………▽",
+    "context": "File: FREE/NEV_TEV1308.NUT\nLine: 305\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b10c846454_0013_a7d79eb623",

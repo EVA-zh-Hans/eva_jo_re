@@ -44,20 +44,23 @@
   {
     "key": "e_6901d3dfdb_0007_16dda72729",
     "original": "ＮＥＷ ＧＡＭＥ",
-    "translation": "",
-    "context": "File: SQ/TITLE.NUT\nLine: 197\nCall: MenuSetup\nVoice: ＣＯＮＴＩＮＵＥ"
+    "translation": "新游戏",
+    "context": "File: SQ/TITLE.NUT\nLine: 197\nCall: MenuSetup\nVoice: ＣＯＮＴＩＮＵＥ",
+    "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0008_63a14f9f1d",
     "original": "ＣＯＮＴＩＮＵＥ",
-    "translation": "",
-    "context": "File: SQ/TITLE.NUT\nLine: 197\nCall: MenuSetup\nVoice: ＯＰＴＩＯＮ"
+    "translation": "继续游戏",
+    "context": "File: SQ/TITLE.NUT\nLine: 197\nCall: MenuSetup\nVoice: ＯＰＴＩＯＮ",
+    "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0009_7fa555c1b3",
     "original": "ＯＰＴＩＯＮ",
-    "translation": "",
-    "context": "File: SQ/TITLE.NUT\nLine: 197\nCall: MenuSetup"
+    "translation": "设置",
+    "context": "File: SQ/TITLE.NUT\nLine: 197\nCall: MenuSetup",
+    "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0010_849842466f",
@@ -916,8 +919,9 @@
   {
     "key": "e_6901d3dfdb_0132_83fd17a828",
     "original": "ＪＡ",
-    "translation": "",
-    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: ガギエル"
+    "translation": "ＪＡ",
+    "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup\nVoice: ガギエル",
+    "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0133_091397b548",

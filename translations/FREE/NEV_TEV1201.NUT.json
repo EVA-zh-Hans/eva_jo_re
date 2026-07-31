@@ -30,8 +30,9 @@
   {
     "key": "e_e59d60203f_0005_4be66cf94e",
     "original": "………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 238\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1201_02_005"
+    "translation": "………",
+    "context": "File: FREE/NEV_TEV1201.NUT\nLine: 238\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_1201_02_005",
+    "stage": 1
   },
   {
     "key": "e_e59d60203f_0006_ebcd839302",

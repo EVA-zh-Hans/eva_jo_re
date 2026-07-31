@@ -576,8 +576,9 @@
   {
     "key": "e_2f2a2e9d55_0118_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/M034_TALK.NUT\nLine: 186\nSpeaker: IMC_STUDENT\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/M034_TALK.NUT\nLine: 186\nSpeaker: IMC_STUDENT\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_2f2a2e9d55_0120_d523684bcb",

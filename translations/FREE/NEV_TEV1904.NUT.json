@@ -135,8 +135,9 @@
   {
     "key": "e_93504af1d6_0020_4be66cf94e",
     "original": "………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 441\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "………",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 441\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_93504af1d6_0021_aa1d64d7b7",
@@ -246,8 +247,9 @@
   {
     "key": "e_93504af1d6_0036_01b4924864",
     "original": "………………………………………………………………\\n…………………………………………………………！？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 762\nCall: im.event\nSpeaker: IMC_SHINJI"
+    "translation": "………………………………………………………………\\n…………………………………………………………！？",
+    "context": "File: FREE/NEV_TEV1904.NUT\nLine: 762\nCall: im.event\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_93504af1d6_0037_3cbc9c3f7d",

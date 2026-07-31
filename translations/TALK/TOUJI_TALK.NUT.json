@@ -338,8 +338,9 @@
   {
     "key": "e_d1e3aa4a34_0050_6ab8aabf8f",
     "original": "ワイは鈴原じゃ　うむー　よろしゅう　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 152\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "俺是铃原～嗯～请多关照",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 152\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0052_1a265f4500",
@@ -358,8 +359,9 @@
   {
     "key": "e_d1e3aa4a34_0056_3389d6510f",
     "original": "よお　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 155\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "哟",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 155\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0058_d39bec34a2",
@@ -378,8 +380,9 @@
   {
     "key": "e_d1e3aa4a34_0062_8aeb0aa2da",
     "original": "げー　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 158\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "呕——",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 158\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0064_d10723ee2b",
@@ -391,20 +394,23 @@
   {
     "key": "e_d1e3aa4a34_0066_f08afa6edb",
     "original": "%s…",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 160\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s……",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 160\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0068_fa26be06c6",
     "original": "%sが死んだ\\n…くやしいのう　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 161\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s死了\\n…真不甘心啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 161\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0070_22f3c7799b",
     "original": "%sも、\\n運が悪かったナァ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 162\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s也是\\n运气不好啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 162\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0072_88f1cb4be5",
@@ -416,8 +422,9 @@
   {
     "key": "e_d1e3aa4a34_0074_f0cf72e65d",
     "original": "まー　あー\\n心配させてたら、すまん　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 164\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "嘛～啊～\\n让你担心了，抱歉",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 164\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0076_b654acdd28",
@@ -429,62 +436,72 @@
   {
     "key": "e_d1e3aa4a34_0078_e38c0a0ff6",
     "original": "いやー　ひどい目おうたー　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 166\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "哎呀～可遭大罪了～",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 166\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0080_6ae0da4b83",
     "original": "なんや　心配せんでもええで　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 167\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "没啥好担心的啦",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 167\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0082_9733aaf166",
     "original": "鬼の霍乱やな　カカカ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 168\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "鬼也会生病呢 咔咔咔",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 168\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0084_118e048aa2",
     "original": "…あんまり心配させるな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 169\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "…别让人太担心啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 169\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0086_4ff3d845f3",
     "original": "無理、すんなよ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 170\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "别太勉强自己",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 170\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0088_df60c9ac33",
     "original": "退院おめでと　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 171\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "恭喜出院",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 171\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0090_4ba0893680",
     "original": "なんや、もう出てきたんか　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 172\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "怎么，已经能下床啦？",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 172\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0092_aa780fa627",
     "original": "あー　平和も終わりやぁ\\nいや、こっちのことじゃ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 173\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "啊～和平日子到头啦～\\n啊 不是说咱们的事",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 173\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0094_16093bf39a",
     "original": "%s、退院して嬉しいわ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 174\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s 出院了真开心",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 174\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0096_0f99077839",
     "original": "%sが\\nやっとでてきたそうじゃ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 175\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s\\n听说终于能下床啦",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 175\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0098_d36e316ec1",
@@ -496,44 +513,51 @@
   {
     "key": "e_d1e3aa4a34_0100_bd30126c4c",
     "original": "%sかぁ\\n怪我してたんか　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 177\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s啊\\n原来受伤了吗",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 177\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0102_f08afa6edb",
     "original": "%s…",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 178\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s……",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 178\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0104_9f09848a31",
     "original": "心配すんな　大丈夫じゃ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 179\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "别担心 没事的",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 179\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0106_37e615648a",
     "original": "はよ、怪我なおさんとなあ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 180\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "快点把伤养好啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 180\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0108_88f598a16b",
     "original": "これか　きにすんな\\n怪我ぐらい普通じゃ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 181\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "就这点伤 别在意\\n受点小伤很正常啦",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 181\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0110_519589bd5a",
     "original": "あー　イタイイタイ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 182\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "啊～好痛好痛",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 182\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0112_5a4d8dadeb",
     "original": "お前も怪我したらええんじゃ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 183\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "你也该尝尝受伤的滋味",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 183\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0114_c0b1bda298",
@@ -566,20 +590,23 @@
   {
     "key": "e_d1e3aa4a34_0122_0f76af41a6",
     "original": "まあ、これに懲りて\\n大人しくすることやな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 188\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "嘛 吃一堑长一智\\n以后安分点吧",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 188\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0124_4dd8b3ba36",
     "original": "%s、大丈夫かな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 189\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s 不要紧吧",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 189\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0126_fd10f52661",
     "original": "%sめ…休めばいいのに　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 190\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s这家伙……明明可以休息的",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 190\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0128_7580972b04",
@@ -598,14 +625,16 @@
   {
     "key": "e_d1e3aa4a34_0132_2a23f32930",
     "original": "%s、死に損なったな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 193\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s，差点就死了啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 193\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0134_fc80697161",
     "original": "なんや　笑うならはよおせえ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 194\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "干嘛啊　要笑就快点笑",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 194\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0136_2e11b4ec7d",
@@ -617,38 +646,44 @@
   {
     "key": "e_d1e3aa4a34_0138_81e93d98f8",
     "original": "なんや、ジロジロ見て　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 196\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "搞啥啊，盯着人看",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 196\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0140_fea1437303",
     "original": "……？",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 197\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "……？",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 197\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0142_d7740834b5",
     "original": "こっち見るな　気持ち悪い　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 198\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "别往这边看　恶心死了",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 198\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0144_2f586aad0a",
     "original": "まあ、馬子にも衣装と言うのは、認める　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 199\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "嘛，俗话说人靠衣装，这点我承认",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 199\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0146_6d3916aac2",
     "original": "へえ…　なにその格好　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 200\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "嘿……这什么打扮啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 200\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0148_ecce40a358",
     "original": "なんか違う気がするな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 201\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "总觉得哪里不对劲",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 201\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0150_66861136dd",
@@ -660,8 +695,9 @@
   {
     "key": "e_d1e3aa4a34_0152_69ca70eae8",
     "original": "うわ、趣味わるっ　いや\\nなんでもなーい　なんでもありませーん　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 203\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "哇、品味真差　啊不\n没什么　真的没什么～",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 203\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0154_363f3cc840",
@@ -673,8 +709,9 @@
   {
     "key": "e_d1e3aa4a34_0156_242ed30b0c",
     "original": "%sになにかあったんかなあ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 205\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s是不是遇到什么事了",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 205\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0158_8a9cc4fd74",
@@ -693,74 +730,86 @@
   {
     "key": "e_d1e3aa4a34_0162_80a07602be",
     "original": "%s、下心、見えすぎじゃ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 208\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s，你那点心思太明显了",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 208\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0164_dad5cb5347",
     "original": "さすがだな…ありがとう　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 209\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "真厉害啊…谢谢",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 209\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0166_f0c34790a2",
     "original": "勝ったなあ　実感ないけど　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 210\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "赢了啊　虽然没什么实感",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 210\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0168_b7b26f614f",
     "original": "次もこうありたいのう　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 211\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "希望下次也能这样",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 211\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0170_c3002ce741",
     "original": "まあ、ようやった　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 212\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "嘛，干得不错",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 212\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0172_b8b0b60267",
     "original": "手、抜くなよ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 213\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "别偷懒啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 213\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0174_2d71774d96",
     "original": "…よかった　友達なくさんですんだ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 214\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "…太好了　没失去朋友",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 214\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0176_9835cb9b36",
     "original": "毎度心配させる名人やな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 215\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "每次都让人担心的专家啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 215\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0178_16e63dc1ac",
     "original": "今日があるのもお前のせいじゃ\\nナンマンダブナンマンダブ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 216\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "能有今天还不都是托你的福\\n南无阿弥陀佛南无阿弥陀佛",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 216\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0180_0f5d6ffe2c",
     "original": "危ない危ない　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 217\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "好险好险",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 217\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0182_2c990d1dce",
     "original": "運、よかったな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 218\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "运气，不错嘛",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 218\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0184_80d485c6f1",
     "original": "上でき、上でき　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 219\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "干得好，干得好",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 219\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0186_1571188f3c",
@@ -772,14 +821,16 @@
   {
     "key": "e_d1e3aa4a34_0188_bea7d6540e",
     "original": "楽勝だったな！　おめでとー　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 221\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "轻松搞定！恭喜啊～",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 221\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0190_b55d0630eb",
     "original": "楽勝、楽勝　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 222\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "小菜一碟，小菜一碟",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 222\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0192_7e2e441aea",
@@ -791,56 +842,65 @@
   {
     "key": "e_d1e3aa4a34_0194_e6517a939a",
     "original": "模擬戦でも、緊張するもんだな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 224\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "就算是模拟战，也会紧张啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 224\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0196_98a84db954",
     "original": "練習、するか　もっと簡単に勝てるように　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 225\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "要不要加练？为了赢得更轻松",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 225\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0198_330e1a17b7",
     "original": "今回相性はよかったみたいだな\\n次はどうか、わからんけども　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 226\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "这次相性好像不错\\n下次就不好说咯",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 226\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0200_e7d65fadf0",
     "original": "先行き不安やのー　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 227\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "前途堪忧啊～",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 227\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0202_05174b48d1",
     "original": "ぎりぎりや　自慢することやない　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 228\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "勉强过关　没啥好得意的",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 228\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0204_35dbdf427a",
     "original": "惜しかったなあ　カカカ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 229\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "差一点就赢了啊　哈哈哈",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 229\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0206_1a60bbe166",
     "original": "負けたなあ　ははは\\n次がある　次がある　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 230\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "输了啊　哈哈哈\\n还有下次　还有下次",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 230\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0208_e5b260e2bb",
     "original": "惜しかったのう　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 231\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "可惜了可惜了",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 231\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0210_91f917520a",
     "original": "先行き超不安やのー　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 232\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "前途一片漆黑啊～",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 232\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0212_98502b6e01",
@@ -866,56 +926,65 @@
   {
     "key": "e_d1e3aa4a34_0218_8d0afd381c",
     "original": "模擬戦とは言え　大負けやなあ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 236\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "虽然是模拟战　但输得真惨啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 236\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0220_6d602ef1d2",
     "original": "先行き真っ暗じゃー　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 237\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "未来完全没指望啦～",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 237\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0222_1cdb005cf6",
     "original": "本番でなくてよかったな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 238\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "幸好不是实战",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 238\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0224_033240fe73",
     "original": "平和になったら…いや　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 239\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "等和平之后…算了",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 239\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0226_51cf71ae8e",
     "original": "敵がおらんようになったら、\\nもう一度、修学旅行させてくれんかな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 240\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "等敌人全消灭了\\n能不能再组织次修学旅行啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 240\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0228_489c3ec6af",
     "original": "こりゃ、勉強の季節到来だのう　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 241\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "看来是到了该用功的季节了啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 241\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0230_c4a2041dc9",
     "original": "…あんがとな\\n平和の礼だけは　しとく　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 242\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "……谢啦\n至少让我为和平道个谢",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 242\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0232_b29f772fef",
     "original": "平和になると　お前ですら許せそうになるなあ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 243\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "和平时期连你这种家伙都看着顺眼起来了",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 243\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0234_a55dc9d993",
     "original": "お互い、がんばってると思いたいな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 244\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "就当彼此都在努力吧",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 244\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0236_54ed756be7",
@@ -927,62 +996,72 @@
   {
     "key": "e_d1e3aa4a34_0238_4bc727d213",
     "original": "いいから皆まで言わすな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 246\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "闭嘴 别让我把话说完",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 246\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0240_4d6a3f6bc6",
     "original": "このままいけるとええな　適度にガッコも休みやし　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 247\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "这样下去不错嘛 学校也适度放假",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 247\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0242_e9030c2739",
     "original": "話によれば、勝ってるそうじゃ\\nどの辺でそう思ってるかわからんが　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 248\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "听说战况占优\n但谁知道是哪个部分占优",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 248\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0244_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 249\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 249\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0246_2f0dcce5a0",
     "original": "戦いいうのも大変やな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 250\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "打仗这种事真够呛啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 250\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0248_f0ba0c31cc",
     "original": "せいぜい　妹を守ってくれな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 251\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "至少保护好我妹妹",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 251\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0250_cc99c62320",
     "original": "巨人おるから、この街は狙われる言うなあ\\nほんとだろか　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 252\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "都说有巨人在才会盯上这城市\n真的假的",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 252\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0252_4b8e7c1607",
     "original": "戦闘戦闘、お好きやなあ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 253\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "打打杀杀的可真对你胃口",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 253\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0254_459f94c284",
     "original": "街、壊すなよ　巻きこまれたらたまらん　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 254\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "别把街道毁了 被卷进去可受不了",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 254\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0256_36c90e6391",
     "original": "敵は楽しそうだな\\n勝ってる戦争は楽しい言うもんなあ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 255\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "敌人倒挺开心\n听说打赢的战争总是令人愉快",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 255\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0258_4ebdb98477",
@@ -994,26 +1073,30 @@
   {
     "key": "e_d1e3aa4a34_0260_db628e5c70",
     "original": "壊れた建物の破片で\\n歩きにくくてしゃあない　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 257\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "建筑碎片满地\n走路都费劲",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 257\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0262_a93e9c0766",
     "original": "最近みんな荒れとるのう　当然か　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 258\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "最近大伙都暴躁得很 也难怪",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 258\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0264_db0826b460",
     "original": "お前もっとがんばれ　街は酷いぞ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 259\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "你给我再加把劲 街道惨不忍睹了",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 259\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0266_ffa995ed29",
     "original": "心配すんな　なんとかなる\\nそう信じるんや　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 260\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "别担心 总会有办法\n我就是这么相信的",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 260\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0268_44f36b78d3",
@@ -1053,8 +1136,9 @@
   {
     "key": "e_d1e3aa4a34_0278_852255d634",
     "original": "%s、\\nブイブイいわせてるのう　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 266\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s\n挺威风嘛",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 266\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0280_61e532419a",
@@ -1066,8 +1150,9 @@
   {
     "key": "e_d1e3aa4a34_0282_bf3bf750ce",
     "original": "%sめー\\n悪目立ちしとるのう　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 268\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "%s你这家伙\\n净会惹是生非",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 268\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0284_c207b5e348",
@@ -1114,8 +1199,9 @@
   {
     "key": "e_d1e3aa4a34_0296_dabb302357",
     "original": "退屈やなあ\\n空から美人とか落ちてこんかなあ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 275\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "好无聊啊\\n天上怎么不掉个美女下来呢",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 275\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0298_4dc273765c",
@@ -1127,32 +1213,37 @@
   {
     "key": "e_d1e3aa4a34_0300_feac46b462",
     "original": "運動オンチをなおさんとなあ\\nやること一杯や　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 277\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "得改改运动白痴的毛病\\n要干的事堆成山啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 277\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0302_201718750b",
     "original": "あー　天気がどうした？\\n違う　そかー　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 278\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "啊—今天天气咋样？\\n不对当我没说",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 278\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0304_5d2287930a",
     "original": "安心せえ　ワイも勉強は全然じゃ\\nカカカ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 279\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "放心啦\\n俺学习也烂得要死\\n哈哈哈",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 279\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0306_e66966f6e6",
     "original": "うむ\\nお仕事ご苦労　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 280\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "嗯\\n工作辛苦啦",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 280\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0308_ce3e96200c",
     "original": "人間関係なんか考えたこともないなあ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 281\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "人际关系什么的\\n压根没想过啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 281\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0310_4cc99d019e",
@@ -1171,32 +1262,37 @@
   {
     "key": "e_d1e3aa4a34_0314_06013d0de5",
     "original": "嘘です暴力女が駄目でした　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 284\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "骗你的\\n其实最怕暴力女",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 284\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0316_e32143a341",
     "original": "趣味なんか貧乏中学生にあるかい　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 285\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "穷学生哪有什么兴趣爱好",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 285\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0318_74783bbb3a",
     "original": "あー\\n使徒でも来て休みにならんかなあ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 286\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "啊—\\n要是使徒来袭能放假就好了",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 286\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0320_b9d4a0e823",
     "original": "あーまー　キスくらいならな　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 287\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "啊—\\n接吻什么的倒是无所谓啦",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 287\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0322_d76c3af8aa",
     "original": "練習かー　うーん　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 288\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "练习啊—\\n唔…",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 288\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0324_4c37a356e4",
@@ -1208,8 +1304,9 @@
   {
     "key": "e_d1e3aa4a34_0326_12d429b100",
     "original": "ば、バカ、なんやそれは　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 290\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "笨、笨蛋\\n胡说什么呢",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 290\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0328_d132618f16",
@@ -1221,8 +1318,9 @@
   {
     "key": "e_d1e3aa4a34_0330_36aee94ecb",
     "original": "あー、戦いで言うなら\\nＡ．Ｔ．と射程言うんと違うか　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 292\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "要说战斗啊\\n关键还是看AT力场和射程吧",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 292\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0332_756f2a374f",
@@ -1234,8 +1332,9 @@
   {
     "key": "e_d1e3aa4a34_0334_613b6984bc",
     "original": "嘘嘘、かおこわばらせんでも　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 294\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "别别\\n板着张脸多没劲",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 294\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0336_6833201359",
@@ -1247,38 +1346,44 @@
   {
     "key": "e_d1e3aa4a34_0338_b057335401",
     "original": "ケンスケ、ワイより活動的でなあ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 296\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "剑介那家伙，比俺还活跃啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 296\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0340_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 297\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 297\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0342_d838002c25",
     "original": "綾波の太もも、ええなあ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 298\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "绫波的大腿，真不错啊",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 298\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0344_ea0ece378e",
     "original": "ミサトさんはええなあ\\nあこがれのお姉さんやー　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 299\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "美里小姐真棒啊\\n是俺憧憬的大姐姐～",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 299\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0346_cae61f6086",
     "original": "話題もないのう　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 300\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "都没啥话题可聊了",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 300\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0348_7084495523",
     "original": "ええかげんにしてくれ　",
-    "translation": "",
-    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 301\nSpeaker: IMC_TOJI\nVoice: "
+    "translation": "给俺适可而止",
+    "context": "File: TALK/TOUJI_TALK.NUT\nLine: 301\nSpeaker: IMC_TOJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_d1e3aa4a34_0350_ed2e65a195",

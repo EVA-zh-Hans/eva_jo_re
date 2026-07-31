@@ -128,8 +128,9 @@
   {
     "key": "e_068e79ed10_0020_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 326\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "……",
+    "context": "File: FREE/NEV_SEV0402.NUT\nLine: 326\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_068e79ed10_0021_82254d1c1a",

@@ -338,8 +338,9 @@
   {
     "key": "e_b9d8d784fb_0050_e07283bff0",
     "original": "初めまして　よろしくね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 152\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "初次见面　请多关照",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 152\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0052_47cd7064e2",
@@ -365,14 +366,16 @@
   {
     "key": "e_b9d8d784fb_0058_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 156\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 156\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0060_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 157\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 157\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0062_6618f6b41e",
@@ -405,8 +408,9 @@
   {
     "key": "e_b9d8d784fb_0070_75eabc28b7",
     "original": "%s、\\n嫌いだったんだけど　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 162\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "%s……\\n虽然很讨厌你",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 162\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0072_f065910b20",
@@ -460,8 +464,9 @@
   {
     "key": "e_b9d8d784fb_0086_2259329283",
     "original": "よかった　元気そうで\\n心配しちゃった　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 170\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "太好了　看起来精神不错\\n刚才真是担心死了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 170\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0088_ba3504e6c6",
@@ -473,14 +478,16 @@
   {
     "key": "e_b9d8d784fb_0090_c3ea028e3c",
     "original": "退院したんですね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 172\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "已经出院了呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 172\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0092_c521bbe464",
     "original": "あー　退院、おめでとうございます　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 173\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "啊～恭喜出院",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 173\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0094_e597f94188",
@@ -492,26 +499,30 @@
   {
     "key": "e_b9d8d784fb_0096_e058f43c36",
     "original": "%sが退院してよかったですね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 175\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "%s能出院真是太好了呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 175\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0098_e058f43c36",
     "original": "%sが退院してよかったですね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 176\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "%s能出院真是太好了呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 176\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0100_77c631e9d8",
     "original": "%s、退院したそうです　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 177\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "%s好像出院了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 177\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0102_47dde33a54",
     "original": "%s、\\n残念ながら退院したそうです　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 178\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "%s、\n很遗憾听说出院了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 178\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0104_cf1211da33",
@@ -551,8 +562,9 @@
   {
     "key": "e_b9d8d784fb_0114_7442b3fc8f",
     "original": "心配してるんだから\\n頬をつねらせてください　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 184\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "因为很担心、\n让我掐一下脸颊吧",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 184\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0116_3c64ffaf15",
@@ -571,20 +583,23 @@
   {
     "key": "e_b9d8d784fb_0120_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 187\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 187\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0122_24be2597e9",
     "original": "怪我…\\nいえ　なんでもありません　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 188\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "受伤…\\n不、没什么",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 188\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0124_f08afa6edb",
     "original": "%s…",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 189\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "%s……",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 189\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0126_874f3bc85c",
@@ -603,14 +618,16 @@
   {
     "key": "e_b9d8d784fb_0130_9603f2cbda",
     "original": "%s、結構重傷だそうです　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 192\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "%s、听说伤得挺重的",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 192\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0132_2a010d1249",
     "original": "%s、入院は免れたそうです　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 193\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "%s、听说不用住院了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 193\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0134_cf1211da33",
@@ -664,8 +681,9 @@
   {
     "key": "e_b9d8d784fb_0148_33723694b6",
     "original": "えーと　おしゃれさんですね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 201\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "那个……很时尚呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 201\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0150_7317c8a093",
@@ -684,14 +702,16 @@
   {
     "key": "e_b9d8d784fb_0154_b2d951c63f",
     "original": "%s、素敵かも　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 204\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "%s，说不定很合适",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 204\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0156_a453a9a215",
     "original": "%sって、あんな服も似合うんですね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 205\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "%s居然连那种衣服都穿得这么好看",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 205\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0158_e74dab2f2b",
@@ -703,8 +723,9 @@
   {
     "key": "e_b9d8d784fb_0160_9dd04a8733",
     "original": "%s、どうしたのかしら　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 207\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "%s，发生什么事了吗",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 207\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0162_fe566c3681",
@@ -716,80 +737,93 @@
   {
     "key": "e_b9d8d784fb_0164_be486fb71d",
     "original": "…戦争好きとかにならないでくださいね\\nいえ、あの、なんとなく心配に　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 209\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "……请不要变成战争狂之类的\\n那个、就是有点担心",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 209\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0166_7c36cc84ba",
     "original": "快勝でしたね　よかった　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 210\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "赢得漂亮呢　太好了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 210\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0168_25f32c6e02",
     "original": "快勝でしたね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 211\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "赢得真漂亮呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 211\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0170_21533076d6",
     "original": "勝ててよかったですね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 212\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "能赢真是太好了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 212\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0172_c3eb9a6284",
     "original": "うん　勝ててよかった　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 213\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "嗯，能赢太好了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 213\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0174_a106b54abf",
     "original": "ちょっと、心配しました　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 214\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "刚才，有点担心呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 214\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0176_21533076d6",
     "original": "勝ててよかったですね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 215\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "能赢真是太好了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 215\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0178_3f3d810e96",
     "original": "勝ててよかったですね　被害でたけど　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 216\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "能赢真是太好了　虽然受了些损伤",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 216\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0180_6c203c26a3",
     "original": "もう少し、模擬戦していたほうが\\nいいんじゃないですか　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 217\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "再多进行一些模拟战\\n会不会比较好呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 217\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0182_ccce246678",
     "original": "次は、実力で勝てるといいですね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 218\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "希望下次能凭实力取胜呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 218\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0184_6f8df20920",
     "original": "いい、シンクロ率でしたよ　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 219\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "同步率表现得很不错呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 219\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0186_8c3e89ba17",
     "original": "快勝でしたね　すごくよかったですよ　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 220\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "赢得真漂亮　实在太精彩了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 220\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0188_25f32c6e02",
     "original": "快勝でしたね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 221\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "赢得真漂亮呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 221\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0190_58f85a1fc8",
@@ -801,26 +835,30 @@
   {
     "key": "e_b9d8d784fb_0192_4cfab5f1c2",
     "original": "模擬戦ではうまくいってますね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 223\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "模拟战进行得很顺利呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 223\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0194_163d57df65",
     "original": "すごい、模擬戦でしたね\\n接戦と言うか…　とにかくすごかったです　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 224\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "真是精彩的模拟战呢\\n说是势均力敌……总之太厉害了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 224\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0196_6bc82816b6",
     "original": "模擬戦なのに緊張しました　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 225\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "明明是模拟战却紧张起来了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 225\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0198_5969c12427",
     "original": "危なかったですね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 226\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "刚才真是危险呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 226\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0200_d52dc289ef",
@@ -839,8 +877,9 @@
   {
     "key": "e_b9d8d784fb_0204_6930e8eb6b",
     "original": "敵に応じて、武器とか変えて戦えるといいですよね\\nがんばってください　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 229\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "能根据敌人更换武器作战就好了呢\n请继续加油",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 229\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0206_d2d7ffc985",
@@ -859,38 +898,44 @@
   {
     "key": "e_b9d8d784fb_0210_0b4c8df5f7",
     "original": "負けても次があるのが模擬戦、ですから　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 232\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "模拟战就算输了也还有下次嘛",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 232\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0212_77a8a356af",
     "original": "…負けちゃいましたね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 233\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "……输掉了呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 233\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0214_45ed9ae8b3",
     "original": "大敗北でしたね\\nえっと、でも応援してます　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 234\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "惨败了呢\\n那个…不过我会继续支持你的",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 234\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0216_71b24f7366",
     "original": "模擬戦でよかったと思いましょうよ　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 235\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "就当是模拟战才输的好了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 235\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0218_83fac827a2",
     "original": "今度の模擬戦は、がんばりましょうね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 236\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "下次模拟战要加油哦",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 236\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0220_3fe419f356",
     "original": "えーと　模擬戦でよかったですね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 237\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "那个…幸好只是模拟战呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 237\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0222_278feb215b",
@@ -909,14 +954,16 @@
   {
     "key": "e_b9d8d784fb_0226_72db41a99f",
     "original": "最近みんな笑顔になってるんです\\nありがとうございます　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 240\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "最近大家都露出笑容了呢\\n非常感谢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 240\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0228_a64de215d6",
     "original": "ありがとうございます　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 241\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "非常感谢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 241\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0230_09a19dc411",
@@ -928,38 +975,44 @@
   {
     "key": "e_b9d8d784fb_0232_035427dc2d",
     "original": "もう少しで普通の学生に戻れそうですね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 243\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "很快就能回归普通学生的生活了呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 243\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0234_acbbcce3ac",
     "original": "先輩と、先輩が関わったエヴァは、\\nやっぱりすごく強いですよね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 244\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "前辈和前辈驾驶的EVA，果然非常强大呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 244\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0236_df336b9247",
     "original": "私たちも、中々やりますよね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 245\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "我们也很努力了呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 245\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0238_a6605c4316",
     "original": "このまま、勝っていけるといいですね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 246\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "希望就这样继续赢下去呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 246\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0240_facfb5f4d7",
     "original": "戦況は有利だそうです　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 247\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "听说战况很有利",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 247\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0242_e0f35fbfd3",
     "original": "そ、そういえば、戦況は有利だそうです　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 248\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "对、对了，听说战况很有利",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 248\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0244_f8f6f7d4d3",
@@ -971,14 +1024,16 @@
   {
     "key": "e_b9d8d784fb_0246_98365288af",
     "original": "みんなを、守っていきましょうね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 250\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "要好好守护大家才行",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 250\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0248_efe3f7ef38",
     "original": "戦いは五分です　がんばって　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 251\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "胜负五五开　加油",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 251\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0250_82eca1f0e1",
@@ -990,14 +1045,16 @@
   {
     "key": "e_b9d8d784fb_0252_ea46e81c4f",
     "original": "あんまり街を\\n壊さないようにしてくださいね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 253\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "请尽量不要破坏城市呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 253\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0254_4b98b44dd6",
     "original": "大丈夫ですよ\\nがんばればまだ何とかなりますから　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 254\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "没问题的\\n只要努力总会有办法的",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 254\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0256_8cf7bc8260",
@@ -1016,8 +1073,9 @@
   {
     "key": "e_b9d8d784fb_0260_6a04a409bb",
     "original": "…戦いに勝てればいいんだけど　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 257\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "…要是能打赢这场战斗就好了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 257\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0262_d4aff22282",
@@ -1029,8 +1087,9 @@
   {
     "key": "e_b9d8d784fb_0264_7fe3649320",
     "original": "大丈夫ですよ　がんばればまだ…\\nきっと　きっときっと　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 259\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "没问题的 只要努力就还能……\\n一定 一定没问题的",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 259\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0266_14b7ff5ef3",
@@ -1133,8 +1192,9 @@
   {
     "key": "e_b9d8d784fb_0294_195829c265",
     "original": "家に帰りたいときありますよね…\\n洗濯とか　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 274\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "有时候会想回家呢……\\n比如洗衣服什么的",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 274\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0296_164a73278e",
@@ -1146,8 +1206,9 @@
   {
     "key": "e_b9d8d784fb_0298_fd5d73d3d0",
     "original": "モニター越しに見ていても、\\n戦闘って怖いですよね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 276\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "就算隔着屏幕看\\n战斗还是很可怕呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 276\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0300_34d51114dc",
@@ -1159,14 +1220,16 @@
   {
     "key": "e_b9d8d784fb_0302_901877bd02",
     "original": "学校？　ううん\\nなんか普通だったような気がするなあ　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 278\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "学校？唔……\\n感觉就是很普通的样子",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 278\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0304_97bf5cd185",
     "original": "パイロット、お疲れさま　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 279\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "驾驶员，辛苦啦",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 279\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0306_0d8eb8ea02",
@@ -1178,8 +1241,9 @@
   {
     "key": "e_b9d8d784fb_0308_c9d586250a",
     "original": "そういうときは、ちゃんとあやまる\\nこれが一番　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 281\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "这种时候，好好道歉\\n才是最正确的做法",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 281\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0310_618087633e",
@@ -1191,8 +1255,9 @@
   {
     "key": "e_b9d8d784fb_0312_748da836bd",
     "original": "乱雑なのは、結構嫌いです　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 283\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "杂乱无章的东西，我相当讨厌",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 283\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0314_302e66a4c4",
@@ -1211,20 +1276,23 @@
   {
     "key": "e_b9d8d784fb_0318_eb73e21fc0",
     "original": "…私からは\\n動いたりしませんからね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 286\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "……我是不会\n主动采取行动的",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 286\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0320_13bc800e25",
     "original": "その目がいやらしいと思います　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 287\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "你的眼神很下流",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 287\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0322_791731c0db",
     "original": "…はい、握手\\nこれが…精一杯　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 288\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "……来、握手\n这已经是……我的极限了",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 288\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0324_0db151d21c",
@@ -1243,8 +1311,9 @@
   {
     "key": "e_b9d8d784fb_0328_16b8c22151",
     "original": "自分のＡ．Ｔ．は重要ですから、\\nいつも見ながら戦ってくださいね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 291\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "自己的AT力场很重要，请时刻关注着进行战斗",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 291\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0330_30f4ff730a",
@@ -1256,20 +1325,23 @@
   {
     "key": "e_b9d8d784fb_0332_2c578c40b5",
     "original": "赤木先輩は、私の憧れなんです　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 293\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "赤木前辈是我憧憬的人",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 293\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0334_75b449ec4c",
     "original": "葛城さんは、ああ見えて\\n部下の面倒よく見ているんですよ　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 294\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "葛城小姐虽然看起来那样，其实很照顾部下呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 294\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0336_901dc94d0f",
     "original": "司令とはまだ、\\nちゃんと話したことないんです　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 295\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "还没和司令\\n好好说过话呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 295\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0338_48e538ceb5",
@@ -1281,8 +1353,9 @@
   {
     "key": "e_b9d8d784fb_0340_22620c4bf4",
     "original": "…話題、ありませんよね　",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 297\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "……没什么话题可聊呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 297\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0342_04f55bcd0a",
@@ -1336,8 +1409,9 @@
   {
     "key": "e_b9d8d784fb_0356_e5e51ddc49",
     "original": "戦闘で獲得した予算を、使っちゃいますけどね ",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 466\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "不过会把战斗获得的预算花掉呢",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 466\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0358_50907d7e52",
@@ -1734,8 +1808,9 @@
   {
     "key": "e_b9d8d784fb_0470_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 523\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 523\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0472_db2d094964",
@@ -1824,14 +1899,16 @@
   {
     "key": "e_b9d8d784fb_0496_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 536\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 536\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0498_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/MAYA_TALK.NUT\nLine: 537\nSpeaker: IMC_MAYA\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/MAYA_TALK.NUT\nLine: 537\nSpeaker: IMC_MAYA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0500_4d0b4be09c",

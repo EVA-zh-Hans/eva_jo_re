@@ -93,8 +93,9 @@
   {
     "key": "e_431c164d39_0014_cb25dbc346",
     "original": "………………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 423\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "………………",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 423\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0015_797137606f",
@@ -106,8 +107,9 @@
   {
     "key": "e_431c164d39_0016_cb25dbc346",
     "original": "………………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 466\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "………………",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 466\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0017_42ccda85ca",
@@ -126,8 +128,9 @@
   {
     "key": "e_431c164d39_0019_cb25dbc346",
     "original": "………………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 504\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "………………",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 504\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0020_5278596c8b",
@@ -223,8 +226,9 @@
   {
     "key": "e_431c164d39_0033_4be66cf94e",
     "original": "………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 887\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "………",
+    "context": "File: FREE/NEV_TEV1401.NUT\nLine: 887\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_431c164d39_0034_445ed219e3",

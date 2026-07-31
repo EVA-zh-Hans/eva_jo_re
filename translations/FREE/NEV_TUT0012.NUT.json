@@ -58,8 +58,9 @@
   {
     "key": "e_466dee77b2_0009_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 103\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "……",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 103\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0010_20c6441222",

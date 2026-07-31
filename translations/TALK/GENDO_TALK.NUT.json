@@ -338,8 +338,9 @@
   {
     "key": "e_bf2246bd3f_0050_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 152\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 152\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0052_48d682bfab",
@@ -358,26 +359,30 @@
   {
     "key": "e_bf2246bd3f_0056_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 155\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 155\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0058_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 156\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 156\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0060_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 157\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 157\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0062_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 158\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 158\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0064_b135e5edf4",
@@ -403,20 +408,23 @@
   {
     "key": "e_bf2246bd3f_0070_f12262548c",
     "original": "…%s、か　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 162\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "…%s、吗",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 162\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0072_477f94f92f",
     "original": "……　%sは死んだ\\nそれだけだ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 163\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……　%s已经死了\\n仅此而已",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 163\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0074_e260ecc39e",
     "original": "……　%sは死んだ\\nそれだけだ　問題ない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 164\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……　%s已经死了\\n仅此而已　没有问题",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 164\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0076_cf1211da33",
@@ -456,62 +464,72 @@
   {
     "key": "e_bf2246bd3f_0086_eec5a36814",
     "original": "……　痛むか\\nだが、戦ってもらわねばならない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 170\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……　会痛吗\\n但你必须继续战斗",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 170\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0088_a2f92aafbc",
     "original": "無事に戻れたようでなによりだった　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 171\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "平安归来比什么都好",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 171\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0090_0c084fc57f",
     "original": "任務に戻れ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 172\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "回归任务",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 172\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0092_ef6d3d37d3",
     "original": "……　任務に戻れ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 173\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……　回归任务",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 173\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0094_ef6d3d37d3",
     "original": "……　任務に戻れ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 174\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……　回归任务",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 174\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0096_3af4ce8081",
     "original": "%sの退院については\\n聞いている　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 175\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "%s出院的事\\n我听说了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 175\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0098_3af4ce8081",
     "original": "%sの退院については\\n聞いている　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 176\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "%s出院的事\\n我听说了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 176\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0100_3af4ce8081",
     "original": "%sの退院については\\n聞いている　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 177\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "%s出院的事\\n我听说了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 177\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0102_3af4ce8081",
     "original": "%sの退院については\\n聞いている　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 178\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "%s出院的事\\n我听说了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 178\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0104_3af4ce8081",
     "original": "%sの退院については\\n聞いている　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 179\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "%s出院的事\\n我听说了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 179\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0106_cf1211da33",
@@ -551,62 +569,72 @@
   {
     "key": "e_bf2246bd3f_0116_61e598dacd",
     "original": "お前には、\\n悪いことをしていると思っている　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 185\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "对你\\n我始终抱有愧疚",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 185\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0118_20f71f62d6",
     "original": "無理はさせるが\\n無理はするな　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 186\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "虽会强求于你\\n但别太过勉强",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 186\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0120_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 187\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 187\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0122_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 188\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 188\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0124_8c26688095",
     "original": "次の出撃は近い\\n治しておけ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 189\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "下次出击临近\\n尽快养好伤",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 189\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0126_26e9584d60",
     "original": "…%s　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 190\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……%s",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 190\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0128_223fc167da",
     "original": "…%sの負傷については\\n聞いている　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 191\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "…%s负伤的事\\n我听说了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 191\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0130_b203fda3bb",
     "original": "%sの負傷については\\n聞いている　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 192\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "%s负伤的事\\n我听说了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 192\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0132_223fc167da",
     "original": "…%sの負傷については\\n聞いている　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 193\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "…%s负伤的事\\n我听说了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 193\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0134_806df12ccb",
     "original": "%s、か\\nアレでも貴重な戦力だ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 194\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "%s、吗\\n即便如此仍是珍贵战力",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 194\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0136_cf1211da33",
@@ -646,32 +674,37 @@
   {
     "key": "e_bf2246bd3f_0146_6a7432cfc6",
     "original": "…笑うのは苦手だ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 200\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "…我不擅长笑",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 200\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0148_07808f71d9",
     "original": "見慣れない格好だな\\nだが、似合っている　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 201\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "罕见的打扮\\n不过很适合你",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 201\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0150_82c02f6a52",
     "original": "…\\nいや、なんでもない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 202\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "…\\n不、没什么",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 202\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0152_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 203\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 203\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0154_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 204\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 204\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0156_778a60818a",
@@ -683,32 +716,37 @@
   {
     "key": "e_bf2246bd3f_0158_89ea9a769e",
     "original": "%sは…\\nいや　本人に後で聞く　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 206\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "%s她…\\n不　我稍后亲自询问",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 206\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0160_f12262548c",
     "original": "…%s、か　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 207\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "…%s、吗",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 207\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0162_f12262548c",
     "original": "…%s、か　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 208\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "…%s、吗",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 208\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0164_f12262548c",
     "original": "…%s、か　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 209\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "…%s、吗",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 209\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0166_ab71ec41f2",
     "original": "%s、\\nひどい格好だな　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 210\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "%s、\\n真是狼狈的模样",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 210\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0168_1688cbd5f7",
@@ -720,176 +758,205 @@
   {
     "key": "e_bf2246bd3f_0170_50d9c4eaa5",
     "original": "…上できだ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 212\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "…表现上乘",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 212\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0172_fe2a7397aa",
     "original": "いい戦いだった　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 213\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "打得漂亮",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 213\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0174_b2c7649f08",
     "original": "…よくやった　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 214\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……干得不错",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 214\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0176_085879485f",
     "original": "敵が、弱かったな　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 215\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "敌人太弱了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 215\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0178_8f73137f49",
     "original": "いい働きだった\\n次も、この調子でたのむ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 216\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "表现很好\\n下次继续保持这个状态",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 216\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0180_6263ffdb33",
     "original": "計画通りだ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 217\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "一切按计划进行",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 217\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0182_02ac7e8bef",
     "original": "勝ったな　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 218\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "赢了啊",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 218\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0184_eeb0728cd5",
     "original": "計画に違いはない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 219\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "计划没有偏差",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 219\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0186_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 220\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 220\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0188_d8300e7fa3",
     "original": "後は、実戦を待つだけだな　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 221\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "接下来只需等待实战了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 221\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0190_ec2b136af1",
     "original": "満足している　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 222\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "我很满意",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 222\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0192_95f0739471",
     "original": "よくやった　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 223\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "干得好",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 223\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0194_95f0739471",
     "original": "よくやった　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 224\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "干得好",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 224\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0196_95620fb7e4",
     "original": "よくやった\\nそれだけだ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 225\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "干得好\\n仅此而已",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 225\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0198_a165c2f0e1",
     "original": "訓練をがんばっているな　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 226\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "训练很努力啊",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 226\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0200_ae718d3380",
     "original": "模擬戦をやっているのか　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 227\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "在进行模拟战吗",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 227\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0202_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 228\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 228\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0204_ae718d3380",
     "original": "模擬戦をやっているのか　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 229\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "在进行模拟战吗",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 229\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0206_9a18eca6e6",
     "original": "やる気がなければ、エヴァから降りろ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 230\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "没干劲的话就从EVA上下来",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 230\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0208_15a86a6f77",
     "original": "次は勝て　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 231\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "下次要赢",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 231\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0210_a583b7ef11",
     "original": "…\\nなぜ負けたか　考えてみろ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 232\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……\\n想想为什么会输",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 232\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0212_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 233\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 233\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0214_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 234\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 234\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0216_b0167b2d88",
     "original": "次に期待する　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 235\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "期待你下次表现",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 235\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0218_9666e2e2af",
     "original": "……　所詮は模擬戦だ\\n気を、落すな　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 236\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……终究只是模拟战\\n别灰心",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 236\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0220_b9adb7de1f",
     "original": "……　所詮は模擬戦だ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 237\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……终究只是模拟战",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 237\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0222_b9adb7de1f",
     "original": "……　所詮は模擬戦だ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 238\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……终究只是模拟战",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 238\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0224_b9adb7de1f",
     "original": "……　所詮は模擬戦だ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 239\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……终究只是模拟战",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 239\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0226_988aa57db3",
     "original": "もっと、本気でやれ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 240\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "给我更认真点",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 240\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0228_16d8f9d926",
@@ -901,8 +968,9 @@
   {
     "key": "e_bf2246bd3f_0230_928e807a82",
     "original": "順調だ　問題ない\\nよくやった　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 242\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "进展顺利\\n干得好",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 242\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0232_4d247e2cca",
@@ -914,68 +982,79 @@
   {
     "key": "e_bf2246bd3f_0234_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 244\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 244\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0236_2741af83ba",
     "original": "言うべきことは何もない\\n順調だ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 245\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "没什么可说的\\n一切顺利",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 245\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0238_526962f040",
     "original": "%sのおかげだな\\n戦況は有利だろう　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 246\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "%s的功劳\\n战况应该很有利吧",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 246\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0240_3a41de2c67",
     "original": "%s　よくやった　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 247\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "%s干得好",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 247\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0242_95f0739471",
     "original": "よくやった　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 248\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "干得好",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 248\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0244_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 249\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 249\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0246_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 250\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 250\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0248_866b4a5dae",
     "original": "勝て　それだけだ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 251\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "赢，仅此而已",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 251\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0250_67c92a4008",
     "original": "計画通りだ　問題ない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 252\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "按计划进行，没问题",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 252\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0252_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 253\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 253\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0254_2fd279d092",
     "original": "お前はお前の仕事をしろ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 254\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "做好你分内的事",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 254\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0256_ff0c7241d0",
@@ -987,8 +1066,9 @@
   {
     "key": "e_bf2246bd3f_0258_8739e1a5b4",
     "original": "勝て　今の状況から抜け出すには\\nそれしかない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 256\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "赢，这是摆脱现状的唯一方法",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 256\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0260_9be65d1cfc",
@@ -1000,26 +1080,30 @@
   {
     "key": "e_bf2246bd3f_0262_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 258\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 258\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0264_e117316afe",
     "original": "計画に狂いが出始めている\\n良くない兆候だ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 259\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "计划开始出现偏差\n这不是好兆头",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 259\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0266_8739e1a5b4",
     "original": "勝て　今の状況から抜け出すには\\nそれしかない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 260\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "赢，这是摆脱现状的唯一方法",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 260\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0268_90b18e2489",
     "original": "お前は悪くない\\n悪いのは私だろう　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 261\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "错不在你\n是我不好",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 261\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0270_52b16930d8",
@@ -1031,50 +1115,58 @@
   {
     "key": "e_bf2246bd3f_0272_4a804bc3e1",
     "original": "今は酷い状況だ\\n言うべきことはなにもない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 263\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "眼下情况糟糕\n无话可说",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 263\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0274_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 264\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 264\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0276_2c4efbfa76",
     "original": "世界は終わるかもしれんな　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 265\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "世界或许就要终结了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 265\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0278_3c6efcd6a6",
     "original": "%sについて知っているか\\nいや…　なんでもない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 266\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "知道%s的事吗\n不……没什么",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 266\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0280_3c6efcd6a6",
     "original": "%sについて知っているか\\nいや…　なんでもない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 267\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "知道%s的事吗\n不……没什么",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 267\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0282_3c6efcd6a6",
     "original": "%sについて知っているか\\nいや…　なんでもない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 268\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "知道%s的事吗\n不……没什么",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 268\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0284_3c6efcd6a6",
     "original": "%sについて知っているか\\nいや…　なんでもない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 269\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "知道%s的事吗\n不……没什么",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 269\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0286_3c6efcd6a6",
     "original": "%sについて知っているか\\nいや…　なんでもない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 270\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "知道%s的事吗\n不……没什么",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 270\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0288_df36272718",
@@ -1114,26 +1206,30 @@
   {
     "key": "e_bf2246bd3f_0298_b373477041",
     "original": "使徒は我々の敵だ\\nこの星に万物の霊長は一種類だけでいい　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 276\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "使徒是我们的敌人\n这颗星球的万物之灵只需一种",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 276\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0300_4b3482c7f1",
     "original": "市民には苦労をかけている\\nだが他にやりようもない　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 277\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "给市民添麻烦了\n但别无他法",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 277\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0302_b41406f871",
     "original": "……\\n人間は結局、思い出にすがっているのだ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 278\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……\n人类终究只是依赖回忆的生物",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 278\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0304_2b0a6750f5",
     "original": "……\\n天気はいつもどおりだ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 279\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……\n天气一如既往",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 279\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0306_f0d6fbfe97",
@@ -1145,14 +1241,16 @@
   {
     "key": "e_bf2246bd3f_0308_aa924400fa",
     "original": "ご苦労　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 281\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "辛苦了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 281\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0310_d5cee718f0",
     "original": "……\\n人間関係は難しい　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 282\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……\n人际关系真复杂",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 282\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0312_41cf6819e9",
@@ -1164,20 +1262,23 @@
   {
     "key": "e_bf2246bd3f_0314_ad333dd844",
     "original": "世界の全部が嫌いだ\\nそんな自分もな　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 284\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "厌恶世上的一切\n包括这样的自己",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 284\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0316_a25b8606bb",
     "original": "…趣味、か　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 285\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……兴趣、吗",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 285\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0318_c723ac7fb6",
     "original": "たまには遊ぶといい　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 286\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "偶尔放松一下也好",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 286\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0320_8f988d7c01",
@@ -1189,80 +1290,93 @@
   {
     "key": "e_bf2246bd3f_0322_8d8e780d32",
     "original": "どうした\\nああ、無精ひげ、か　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 288\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "怎么了\n啊，是胡子没刮啊",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 288\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0324_997c9f25b3",
     "original": "あまり、声をあげるな　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 289\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "别太大声嚷嚷",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 289\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0326_453f28f9cd",
     "original": "…何を考えている　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 290\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……在想什么",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 290\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0328_ee640eb31b",
     "original": "…人から得るものもあるだろう\\n色々な人と話しなさい　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 291\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……与人交流也能有所收获\n多和不同的人聊聊吧",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 291\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0330_813b7dc199",
     "original": "…エヴァの修理は思ったより高い\\n覚えておきなさい　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 292\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……EVA的维修费比想象中高\n给我记好了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 292\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0332_a0c23fcfbf",
     "original": "使徒が防御した時は、\\n浸食のチャンスだ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 293\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "使徒防御时\n就是侵蚀的最佳时机",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 293\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0334_d6262cbe1c",
     "original": "副司令は、昔から変わってないな　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 294\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "副司令还是老样子",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 294\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0336_4762826752",
     "original": "赤木博士だけは比較的古くから知っている\\n彼女の母が、連れてきていたから　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 295\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "赤木博士算是旧识\n她母亲常带她来",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 295\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0338_fa5d9cb0ec",
     "original": "…今は惰性のようなものだ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 296\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……现在不过是惯性使然",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 296\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0340_fb9672efc7",
     "original": "老人達を撃滅し、使徒を倒し、\\n…母さんにあいたいものだ　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 297\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "消灭老人们，击败使徒\n……就能见到妈妈了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 297\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0342_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 298\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 298\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0344_e95c6dc1a5",
     "original": "それについては分ってる\\n繰り返すな　",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 299\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "这事我清楚\n别重复了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 299\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0346_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 461\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 461\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0348_104f261869",
@@ -1281,8 +1395,9 @@
   {
     "key": "e_bf2246bd3f_0352_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 464\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 464\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0354_1bb40eecfe",
@@ -1294,8 +1409,9 @@
   {
     "key": "e_bf2246bd3f_0356_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 466\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 466\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0358_193e7368f9",
@@ -1307,8 +1423,9 @@
   {
     "key": "e_bf2246bd3f_0360_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 468\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 468\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0362_6acc84fbe0",
@@ -1320,8 +1437,9 @@
   {
     "key": "e_bf2246bd3f_0364_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 470\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 470\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0366_ffbe8dfa69",
@@ -1368,8 +1486,9 @@
   {
     "key": "e_bf2246bd3f_0378_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 477\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 477\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0380_3ca0b48c60",
@@ -1381,8 +1500,9 @@
   {
     "key": "e_bf2246bd3f_0382_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 479\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 479\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0384_76636117ca",
@@ -1394,8 +1514,9 @@
   {
     "key": "e_bf2246bd3f_0386_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 481\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 481\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0388_19d6db8eed",
@@ -1428,8 +1549,9 @@
   {
     "key": "e_bf2246bd3f_0396_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 486\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 486\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0398_ee50dcab23",
@@ -1441,8 +1563,9 @@
   {
     "key": "e_bf2246bd3f_0400_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 488\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 488\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0402_5a9f59cf59",
@@ -1482,8 +1605,9 @@
   {
     "key": "e_bf2246bd3f_0412_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 494\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 494\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0414_0ed3079fc2",
@@ -1509,8 +1633,9 @@
   {
     "key": "e_bf2246bd3f_0420_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 498\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 498\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0422_38bae220f3",
@@ -1522,8 +1647,9 @@
   {
     "key": "e_bf2246bd3f_0424_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 500\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 500\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0426_806ced2f3f",
@@ -1535,8 +1661,9 @@
   {
     "key": "e_bf2246bd3f_0428_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 502\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 502\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0430_ae2084158c",
@@ -1562,8 +1689,9 @@
   {
     "key": "e_bf2246bd3f_0436_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 506\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 506\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0438_0336a37f74",

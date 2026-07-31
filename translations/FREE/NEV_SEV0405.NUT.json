@@ -156,8 +156,9 @@
   {
     "key": "e_b36ea54583_0024_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1110\nCall: im.event\nSpeaker: IMC_REI"
+    "translation": "……",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1110\nCall: im.event\nSpeaker: IMC_REI",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0025_3c80ead5ef",
@@ -239,8 +240,9 @@
   {
     "key": "e_b36ea54583_0036_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1332\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_011"
+    "translation": "……",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1332\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na50_0006_01_011",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0037_0b1c561809",
@@ -280,8 +282,9 @@
   {
     "key": "e_b36ea54583_0042_b5999fb8c4",
     "original": "…………",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1390\nCall: im.event\nSpeaker: IMC_NONE"
+    "translation": "…………",
+    "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1390\nCall: im.event\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b36ea54583_0043_de14ddf1a0",

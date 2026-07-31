@@ -30,20 +30,23 @@
   {
     "key": "e_cebc5eede3_0005_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MAYA"
+    "translation": "……",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MAYA",
+    "stage": 1
   },
   {
     "key": "e_cebc5eede3_0006_b5999fb8c4",
     "original": "…………",
-    "translation": "",
-    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MAYA"
+    "translation": "…………",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 50\nCall: im.event\nSpeaker: IMC_MAYA",
+    "stage": 1
   },
   {
     "key": "e_cebc5eede3_0007_cb25dbc346",
     "original": "………………",
-    "translation": "",
-    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_MAYA"
+    "translation": "………………",
+    "context": "File: MAYA/CHR_MAYA_END.NUT\nLine: 51\nCall: im.event\nSpeaker: IMC_MAYA",
+    "stage": 1
   },
   {
     "key": "e_cebc5eede3_0008_a00ef127a5",

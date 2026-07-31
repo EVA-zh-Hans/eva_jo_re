@@ -51,8 +51,9 @@
   {
     "key": "e_8fdcf89628_0008_24d814d999",
     "original": "……………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 256\nCall: im.event\nSpeaker: IMC_MISATO"
+    "translation": "……………",
+    "context": "File: FREE/NEV_TEV1306.NUT\nLine: 256\nCall: im.event\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8fdcf89628_0009_805cb6540c",

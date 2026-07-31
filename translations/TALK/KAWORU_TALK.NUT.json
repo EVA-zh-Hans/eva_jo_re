@@ -352,8 +352,9 @@
   {
     "key": "e_3aa35147e9_0054_a121de0a68",
     "original": "…好きって、ことさ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 154\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "……喜欢哦",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 154\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0056_99663e6658",
@@ -400,44 +401,51 @@
   {
     "key": "e_3aa35147e9_0068_af058c28e2",
     "original": "死んだのはイイコトかもしれないよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 161\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "死去或许是件好事也说不定",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 161\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0070_bf40cf18ff",
     "original": "死ねば　皆同じ\\n平等、それは悪いことじゃない　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 162\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "死后众生平等\\n这并非坏事",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 162\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0072_35f4d4bc87",
     "original": "%sは死んだ　それでいい　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 163\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s已经死去　这样就好",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 163\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0074_103d9f3d3e",
     "original": "君にあえて、本当に嬉しい　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 164\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "能遇见你　真的很开心",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 164\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0076_da811ab3f3",
     "original": "僕でも怪我するんだね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 165\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "原来我也会受伤呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 165\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0078_7b7b354d91",
     "original": "…休むのもたまにはいいね\\n貴重な経験だったよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 166\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "…偶尔休息也不错\\n真是宝贵的经历",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 166\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0080_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 167\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 167\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0082_27c16ed5e4",
@@ -449,8 +457,9 @@
   {
     "key": "e_3aa35147e9_0084_274236cdcb",
     "original": "退院、おめでとう\\n嬉しいよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 169\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "恭喜出院\\n真令人高兴",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 169\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0086_bdda2f4eef",
@@ -469,38 +478,44 @@
   {
     "key": "e_3aa35147e9_0090_9b48710b21",
     "original": "肉があるというもの大変だね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 172\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "拥有肉体还真是辛苦呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 172\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0092_4b3a280413",
     "original": "生きているから痛みがあるんだよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 173\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "正因为活着才会感到疼痛",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 173\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0094_e6b54bf9f3",
     "original": "%sの姿が見れるのは嬉しい　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 174\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "能见到%s的身影真令人欣喜",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 174\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0096_917ae3d503",
     "original": "%sの姿を\\nまた見るようになったね　よかった　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 175\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "又能见到%s的身影了　太好了",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 175\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0098_d435a5973b",
     "original": "%sの姿を\\nまた見るようになったね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 176\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "又能见到%s的身影了",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 176\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0100_d435a5973b",
     "original": "%sの姿を\\nまた見るようになったね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 177\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "又能见到%s的身影了",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 177\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0102_72993227f9",
@@ -512,32 +527,37 @@
   {
     "key": "e_3aa35147e9_0104_ce9150cd95",
     "original": "少し、残念かな　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 179\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "稍微有点遗憾呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 179\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0106_121178fc3a",
     "original": "この程度の怪我で済んだのは\\n君のおかげかな　ありがとう　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 180\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "只受了这点伤\\n都是托你的福　谢谢你",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 180\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0108_fa025cf575",
     "original": "僕の心配をしてくれているのかい？\\nありがとう　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 181\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "在担心我吗？\\n谢谢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 181\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0110_423ec3e780",
     "original": "怪我はよくないね\\n歌がうまく歌えない　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 182\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "受伤可不好呢\\n都没法好好唱歌了",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 182\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0112_dbc7b7e3c1",
     "original": "怪我をしていたよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 183\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "我受伤了",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 183\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0114_f35410a017",
@@ -570,8 +590,9 @@
   {
     "key": "e_3aa35147e9_0122_804754292a",
     "original": "怪我はよくないね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 188\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "受伤可不好呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 188\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0124_ddcee7a6f4",
@@ -583,44 +604,51 @@
   {
     "key": "e_3aa35147e9_0126_b8da99754d",
     "original": "怪我したんだね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 190\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "你受伤了呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 190\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0128_4349678f91",
     "original": "%sは大丈夫かな\\n傍で歌っていたい　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 191\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s没事吧\\n真想在你身边唱歌",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 191\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0130_7290fe6a6b",
     "original": "%sは、痛そうだね\\n怪我がまだ残ってる　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 192\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s看起来很痛呢\\n伤还没好吧",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 192\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0132_f2bf5f987d",
     "original": "%sは、\\n…いや、本人に聞こう　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 193\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s他…\\n…还是直接问他本人吧",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 193\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0134_9162a78283",
     "original": "%sにも困ったものだね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 194\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s也让人头疼呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 194\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0136_43f27c9478",
     "original": "怪我しても迷惑だね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 195\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "受伤了也会给人添麻烦呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 195\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0138_01101749a7",
     "original": "ああ、この格好か\\n君の、ためだよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 196\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "啊　这身打扮？\\n是为了你哦",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 196\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0140_ad20a4cb53",
@@ -639,14 +667,16 @@
   {
     "key": "e_3aa35147e9_0144_d6a4e79b56",
     "original": "？",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 199\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "？",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 199\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0146_44709db23e",
     "original": "？▽",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 200\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "？▽",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 200\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0148_a49fb97d87",
@@ -658,50 +688,58 @@
   {
     "key": "e_3aa35147e9_0150_c987ab8cad",
     "original": "…色んな姿が見て見たいな\\n大好きだよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 202\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "…真想看看你各种模样\\n最喜欢你了",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 202\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0152_c6bb36c0ba",
     "original": "いつもと雰囲気違うね\\n着替えのせいかな　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 203\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "和平时感觉不一样呢\\n是因为换装吗",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 203\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0154_852c7e2d64",
     "original": "いつもと雰囲気違うね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 204\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "和平时感觉不一样呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 204\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0156_76c5201993",
     "original": "…ああ　着替えてたのか　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 205\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "…啊　原来你换衣服了",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 205\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0158_33cc1d10b1",
     "original": "見た目を変えても、なにも変わらないよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 206\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "就算改变外表　本质也不会变",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 206\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0160_0ddb3d43ce",
     "original": "%sはいつも素敵だよ\\n着替えなくてもいいのに　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 207\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s一直都很迷人\\n不换装也没关系",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 207\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0162_0ba8aeba16",
     "original": "%sは\\nああいう感じにもなるんだね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 208\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s也会\\n有那样的样子呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 208\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0164_94833accdd",
     "original": "%sが着替えていたね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 209\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s刚才在换衣服呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 209\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0166_c4756832d6",
@@ -713,98 +751,114 @@
   {
     "key": "e_3aa35147e9_0168_8ba8216b2a",
     "original": "%sにも\\n考えがあるんだと思うよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 211\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s应该也有自己的考量吧",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 211\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0170_6802ecabdd",
     "original": "その時がまた近づいた気がするよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 212\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "那个时刻似乎又近了呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 212\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0172_49d392fb86",
     "original": "人は喜ぶだろうね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 213\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "人类会为此欢欣吧",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 213\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0174_bbcda81e45",
     "original": "強いな　リリンは　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 214\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "真强大啊 李林",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 214\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0176_be1e918f60",
     "original": "怖いな　リリンは　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 215\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "真可怕啊 李林",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 215\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0178_d5833fdcbc",
     "original": "なにかを殺して喜ぶのは醜いと思うよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 216\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "因杀戮而喜悦的模样实在丑陋",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 216\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0180_eee35b05cd",
     "original": "怖いね　実戦は\\nうっかり負けたくなる　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 217\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "实战真是可怕呢\n让人忍不住想故意落败",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 217\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0182_2f86dc7d50",
     "original": "怖いね　実戦は　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 218\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "实战真是可怕",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 218\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0184_81f7a291b1",
     "original": "大変だね　実戦は　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 219\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "实战真是辛苦",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 219\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0186_f0b42b781c",
     "original": "リリンは本当に強い　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 220\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "李林确实很强",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 220\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0188_e5967b71b2",
     "original": "醜い顔してるよ　君は　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 221\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "你的表情很狰狞哦",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 221\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0190_029345e383",
     "original": "エヴァが心を開いているね\\nさすが血縁かな　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 222\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "EVA对你敞开心扉了呢\n不愧是血亲",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 222\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0192_6b3d4cb91a",
     "original": "リリンは強いね\\n使徒は、勝てるのかな　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 223\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "李林很强呢\n使徒能获胜吗",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 223\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0194_c965dd537f",
     "original": "殺すのがどんどんうまくなるね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 224\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "你越来越擅长杀戮了",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 224\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0196_d0b1377be3",
     "original": "リリンは怖いね\\n何でも殺してしまいそうだ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 225\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "李林真可怕\n仿佛要杀尽一切",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 225\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0198_0f358f3550",
     "original": "…怖い目をしている　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 226\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "……眼神很恐怖呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 226\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0200_3a317cfc3d",
@@ -816,56 +870,65 @@
   {
     "key": "e_3aa35147e9_0202_ba65a50668",
     "original": "どっちかをよめるだけで、\\n被害は減らせると思うよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 228\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "只要能预判其中一项\n就能减少伤亡",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 228\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0204_efc32f2486",
     "original": "戦いのリズムをもっとつかんだほうがいい　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 229\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "该更准确把握战斗节奏",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 229\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0206_b2f1aa3b06",
     "original": "まあまあだね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 230\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "还算不错",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 230\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0208_cd04e27a46",
     "original": "うかうかしてられないね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 231\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "可不能掉以轻心",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 231\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0210_95a86232aa",
     "original": "君の憎しみが見えたよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 232\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "我看到了你的憎恨",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 232\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0212_f5039f93ce",
     "original": "ある程度予測しないと、回避できないと思うよ\\n相手のリズムを掴んで　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 233\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "若不提前预判就难以回避\n要抓住对方的行动节奏",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 233\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0214_e8a42781cc",
     "original": "善戦はしてたよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 234\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "打得不错呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 234\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0216_b2f1aa3b06",
     "original": "まあまあだね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 235\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "还算不错",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 235\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0218_5cf6f984d1",
     "original": "よけ方に品がなかったね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 236\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "闪避的姿势不太优雅呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 236\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0220_31478676e0",
@@ -877,50 +940,58 @@
   {
     "key": "e_3aa35147e9_0222_ba44388fbe",
     "original": "負けた理由があると思うよ\\nまずはそれを分析するところからだね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 238\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "败北是有原因的\n先从分析原因开始吧",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 238\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0224_15eb2259b4",
     "original": "惨敗だったね　面白かったよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 239\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "惨败呢～真有趣",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 239\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0226_ad7d55e7df",
     "original": "惨敗だったね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 240\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "惨败呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 240\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0228_15eb2259b4",
     "original": "惨敗だったね　面白かったよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 241\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "惨败呢～真有趣",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 241\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0230_43bbdf7090",
     "original": "すごいね　ああいう\\n負け方もできるんだなって感動したよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 242\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "真厉害呢\n居然能那样输掉～让我很感动哦",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 242\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0232_1006148eab",
     "original": "空からの敵が増えるかもしれないね\\nエヴァは、飛べないから　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 243\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "来自空中的敌人可能会增多呢\n毕竟EVA不会飞",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 243\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0234_aeb0b6f16d",
     "original": "…喜ぶのはまだ早いよ\\n敵は　まだいる　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 244\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "……高兴还太早\n敌人还在呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 244\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0236_1d2c94d9a2",
     "original": "勝てそうだね\\nリリンは嬉しいだろうね　きっと　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 245\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "看来能赢呢\n李林们一定很开心吧",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 245\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0238_d78359ddad",
@@ -932,14 +1003,16 @@
   {
     "key": "e_3aa35147e9_0240_ed041f9d32",
     "original": "…リリンは、邪悪だな　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 247\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "……李林真是邪恶啊",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 247\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0242_bbabf73dd9",
     "original": "アダムの肋骨からエヴァは生まれた\\nアダムは、どこかにいるのかな　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 248\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "EVA是从亚当的肋骨诞生的\n亚当现在在哪里呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 248\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0244_a9a8ad8280",
@@ -951,44 +1024,51 @@
   {
     "key": "e_3aa35147e9_0246_3a30e029a2",
     "original": "使徒をおしのけ、どこに行くんだい\\n…リリン　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 250\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "推开使徒后要去哪里呢\n……李林",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 250\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0248_3a30e029a2",
     "original": "使徒をおしのけ、どこに行くんだい\\n…リリン　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 251\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "推开使徒后要去哪里呢\n……李林",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 251\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0250_c2e07ebefe",
     "original": "君が人間の代表に見えるよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 252\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "你看起来像是人类的代表呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 252\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0252_61b06a14cd",
     "original": "君なら、勝つよ\\nそして僕の前に立つ　そんな気がする　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 253\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "如果是你的话一定能赢\n然后站在我面前 我有这种预感",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 253\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0254_ea879cb112",
     "original": "戦況はどうなるか分らない\\nこういうのもいいね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 254\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "战况难以预料\n这样也不错呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 254\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0256_73df14adeb",
     "original": "戦況はどうなるか分らない　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 255\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "战况难以预料",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 255\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0258_99dfe845ac",
     "original": "これから、厳しい戦いになるよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 256\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "接下来会是很艰难的战斗哦",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 256\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0260_21ea210119",
@@ -1000,20 +1080,23 @@
   {
     "key": "e_3aa35147e9_0262_a94d894c03",
     "original": "戦況は芳しくないが、まだ戦えているよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 258\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "战况虽然不乐观，但还能继续战斗",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 258\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0264_bbb096463f",
     "original": "死んだ人は、どこにいくのかな　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 259\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "死去的人会去哪里呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 259\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0266_b857037d37",
     "original": "壊れた建物が増えてきたね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 260\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "损毁的建筑越来越多了呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 260\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0268_090c7775fd",
@@ -1039,56 +1122,65 @@
   {
     "key": "e_3aa35147e9_0274_fe34e164f7",
     "original": "やれることをやるしかないと思うよ\\n不利だけどね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 264\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "只能尽力而为了\\n虽然形势不利",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 264\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0276_d545cc34da",
     "original": "使徒の、勝ちか\\n老人達はどう思っているのだろう　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 265\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "使徒的胜利吗\\n老人们会怎么想呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 265\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0278_4a87c2575c",
     "original": "生きたいみたいだね　うらやましいよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 266\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "你似乎很想活下去呢\\n真令人羡慕",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 266\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0280_0bedb881cf",
     "original": "これが、運命なのさ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 267\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "这就是命运啊",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 267\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0282_032b63cb1c",
     "original": "%sか\\n話には聞いているよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 268\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s吗\\n我有所耳闻",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 268\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0284_032b63cb1c",
     "original": "%sか\\n話には聞いているよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 269\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s吗\\n我有所耳闻",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 269\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0286_032b63cb1c",
     "original": "%sか\\n話には聞いているよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 270\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s吗\\n我有所耳闻",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 270\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0288_032b63cb1c",
     "original": "%sか\\n話には聞いているよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 271\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s吗\\n我有所耳闻",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 271\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0290_032b63cb1c",
     "original": "%sか\\n話には聞いているよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 272\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "%s吗\\n我有所耳闻",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 272\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0292_c74b244f69",
@@ -1128,26 +1220,30 @@
   {
     "key": "e_3aa35147e9_0302_95cd0dd6ca",
     "original": "リリンは、最初から僕たちなんか\\n相手にしてないのかもしれないね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 278\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "李林或许\\n从一开始就没把我们放在眼里",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 278\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0304_05f1c701ab",
     "original": "歌はいいね\\n大気に溶けるような歌が歌いたい　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 279\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "歌声真美妙\\n真想唱首能融化大气的歌",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 279\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0306_babf6d73c7",
     "original": "自然は綺麗だよ\\nただ、人間の作ったものは例外だけどね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 280\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "自然很美\\n不过人造物除外",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 280\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0308_a984ee6fe1",
     "original": "いい日差しだね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 281\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "阳光真好啊",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 281\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0310_1ec19c4222",
@@ -1159,56 +1255,65 @@
   {
     "key": "e_3aa35147e9_0312_89cd56c985",
     "original": "僕にとってのパイロットは、\\nそうだね　呼吸みたいなものだよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 283\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "对我来说驾驶EVA\\n就像呼吸一样自然",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 283\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0314_09d5449616",
     "original": "自分と相手は同じだと思うと、\\nいいかもしれないね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 284\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "把对方当作自己\\n或许会更好",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 284\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0316_db94a0f65b",
     "original": "歌が好きだよ\\n悲しいときも、歌っていきたい　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 285\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "我喜欢唱歌\\n悲伤时也想继续歌唱",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 285\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0318_fed0b3dae5",
     "original": "僕が嫌いなものなんか思い付かないな…\\n皆同じくらいに愛している　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 286\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "我想不出讨厌什么\\n所有事物都同样可爱",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 286\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0320_dcea7b713e",
     "original": "趣味は歌だよ\\nリリンの生んだ、最高のものだね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 287\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "爱好是唱歌\\n这是李林创造的最美妙事物",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 287\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0322_9923875c3a",
     "original": "どこかに行きたいって思ってるのかい？\\nそれは、自由になりたいんだよ　きっと　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 288\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "想要去某个地方吗\\n那一定是因为渴望自由",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 288\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0324_8b343fa1d2",
     "original": "…綺麗だよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 289\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "……真美啊",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 289\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0326_9f38c73f92",
     "original": "溶け合えるね　僕たち　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 290\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "我们能互相融合呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 290\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0328_04baf1d0ae",
     "original": "お互いを求め合ってる気がする\\n…好きってことさ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 291\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "总觉得我们在互相渴求着对方……这就是喜欢吧",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 291\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0330_ec295167ac",
@@ -1220,26 +1325,30 @@
   {
     "key": "e_3aa35147e9_0332_233517eb39",
     "original": "回避スキルは\\nバックステップと組み合わせて使うよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 293\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "回避技能要配合后撤步使用哦",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 293\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0334_13493fbcc7",
     "original": "兵装ビルの攻撃は、エヴァにもあたる　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 294\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "兵装大楼的攻击也会波及EVA",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 294\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0336_f19a0a1ef8",
     "original": "接近攻撃は強いけど、ダメージも受けやすいね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 295\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "近战攻击虽强，但也容易受伤呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 295\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0338_784b8826ab",
     "original": "大人について語るところはないよ\\nみんな、旧式さ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 296\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "大人们没什么好说的\n全都过时了",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 296\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0340_97b541d588",
@@ -1251,26 +1360,30 @@
   {
     "key": "e_3aa35147e9_0342_299c6084a9",
     "original": "シンジくんとは、魂のつながりを感じるな　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 298\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "和真嗣君之间，能感受到灵魂的共鸣呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 298\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0344_2c8c083349",
     "original": "レイか…\\nまあ僕と同じようなものだね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 299\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "丽啊…\n和我算是同类吧",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 299\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0346_bdd6110f76",
     "original": "…話題がないときは、\\n黙るといいと思うよ　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 300\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "……没话题的时候\n保持沉默就好",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 300\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0348_ff42037596",
     "original": "繰り返すのが、好きなんだね　",
-    "translation": "",
-    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 301\nSpeaker: IMC_KAWORU\nVoice: "
+    "translation": "你很喜欢重复提问呢",
+    "context": "File: TALK/KAWORU_TALK.NUT\nLine: 301\nSpeaker: IMC_KAWORU\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3aa35147e9_0350_d3ebb02d1b",

@@ -72,8 +72,9 @@
   {
     "key": "e_2c69235516_0011_4be66cf94e",
     "original": "………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 419\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1303_01_009"
+    "translation": "………",
+    "context": "File: FREE/NEV_TEV1303.NUT\nLine: 419\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1303_01_009",
+    "stage": 1
   },
   {
     "key": "e_2c69235516_0012_777832b63d",

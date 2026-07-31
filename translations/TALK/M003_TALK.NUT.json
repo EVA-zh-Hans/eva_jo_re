@@ -590,8 +590,9 @@
   {
     "key": "e_c4da3d968c_0122_f08afa6edb",
     "original": "%s…",
-    "translation": "",
-    "context": "File: TALK/M003_TALK.NUT\nLine: 188\nSpeaker: IMC_STAFF\nVoice: "
+    "translation": "%s……",
+    "context": "File: TALK/M003_TALK.NUT\nLine: 188\nSpeaker: IMC_STAFF\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_c4da3d968c_0124_7ca63fafbf",
@@ -778,8 +779,9 @@
   {
     "key": "e_c4da3d968c_0176_a5f1b39026",
     "original": "……▽",
-    "translation": "",
-    "context": "File: TALK/M003_TALK.NUT\nLine: 215\nSpeaker: IMC_STAFF\nVoice: "
+    "translation": "……▽",
+    "context": "File: TALK/M003_TALK.NUT\nLine: 215\nSpeaker: IMC_STAFF\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_c4da3d968c_0178_14862acf42",
@@ -1344,8 +1346,9 @@
   {
     "key": "e_c4da3d968c_0338_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/M003_TALK.NUT\nLine: 296\nSpeaker: IMC_STAFF\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/M003_TALK.NUT\nLine: 296\nSpeaker: IMC_STAFF\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_c4da3d968c_0340_a63a4cc8c4",

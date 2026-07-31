@@ -51,8 +51,9 @@
   {
     "key": "e_92737fef78_0017_cbfd95266e",
     "original": "　　　　　標準",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 41\nCall: f21.set_string"
+    "translation": "标准",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 41\nCall: f21.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0018_2f6d077af4",
@@ -71,8 +72,9 @@
   {
     "key": "e_92737fef78_0023_cbfd95266e",
     "original": "　　　　　標準",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 49\nCall: f31.set_string"
+    "translation": "标准",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 49\nCall: f31.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0024_2f6d077af4",
@@ -91,8 +93,9 @@
   {
     "key": "e_92737fef78_0029_cbfd95266e",
     "original": "　　　　　標準",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 57\nCall: f41.set_string"
+    "translation": "标准",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 57\nCall: f41.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0030_2f6d077af4",
@@ -111,8 +114,9 @@
   {
     "key": "e_92737fef78_0035_cbfd95266e",
     "original": "　　　　　標準",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 65\nCall: f51.set_string"
+    "translation": "标准",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 65\nCall: f51.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0036_2f6d077af4",
@@ -131,8 +135,9 @@
   {
     "key": "e_92737fef78_0041_1d36dce636",
     "original": "　　　　非表示",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 73\nCall: f61.set_string"
+    "translation": "隐藏",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 73\nCall: f61.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0042_17efc6654e",
@@ -151,8 +156,9 @@
   {
     "key": "e_92737fef78_0047_01495ffed8",
     "original": "　　　　　通常",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 81\nCall: f71.set_string"
+    "translation": "通常",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 81\nCall: f71.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0048_871cfc7fc9",
@@ -164,19 +170,22 @@
   {
     "key": "e_92737fef78_0052_f5bde72a1c",
     "original": " 設定を反映して終了",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 88\nCall: f80.set_string"
+    "translation": "应用设定并退出",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 88\nCall: f80.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0053_cda3cbe964",
     "original": "　 初期設定に戻す",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 89\nCall: f81.set_string"
+    "translation": "恢复初始设置",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 89\nCall: f81.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0054_ebcd1bfc14",
     "original": "　　 キャンセル",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 90\nCall: f82.set_string"
+    "translation": "取消",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 90\nCall: f82.set_string",
+    "stage": 1
   }
 ]

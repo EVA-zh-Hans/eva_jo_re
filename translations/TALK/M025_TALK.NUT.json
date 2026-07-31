@@ -366,8 +366,9 @@
   {
     "key": "e_fbce88292a_0058_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: TALK/M025_TALK.NUT\nLine: 156\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "……",
+    "context": "File: TALK/M025_TALK.NUT\nLine: 156\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_fbce88292a_0060_38826410b8",

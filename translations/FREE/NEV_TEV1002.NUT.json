@@ -107,7 +107,8 @@
   {
     "key": "e_f07b1d3fe5_0016_5f2e46dabe",
     "original": "…………………",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 435\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1002_01_011"
+    "translation": "…………………",
+    "context": "File: FREE/NEV_TEV1002.NUT\nLine: 435\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1002_01_011",
+    "stage": 1
   }
 ]

@@ -387,8 +387,9 @@
   {
     "key": "e_85540ce4a7_0056_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0002.NUT\nLine: 233\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "……",
+    "context": "File: FREE/NEV_TUT0002.NUT\nLine: 233\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_85540ce4a7_0057_e8864aac81",

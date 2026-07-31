@@ -23,14 +23,16 @@
   {
     "key": "e_f6248a3898_0004_a7f878b8ce",
     "original": "……",
-    "translation": "",
-    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_MAKOTO"
+    "translation": "……",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 48\nCall: im.event\nSpeaker: IMC_MAKOTO",
+    "stage": 1
   },
   {
     "key": "e_f6248a3898_0005_b5999fb8c4",
     "original": "…………",
-    "translation": "",
-    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MAKOTO"
+    "translation": "…………",
+    "context": "File: MAKOTO/CHR_MAKOTO_END.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MAKOTO",
+    "stage": 1
   },
   {
     "key": "e_f6248a3898_0006_9b084fab98",
