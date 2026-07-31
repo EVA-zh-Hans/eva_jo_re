@@ -1,0 +1,6 @@
+[submodule "third_party/prxtool"]
+	path = third_party/prxtool
+	url = git@github.com:pspdev/prxtool.git
+[submodule "third_party/pspdecrypt"]
+	path = third_party/pspdecrypt
+	url = https://github.com/Linblow/pspdecrypt.git
