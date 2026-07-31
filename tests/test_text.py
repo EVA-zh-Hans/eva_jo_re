@@ -64,6 +64,24 @@ class ParaTranzTests(unittest.TestCase):
             self.assertEqual(merged[0]["translation"], "译文")
             self.assertEqual(merged[0]["stage"], 1)
 
+    def test_layout_newlines_may_change_but_semantic_markers_must_remain(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            path = PurePosixPath("FREE/TEST.NUT")
+            item = paratranz.SourceItem(1, r"原文\n继续▽", "Line: 1")
+            paratranz.merge_file(root, path, [item])
+            output = paratranz.json_path(root, path)
+            data = paratranz.load(output)
+            data[0]["translation"] = "译文继续▽"
+            output.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+            translations, errors = paratranz.translations_for(root, path, [item])
+            self.assertFalse(errors)
+            self.assertEqual(translations[1], "译文继续▽")
+            data[0]["translation"] = "译文继续"
+            output.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+            _, errors = paratranz.translations_for(root, path, [item])
+            self.assertEqual(len(errors), 1)
+
 
 class EncodingAndFontTests(unittest.TestCase):
     def test_detects_cp932_and_utf8(self):
@@ -76,6 +94,12 @@ class EncodingAndFontTests(unittest.TestCase):
         second = font.build_plan(table, {"认", "确"}, set())
         self.assertEqual(first.mapping_json(), second.mapping_json())
         self.assertEqual(set(first.substitutions), {"确", "认"})
+
+    def test_dynamic_font_mapping_does_not_replace_direct_cp932_glyphs(self):
+        table = "亜嗣娃".encode("utf-16le")
+        plan = font.build_plan(table, {"骗"}, {"嗣"})
+        self.assertNotEqual(plan.substitutions["骗"], "嗣")
+        self.assertNotIn("嗣", {mapping.slot for mapping in plan.mappings})
 
 
 if __name__ == "__main__":

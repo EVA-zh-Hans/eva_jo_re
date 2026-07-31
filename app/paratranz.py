@@ -5,12 +5,14 @@ import json
 import os
 import re
 import tempfile
+from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path, PurePosixPath
 from typing import Iterable
 
 
 CONTROL = re.compile(r"\\[nrt]|\$[A-Za-z][A-Za-z0-9_]*|<[^>]+>|[▽△]")
+LAYOUT_CONTROLS = {r"\n", r"\r", r"\t"}
 
 
 class ParaTranzError(ValueError):
@@ -124,9 +126,13 @@ def translations_for(
             continue
         translation = entry.get("translation", "")
         if translation:
-            source_controls = CONTROL.findall(item.original)
-            translated_controls = CONTROL.findall(translation)
-            if source_controls != translated_controls:
+            source_controls = [
+                value for value in CONTROL.findall(item.original) if value not in LAYOUT_CONTROLS
+            ]
+            translated_controls = [
+                value for value in CONTROL.findall(translation) if value not in LAYOUT_CONTROLS
+            ]
+            if Counter(source_controls) != Counter(translated_controls):
                 errors.append(
                     f"{source_path}: control sequence mismatch for {key}: "
                     f"{source_controls!r} != {translated_controls!r}"
