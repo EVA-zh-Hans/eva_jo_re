@@ -2,31 +2,36 @@
   {
     "key": "e_f4d71f7936_0001_a41131a153",
     "original": "これを",
-    "translation": "",
-    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 41\nCall: im.event2\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_013"
+    "translation": "这个",
+    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 41\nCall: im.event2\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_013",
+    "stage": 1
   },
   {
     "key": "e_f4d71f7936_0002_707fa56284",
     "original": "ディスクを貰った",
-    "translation": "",
-    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 44\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "收下了磁盘",
+    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 44\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_f4d71f7936_0003_417f462309",
     "original": "読めないようになっている\\nま、子供でパイロットは安全だ▽",
-    "translation": "",
-    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 47\nCall: im.event2\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_014_1"
+    "translation": "内容被加密过了\\n不过小鬼头驾驶员拿着很安全▽",
+    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 47\nCall: im.event2\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_014_1",
+    "stage": 1
   },
   {
     "key": "e_f4d71f7936_0004_b676399b72",
     "original": "やつらのシナリオには、\\n使徒に負けることは入ってないからな▽",
-    "translation": "",
-    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 50\nCall: im.event2\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_014_2"
+    "translation": "那些家伙的剧本里\\n可没写着败给使徒的桥段▽",
+    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 50\nCall: im.event2\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_014_2",
+    "stage": 1
   },
   {
     "key": "e_f4d71f7936_0005_05c222eabc",
     "original": "俺はしばらく姿を消すよ…また会ったら、\\nその時は、言えなかったことを言うよ",
-    "translation": "",
-    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 53\nCall: im.event2\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_014_3"
+    "translation": "我要暂时消失一阵…等再见时\\n会把没能说出口的话告诉你",
+    "context": "File: KAJI/CHR_KAJI_10.NUT\nLine: 53\nCall: im.event2\nSpeaker: IMC_KAJI\nVoice: na54_0009_11_014_3",
+    "stage": 1
   }
 ]

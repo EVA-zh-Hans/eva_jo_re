@@ -2,31 +2,36 @@
   {
     "key": "e_e71bfba7e2_0001_176474bb0f",
     "original": "情報収集",
-    "translation": "",
-    "context": "File: TUT/TUT_F101.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "情报收集",
+    "context": "File: TUT/TUT_F101.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_e71bfba7e2_0002_176474bb0f",
     "original": "情報収集",
-    "translation": "",
-    "context": "File: TUT/TUT_F101.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "情报收集",
+    "context": "File: TUT/TUT_F101.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_e71bfba7e2_0003_c187ab70db",
     "original": "<01>第３新東京市<//>や<01>ネルフ施設内<//>にいる人達から、\\n<02>今回の戦闘に役立つ話<//>を聞く事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F101.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "可以从<01>第三新东京市<//>或<01>NERV设施<//>的人们那里，\\n打听到<02>对本次战斗有帮助的信息<//>▽",
+    "context": "File: TUT/TUT_F101.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_e71bfba7e2_0004_4e56c5b09e",
     "original": "<02>戦闘準備の手掛かり<//>になるので、色々な人達に\\n積極的に話しかける必要があります▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F101.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "这些是<02>战斗准备的线索<//>，\\n需要积极与各式人物交谈▽",
+    "context": "File: TUT/TUT_F101.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_e71bfba7e2_0005_d3947978f3",
     "original": "<02>戦闘情報<//>コマンドはリスト中で\\n<10>オレンジ<//>の文字で表示されます",
-    "translation": "",
-    "context": "File: TUT/TUT_F101.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>战斗情报<//>指令在列表中\\n会以<10>橙色文字<//>显示",
+    "context": "File: TUT/TUT_F101.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

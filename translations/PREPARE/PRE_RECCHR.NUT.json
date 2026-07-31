@@ -2,61 +2,71 @@
   {
     "key": "e_09b1107782_0001_1e1f98fb09",
     "original": "戦闘で負傷したパイロットはいる？\\nここで治療ができますよ",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 44\nCall: im.play\nSpeaker: IMC_MAYA"
+    "translation": "有在战斗中负伤的驾驶员吗？\\n可以在这里接受治疗",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 44\nCall: im.play\nSpeaker: IMC_MAYA",
+    "stage": 1
   },
   {
     "key": "e_09b1107782_0002_81ad0b6c7e",
     "original": "…って誰もケガしてないですね▽",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 48\nCall: im.play\nSpeaker: IMC_MAYA"
+    "translation": "……看来没人受伤呢▽",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 48\nCall: im.play\nSpeaker: IMC_MAYA",
+    "stage": 1
   },
   {
     "key": "e_09b1107782_0003_1c25195964",
     "original": "%d必要ですが、よろしいですか？",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 100\nCall: DecideStart"
+    "translation": "需要%d，确定吗？",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 100\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_09b1107782_0004_2624b71f15",
     "original": "治療が完了しました",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 140\nCall: DecideStart"
+    "translation": "治疗已完成",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 140\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_09b1107782_0005_500eadaa45",
     "original": "<12>レイ<//>から<12>シンジ<//>への注目度が<07>３<//>上がった",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 156\nCall: DecideStart"
+    "translation": "<12>丽<//>对<12>真嗣<//>的关注度<07>+3<//>",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 156\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_09b1107782_0006_7892d1c850",
     "original": "<12>レイ<//>から<12>シンジ<//>への注目度が<07>３<//>上がった\\n<12>レイ<//>から<12>シンジ<//>への態度が<07>ポジティブ<//>に変化した",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 157\nCall: DecideStart"
+    "translation": "<12>丽<//>对<12>真嗣<//>的关注度<07>+3<//>\\n<12>丽<//>对<12>真嗣<//>的态度转为<07>积极<//>",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 157\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_09b1107782_0007_9eb661bd22",
     "original": "<12>アスカ<//>から<12>シンジ<//>への注目度が<07>３<//>上がった",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 163\nCall: DecideStart"
+    "translation": "<12>明日香<//>对<12>真嗣<//>的关注度<07>+3<//>",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 163\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_09b1107782_0008_99a7ed64a6",
     "original": "<12>アスカ<//>から<12>シンジ<//>への注目度が<07>３<//>上がった\\n<12>アスカ<//>から<12>シンジ<//>への態度が<07>ポジティブ<//>に変化した",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 164\nCall: DecideStart"
+    "translation": "<12>明日香<//>对<12>真嗣<//>的关注度<07>+3<//>\\n<12>明日香<//>对<12>真嗣<//>的态度转为<07>积极<//>",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 164\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_09b1107782_0009_f00e0a55bf",
     "original": "全員完治しました",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 179\nCall: DecideStart"
+    "translation": "全员已痊愈",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 179\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_09b1107782_0010_0542177e3a",
     "original": "健康維持もパイロットの仕事よ\\n気をつけて下さいね",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 208\nCall: im.play\nSpeaker: IMC_MAYA"
+    "translation": "保持健康也是驾驶员的工作\\n请多注意身体",
+    "context": "File: PREPARE/PRE_RECCHR.NUT\nLine: 208\nCall: im.play\nSpeaker: IMC_MAYA",
+    "stage": 1
   }
 ]

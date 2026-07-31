@@ -2,7 +2,8 @@
   {
     "key": "e_9a2a1ccfc5_0053_e08ec05af9",
     "original": "これは、なんなの？,1,使徒ってなんだろう？,2,お父さんって、どんな人？,3",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP02.NUT\nLine: 192"
+    "translation": "这是什么？,1,使徒到底是什么？,2,父亲是个怎样的人？,3",
+    "context": "File: SQ/FREE_MAP02.NUT\nLine: 192",
+    "stage": 1
   }
 ]

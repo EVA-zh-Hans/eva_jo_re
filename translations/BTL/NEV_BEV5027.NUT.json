@@ -2,7 +2,8 @@
   {
     "key": "e_d4c2346fb6_0001_bb855772ec",
     "original": "８機目撃破！\\nあと１機！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV5027.NUT\nLine: 15\nCall: DecideStart2"
+    "translation": "第八机击破！\\n还剩最后一机！",
+    "context": "File: BTL/NEV_BEV5027.NUT\nLine: 15\nCall: DecideStart2",
+    "stage": 1
   }
 ]

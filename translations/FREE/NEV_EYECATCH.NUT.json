@@ -2,7 +2,8 @@
   {
     "key": "e_88c8451e49_0001_936d61dece",
     "original": "一日が終了しました",
-    "translation": "",
-    "context": "File: FREE/NEV_EYECATCH.NUT\nLine: 26\nCall: DecideStart"
+    "translation": "一日结束了",
+    "context": "File: FREE/NEV_EYECATCH.NUT\nLine: 26\nCall: DecideStart",
+    "stage": 1
   }
 ]

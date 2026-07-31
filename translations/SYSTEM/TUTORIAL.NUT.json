@@ -2,44 +2,51 @@
   {
     "key": "e_70107ec52e_0001_1b279844e7",
     "original": "日常基本編",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 28\nCall: MenuSetup\nVoice: 日常戦闘準備編"
+    "translation": "日常基础篇",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 28\nCall: MenuSetup\nVoice: 日常戦闘準備編",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0002_02feb25293",
     "original": "日常戦闘準備編",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 28\nCall: MenuSetup\nVoice: 戦闘編"
+    "translation": "日常战斗准备篇",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 28\nCall: MenuSetup\nVoice: 戦闘編",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0003_4ab54b8601",
     "original": "戦闘編",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 28\nCall: MenuSetup"
+    "translation": "战斗篇",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 28\nCall: MenuSetup",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0004_fea7b655b4",
     "original": "キャラクターの移動",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: マップ外への移動"
+    "translation": "角色移动",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: マップ外への移動",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0005_4ae9743b76",
     "original": "マップ外への移動",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: 会話の始め方"
+    "translation": "跨地图移动",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: 会話の始め方",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0006_301e03ff14",
     "original": "会話の始め方",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: できる事を表示する"
+    "translation": "对话开启方式",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: できる事を表示する",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0007_10cd11f252",
     "original": "できる事を表示する",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: 注目度"
+    "translation": "可执行指令显示",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: 注目度",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0008_e52dd925d8",
@@ -51,62 +58,72 @@
   {
     "key": "e_70107ec52e_0009_25289ee07a",
     "original": "システムメニュー１",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: システムメニュー２"
+    "translation": "系统菜单1",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: システムメニュー２",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0010_789d3f272a",
     "original": "システムメニュー２",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: システムメニュー３"
+    "translation": "系统菜单2",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: システムメニュー３",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0011_a071551c3a",
     "original": "システムメニュー３",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: システムメニュー４"
+    "translation": "系统菜单3",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: システムメニュー４",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0012_a4cb860847",
     "original": "システムメニュー４",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: システムメニュー５"
+    "translation": "系统菜单4",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup\nVoice: システムメニュー５",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0013_819456efcb",
     "original": "システムメニュー５",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup"
+    "translation": "系统菜单5",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 51\nCall: MenuSetup",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0014_176474bb0f",
     "original": "情報収集",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: 情報確認"
+    "translation": "情报收集",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: 情報確認",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0015_f17e515e42",
     "original": "情報確認",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: マップギミックの手配"
+    "translation": "情报确认",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: マップギミックの手配",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0016_f5c2e4bfba",
     "original": "マップギミックの手配",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: マップギミックの配置"
+    "translation": "地图机关的调配",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: マップギミックの配置",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0017_f47fa0f571",
     "original": "マップギミックの配置",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: 武器の調達"
+    "translation": "地图机关的配置",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: 武器の調達",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0018_205917a527",
     "original": "武器の調達",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: 模擬戦"
+    "translation": "武器调配",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: 模擬戦",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0019_621d8cc344",
@@ -118,61 +135,71 @@
   {
     "key": "e_70107ec52e_0020_e9f44064d5",
     "original": "スキルプログラムの開発",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: スキルプログラムの実装"
+    "translation": "技能程序开发",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: スキルプログラムの実装",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0021_1c2cff232b",
     "original": "スキルプログラムの実装",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: 戦闘の始め方"
+    "translation": "技能程序安装",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: 戦闘の始め方",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0022_9f275e4d88",
     "original": "戦闘の始め方",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: パイロットの治療"
+    "translation": "开始战斗",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: パイロットの治療",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0023_d7f53bd419",
     "original": "パイロットの治療",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: エヴァの修理"
+    "translation": "驾驶员治疗",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: エヴァの修理",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0024_59efe82c39",
     "original": "エヴァの修理",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: 都市の復興支援"
+    "translation": "EVA修理",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: 都市の復興支援",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0025_f028806e4e",
     "original": "都市の復興支援",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup"
+    "translation": "都市复兴支援",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0026_de3da09a02",
     "original": "エヴァの基本ステータス",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 121\nCall: MenuSetup\nVoice: エヴァの基本操作"
+    "translation": "EVA基础状态",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 121\nCall: MenuSetup\nVoice: エヴァの基本操作",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0027_b92e281b6d",
     "original": "エヴァの基本操作",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 121\nCall: MenuSetup\nVoice: 攻撃について"
+    "translation": "EVA基本操作",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 121\nCall: MenuSetup\nVoice: 攻撃について",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0028_1b8fd3c997",
     "original": "攻撃について",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 121\nCall: MenuSetup\nVoice: マップギミックについて"
+    "translation": "攻击系统说明",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 121\nCall: MenuSetup\nVoice: マップギミックについて",
+    "stage": 1
   },
   {
     "key": "e_70107ec52e_0029_dbaaa34720",
     "original": "マップギミックについて",
-    "translation": "",
-    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 121\nCall: MenuSetup"
+    "translation": "关于地图机关",
+    "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 121\nCall: MenuSetup",
+    "stage": 1
   }
 ]

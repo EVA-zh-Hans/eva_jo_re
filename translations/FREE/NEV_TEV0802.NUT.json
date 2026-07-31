@@ -107,8 +107,9 @@
   {
     "key": "e_84c30bdf52_0016_0de957ccc4",
     "original": "大学？",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 434\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0802_01_012"
+    "translation": "大学？",
+    "context": "File: FREE/NEV_TEV0802.NUT\nLine: 434\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_0802_01_012",
+    "stage": 1
   },
   {
     "key": "e_84c30bdf52_0017_265e01c793",

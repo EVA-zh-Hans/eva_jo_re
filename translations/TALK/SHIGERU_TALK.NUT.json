@@ -2,8 +2,9 @@
   {
     "key": "e_a9286d3008_0002_8bfc665fe2",
     "original": "シンジ君",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 102"
+    "translation": "真嗣君",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 102",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0003_7faf5c4e05",
@@ -22,26 +23,30 @@
   {
     "key": "e_a9286d3008_0005_ee11ae3ed4",
     "original": "渚君",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 105"
+    "translation": "渚君",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 105",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0006_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 106"
+    "translation": "铃原君",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 106",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0007_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 107"
+    "translation": "相田君",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 107",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0008_377efb9379",
     "original": "洞木さん",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 108"
+    "translation": "洞木同学",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 108",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0009_1245c0956d",
@@ -53,8 +58,9 @@
   {
     "key": "e_a9286d3008_0010_7c8ea42352",
     "original": "赤木博士",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 110"
+    "translation": "赤木博士",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 110",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0011_df6bcb0fe8",
@@ -66,26 +72,30 @@
   {
     "key": "e_a9286d3008_0012_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 112"
+    "translation": "碇司令",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 112",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0013_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 113"
+    "translation": "冬月副司令",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 113",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0014_1b9237955a",
     "original": "俺",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 114"
+    "translation": "俺",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 114",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0015_ecf7daff96",
     "original": "日向",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 115"
+    "translation": "日向",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 115",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0016_b166649dcd",
@@ -104,8 +114,9 @@
   {
     "key": "e_a9286d3008_0018_8bfc665fe2",
     "original": "シンジ君",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 118"
+    "translation": "真嗣君",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 118",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0019_7faf5c4e05",
@@ -124,26 +135,30 @@
   {
     "key": "e_a9286d3008_0021_ee11ae3ed4",
     "original": "渚君",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 121"
+    "translation": "渚君",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 121",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0022_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 122"
+    "translation": "铃原君",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 122",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0023_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 123"
+    "translation": "相田君",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 123",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0024_377efb9379",
     "original": "洞木さん",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 124"
+    "translation": "洞木同学",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 124",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0025_1245c0956d",
@@ -155,8 +170,9 @@
   {
     "key": "e_a9286d3008_0026_7c8ea42352",
     "original": "赤木博士",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 126"
+    "translation": "赤木博士",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 126",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0027_df6bcb0fe8",
@@ -168,26 +184,30 @@
   {
     "key": "e_a9286d3008_0028_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 128"
+    "translation": "碇司令",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 128",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0029_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 129"
+    "translation": "冬月副司令",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 129",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0030_1b9237955a",
     "original": "俺",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 130"
+    "translation": "俺",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 130",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0031_ecf7daff96",
     "original": "日向",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 131"
+    "translation": "日向",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 131",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0032_b166649dcd",
@@ -206,8 +226,9 @@
   {
     "key": "e_a9286d3008_0034_8bfc665fe2",
     "original": "シンジ君",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 134"
+    "translation": "真嗣君",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 134",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0035_7faf5c4e05",
@@ -226,26 +247,30 @@
   {
     "key": "e_a9286d3008_0037_ee11ae3ed4",
     "original": "渚君",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 137"
+    "translation": "渚君",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 137",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0038_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 138"
+    "translation": "铃原君",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 138",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0039_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 139"
+    "translation": "相田君",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 139",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0040_377efb9379",
     "original": "洞木さん",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 140"
+    "translation": "洞木同学",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 140",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0041_1245c0956d",
@@ -257,8 +282,9 @@
   {
     "key": "e_a9286d3008_0042_7c8ea42352",
     "original": "赤木博士",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 142"
+    "translation": "赤木博士",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 142",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0043_df6bcb0fe8",
@@ -270,26 +296,30 @@
   {
     "key": "e_a9286d3008_0044_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 144"
+    "translation": "碇司令",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 144",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0045_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 145"
+    "translation": "冬月副司令",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 145",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0046_1b9237955a",
     "original": "俺",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 146"
+    "translation": "俺",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 146",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0047_ecf7daff96",
     "original": "日向",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 147"
+    "translation": "日向",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 147",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0048_b166649dcd",
@@ -308,14 +338,16 @@
   {
     "key": "e_a9286d3008_0050_0bedb4ead6",
     "original": "やあ、元気かい？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 152\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "哟、最近还好吗？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 152\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0052_993436b547",
     "original": "まったくあえて嬉しいよ\\n嫌みじゃなく、さ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 153\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "真是令人欣慰\\n不是讽刺，真心话",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 153\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0054_59e88cc7fe",
@@ -326,86 +358,100 @@
   {
     "key": "e_a9286d3008_0056_0bedb4ead6",
     "original": "やあ、元気かい？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 155\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "哟、最近还好吗？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 155\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0058_62906dd177",
     "original": "あー",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 156\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "啊—",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 156\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0060_7f6d6be918",
     "original": "あー　そうだ\\n仕事、しなきゃな",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 157\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "啊　对了\\n得去工作了",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 157\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0062_2bd931f5f3",
     "original": "%sは俺の太陽だった…\\n…今はそれしか言う気はないよ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 158\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "%s曾是我的太阳…\\n…现在只想说这个",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 158\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0064_dddc1ebffd",
     "original": "くやんでても\\n死人は生き返らないさ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 159\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "再怎么懊悔\\n死人也不会复生",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 159\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0066_20faff46ff",
     "original": "なぐさめようがないな",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 160\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "找不到安慰的话啊",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 160\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0068_47e44476ff",
     "original": "%sのこと、\\nなぐさめよう、ないよな▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 161\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "%s的事、\\n实在不知该怎么安慰啊▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 161\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0070_3a2666abd4",
     "original": "死んじゃったんだから",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 162\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "毕竟人已经死了",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 162\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0072_25c4eaf007",
     "original": "%sか…\\nまさか、死ぬなんてな",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 163\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "%s啊…\\n没想到，居然会死",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 163\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0074_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 164\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 164\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0076_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 165\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 165\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0078_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 166\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 166\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0080_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 167\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 167\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0082_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 168\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 168\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0084_6a5be35919",
@@ -470,32 +516,37 @@
   {
     "key": "e_a9286d3008_0104_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 179\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 179\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0106_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 180\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 180\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0108_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 181\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 181\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0110_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 182\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 182\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0112_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 183\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 183\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0114_823d2c64bf",
@@ -512,20 +563,23 @@
   {
     "key": "e_a9286d3008_0118_aecb5dcaf2",
     "original": "ま、重いものなら俺が持ってやるよ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 186\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "嘛、重东西俺来帮你拿",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 186\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0120_9b18e0ba2c",
     "original": "あーあ　怪我して",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 187\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "唉呀　又受伤",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 187\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0122_71e9be8948",
     "original": "次は首でも折るか？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 188\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "下次是不是要把脖子也折断？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 188\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0124_8e1c26a6e8",
@@ -542,8 +596,9 @@
   {
     "key": "e_a9286d3008_0128_e813234415",
     "original": "%sの怪我かい？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 191\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "%s受伤了？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 191\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0130_5f7d78439c",
@@ -560,32 +615,37 @@
   {
     "key": "e_a9286d3008_0134_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 194\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 194\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0136_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 195\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 195\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0138_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 196\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 196\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0140_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 197\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 197\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0142_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 198\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 198\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0144_25d3678ece",
@@ -632,8 +692,9 @@
   {
     "key": "e_a9286d3008_0158_5afcb14eaf",
     "original": "%sの格好、みたかい？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 206\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "%s那身打扮看到了吗？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 206\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0160_5a9c1c0eb2",
@@ -644,8 +705,9 @@
   {
     "key": "e_a9286d3008_0162_ad8e9a732e",
     "original": "%sの格好、みたかい？\\n今年最高のギャグだぜ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 208\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "%s那身打扮看到了吗？\\n今年最佳搞笑造型啊",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 208\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0164_817dadae88",
@@ -656,8 +718,9 @@
   {
     "key": "e_a9286d3008_0166_d66496e59a",
     "original": "ヒーローだよ　お前",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 210\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "英雄啊　你这家伙",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 210\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0168_025e2b6c24",
@@ -674,8 +737,9 @@
   {
     "key": "e_a9286d3008_0172_a5cf444d63",
     "original": "…まあ、実力は認める",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 213\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "…嘛，实力我承认",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 213\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0174_c855feb3fc",
@@ -710,8 +774,9 @@
   {
     "key": "e_a9286d3008_0184_0e7108c29e",
     "original": "やっぱすごいぜ　お前",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 219\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "果然厉害啊　你这家伙",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 219\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0186_c66e6031d8",
@@ -740,8 +805,9 @@
   {
     "key": "e_a9286d3008_0194_62f5de39e8",
     "original": "模擬戦なのに、\\n手に汗握って見ちゃったよ！",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 224\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "明明是模拟战\\n看得我手心都冒汗了！",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 224\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0196_961c776367",
@@ -770,8 +836,9 @@
   {
     "key": "e_a9286d3008_0204_53dbdffadd",
     "original": "この悔しさをバネにして、次は勝つんだ！",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 229\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "把这份不甘化作动力，下次一定要赢！",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 229\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0206_28d81cfec8",
@@ -800,8 +867,9 @@
   {
     "key": "e_a9286d3008_0214_ba6a8641e3",
     "original": "コテンパンだなあ\\nお前殴られるの好きなわけ？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 234\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "被打得够惨啊～\\n你小子该不会是个受虐狂吧？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 234\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0216_a09e90cffb",
@@ -812,8 +880,9 @@
   {
     "key": "e_a9286d3008_0218_17a797e401",
     "original": "次はがんばるよな？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 236\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "下次会加油的吧？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 236\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0220_afbed80770",
@@ -830,8 +899,9 @@
   {
     "key": "e_a9286d3008_0224_7e33df7e0c",
     "original": "あれ　平和になったけど\\nエヴァの量産中止になんないな？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 239\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "奇怪…明明都和平了\\nEVA的量产计划怎么还在继续",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 239\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0226_98eb29210b",
@@ -842,14 +912,16 @@
   {
     "key": "e_a9286d3008_0228_bfddc544fd",
     "original": "平和だな…",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 241\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "真和平啊…",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 241\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0230_dec7d1aad1",
     "original": "さ、平和平和　お前も勉強がんばってみろよ▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 242\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "来，和平万岁～\\n你小子也给我好好学习啊▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 242\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0232_1e26d944ad",
@@ -872,14 +944,16 @@
   {
     "key": "e_a9286d3008_0238_e31d74a42e",
     "original": "やるじゃん　俺たち",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 246\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "干得不错嘛 咱们",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 246\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0240_2dfea74a99",
     "original": "このまま平和になって欲しいよ\\nほんとにさ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 247\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "真希望永远这么和平下去\\n说真的",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 247\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0242_12321a4c1a",
@@ -890,8 +964,9 @@
   {
     "key": "e_a9286d3008_0244_eff3c84367",
     "original": "エヴァ最大の弱点は、結局お前達なんだ\\nお前達の心はもろい　わかってんのか？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 249\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "EVA最大的弱点终究是你们\\n你们的心灵太脆弱了 懂不懂啊？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 249\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0246_0f5b3fd3eb",
@@ -902,8 +977,9 @@
   {
     "key": "e_a9286d3008_0248_822812e63e",
     "original": "ネルフは、使徒のために作られた組織だ\\nこの街も、な…",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 251\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "NERV是为了对抗使徒成立的组织\\n这座都市也是…",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 251\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0250_e9e47377d1",
@@ -932,8 +1008,9 @@
   {
     "key": "e_a9286d3008_0258_367ab7fdfe",
     "original": "なに、俺たちががんばれば\\nまだ逆転できるさ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 256\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "没事，只要俺们加把劲\\n还能扳回一城",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 256\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0260_1976693fce",
@@ -950,8 +1027,9 @@
   {
     "key": "e_a9286d3008_0264_75e7a55c11",
     "original": "お前さ、もっと上手く戦えないの？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 259\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "你就不能打得更漂亮点？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 259\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0266_34d4d691cb",
@@ -962,8 +1040,9 @@
   {
     "key": "e_a9286d3008_0268_9a05697e6f",
     "original": "負けだ負けだ　人類は終わりだよ▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 261\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "完蛋了完蛋了 人类要灭亡啦▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 261\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0270_0b514f75e4",
@@ -974,8 +1053,9 @@
   {
     "key": "e_a9286d3008_0272_6a42747c2d",
     "original": "なあに\\n最後の時は、まだもう少し先だよ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 263\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "别担心\\n末日还早着呢",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 263\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0274_9f52d13eb8",
@@ -992,20 +1072,23 @@
   {
     "key": "e_a9286d3008_0278_76d641e723",
     "original": "%s、最近\\n異常にすごいんじゃないか！？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 266\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "%s最近\\n是不是强得离谱！？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 266\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0280_bafea688fe",
     "original": "%s、最近すごいんじゃないか？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 267\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "%s最近是不是变强了？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 267\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0282_255e45c5b3",
     "original": "%sねえ、\\nそう言えば話はよく聞くかな",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 268\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "%s啊\\n说起来最近老听到你传闻",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 268\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0284_e89b5a80fb",
@@ -1016,38 +1099,44 @@
   {
     "key": "e_a9286d3008_0286_eaf73a6344",
     "original": "%sか、\\n正直近付きたくないね",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 270\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "%s啊\\n说实话不想靠近呢",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 270\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0288_da3bb47292",
     "original": "死ぬなよ！　絶対",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 271\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "别死啊！绝对要活着",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 271\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0290_77b3f8567d",
     "original": "みんな応援している",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 272\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "大家都在给你加油",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 272\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0292_ffb4e5d6b5",
     "original": "準備は万端かい？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 273\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "准备都搞定了？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 273\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0294_4f257ea0a9",
     "original": "早く行った方がいいんじゃないか？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 274\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "是不是该抓紧时间出发了？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 274\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0296_5c371bfa9e",
     "original": "モタモタすんなよ！",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 275\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "别磨磨蹭蹭的！",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 275\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0298_e4b5ef6b10",
@@ -1088,8 +1177,9 @@
   {
     "key": "e_a9286d3008_0310_c3a4fc1547",
     "original": "まあ、悩め、学生",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 282\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "嘛，烦恼吧学生仔",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 282\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0312_10bce9965b",
@@ -1106,14 +1196,16 @@
   {
     "key": "e_a9286d3008_0316_f6ba7b9049",
     "original": "たまにはギターでも弾いてみたらどうだ？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 285\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "偶尔弹弹吉他怎么样？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 285\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0318_a4d5a6f36b",
     "original": "学校行かないというのも、一つの手さ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 286\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "不去上学也是个办法",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 286\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0320_d9451d0154",
@@ -1124,32 +1216,37 @@
   {
     "key": "e_a9286d3008_0322_d8ae5a91db",
     "original": "いやまて！\\nそれは冗談になってない？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 288\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "等等！\\n这玩笑开过头了吧？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 288\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0324_ac1bfbaeac",
     "original": "んー　あー\\nいや、そこまで　うお",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 289\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "嗯——啊——\\n不，到这种程度就...",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 289\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0326_cf784dc848",
     "original": "は？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 290\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "哈？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 290\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0328_d8a21a7eb7",
     "original": "コンボって知ってるかい？▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 291\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "知道连击系统吗？▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 291\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0330_612d01eea6",
     "original": "スキルプログラムや武器の特性で\\n相性のいいのを組み合わせることさ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 292\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "就是把技能程序和武器特性\\n搭配出最佳组合啦",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 292\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0332_c0e3d6caaf",
@@ -1178,8 +1275,9 @@
   {
     "key": "e_a9286d3008_0340_d812e7c487",
     "original": "ベースギターだけが俺の友達さ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 297\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "贝斯吉他就是俺唯一的伙伴",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 297\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0342_a18fe2b041",
@@ -1208,8 +1306,9 @@
   {
     "key": "e_a9286d3008_0350_00a5688eef",
     "original": "第３新東京市やネルフ施設内にいる人達から、\\n今回の戦闘に役立つ話を聞く事ができるぜ▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 463\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "在第三新东京市和NERV设施里\\n能打听到对战斗有帮助的情报▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 463\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0352_b03e051fe6",
@@ -1220,326 +1319,380 @@
   {
     "key": "e_a9286d3008_0354_fd7db0c4cb",
     "original": "戦闘準備に必要な情報を確認したかったら、\\n俺に聞いてくれよ▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 465\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "想确认备战情报\\n随时来问俺▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 465\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0356_27a7a42128",
     "original": "それまでに聞いた情報を、リストで表示するから、\\nしっかり確認してくれ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 466\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "会把收集到的情报列出来\\n仔细确认啊",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 466\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0358_022a0e2cc0",
     "original": "使徒の出現場所０００",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 467\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "使徒出现地点000",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 467\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0360_fcc15c9c2c",
     "original": "使徒の移動方法０００",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 468\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "使徒移动方式000",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 468\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0362_860e70350d",
     "original": "情報部からの報告を総合すると…、目標は、\\n第３新東京市　西地区に飛来予定だな",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 469\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "综合情报部报告...目标预计\\n会飞抵第三新东京市西区",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 469\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0364_832f6f03eb",
     "original": "目標は空中を浮遊して移動\\n移動速度は遅いようだ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 470\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "目标正在空中浮游移动\\n移动速度似乎较慢",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 470\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0366_48ceb425aa",
     "original": "使徒の出現場所００２",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 471\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "使徒出现地点002",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 471\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0368_f679af8259",
     "original": "使徒の移動方法００２",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 472\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "使徒移动方式002",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 472\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0370_b82911bef4",
     "original": "使徒の出現場所００３",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 473\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "使徒出现地点003",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 473\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0372_2a583cd64c",
     "original": "使徒の移動方法００３",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 474\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "使徒移动方式003",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 474\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0374_9bc11a74f7",
     "original": "使徒の出現場所００４",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 475\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "使徒出现地点004",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 475\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0376_68cd7e3bc4",
     "original": "使徒の移動方法００４",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 476\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "使徒移动方式004",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 476\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0378_5777fb7004",
     "original": "強羅絶対防衛線を突破した目標は、\\n現在、第３新東京市　北地区を目指し移動中だな",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 477\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "突破强罗绝对防卫线的目标\\n目前正向第3新东京市北地区移动",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 477\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0380_72b6149d4d",
     "original": "目標は歩行とジャンプで移動してる\\n移動速度は結構速いらしいぞ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 478\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "目标以步行和跳跃方式移动\\n据说移动速度相当快",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 478\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0382_c4371c48a1",
     "original": "使徒の出現場所００６",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 479\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "使徒出现地点006",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 479\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0384_b753252c3a",
     "original": "使徒の移動方法００６",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 480\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "使徒移动方式006",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 480\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0386_cb88687206",
     "original": "第３新東京市　東地区に出現しやがった",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 481\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "在第3新东京市东地区出现了",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 481\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0388_e588539248",
     "original": "クモみたいな長い脚で歩行している▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 482\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "正用蜘蛛般的长腿行走▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 482\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0390_ed83fe563c",
     "original": "ゼロエリアを目指して一直線に移動しているな\\n幸い移動速度は遅いようだが…",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 483\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "正笔直朝0区移动\\n所幸移动速度似乎较慢……",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 483\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0392_acbb2289e2",
     "original": "目標は、第３新東京市　中央区直上\\n衛星軌道上に出現",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 484\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "目标出现在第3新东京市中央区正上方\\n卫星轨道上",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 484\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0394_9594413825",
     "original": "衛星軌道上から、ここネルフ本部へ\\n落下して来るものと予想されるな…",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 485\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "预计会从卫星轨道上\\n向NERV本部坠落……",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 485\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0396_e26300a6ce",
     "original": "使徒の出現場所００９",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 486\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "使徒出现地点009",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 486\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0398_c37f5639ac",
     "original": "使徒の移動方法００９",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 487\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "使徒移动方式009",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 487\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0400_473eeb86f0",
     "original": "富士の電波観測所も探知してない▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 488\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "连富士电波观测所都没探测到▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 488\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0402_a68d45da02",
     "original": "第３新東京市　南地区直上にいきなり出現しやがった",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 489\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "突然出现在第3新东京市南地区正上方",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 489\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0404_2ad8b86508",
     "original": "空中に浮かんで、非常にゆっくりと移動している\\nテレポートをしたという情報もあるな",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 490\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "漂浮在空中缓慢移动\\n也有报告称其会瞬移",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 490\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0406_dd9e995a91",
     "original": "松代第２実験場で発見された未確認移動物体は、\\n第３新東京市　北地区に向かっている",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 491\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "在松代第2实验场发现的未确认移动物体\\n正朝第3新东京市北地区前进",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 491\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0408_1e53179fd0",
     "original": "目標は地上を歩行している▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 492\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "目标正以步行方式移动▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 492\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0410_a65cfb1919",
     "original": "時おりダッシュやジャンプをするため、\\n平均した移動速度は速いようだ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 493\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "因偶尔冲刺跳跃\\n平均移动速度似乎较快",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 493\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0412_536149ee97",
     "original": "目標は駒ケ岳防衛ラインを突破　現在、\\n第３新東京市　ジオフロントを目指し侵攻中だ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 494\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "目标已突破驹岳防卫线\\n现正向第3新东京市地下都市进攻",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 494\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0414_7bf575b3ca",
     "original": "目標は空中を浮遊し、\\n非常にゆっくりとした速度で移動中",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 495\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "目标正低空浮游\\n以极缓慢速度移动",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 495\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0416_acbb2289e2",
     "original": "目標は、第３新東京市　中央区直上\\n衛星軌道上に出現",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 496\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "目标出现在第3新东京市中央区正上方\\n卫星轨道上",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 496\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0418_0fc1c815d5",
     "original": "目標は、今のところ衛星軌道から動いていないな\\nここから一定距離を保っている",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 497\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "目标目前尚未脱离卫星轨道\\n与本部保持固定距离",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 497\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0420_ee6d96cc48",
     "original": "目標は大涌谷上空に出現、\\n第３新東京市　東地区に向かってるらしい",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 498\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "目标出现在大涌谷上空\\n似乎正朝第3新东京市东地区移动",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 498\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0422_a89a93fe83",
     "original": "目標は低高度の空中を浮遊、這うように移動している\\nジャンプもするから、意外に移動速度は速いな",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 499\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "目标在低空匍匐浮游\\n因具备跳跃能力实际移动速度意外地快",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 499\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0424_4999439784",
     "original": "目標は弐号機を外部より操作し、ネルフ本部内\\nターミナルドグマに向かい降下中",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 500\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "目标正从外部操控贰号机\\n向NERV本部最终教条区下降",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 500\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0426_197a993f8b",
     "original": "ターミナルドグマ降下後は、\\n弐号機の移動方法に準拠すると予想できるな▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 501\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "预计降入最终教条区后\\n将沿用贰号机的移动模式▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 501\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0428_755963a77d",
     "original": "歩行による移動、移動速度は\\n初号機と同程度の速さだろう",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 502\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "采用步行移动\\n速度预计与初号机相当",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 502\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0430_18024495ba",
     "original": "全部で９機　エヴァ量産機、エヴァシリーズです　\\n只今、ジオフロント直上を旋回中",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 503\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "共计9架EVA量产机——EVA系列\\n正在地下都市上空盘旋",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 503\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0432_15cdd7810e",
     "original": "ジオフロント降下後の移動方法は、\\n初号機と大差ないはずだ▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 504\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "降入地下都市后的移动方式\\n应与初号机差异不大▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 504\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0434_f65c4bd564",
     "original": "歩行による移動、移動速度は\\nエヴァと同程度の速さだろう",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 505\nSpeaker: IMC_AOBA\nVoice: "
+    "translation": "采用步行移动\\n速度预计与EVA相当",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 505\nSpeaker: IMC_AOBA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0436_b02ed2a105",
     "original": "やあ、俺「……」\\nよろしく▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 506\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_001_1"
+    "translation": "哟，俺「……」\\n请多关照▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 506\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_001_1",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0438_eee4f9886d",
     "original": "え、名前聞こえなかった？\\nおかしいな俺は「……」▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 507\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_001_2"
+    "translation": "咦，没听清名字？\\n奇怪啊俺明明说了「……」▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 507\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_001_2",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0440_52a0ffb4b6",
     "original": "どうだ？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 508\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_001_3"
+    "translation": "怎么样？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 508\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_001_3",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0442_5f59f3aa56",
     "original": "この間司令から名前を聞かれたんだ\\nまあ、偉い人だから仕方ないかもしれないけどな",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 509\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_002"
+    "translation": "前几天司令问俺名字\\n不过大人物记不住也正常啦",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 509\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_002",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0444_798da7a425",
     "original": "冬月副司令がさ、\\n真面目な顔で俺の名前を聞くんだよ▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 510\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_003_1"
+    "translation": "冬月副司令啊\\n居然一脸严肃地问俺名字▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 510\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_003_1",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0446_1fc7746614",
     "original": "ついに爺さん残念なことになったかと思ったよ\\nいい人だったのになあ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 511\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_003_2"
+    "translation": "还以为老爷子终于老年痴呆了\\n明明是个好人来着",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 511\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_003_2",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0448_dfd1c565cc",
     "original": "…この間、葛城さんから名前聞かれたんだ\\n俺はもう、駄目かもしれない",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 512\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_004"
+    "translation": "…前几天葛城小姐也问俺名字\\n俺可能真的没救了吧",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 512\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_004",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0450_6583946845",
     "original": "俺、情報局所属なんだけどさ\\n誰も覚えてなかったんだよ▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 513\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_005_1"
+    "translation": "俺明明是情报局的人\\n结果谁都不记得俺▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 513\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_005_1",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0452_b27e69be14",
     "original": "いや、もう、どうでもいいやと思ったね\\nしーらないっ、しーらないっ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 514\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_005_2"
+    "translation": "算了，已经无所谓了\\n不知道～不知道～",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 514\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_005_2",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0454_6aefca9fc9",
     "original": "スタッフの足元を見ると\\nエレキギターのケースがあった",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 515\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "发现工作人员脚边\\n放着电吉他琴盒",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 515\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0456_256a07b17c",
     "original": "ああこれかい？　エレキベースさ　ギターじゃないぞ\\nベースだ　俺は…ベーシストなんだ▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 516\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_006_1"
+    "translation": "啊这个？是电贝斯啦不是吉他\\n贝斯手…俺是贝斯手▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 516\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_006_1",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0458_29493131ba",
     "original": "…もう俺に残っているのはこいつだけだ▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 517\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_006_2"
+    "translation": "…现在只剩这伙计陪着俺了▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 517\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_006_2",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0460_ea8fbc9684",
     "original": "こいつには俺の名前が彫ってある\\n消えないようにな…",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 518\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_006_3"
+    "translation": "上面刻着俺的名字\\n永远都抹不掉啦…",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 518\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_006_3",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0462_a5f1b39026",
@@ -1550,68 +1703,79 @@
   {
     "key": "e_a9286d3008_0464_b25ea5ba44",
     "original": "バンドのメンバーと飲みに行ったんだ\\nああ　もう駄目だ…",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 520\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_007"
+    "translation": "和乐队成员去喝酒\\n啊啊～彻底完蛋了…",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 520\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_007",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0466_24f9a08cfe",
     "original": "戦況は決していいとはいえない情勢だ…▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 521\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_008_1"
+    "translation": "战况实在称不上乐观…▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 521\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_008_1",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0468_d91f4210f9",
     "original": "頼まれて、くれないか\\n俺の名前を、聞いて、覚えていて欲しい▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 522\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_008_2"
+    "translation": "拜托了\\n记住俺的名字好不好▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 522\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_008_2",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0470_6498e9365b",
     "original": "…笑わないでくれ\\n俺にとっては、重大な事なんだ",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 523\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_008_3"
+    "translation": "…别笑啊\\n对俺来说这可是大事",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 523\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_008_3",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0472_43eba95006",
     "original": "…俺の名前を言ってくれないか？",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 524\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_009"
+    "translation": "…能叫一声俺的名字吗？",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 524\nSpeaker: IMC_AOBA2\nVoice: na54_0008_10_009",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0474_1b46188218",
     "original": "青葉シゲルは涙目になった",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 525\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "青叶茂眼眶湿润了",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 525\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0476_cca449b819",
     "original": "え？　あ、今お前\\nあ…▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 526\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_010_1"
+    "translation": "诶？啊、刚才你\\n呃…▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 526\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_010_1",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0478_95c56cb437",
     "original": "うぉぉぉ！",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 527\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_010_2"
+    "translation": "呜哇哇！",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 527\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_010_2",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0480_9f00297de9",
     "original": "俺はこれで、あと１年は戦える\\nありがとう",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 528\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_011"
+    "translation": "这样俺就能再战一年\\n谢谢你",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 528\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_011",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0482_24bb98208c",
     "original": "俺は青葉シゲルだ　よろしく　え、知ってる？\\nいや、忘れるかもしれないだろ　一応な",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 529\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_012"
+    "translation": "俺叫青叶茂 请多指教 啊？你知道？\\n不不 说不定会忘嘛 以防万一",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 529\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_012",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0484_dca9baf558",
     "original": "そして…▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 530\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "然后…▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 530\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0486_b80b71fb19",
@@ -1623,8 +1787,9 @@
   {
     "key": "e_a9286d3008_0488_d237163c91",
     "original": "終わったな▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 532\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_013"
+    "translation": "结束啦▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 532\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_013",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0490_a5f1b39026",
@@ -1641,32 +1806,37 @@
   {
     "key": "e_a9286d3008_0494_37a6a3f6cf",
     "original": "俺さ　俺の名前を覚えてくれる人が生き残って、\\nほんと嬉しいよ▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 535\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_014_1"
+    "translation": "能遇到记住俺名字还活下来的人\\n真的太开心了▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 535\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_014_1",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0496_6361c3fbcc",
     "original": "いや、愛してる",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 536\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_014_2"
+    "translation": "不，我爱你",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 536\nSpeaker: IMC_AOBA\nVoice: na54_0008_10_014_2",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0498_4099699970",
     "original": "あなたが戦いで得たものは、\\n存在感はあるが影の薄い青年だった▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 537\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你在战斗中获得的，\\n是一个存在感强烈却身影单薄的青年▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 537\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0500_51c62db74f",
     "original": "あなたはそれで、何の不満もない▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 538\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你对此毫无不满▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 538\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0502_ceca1c9b47",
     "original": "なんだかレアな人のような、\\nそんな気がしたからだった▽",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 539\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "总觉得像是稀有物种般，\\n莫名产生了这样的念头▽",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 539\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0504_8d4795eec6",
@@ -1678,19 +1848,22 @@
   {
     "key": "e_a9286d3008_0770_ff55c5bcda",
     "original": "目を逸らす",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 591\nVoice: わざと目を逸らす"
+    "translation": "移开视线",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 591\nVoice: わざと目を逸らす",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0771_0b6ffda28e",
     "original": "わざと目を逸らす",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 591\nVoice: "
+    "translation": "故意移开视线",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 591\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_a9286d3008_0807_af9c5988bb",
     "original": "新たな武器が追加されました",
-    "translation": "",
-    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 899\nCall: DecideStart"
+    "translation": "新增武器已解锁",
+    "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 899\nCall: DecideStart",
+    "stage": 1
   }
 ]

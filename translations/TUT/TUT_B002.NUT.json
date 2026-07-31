@@ -2,157 +2,183 @@
   {
     "key": "e_cc2f0e4158_0001_b92e281b6d",
     "original": "エヴァの基本操作",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "EVA基本操作",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0002_b92e281b6d",
     "original": "エヴァの基本操作",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 22\nCall: DecideStart"
+    "translation": "EVA基本操作",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 22\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0003_06fafa29f2",
     "original": "<07>アナログパッド<//>を入力した方向に\\n<02>移動<//>する事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "推动<07>模拟摇杆<//>可向输入方向\\n进行<02>移动<//>▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0004_7b02c004f9",
     "original": "<02>移動<//>しながら$Rボタンで<02>Ａ．Ｔ．<//>を\\n消費して<02>ダッシュ<//>する事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>移动<//>时按住$R键消耗<02>AT力场<//>\\n即可进行<02>冲刺<//>▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0005_20a6b27bd6",
     "original": "<02>移動<//>しながら$xボタンで<02>Ａ．Ｔ．<//>を\\n消費して<02>回避行動<//>を行います▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>移动<//>时按$x键消耗<02>AT力场<//>\\n可执行<02>回避动作<//>▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0006_4809adc615",
     "original": "<02>ダッシュ<//>中の<02>Ａ．Ｔ．<//>消費量は<02>移動スキル<//>、\\n<02>回避行動<//>での<02>Ａ．Ｔ．<//>消費量は<02>回避スキル<//>、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 30\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>冲刺<//>时的<02>AT力场<//>消耗量由<02>移动技能<//>决定，\\n<02>回避动作<//>的<02>AT力场<//>消耗量则取决于<02>回避技能<//>，▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 30\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0007_5bd7275db0",
     "original": "それぞれの<02>スキル<//>を<02>実装<//>する事で\\n<02>Ａ．Ｔ．<//>消費量を減少させる事もできます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 31\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "通过<02>实装<//>相应<02>技能<//>\\n可减少<02>AT力场<//>消耗量▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 31\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0008_00ca4649a7",
     "original": "停止中に$Rボタンで、\\n<02>ガード<//>をする事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 44\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "静止时按$R键\\n可进行<02>防御<//>▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 44\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0009_3c64bec0e9",
     "original": "$Rボタンを押し続けている間、\\n<02>ガード<//>をし続ける事ができますが▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 45\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "长按$R键期间，\\n可持续进行<02>防御<//>▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 45\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0010_27051f55bf",
     "original": "<02>ガード<//>中は<02>Ａ．Ｔ．<//>を消費し続けます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>防御<//>期间会持续消耗<02>AT力场<//>▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0011_d146907fce",
     "original": "また、<02>ガード<//>した攻撃に応じて\\n<02>Ａ．Ｔ．<//>を消費します",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 47\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "此外，根据<02>防御<//>的攻击类型\\n会消耗相应<02>AT力场<//>",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 47\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0012_cc5c27461a",
     "original": "<02>ガードスキル<02>を<02>実装<//>する事で、\\n<02>Ａ．Ｔ．<//>消費量を減少させる事もできます",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 48\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "通过<02>装备防御技能<//>\\n可减少<02>AT力场<//>消耗量",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 48\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0013_369602da8a",
     "original": "攻撃を受ける寸前に<02>ガード<//>を実行すると、\\n<02>ジャストガード<//>となり、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 61\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "在遭受攻击前瞬间执行<02>防御<//>\\n可触发<02>完美防御<//>▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 61\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0014_434307ade4",
     "original": "<02>Ａ．Ｔ．<//>を消費せずに\\n攻撃を<02>ガード<//>する事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 62\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "无需消耗<02>AT力场<//>\\n即可<02>防御<//>攻击▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 62\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0015_cecad23dfa",
     "original": "また、衝撃の大きな攻撃を<02>ガード<//>しても\\n<02>硬直時間<//>は短くなります",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 63\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "即便<02>防御<//>强力冲击\\n<02>硬直时间<//>也会缩短",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 63\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0016_745cb2928d",
     "original": "使徒が<02>ガード<//>をしている時に\\n密着して$Rボタンで",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 76\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "当使徒处于<02>防御<//>状态时\\n贴身按住$R键",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 76\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0017_67e5e947d8",
     "original": "使徒の<02>Ａ．Ｔ．<//>を減らす事ができる、\\n<02>浸食<//>を実行する事ができます",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 77\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "可执行降低使徒<02>AT力场<//>的\\n<02>侵蚀<//>行动",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 77\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0018_e97eaafb94",
     "original": "使徒の<02>Ａ．Ｔ．<//>を一気に減少させ、\\n<02>バニッシュ<//>の状態に追い込みましょう",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 78\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "大幅削减使徒<02>AT力场<//>\\n将其逼入<02>湮灭<//>状态",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 78\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0019_dc1be1b3e1",
     "original": "ただし、<02>浸食<//>中はエヴァの<02>Ａ．Ｔ．<//>も\\n同時に消費されているので注意してください",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 79\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "但需注意，<02>侵蚀<//>期间\\nEVA的<02>AT力场<//>也会同步消耗",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 79\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0020_da0c0a0455",
     "original": "<02>浸食スキル<//>を<02>実装<//>する事で、\\n<02>浸食<//>のスピードを速める事もできます",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 80\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>装备侵蚀技能<//>\\n可加快<02>侵蚀<//>速度",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 80\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0021_b2d24e6d60",
     "original": "<07>方向キー<//>でカメラを移動する事ができます",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 92\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<07>方向键<//>可移动视角",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 92\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0022_8f38a4b436",
     "original": "切断された<02>電源<//>は<02>電源ビル<//>で、\\n<02>再接続<//>する事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 104\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "被切断的<02>电源<//>可在<02>电源大楼<//>\\n进行<02>重新连接<//>▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 104\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0023_8d38e97aac",
     "original": "<02>予備電源<//>の残量は\\n<02>活動限界時間<//>として表示されます、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 105\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>备用电源<//>剩余量\\n显示为<02>活动时限<//>▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 105\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0024_412c4aa263",
     "original": "<02>電源<//>を<02>再接続<//>する事で\\n<02>予備電源<//>を<02>充電<//>する事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 106\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "通过<02>重新连接电源<//>\\n可为<02>备用电源<//><02>充电<//>▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 106\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0025_839acdb31a",
     "original": "<02>電源<//>は$Rボタンを押しながら\\n$#ボタンと$xボタンを同時に押す事で▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 107\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "按住$R键同时按下\\n$#键与$x键可<02>切断电源<//>▽",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 107\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0026_ded0e25d0f",
     "original": "自分で<02>切断<//>する事もできます",
-    "translation": "",
-    "context": "File: TUT/TUT_B002.NUT\nLine: 108\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "也可主动<02>切断<//>电源",
+    "context": "File: TUT/TUT_B002.NUT\nLine: 108\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

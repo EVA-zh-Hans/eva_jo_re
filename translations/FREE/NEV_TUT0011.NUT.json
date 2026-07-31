@@ -2,79 +2,92 @@
   {
     "key": "e_7274987360_0001_b66a629392",
     "original": "本格的な訓練、ですか",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "正式训练吗",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_7274987360_0002_7687b23a9f",
     "original": "ええ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 125\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "嗯▽",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 125\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_7274987360_0003_ccfc1be554",
     "original": "これまでの訓練が本格的でなかったかといえば、\\nもちろんそんなことはないけれど",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 126\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "虽说之前的训练\\n也不能说不正式",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 126\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_7274987360_0004_05e3823c93",
     "original": "はあ…わかりました",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 129\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "哈啊……明白了",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 129\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_7274987360_0005_3e74497744",
     "original": "理由、きかないのね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "不问原因呢",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_7274987360_0006_d4b68852c0",
     "original": "でも、決まったことなんですよね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 136\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "但这是既定事项了吧",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 136\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_7274987360_0007_e42d216ff4",
     "original": "そりゃそうだけど…ごめん▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "话是这么说……抱歉▽",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_7274987360_0008_a478753bbd",
     "original": "命令する立場なのに自発的に動いて欲しいって、\\n虫のいいことだと思ってる",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 141\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "明明处在命令者的立场\\n却希望对方主动行动\\n我也觉得自己很任性",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 141\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_7274987360_0009_c73a3406c5",
     "original": "…じゃあ、あの、\\nなんで、今なんですか",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 144\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "……那，那个\\n为什么是现在呢",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 144\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_7274987360_0010_b51fd96c88",
     "original": "敵の…使徒の調査と研究を進めるうちに、\\n敵が進化してることがわかったの▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "随着对敌人…使徒的调查研究\\n发现它们在不断进化▽",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_7274987360_0011_0e540c0fbf",
     "original": "使徒は前より強くなる\\n前とは同じ手を、使ってこない",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 149\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "使徒会变得比从前更强\\n不会重复使用相同手段",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 149\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_7274987360_0012_a217f567a8",
     "original": "…必死なんですね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 152\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "……它们也很拼命呢",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 152\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_7274987360_0013_8e3e6d0f19",
     "original": "多分ね…\\nそして必死なのはこっちも同じ",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 155\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "大概吧…\\n我们这边也同样拼命",
+    "context": "File: FREE/NEV_TUT0011.NUT\nLine: 155\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   }
 ]

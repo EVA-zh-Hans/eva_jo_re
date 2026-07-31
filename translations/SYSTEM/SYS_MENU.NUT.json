@@ -44,7 +44,8 @@
   {
     "key": "e_5076d999ed_0007_ad00bf5b37",
     "original": "セーブされませんが、よろしいですか？",
-    "translation": "",
-    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 43\nCall: DecideStart"
+    "translation": "将不会保存进度，确定要继续吗？",
+    "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 43\nCall: DecideStart",
+    "stage": 1
   }
 ]

@@ -2,31 +2,36 @@
   {
     "key": "e_b486c95c73_0001_819456efcb",
     "original": "システムメニュー５",
-    "translation": "",
-    "context": "File: TUT/TUT_F010.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "系统菜单5",
+    "context": "File: TUT/TUT_F010.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_b486c95c73_0002_819456efcb",
     "original": "システムメニュー５",
-    "translation": "",
-    "context": "File: TUT/TUT_F010.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "系统菜单5",
+    "context": "File: TUT/TUT_F010.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_b486c95c73_0003_7e2c48249f",
     "original": "<02>タイトル画面へ<//>を選ぶと、\\n<02>ゲームが中断<//>されて<02>タイトル画面に戻ります<//>▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F010.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "选择<02>返回标题画面<//>，\\n将<02>中断游戏<//>并<02>返回标题画面<//>▽",
+    "context": "File: TUT/TUT_F010.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b486c95c73_0004_ac7c096e52",
     "original": "この場合、<02>ゲームデータはセーブされません<//>▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F010.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "此时<02>游戏数据不会被保存<//>▽",
+    "context": "File: TUT/TUT_F010.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b486c95c73_0005_55ebc885fd",
     "original": "<02>データをセーブする<//>場合は、<01>ミサトのマンション<//>\\nに移動し、<02>セーブする<//>コマンドを実行します",
-    "translation": "",
-    "context": "File: TUT/TUT_F010.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "若要<02>保存数据<//>，需前往<01>美里的公寓<//>\\n执行<02>保存<//>指令",
+    "context": "File: TUT/TUT_F010.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

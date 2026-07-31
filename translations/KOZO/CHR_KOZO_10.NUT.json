@@ -2,19 +2,22 @@
   {
     "key": "e_28060dd70d_0001_367c412c87",
     "original": "なに、副司令探していたの？\\nあの人ならいないわよ",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_10.NUT\nLine: 95\nCall: im.event2\nSpeaker: IMC_MISATO\nVoice: na54_0005_04_017_1"
+    "translation": "怎么，在找副司令？\\n那个人现在不在哦",
+    "context": "File: KOZO/CHR_KOZO_10.NUT\nLine: 95\nCall: im.event2\nSpeaker: IMC_MISATO\nVoice: na54_0005_04_017_1",
+    "stage": 1
   },
   {
     "key": "e_28060dd70d_0002_b18e580bd9",
     "original": "それがちょーっち面倒ごとに巻き込まれてる\\nみたいでね…あ、今のオフレコね",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_10.NUT\nLine: 100\nCall: im.event2\nSpeaker: IMC_MISATO\nVoice: na54_0005_04_017_2"
+    "translation": "他好像被卷进了超级～麻烦的事里…啊、刚才那句别记录哦",
+    "context": "File: KOZO/CHR_KOZO_10.NUT\nLine: 100\nCall: im.event2\nSpeaker: IMC_MISATO\nVoice: na54_0005_04_017_2",
+    "stage": 1
   },
   {
     "key": "e_28060dd70d_0003_8bb36f5aaa",
     "original": "…大丈夫、彼は有能だから",
-    "translation": "",
-    "context": "File: KOZO/CHR_KOZO_10.NUT\nLine: 104\nCall: im.event2\nSpeaker: IMC_MISATO\nVoice: na54_0005_04_017_3"
+    "translation": "…没关系，他很能干",
+    "context": "File: KOZO/CHR_KOZO_10.NUT\nLine: 104\nCall: im.event2\nSpeaker: IMC_MISATO\nVoice: na54_0005_04_017_3",
+    "stage": 1
   }
 ]

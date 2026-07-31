@@ -2,61 +2,71 @@
   {
     "key": "e_de83e8d437_0001_f47fa0f571",
     "original": "マップギミックの配置",
-    "translation": "",
-    "context": "File: TUT/TUT_F104.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "地图机关的配置",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_de83e8d437_0002_f47fa0f571",
     "original": "マップギミックの配置",
-    "translation": "",
-    "context": "File: TUT/TUT_F104.NUT\nLine: 23\nCall: DecideStart"
+    "translation": "地图机关的配置",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 23\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_de83e8d437_0003_83a1e43b84",
     "original": "戦場である<01>第３新東京市<//>に\\n手に入れた<02>マップギミックを配置<//>する場合は、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F104.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "若要在战场<01>第三新东京市<//>\\n配置到手的<02>地图机关<//>，▽",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_de83e8d437_0004_6bbaf74300",
     "original": "<12>ミサト<//>に話しかけます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F104.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "就去找<12>美里<//>吧▽",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_de83e8d437_0005_ac555433d6",
     "original": "現在所有するギミックのリストから、各エリアにある\\nスロットに<02>ギミックを配置<//>しましょう▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F104.NUT\nLine: 30\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "从当前拥有的机关列表中，\\n在各区域的槽位<02>配置机关<//>吧▽",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 30\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_de83e8d437_0006_9334a9fdb3",
     "original": "配置の手順は、まず<01>第３新東京市<//>の各エリアから\\n<02>配置を行うエリア<//>を選びます",
-    "translation": "",
-    "context": "File: TUT/TUT_F104.NUT\nLine: 31\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "配置步骤是，先从<01>第三新东京市<//>各区域中\\n选择<02>要配置的区域<//>",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 31\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_de83e8d437_0007_c327942da8",
     "original": "<02>エリア<//>を選択すると<02>マップ<//>が表示されます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F104.NUT\nLine: 43\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "选择<02>区域<//>后，\\n会显示<02>地图<//>▽",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 43\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_de83e8d437_0008_69cc4a7ccf",
     "original": "各エリアのマップ上で、\\nギミックを<02>配置するスロット<//>を選びます",
-    "translation": "",
-    "context": "File: TUT/TUT_F104.NUT\nLine: 44\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "在各区域的地图上，\\n选择<02>配置机关的槽位<//>",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 44\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_de83e8d437_0009_39844a9230",
     "original": "<02>スロット<//>を選択すると、<02>現在所有する\\nマップギミック<//>の一覧が表示されます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F104.NUT\nLine: 56\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "选择<02>槽位<//>后，将显示<02>当前拥有的\\n地图机关<//>列表▽",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 56\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_de83e8d437_0010_d147b6b753",
     "original": "戦略的な戦闘を行うためには、<02>情報収集<//>で集めた\\n情報に従い、<02>的確な配置<//>をする必要があります",
-    "translation": "",
-    "context": "File: TUT/TUT_F104.NUT\nLine: 57\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "为了进行战略性战斗，需要根据<02>情报收集<//>中获取的\\n情报，进行<02>精准配置<//>",
+    "context": "File: TUT/TUT_F104.NUT\nLine: 57\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

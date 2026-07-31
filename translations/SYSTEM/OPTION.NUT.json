@@ -2,8 +2,9 @@
   {
     "key": "e_92737fef78_0004_fcffa7966f",
     "original": "キャラ移動",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 24\nCall: f00.set_string"
+    "translation": "角色移动",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 24\nCall: f00.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0005_5df168a07f",
@@ -22,8 +23,9 @@
   {
     "key": "e_92737fef78_0010_f25e5e3a6a",
     "original": "カメラ操作",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 32\nCall: f10.set_string"
+    "translation": "镜头操作",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 32\nCall: f10.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0011_5df168a07f",
@@ -42,8 +44,9 @@
   {
     "key": "e_92737fef78_0016_bac0e07f19",
     "original": "カメラ上下操作",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 40\nCall: f20.set_string"
+    "translation": "镜头上下操作",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 40\nCall: f20.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0017_cbfd95266e",
@@ -54,14 +57,16 @@
   {
     "key": "e_92737fef78_0018_2f6d077af4",
     "original": "反転",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 42\nCall: f22.set_string"
+    "translation": "反转",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 42\nCall: f22.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0022_fe57b2d89d",
     "original": "カメラ左右操作",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 48\nCall: f30.set_string"
+    "translation": "镜头左右操作",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 48\nCall: f30.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0023_cbfd95266e",
@@ -72,14 +77,16 @@
   {
     "key": "e_92737fef78_0024_2f6d077af4",
     "original": "反転",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 50\nCall: f32.set_string"
+    "translation": "反转",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 50\nCall: f32.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0028_bf4e536c62",
     "original": "照準上下操作",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 56\nCall: f40.set_string"
+    "translation": "准星上下操作",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 56\nCall: f40.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0029_cbfd95266e",
@@ -90,14 +97,16 @@
   {
     "key": "e_92737fef78_0030_2f6d077af4",
     "original": "反転",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 58\nCall: f42.set_string"
+    "translation": "反转",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 58\nCall: f42.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0034_d662a8d7a2",
     "original": "照準左右操作",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 64\nCall: f50.set_string"
+    "translation": "准星左右操作",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 64\nCall: f50.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0035_cbfd95266e",
@@ -108,14 +117,16 @@
   {
     "key": "e_92737fef78_0036_2f6d077af4",
     "original": "反転",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 66\nCall: f52.set_string"
+    "translation": "反转",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 66\nCall: f52.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0040_294ad64d95",
     "original": "コクピット表示",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 72\nCall: f60.set_string"
+    "translation": "驾驶舱显示",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 72\nCall: f60.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0041_1d36dce636",
@@ -126,14 +137,16 @@
   {
     "key": "e_92737fef78_0042_17efc6654e",
     "original": "表示",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 74\nCall: f62.set_string"
+    "translation": "显示",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 74\nCall: f62.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0046_ac1de705cf",
     "original": "文字表示速度",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 80\nCall: f70.set_string"
+    "translation": "文字显示速度",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 80\nCall: f70.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0047_01495ffed8",
@@ -144,8 +157,9 @@
   {
     "key": "e_92737fef78_0048_871cfc7fc9",
     "original": "瞬間表示",
-    "translation": "",
-    "context": "File: SYSTEM/OPTION.NUT\nLine: 82\nCall: f72.set_string"
+    "translation": "瞬间显示",
+    "context": "File: SYSTEM/OPTION.NUT\nLine: 82\nCall: f72.set_string",
+    "stage": 1
   },
   {
     "key": "e_92737fef78_0052_f5bde72a1c",

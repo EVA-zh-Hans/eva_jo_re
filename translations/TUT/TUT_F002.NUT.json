@@ -2,31 +2,36 @@
   {
     "key": "e_be94d36a77_0001_4ae9743b76",
     "original": "マップ外への移動",
-    "translation": "",
-    "context": "File: TUT/TUT_F002.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "跨地图移动",
+    "context": "File: TUT/TUT_F002.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_be94d36a77_0002_4ae9743b76",
     "original": "マップ外への移動",
-    "translation": "",
-    "context": "File: TUT/TUT_F002.NUT\nLine: 23\nCall: DecideStart"
+    "translation": "跨地图移动",
+    "context": "File: TUT/TUT_F002.NUT\nLine: 23\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_be94d36a77_0003_6e8a4808d4",
     "original": "<02>マップの出口<//>では、<02>他のマップへ移動<//>するかを\\n確認されます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F002.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "在<02>地图出口<//>处会确认\\n是否要<02>前往其他地图<//>▽",
+    "context": "File: TUT/TUT_F002.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_be94d36a77_0004_e8acd5a88f",
     "original": "はいを選択すると、<02>移動先を選ぶ<//>画面になります",
-    "translation": "",
-    "context": "File: TUT/TUT_F002.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "选择「是」将进入<02>目的地选择<//>界面",
+    "context": "File: TUT/TUT_F002.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_be94d36a77_0005_23fd8725ae",
     "original": "<02>移動先の一覧<//>から、<07>方向キー<//>で行きたい場所を選び\\n$oボタンで決定すると<02>そのマップへ移動<//>できます",
-    "translation": "",
-    "context": "File: TUT/TUT_F002.NUT\nLine: 41\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "从<02>目的地列表<//>中用<07>方向键<//>选择目标\\n按$o键确认即可<02>前往该地图<//>",
+    "context": "File: TUT/TUT_F002.NUT\nLine: 41\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

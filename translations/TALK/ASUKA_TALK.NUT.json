@@ -9,20 +9,23 @@
   {
     "key": "e_3afcf03fd7_0003_e42477be97",
     "original": "ファースト",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 103"
+    "translation": "第一适格者",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 103",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0004_3f8703803d",
     "original": "アタシ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 104"
+    "translation": "本小姐",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 104",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0005_883f0d5619",
     "original": "ナギサくん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 105"
+    "translation": "薰君",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 105",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0006_a1f11b49a5",
@@ -62,38 +65,44 @@
   {
     "key": "e_3afcf03fd7_0011_7d84b2dab9",
     "original": "カジさん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 111"
+    "translation": "加持先生",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 111",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0012_8434d45c53",
     "original": "イカリしれい",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 112"
+    "translation": "碇司令",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 112",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0013_812648dd3c",
     "original": "ふくしれい",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 113"
+    "translation": "副司令",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 113",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0014_b3ebe85762",
     "original": "アオバさん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 114"
+    "translation": "青叶先生",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 114",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0015_7b80fe4cbf",
     "original": "ヒュウガさん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 115"
+    "translation": "日向先生",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 115",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0016_33ed09dc1c",
     "original": "マヤさん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 116"
+    "translation": "摩耶小姐",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 116",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0017_faed743884",
@@ -105,26 +114,30 @@
   {
     "key": "e_3afcf03fd7_0018_7674addfdf",
     "original": "バカシンジ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 118"
+    "translation": "笨蛋真嗣",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 118",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0019_e42477be97",
     "original": "ファースト",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 119"
+    "translation": "第一适格者",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 119",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0020_3f8703803d",
     "original": "アタシ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 120"
+    "translation": "本小姐",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 120",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0021_883f0d5619",
     "original": "ナギサくん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 121"
+    "translation": "薰君",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 121",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0022_a1f11b49a5",
@@ -164,38 +177,44 @@
   {
     "key": "e_3afcf03fd7_0027_7d84b2dab9",
     "original": "カジさん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 127"
+    "translation": "加持先生",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 127",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0028_8434d45c53",
     "original": "イカリしれい",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 128"
+    "translation": "碇司令",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 128",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0029_812648dd3c",
     "original": "ふくしれい",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 129"
+    "translation": "副司令",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 129",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0030_b3ebe85762",
     "original": "アオバさん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 130"
+    "translation": "青叶先生",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 130",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0031_7b80fe4cbf",
     "original": "ヒュウガさん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 131"
+    "translation": "日向先生",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 131",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0032_33ed09dc1c",
     "original": "マヤさん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 132"
+    "translation": "摩耶小姐",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 132",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0033_faed743884",
@@ -207,26 +226,30 @@
   {
     "key": "e_3afcf03fd7_0034_7674addfdf",
     "original": "バカシンジ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 134"
+    "translation": "笨蛋真嗣",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 134",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0035_e42477be97",
     "original": "ファースト",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 135"
+    "translation": "第一适格者",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 135",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0036_3f8703803d",
     "original": "アタシ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 136"
+    "translation": "本小姐",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 136",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0037_883f0d5619",
     "original": "ナギサくん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 137"
+    "translation": "薰君",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 137",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0038_a1f11b49a5",
@@ -266,38 +289,44 @@
   {
     "key": "e_3afcf03fd7_0043_7d84b2dab9",
     "original": "カジさん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 143"
+    "translation": "加持先生",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 143",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0044_8434d45c53",
     "original": "イカリしれい",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 144"
+    "translation": "碇司令",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 144",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0045_812648dd3c",
     "original": "ふくしれい",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 145"
+    "translation": "副司令",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 145",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0046_b3ebe85762",
     "original": "アオバさん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 146"
+    "translation": "青叶先生",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 146",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0047_7b80fe4cbf",
     "original": "ヒュウガさん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 147"
+    "translation": "日向先生",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 147",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0048_33ed09dc1c",
     "original": "マヤさん",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 148"
+    "translation": "摩耶小姐",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 148",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0049_faed743884",
@@ -309,14 +338,16 @@
   {
     "key": "e_3afcf03fd7_0050_ad6e8080d0",
     "original": "ごきげんよう？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 152\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "心情不错嘛？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 152\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0052_83bc5ffc15",
     "original": "もー　なによ\\nわたしのかおばっかみて",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 153\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "真是的～干嘛啦\\n一直盯着人家的脸看",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 153\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0054_1ed3b05b04",
@@ -333,32 +364,37 @@
   {
     "key": "e_3afcf03fd7_0058_6bbd0179a4",
     "original": "げー",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 156\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "呕——",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 156\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0060_265832b40f",
     "original": "アンタのこと、きらいなのよね",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 157\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "最讨厌你这种人了",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 157\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0062_3ce0103e9a",
     "original": "なんでしんじゃったのよ　バカ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 158\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "为什么要死啊笨蛋",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 158\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0064_d16eb5379e",
     "original": "しんだひとはかえってこないよ\\nいまをがんばるしかないのよ！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 159\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "死去的人不会回来了\\n现在只能努力活下去啊！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 159\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0066_68b5333bb9",
     "original": "くやんでもしかたないじゃない…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 160\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "不甘心也没用啦…",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 160\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0068_863ad0f659",
@@ -369,14 +405,16 @@
   {
     "key": "e_3afcf03fd7_0070_c4d25df356",
     "original": "…%s、しんじゃったね…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 162\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "…%s、已经死了呢…",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 162\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0072_15a33a863c",
     "original": "たいいんしていちばんさいしょに\\nアンタにあうなんて！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 163\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "出院后第一个见到的\\n居然是你！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 163\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0074_f8ae5a0437",
@@ -393,14 +431,16 @@
   {
     "key": "e_3afcf03fd7_0078_3d69778d77",
     "original": "（顔をそむけた）",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 166\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（别过脸去）",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 166\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0080_2a71de8017",
     "original": "ちかづかないで\\nまたにゅういんしそうだから",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 167\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "别靠近我\\n不然又要住院了",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 167\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0082_7a504dff6d",
@@ -411,8 +451,9 @@
   {
     "key": "e_3afcf03fd7_0084_0d38bf6488",
     "original": "こんどからきをつけてたたかうことね！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 169\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "下次战斗要小心点哦！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 169\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0086_137743148a",
@@ -423,20 +464,23 @@
   {
     "key": "e_3afcf03fd7_0088_8db5908283",
     "original": "え、もうたいいんしたの？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 171\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "诶、已经出院了？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 171\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0090_6b28139789",
     "original": "あー　たいいんしたのか\\nう、ううん？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 172\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "啊～出院了吗\\n哼、才没有担心呢",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 172\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0092_2e4c3ffe29",
     "original": "%sがもどってきて、\\nよかった…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 173\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "%s能回来\\n真是太好了…",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 173\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0094_409ba5fc1a",
@@ -447,8 +491,9 @@
   {
     "key": "e_3afcf03fd7_0096_d025ff794d",
     "original": "%s、たいいんしたって？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 175\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "%s、听说你出院了？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 175\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0098_7274c6c9d5",
@@ -471,8 +516,9 @@
   {
     "key": "e_3afcf03fd7_0104_b8d608bb9a",
     "original": "わらいたいならわらいなさいよ…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 179\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "想笑就笑吧…",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 179\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0106_27a412258e",
@@ -483,8 +529,9 @@
   {
     "key": "e_3afcf03fd7_0108_84cc19b368",
     "original": "ケガしてるんだからいたわってよね",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 181\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "受伤了就要好好被照顾啊",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 181\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0110_18c3bba779",
@@ -495,8 +542,9 @@
   {
     "key": "e_3afcf03fd7_0112_5a03f768e5",
     "original": "…なんでアンタのヘマで\\nわたしがなかないといけないのよ▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 183\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "…凭什么你犯错\\n却要我来哭啊▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 183\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0114_f870f7b6cf",
@@ -513,32 +561,37 @@
   {
     "key": "e_3afcf03fd7_0118_19ae0cd3f5",
     "original": "…けがするのはむのうのしょうこよ▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 186\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "…受伤就是无能的证明▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 186\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0120_39e858221c",
     "original": "だからつぎはきをつけてね",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 187\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "所以下次要小心点",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 187\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0122_f463312b23",
     "original": "…けがするのはむのうのしょうこよ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 188\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "…受伤就是无能的证明",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 188\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0124_5f2bb8a7d3",
     "original": "まぬけね",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 189\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "真是笨蛋呢",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 189\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0126_dbcd082831",
     "original": "%sをしんぱいしすぎて、わたしが\\nちょうしわるくなったら　ゆるさないんだから",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 190\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "要是因为太担心%s\n害我状态变差的话 绝对饶不了你",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 190\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0128_1cfe1ab42f",
@@ -567,26 +620,30 @@
   {
     "key": "e_3afcf03fd7_0136_e8e6471237",
     "original": "どう…かわいい…かな？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 195\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "怎么样…可爱吗…？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 195\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0138_b8877672f4",
     "original": "じゃーん\\nどう？　このかっこう！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 196\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "锵锵～\n怎么样？这身打扮！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 196\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0140_b8877672f4",
     "original": "じゃーん\\nどう？　このかっこう！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 197\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "锵锵～\n怎么样？这身打扮！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 197\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0142_8b1d334fac",
     "original": "こら、かってにわたしをみないで！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 198\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "喂、不准随便盯着我看！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 198\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0144_932412888f",
@@ -627,8 +684,9 @@
   {
     "key": "e_3afcf03fd7_0156_e64b319ec1",
     "original": "%sは…\\nおしゃれなかっこうしなくたっていいのに…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 205\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "%s明明…\n不打扮得这么时髦也可以的…",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 205\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0158_80d4ec7387",
@@ -651,8 +709,9 @@
   {
     "key": "e_3afcf03fd7_0164_948fff21e7",
     "original": "%s、わらわせてくれるわねぇ…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 209\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "%s、真是让人发笑呢…",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 209\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0166_74d0b1a50b",
@@ -675,14 +734,16 @@
   {
     "key": "e_3afcf03fd7_0172_a6afc33366",
     "original": "なに？　いまいいきぶんだから\\nはなしかけないでくれる？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 213\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "干嘛？现在心情正好\n能别来打扰吗？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 213\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0174_be84f1cc3d",
     "original": "はっ、いまいいきぶんだから\\nはなしかけないでくれる？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 214\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "哈、现在心情正好\n能别来打扰吗？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 214\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0176_2b080fb5e0",
@@ -765,8 +826,9 @@
   {
     "key": "e_3afcf03fd7_0202_0a4797c398",
     "original": "げー　かったんだー",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 228\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "耶～赢啦",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 228\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0204_f722fe9a61",
@@ -777,8 +839,9 @@
   {
     "key": "e_3afcf03fd7_0206_77b899f912",
     "original": "おしかったわね\\nでも、まけかたはわるくないわ▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 230\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "真可惜呢\\n不过输得还算体面▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 230\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0208_284d8171aa",
@@ -819,8 +882,9 @@
   {
     "key": "e_3afcf03fd7_0220_bffd3b1a72",
     "original": "もぎせんでなにもたついてんのよ\\nぶきのあいしょうはよかった？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 237\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "模拟战里什么都没学到吗\\n武器适配度测试过了？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 237\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0222_a32610cb86",
@@ -837,26 +901,30 @@
   {
     "key": "e_3afcf03fd7_0226_ff8c8dc548",
     "original": "アンタのじつりょくはそんなもの？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 240\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "你的实力就这种程度？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 240\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0228_acdd696cb2",
     "original": "……　わたしから、\\nなんでもいちばんをとらないで▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 241\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "……别从我这里、\\n抢走所有的第一啊▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 241\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0230_d73eae493b",
     "original": "……\\nわたしのいちばんなんかにならないで▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 242\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "……\\n别成为我的第一啊▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 242\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0232_f9011613b1",
     "original": "こわいから…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 243\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "好可怕…",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 243\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0234_116d0ebb33",
@@ -891,8 +959,9 @@
   {
     "key": "e_3afcf03fd7_0244_702ee0dcea",
     "original": "さぁて、てきもただやられっぱなしじゃ\\nすまないでしょうね▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 249\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "好了 敌人也不会\\n一直挨打不还手吧▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 249\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0246_74c91229b4",
@@ -921,38 +990,44 @@
   {
     "key": "e_3afcf03fd7_0254_0dcea1f4d0",
     "original": "てきにはよくきくぶきと\\nそうでないぶきがあるのよ　わかった？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 254\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "对敌人有效的武器和\\n无效的武器要分清楚 懂了吗？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 254\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0256_6d7253ec6f",
     "original": "アンタバカね　もぎせんでもなんでもやって\\nたたかいにそなえるのよ！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 255\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "笨蛋 就算是模拟战\\n也要认真准备战斗啊！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 255\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0258_eac8009e4d",
     "original": "さあ、いつでもいらっしゃい\\nシト！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 256\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "来吧 随时放马过来\\n使徒！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 256\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0260_3008c1d77d",
     "original": "なんかげんなり\\nううん　なんでも？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 257\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "有点泄气\\n唔 没什么",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 257\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0262_fb5edc91f3",
     "original": "もうこれいじょう\\nあしをひっぱらないでよね！？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 258\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "别再拖我后腿了\\n听到没有！？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 258\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0264_a90ab6dd8c",
     "original": "むりなんかしないでよね\\nしんぱいするのとかいやだから",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 259\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "别逞强\\n害人担心最讨厌了",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 259\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0266_5e00c1232f",
@@ -963,14 +1038,16 @@
   {
     "key": "e_3afcf03fd7_0268_b0dd8b7ff3",
     "original": "なんでうまくいかないのよ…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 261\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "为什么总是不顺利…",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 261\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0270_cbb80f41b3",
     "original": "…アンタのせいよ\\nアンタがむのうだから！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 262\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "…都怪你\\n因为你太无能了！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 262\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0272_f6d3424250",
@@ -987,20 +1064,23 @@
   {
     "key": "e_3afcf03fd7_0276_ec877ce8ea",
     "original": "さ、ぱっとあそぼ？\\nあしたしぬかもしれないよ？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 265\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "来 痛快玩一场？\\n说不定明天就死了哦？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 265\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0278_6c1a54c081",
     "original": "なんできもちよくかてないのよ…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 266\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "为什么不能赢得漂亮点啊…",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 266\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0280_5619badf9b",
     "original": "くそ…　くそ…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 267\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "可恶…可恶…",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 267\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0282_a7f878b8ce",
@@ -1011,8 +1091,9 @@
   {
     "key": "e_3afcf03fd7_0284_a1e816180f",
     "original": "%sは…\\nまあ、いいんじゃない！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 269\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "%s啊…\n嘛，不是挺好的嘛！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 269\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0286_767f7e49cf",
@@ -1023,8 +1104,9 @@
   {
     "key": "e_3afcf03fd7_0288_63a24ad4b2",
     "original": "%sねぇ\\nちょっとめだってるかもね",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 271\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "%s呀～\n好像有点显眼呢",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 271\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0290_7141405409",
@@ -1041,38 +1123,44 @@
   {
     "key": "e_3afcf03fd7_0294_2a3188064a",
     "original": "がんばれっていってんのよ！\\nきこえないの？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 274\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "给我加油啊！\n听不见吗？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 274\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0296_3f3961afd9",
     "original": "じつりょくみせてもらおうじゃないの",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 275\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "让我见识下真本事吧",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 275\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0298_425897b3eb",
     "original": "しゅつげきよ！　バカシンジ！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 276\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "出击啦！笨蛋真嗣！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 276\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0300_319fa6b967",
     "original": "わたしのじゃまはしないでよ！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 277\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "别来妨碍我！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 277\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0302_906e0429d7",
     "original": "アンタはおうちで\\nひざでもかかえてりゃいいのよ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 278\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "你就乖乖在家\n抱着膝盖发抖吧",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 278\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0304_a4d94e38c1",
     "original": "あーもー　ほとんどやくにたたないくせに\\nこくれんぐん、うるさい！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 279\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "烦死了！明明派不上用场\n联合国军还吵个不停！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 279\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0306_5055c0f0f8",
@@ -1083,38 +1171,44 @@
   {
     "key": "e_3afcf03fd7_0308_f9c1d8a263",
     "original": "エヴァにいるとおちついたりしない？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 281\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "待在EVA里\n是不是会平静些？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 281\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0310_c6b093d643",
     "original": "あーもー\\nあっつー　とけるー",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 282\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "啊～真是的\n热死啦～要融化了～",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 282\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0312_7410a4a4a8",
     "original": "かんじ、きらい…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 283\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "讨厌这种感觉…",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 283\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0314_38f219783b",
     "original": "パイロットはわたしのいきがいよ▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 284\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "驾驶员就是我的生存意义▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 284\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0316_0f450520b6",
     "original": "だって、だいかつやくするヒロインなんて、\\nわたしいがいにいないでしょ？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 285\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "因为啊，能大显身手的女主角\n除了我还有别人吗？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 285\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0318_3a63c678c7",
     "original": "にんげんかんけい？　ああ、あんなの\\nかわいければいいのよ▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 286\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "人际关系？那种东西\n只要可爱不就行了吗▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 286\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0320_08e8d60c08",
@@ -1125,26 +1219,30 @@
   {
     "key": "e_3afcf03fd7_0322_00163acf50",
     "original": "わたしがすきなものはねー…▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 288\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "我喜欢的东西嘛…▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 288\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0324_f43ecc7c3b",
     "original": "ぜったいにおしえてあげない！▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 289\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "绝对不告诉你！▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 289\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0326_2a10d32fcd",
     "original": "それはさいこうきみつなんだから",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 290\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "那可是最高机密",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 290\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0328_e6fcb8fdc3",
     "original": "きらいなものって\\nかんじにきまってるでしょう？▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 291\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "讨厌的东西\n用膝盖想都知道吧？▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 291\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0330_c798e4ac8d",
@@ -1179,8 +1277,9 @@
   {
     "key": "e_3afcf03fd7_0340_d6aa7dbc17",
     "original": "そんなことしても　こえはあげないから\\nえ、ば、ちが",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 297\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "就算这样人家也不会出声的\n啊、等、不是",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 297\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0342_45fb84b07a",
@@ -1191,38 +1290,44 @@
   {
     "key": "e_3afcf03fd7_0344_3a2a15de2c",
     "original": "そら、とんでるてきには\\nとびどうぐしかきかないのよね▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 299\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "看啊、对付飞行敌人\n只能用投掷武器才有效吧▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 299\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0346_3cb2d4d5cd",
     "original": "もー　おもしろくないったら",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 300\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "真是～一点都不好玩",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 300\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0348_de5b58f22b",
     "original": "アンタ、ちょうしにのって\\nむやみにしんしょくしてるんじゃない？▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 301\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "你是不是得意忘形\n开始胡乱侵攻了？▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 301\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0350_46e3ce7cc0",
     "original": "いーい？　しんしょくってやめどきがかんじんなのよ\\nシトがガードをかいじょしたらはじかれちゃうし、▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 302\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "听好？侵攻最重要的是见好就收\n要是使徒解除防御就会被弹开，▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 302\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0352_beae41e6e9",
     "original": "じぶんのＡ．Ｔ．もどんどんへっていくんだから、\\nちゃんとみきわめるのよ！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 303\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "自己的AT力场也会不断消耗\n要好好判断时机啊！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 303\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0354_bbe43a6977",
     "original": "へいそうビルのこうげきはそうこうとかに\\nかんけいないから、うまくつかえばべんりかもね？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 304\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "平行大楼的攻击和装甲值无关\n用好的话会很方便呢？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 304\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0356_838ee7c458",
@@ -1233,14 +1338,16 @@
   {
     "key": "e_3afcf03fd7_0358_2dae47e02f",
     "original": "ファーストは、きもちわるいよね\\nだまってるし、ゆーとーせーだし　いらいらする",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 306\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "初号机真恶心\n沉默寡言又优等生 让人火大",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 306\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0360_e9a39276fb",
     "original": "ミサト？　\\nむかしからなかよしよ　いもうとみたい▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 307\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "美里？\n从以前就是好朋友啦 像妹妹一样▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 307\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0362_40b357060b",
@@ -1257,74 +1364,86 @@
   {
     "key": "e_3afcf03fd7_0366_4ce8e7d7d0",
     "original": "もー\\nまがもたないなあ…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 310\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "真是的\n撑不住啦……",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 310\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0368_0404aa57d1",
     "original": "いいかげんにして！▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 311\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "适可而止！▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 311\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0370_8cdfeb7a44",
     "original": "おんなじことばかりいって、\\nアンタバカぁ？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 312\nSpeaker: IMC_ASUKA\nVoice: "
+    "translation": "老是说同样的话\n你是笨蛋吗？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 312\nSpeaker: IMC_ASUKA\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0372_ff5c03fbea",
     "original": "…さいしょにいっておくわ\\nわたしはなれあいなんてぜんぜんすきじゃないし、▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 474\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_001_1"
+    "translation": "…先说清楚\n本小姐最讨厌套近乎了，▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 474\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_001_1",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0374_7e83c933f4",
     "original": "つ・い・で・に、だれのたすけもいらないわ\\nおぼえておくことね",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 475\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_001_2"
+    "translation": "顺·便·说·明、不需要任何人帮忙\n给我记好了",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 475\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_001_2",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0376_10010700a8",
     "original": "あら、どうしたの？▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 476\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_002_1"
+    "translation": "哎呀、怎么了？▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 476\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_002_1",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0378_f1f533153b",
     "original": "なにがキャラちがうって？　アンタバカぁ？\\nたにんがみてるでしょ▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 477\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_002_2"
+    "translation": "说什么人设不符？你是笨蛋吗？\n别人都看着呢▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 477\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_002_2",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0380_78a2e6fcff",
     "original": "まったく、なにいってるんだか…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 478\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_002_3"
+    "translation": "真是的，完全不知道你在说什么……",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 478\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_002_3",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0382_bd38b5417d",
     "original": "うるさい！　ほら、はなれて、なかまとおもわれたら、\\nわ・た・し・が、こまるでしょ！？",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 479\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_003"
+    "translation": "吵死了！快走开啦，要是被别人当成同伴的话\\n我・会・很・困・扰・的！？",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 479\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_003",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0384_c35fa4d814",
     "original": "え、なんでいつもツンケンしてるのかって？▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 480\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_004_1"
+    "translation": "诶？问我为什么总是摆臭脸？▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 480\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_004_1",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0386_fbc17d1710",
     "original": "ツンケンってなによ　かんじはむずかしいから\\nやめろっていってるでしょ　ドイツごにしろってのよ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 481\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_004_2"
+    "translation": "臭脸是什么意思啊 汉字太难了\\n都说了别用日语 给我用德语啦",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 481\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_004_2",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0388_2c815e02c8",
     "original": "ハンっ！　アンタバカぁ？\\nいい？　このアスカさまはね…▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 482\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_005_1"
+    "translation": "哼！你是笨蛋吗？\\n听好了？本明日香大人可是…▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 482\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_005_1",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0390_fde9e419d4",
@@ -1335,104 +1454,121 @@
   {
     "key": "e_3afcf03fd7_0392_601ba3be40",
     "original": "ええと、まあ、にほんごはむずかしいから\\nこれくらいにしておいてあげるわ▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 484\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_005_2"
+    "translation": "那个…反正日语太难了\\n今天就大发慈悲放过你吧▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 484\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_005_2",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0394_6eaa3124a4",
     "original": "かんしゃして！　そう！",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 485\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_005_3"
+    "translation": "要感恩戴德哦！对！",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 485\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_005_3",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0396_962b042f36",
     "original": "わたしはね、だれにもまけられないのよ\\nわたしはだれにもまけられないおんななんだから",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 486\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_006"
+    "translation": "我啊，是绝对不会输给任何人的\\n因为我就是天下无敌的女人",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 486\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_006",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0398_19dcc29918",
     "original": "…ママにやくそくしたのよ\\nいいこにするからって",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 487\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_007"
+    "translation": "…和妈妈约定过的\\n要当个好孩子",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 487\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_007",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0400_fe408fac6b",
     "original": "…なんでよ　わたしはぜったい、こどもなんか\\nうみたくないのに、あれはまいつきやってくる…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 488\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_008"
+    "translation": "…为什么啊 我明明最讨厌小孩子了\\n可每个月那东西都会准时来…",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 488\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_008",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0402_a7c759a009",
     "original": "…ママ　…ママはね\\nわたしをうんでふこうだったのよ▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 489\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_009_1"
+    "translation": "…妈妈…妈妈她啊\\n生下我之后就不幸了▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 489\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_009_1",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0404_5d43286507",
     "original": "だからわたしは、ふこうをくりかえしたりは\\nしないのよ　あたま、いいから",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 490\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_009_2"
+    "translation": "所以我绝对不会重蹈覆辙\\n给我听清楚",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 490\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_009_2",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0406_ea13c2f4e0",
     "original": "…このかべは、ぜったいにやぶられない\\nジェリコのかべ！▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 491\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_010_1"
+    "translation": "…这堵墙是绝对无法突破的\\n杰里科之墙！▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 491\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_010_1",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0408_7f6166de86",
     "original": "はぁ？　アンタバカぁ？\\nちかづかないでっていってるのよ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 492\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_010_2"
+    "translation": "哈？你是白痴吗？\\n都说了不要靠近我",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 492\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_010_2",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0410_609439fc63",
     "original": "…おねがいだから、ちかづかないで\\nこ、こわいから▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 493\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_011_1"
+    "translation": "…求你了别过来\\n我、我害怕啊▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 493\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_011_1",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0412_59820d174a",
     "original": "ばかね、たしかにわたしはむてきのアスカさまで\\nこわいのとかぜんぜんないし、あたまいいし、▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 494\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_011_2"
+    "translation": "笨蛋，虽然本明日香大人确实天下无敌\\n既不会害怕什么，又聪明绝顶，▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 494\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_011_2",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0414_21d8c4280e",
     "original": "そのうえルックスはばつぐん、\\nかんじはともかくせいせきもいいけど▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 495\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_011_3"
+    "translation": "再加上颜值爆表\\n汉字姑且不论成绩也是顶尖的▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 495\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_011_3",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0416_6b1df22b1a",
     "original": "でも、アンタはこわいのよ、\\nアンタといるとちょうしくるうから　わたしがだれか",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 496\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_011_4"
+    "translation": "但是你很可怕\\n和你在一起我会疯掉的 我都不知道自己是谁了",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 496\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_011_4",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0418_0e4a08b5d1",
     "original": "ねえ、キスしてみようか▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 497\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_1"
+    "translation": "呐，要试试接吻吗▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 497\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_1",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0420_c56d74dd75",
     "original": "なに、そのかお…　…もういい\\nわたしがおかしかった　ばっかみたい",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 498\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_2"
+    "translation": "什么啊那个表情…算了\\n刚才是我脑子抽风 像个傻瓜一样",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 498\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_2",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0422_9bedba5c9b",
     "original": "アスカは涙を浮かべている…",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 499\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "明日香的眼眶泛着泪光……",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 499\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0424_cbf10c3b88",
     "original": "そんした\\nアンタのことぐるぐるかんがえて、そんしたっ",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 500\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_013"
+    "translation": "输给你了\\n满脑子都是你的事情 彻底输了啦",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 500\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_013",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0426_a7f878b8ce",
@@ -1443,74 +1579,86 @@
   {
     "key": "e_3afcf03fd7_0428_6f31ba8849",
     "original": "かんじょうなんてめんどうくさいもの、\\nなくなっちゃえばいいのに",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 502\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_014"
+    "translation": "感情这种麻烦的东西\\n干脆消失就好了",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 502\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_014",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0430_4a7471bae8",
     "original": "うそ\\nアンタがやさしくするなら、かんがえてもいい",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 503\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_015"
+    "translation": "骗你的\\n如果你温柔待我 考虑一下也不是不行",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 503\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_015",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0432_ee691c3002",
     "original": "アスカは小さい子供のように、\\nちょっと笑った後、上機嫌になった",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 504\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "明日香像小孩子般\\n破涕为笑后心情转晴了",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 504\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0434_dca9baf558",
     "original": "そして…▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 505\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "然后…▽",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 505\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0436_7a0ee0529c",
     "original": "普通の日々がはじまる▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 506\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "平凡的日常开始了……",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 506\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0438_41588e5f91",
     "original": "アスカといえば相変わらず勝手に元気で\\nもちろんそういうところを",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 507\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "明日香依旧我行我素地活力四射，当然这样的她",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 507\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0440_5c470e2116",
     "original": "ほら、遅刻するわよ\\nまったくだらしないわね▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 508\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_016_1"
+    "translation": "喂，要迟到了哦，真是够邋遢的……",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 508\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_016_1",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0442_cfd587e02b",
     "original": "私が漢字を覚え始めた以上、\\nアンタに勝ち目はまーるでぜんっぜんないんだから",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 509\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_016_2"
+    "translation": "既然我开始学汉字了，你根本连一丁点胜算都没有啦",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 509\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_016_2",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0444_61c1e9c25f",
     "original": "あなたが戦いで得たものは、▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 510\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你在战斗中获得的，是……",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 510\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0446_a0e29f4eee",
     "original": "えらそうでかよわくてあぶなっかしいが才能はある、\\nそんな人だった▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 511\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "傲慢又脆弱、冒失却才华横溢的，那样一个人……",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 511\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0448_9eecfd5679",
     "original": "あなたはそれが一番の宝物だと思ってる▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 512\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你觉得那才是最珍贵的宝物……",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 512\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0450_3b40e042be",
     "original": "使徒よりも、とても苦労するのは間違いないが、\\nまあそれでもいいかと思うのだった▽",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 513\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "虽然肯定比对付使徒更费神，不过嘛，这样也不错吧……",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 513\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0452_8d4795eec6",
@@ -1522,19 +1670,22 @@
   {
     "key": "e_3afcf03fd7_0460_3f3e8ed1ba",
     "original": "猫かぶり",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 521\nVoice: えー"
+    "translation": "装乖",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 521\nVoice: えー",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0461_87d6ce0f02",
     "original": "えー",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 521\nVoice: "
+    "translation": "诶——",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 521\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_3afcf03fd7_0557_af9c5988bb",
     "original": "新たな武器が追加されました",
-    "translation": "",
-    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 839\nCall: DecideStart"
+    "translation": "新增武器已解锁",
+    "context": "File: TALK/ASUKA_TALK.NUT\nLine: 839\nCall: DecideStart",
+    "stage": 1
   }
 ]

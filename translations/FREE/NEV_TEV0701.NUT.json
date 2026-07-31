@@ -177,7 +177,8 @@
   {
     "key": "e_01859d735d_0026_96cee77f4f",
     "original": "以上解散！",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 568\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0702_04_009_3"
+    "translation": "解散！",
+    "context": "File: FREE/NEV_TEV0701.NUT\nLine: 568\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0702_04_009_3",
+    "stage": 1
   }
 ]

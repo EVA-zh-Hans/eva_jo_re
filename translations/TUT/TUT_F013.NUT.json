@@ -2,37 +2,43 @@
   {
     "key": "e_9ebd4c48e9_0001_b343471765",
     "original": "注目度数値の色分け",
-    "translation": "",
-    "context": "File: TUT/TUT_F013.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "关注度数值的颜色区分",
+    "context": "File: TUT/TUT_F013.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_9ebd4c48e9_0002_b343471765",
     "original": "注目度数値の色分け",
-    "translation": "",
-    "context": "File: TUT/TUT_F013.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "关注度数值的颜色区分",
+    "context": "File: TUT/TUT_F013.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_9ebd4c48e9_0003_028ce7737f",
     "original": "態度が<02>ポジティブ<//>の場合、数値の上昇は\\n関係が良くなるので<07>緑色<//>で表示され、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F013.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "当态度为<02>积极<//>时，数值上升代表关系改善\\n故以<07>绿色<//>显示，▽",
+    "context": "File: TUT/TUT_F013.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_9ebd4c48e9_0004_28fbffea8e",
     "original": "逆に低下は関係が悪化するので\\n<01>赤色<//>で表示されます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F013.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "反之数值下降代表关系恶化\\n以<01>红色<//>显示▽",
+    "context": "File: TUT/TUT_F013.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_9ebd4c48e9_0005_af57df7226",
     "original": "態度が<02>ネガティブ<//>の場合、数値の上昇は\\n関係が悪化するので<01>赤色<//>で表示され、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F013.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "当态度为<02>消极<//>时，数值上升代表关系恶化\\n故以<01>红色<//>显示，▽",
+    "context": "File: TUT/TUT_F013.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_9ebd4c48e9_0006_29ac3f055a",
     "original": "逆に低下は関係が良くなるので\\n<07>緑色<//>で表示されます",
-    "translation": "",
-    "context": "File: TUT/TUT_F013.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "反之数值下降代表关系改善\\n以<07>绿色<//>显示",
+    "context": "File: TUT/TUT_F013.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

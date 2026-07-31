@@ -2,31 +2,36 @@
   {
     "key": "e_5c7c243ef5_0001_e9f44064d5",
     "original": "スキルプログラムの開発",
-    "translation": "",
-    "context": "File: TUT/TUT_F107.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "技能程序开发",
+    "context": "File: TUT/TUT_F107.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_5c7c243ef5_0002_e9f44064d5",
     "original": "スキルプログラムの開発",
-    "translation": "",
-    "context": "File: TUT/TUT_F107.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "技能程序开发",
+    "context": "File: TUT/TUT_F107.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_5c7c243ef5_0003_9d954669fe",
     "original": "エヴァの性能を向上させる\\n<02>スキルプログラムを開発<//>する場合は、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F107.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "若要开发提升EVA性能的\\n<02>技能程序<//>，▽",
+    "context": "File: TUT/TUT_F107.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_5c7c243ef5_0004_98d763d4e1",
     "original": "<12>リツコ<//>に話しかけます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F107.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "请与<12>律子<//>对话▽",
+    "context": "File: TUT/TUT_F107.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_5c7c243ef5_0005_d720326c98",
     "original": "<02>戦闘で獲得した予算<//>で、\\n新たな<02>プログラムを手に入れる<//>事ができます",
-    "translation": "",
-    "context": "File: TUT/TUT_F107.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "使用<02>战斗获得的预算<//>，\\n可以获取新的<02>程序<//>",
+    "context": "File: TUT/TUT_F107.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

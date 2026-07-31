@@ -2,31 +2,36 @@
   {
     "key": "e_a4585e8c3c_0001_4198090c95",
     "original": "ペンペンはあなたと並んで風呂に入っている",
-    "translation": "",
-    "context": "File: PENPEN/CHR_PENPEN_6B.NUT\nLine: 53\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "Pen Pen正和你一起泡澡",
+    "context": "File: PENPEN/CHR_PENPEN_6B.NUT\nLine: 53\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_a4585e8c3c_0003_26761dffba",
     "original": "我慢強いね",
-    "translation": "",
-    "context": "File: PENPEN/CHR_PENPEN_6B.NUT\nLine: 56\nCall: im.question\nSpeaker: IMC_NONE\nVoice: 微笑む"
+    "translation": "真能忍呢",
+    "context": "File: PENPEN/CHR_PENPEN_6B.NUT\nLine: 56\nCall: im.question\nSpeaker: IMC_NONE\nVoice: 微笑む",
+    "stage": 1
   },
   {
     "key": "e_a4585e8c3c_0004_37b2e533a8",
     "original": "微笑む",
-    "translation": "",
-    "context": "File: PENPEN/CHR_PENPEN_6B.NUT\nLine: 56\nCall: im.question\nSpeaker: IMC_NONE"
+    "translation": "微笑",
+    "context": "File: PENPEN/CHR_PENPEN_6B.NUT\nLine: 56\nCall: im.question\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_a4585e8c3c_0005_f20eaae5c3",
     "original": "ペンペンは黙ってうなずいた",
-    "translation": "",
-    "context": "File: PENPEN/CHR_PENPEN_6B.NUT\nLine: 65\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "Pen Pen默默点了点头",
+    "context": "File: PENPEN/CHR_PENPEN_6B.NUT\nLine: 65\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_a4585e8c3c_0006_f20eaae5c3",
     "original": "ペンペンは黙ってうなずいた",
-    "translation": "",
-    "context": "File: PENPEN/CHR_PENPEN_6B.NUT\nLine: 73\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "Pen Pen默默点了点头",
+    "context": "File: PENPEN/CHR_PENPEN_6B.NUT\nLine: 73\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

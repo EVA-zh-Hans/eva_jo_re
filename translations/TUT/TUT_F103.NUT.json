@@ -2,25 +2,29 @@
   {
     "key": "e_86d29790d2_0001_f5c2e4bfba",
     "original": "マップギミックの手配",
-    "translation": "",
-    "context": "File: TUT/TUT_F103.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "地图机关的调配",
+    "context": "File: TUT/TUT_F103.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_86d29790d2_0002_f5c2e4bfba",
     "original": "マップギミックの手配",
-    "translation": "",
-    "context": "File: TUT/TUT_F103.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "地图机关的调配",
+    "context": "File: TUT/TUT_F103.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_86d29790d2_0003_a87a8027dc",
     "original": "使徒を迎撃する為の<02>マップギミックを手配<//>する場合は\\n<12>ミサト<//>に話しかけます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F103.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "要调配用于迎击使徒的<02>地图机关<//>，\\n就去找<12>美里<//>吧▽",
+    "context": "File: TUT/TUT_F103.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_86d29790d2_0004_51fcdf831e",
     "original": "<02>戦闘で獲得した予算<//>で、\\n新たな<02>ギミックを購入<//>する事ができます",
-    "translation": "",
-    "context": "File: TUT/TUT_F103.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "可以用<02>战斗获得的预算<//>，\\n购买新的<02>机关<//>",
+    "context": "File: TUT/TUT_F103.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

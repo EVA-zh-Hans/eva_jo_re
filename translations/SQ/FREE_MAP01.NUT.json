@@ -2,13 +2,15 @@
   {
     "key": "e_9c111d2bd4_0053_f974f9f205",
     "original": "アイテムをねだる,1,トウジのいい評判を流す,2,ミサトの事どう思う？,3",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP01.NUT\nLine: 179"
+    "translation": "索要道具,1,传播冬二的好名声,2,你觉得美里怎么样？,3",
+    "context": "File: SQ/FREE_MAP01.NUT\nLine: 179",
+    "stage": 1
   },
   {
     "key": "e_9c111d2bd4_0054_8b1cc39c5c",
     "original": "アイテムをねだる,1,レイの入院について,2,ヒカリの事どう思う？,3",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP01.NUT\nLine: 180"
+    "translation": "索要道具,1,关于丽住院的事,2,你觉得光怎么样？,3",
+    "context": "File: SQ/FREE_MAP01.NUT\nLine: 180",
+    "stage": 1
   }
 ]

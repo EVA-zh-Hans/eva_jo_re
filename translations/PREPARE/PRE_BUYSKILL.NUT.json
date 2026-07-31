@@ -2,19 +2,22 @@
   {
     "key": "e_9ed6bc02d7_0001_cc6c165864",
     "original": "あら、何も開発されてないわね",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYSKILL.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_RITSUKO"
+    "translation": "哎呀，什么都没研发出来呢",
+    "context": "File: PREPARE/PRE_BUYSKILL.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_RITSUKO",
+    "stage": 1
   },
   {
     "key": "e_9ed6bc02d7_0002_1c25195964",
     "original": "%d必要ですが、よろしいですか？",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYSKILL.NUT\nLine: 83\nCall: DecideStart"
+    "translation": "需要%d，确定吗？",
+    "context": "File: PREPARE/PRE_BUYSKILL.NUT\nLine: 83\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_9ed6bc02d7_0003_5f03311bbb",
     "original": "スキル実装リストに追加されました",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYSKILL.NUT\nLine: 115\nCall: DecideStart"
+    "translation": "已加入技能实装列表",
+    "context": "File: PREPARE/PRE_BUYSKILL.NUT\nLine: 115\nCall: DecideStart",
+    "stage": 1
   }
 ]

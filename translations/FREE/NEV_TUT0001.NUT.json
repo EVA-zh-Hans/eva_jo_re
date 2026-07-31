@@ -2,152 +2,177 @@
   {
     "key": "e_c5dac52577_0001_43db5837c4",
     "original": "ここが、使徒と人類の戦いの司令塔、\\nネルフ本部第１発令所▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "这里是与使徒作战的人类司令部——\\nNERV本部第一指令室▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0002_40cbfa28bd",
     "original": "そしていつかは\\n世界再建の要となるところよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 123\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "终将成为\\n世界重建的核心所在▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 123\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0003_57992d5cbd",
     "original": "さて、今からいろんな事を説明する前に、▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 125\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "那么，在开始各项说明前▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 125\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0004_dfca96139c",
     "original": "この街で生活していく基本を\\nあなたに覚えてもらいます",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 126\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "要先让你掌握\\n在这座城市生活的基本规则",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 126\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0005_a40c9ad683",
     "original": "…わかりました",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 129\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "…明白了",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 129\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0006_1f284ff203",
     "original": "よろしい▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "很好▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0007_8fd80ccee1",
     "original": "なんてね…▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 134\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "开玩笑的…▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 134\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0008_4968b1ee56",
     "original": "だいたいの説明と同じで、\\nこの説明も基本的でつまんないんだけどね…▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 135\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "和常规说明一样\\n这些基础讲解也很无聊呢…▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 135\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0009_0f14ada19a",
     "original": "基本は簡単！　普段は歩き回って、\\n適当に話して回るだけでいいわよ？▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 137\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "其实很简单！平时只要四处走动\\n随意和人聊天就行啦▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 137\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0010_2513119576",
     "original": "話しかけるのは$oボタン▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 138\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "用$o键对话▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 138\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0011_269eaeb63c",
     "original": "$oボタンでできるのは、まあ、\\nその時の無難な話題で会話すること▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 139\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "$o键可以进行\\n当前场景的常规对话▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 139\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0012_6e287a0876",
     "original": "もう少し踏み込んで話すなら、$#ボタンで、\\n<02>話題を選んで話す<//>を選んでね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "若想深入交流，就用$#键选择\\n<02>指定话题<//>",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0013_fc72eeb0e4",
     "original": "あの、会話したらどうなるんですか？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 143\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "那个…对话有什么意义吗？",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 143\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0014_1491c9b736",
     "original": "別に？\\n日常生活ごときに、大して意味はないわよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 147\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "没什么？\\n日常琐事而已，无关紧要▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 147\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0015_cc34345b78",
     "original": "もちろん、情報得られたりする時はあるけどね▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "当然偶尔也能获取些情报啦▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0016_d9479b3fdc",
     "original": "まあ、でも、戦闘だけだと、悲しいでしょ？▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 149\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "不过啊，光是战斗的话，会很难过吧？▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 149\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0017_4a443d912b",
     "original": "だから、少しでも暇があったら、\\n話して欲しいな、なんて",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 150\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "所以有空的时候，希望你能多和我聊聊……之类的▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 150\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0018_9daa0046a9",
     "original": "人と話すのは苦手なんです",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 153\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "我不擅长和人交谈……",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 153\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0019_7af431be7d",
     "original": "でもまあ、嫌いだから\\nやらないでいいって訳でもないのよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 157\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "但也不能因为讨厌就不去做啊▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 157\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0020_a3d80f559b",
     "original": "この発令所にいる人間や、\\n研究室にいる<12>リツコ<//>…赤木博士とは▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 158\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "像是司令室里的同事，还有研究室的<12>律子<//>……赤木博士▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 158\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0021_790ce23cf8",
     "original": "仕事上、どうしても話をしないといけないわ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 159\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "工作上必须和他们沟通才行▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 159\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0022_4a59691752",
     "original": "それぞれ役割があってね\\n皆とうまく話さないといけないわ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 160\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "大家各司其职，必须好好配合才行▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 160\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0023_cfafa7a8da",
     "original": "出来れば友達とかつくって、\\n楽しんで欲しいわね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 161\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "要是能交到朋友，享受生活就更好了",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 161\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0024_6d5cbad983",
     "original": "はぁ…",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 164\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "唉……",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 164\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0025_7a05ec2120",
     "original": "とまぁ、こんなところね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 168\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "嘛，大概就是这样",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 168\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0026_8f90d85ec1",
@@ -159,67 +184,78 @@
   {
     "key": "e_c5dac52577_0027_911163c84c",
     "original": "<02>システムメニュー<//>の<02>チュートリアル<//>で\\nいつでも確認する事ができるから、▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 175\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "随时可以在<02>系统菜单<//>的<02>教程<//>里查看▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 175\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0028_2ff955e83f",
     "original": "わからない所があったら、\\n後でしっかり復習しておくこと▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 176\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "遇到不明白的地方，记得回头好好复习▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 176\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0029_4d9cb49d0c",
     "original": "今のところは、そうね…何ができるかを\\n大雑把に理解しておくだけで充分▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 177\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "现在只要大致了解能做什么就够了▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 177\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0030_fe688c114b",
     "original": "<02>システムメニュー<//>は\\n$^ボタンで開くことができるわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 178\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "<02>系统菜单<//>可以用$^键打开",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 178\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0031_288db5b5e6",
     "original": "…適当、なんですね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 181\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "……好随便啊",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 181\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0032_77f36dfe11",
     "original": "今時の子供が…じゃないわね\\n私が子供の時だって、説明は面倒くさかったわ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 185\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "倒不是说现在的孩子怎样……我小时候也觉得说明很麻烦▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 185\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0033_ef6c79983e",
     "original": "それに比べたらシンジ君は…\\nまめなのね、えらいえらい",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 187\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "相比之下真嗣君你……很认真嘛，真了不起",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 187\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0034_15be323c7b",
     "original": "…説明はこれだけですか？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 190\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "……说明就这些吗？",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 190\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0035_d371e29e3a",
     "original": "そうね、とりあえずは▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 194\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "嗯，暂时先这样▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 194\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0036_52feff392e",
     "original": "しばらく自由時間あげるから、\\n適当に話しかけてみて、やり方理解して▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 195\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "给你些自由时间，随便找人聊聊熟悉操作吧▽",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 195\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_c5dac52577_0037_88a39504a4",
     "original": "適当にあきたら、戻ってきてね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 196\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "觉得差不多了就回来",
+    "context": "File: FREE/NEV_TUT0001.NUT\nLine: 196\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   }
 ]

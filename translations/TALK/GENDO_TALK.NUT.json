@@ -30,50 +30,58 @@
   {
     "key": "e_bf2246bd3f_0006_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 106"
+    "translation": "铃原君",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 106",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0007_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 107"
+    "translation": "相田君",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 107",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0008_975d6e0cff",
     "original": "洞木君",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 108"
+    "translation": "洞木君",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 108",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0009_897c50789a",
     "original": "葛城",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 109"
+    "translation": "葛城",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 109",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0010_39df5d55bc",
     "original": "赤木",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 110"
+    "translation": "赤木",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 110",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0011_4a65183d42",
     "original": "加持",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 111"
+    "translation": "加持",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 111",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0012_dbc879e139",
     "original": "私",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 112"
+    "translation": "我",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 112",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0013_ffd61ebab1",
     "original": "冬月",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 113"
+    "translation": "冬月",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 113",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0014_1eca0d7e59",
@@ -85,14 +93,16 @@
   {
     "key": "e_bf2246bd3f_0015_ecf7daff96",
     "original": "日向",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 115"
+    "translation": "日向",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 115",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0016_ce7cfd2ae0",
     "original": "伊吹",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 116"
+    "translation": "伊吹",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 116",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0017_faed743884",
@@ -132,50 +142,58 @@
   {
     "key": "e_bf2246bd3f_0022_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 122"
+    "translation": "铃原君",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 122",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0023_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 123"
+    "translation": "相田君",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 123",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0024_975d6e0cff",
     "original": "洞木君",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 124"
+    "translation": "洞木君",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 124",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0025_897c50789a",
     "original": "葛城",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 125"
+    "translation": "葛城",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 125",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0026_39df5d55bc",
     "original": "赤木",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 126"
+    "translation": "赤木",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 126",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0027_4a65183d42",
     "original": "加持",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 127"
+    "translation": "加持",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 127",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0028_dbc879e139",
     "original": "私",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 128"
+    "translation": "我",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 128",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0029_ffd61ebab1",
     "original": "冬月",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 129"
+    "translation": "冬月",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 129",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0030_1eca0d7e59",
@@ -187,14 +205,16 @@
   {
     "key": "e_bf2246bd3f_0031_ecf7daff96",
     "original": "日向",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 131"
+    "translation": "日向",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 131",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0032_ce7cfd2ae0",
     "original": "伊吹",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 132"
+    "translation": "伊吹",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 132",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0033_faed743884",
@@ -234,50 +254,58 @@
   {
     "key": "e_bf2246bd3f_0038_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 138"
+    "translation": "铃原君",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 138",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0039_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 139"
+    "translation": "相田君",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 139",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0040_975d6e0cff",
     "original": "洞木君",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 140"
+    "translation": "洞木君",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 140",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0041_897c50789a",
     "original": "葛城",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 141"
+    "translation": "葛城",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 141",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0042_39df5d55bc",
     "original": "赤木",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 142"
+    "translation": "赤木",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 142",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0043_4a65183d42",
     "original": "加持",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 143"
+    "translation": "加持",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 143",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0044_dbc879e139",
     "original": "私",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 144"
+    "translation": "我",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 144",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0045_ffd61ebab1",
     "original": "冬月",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 145"
+    "translation": "冬月",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 145",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0046_1eca0d7e59",
@@ -289,14 +317,16 @@
   {
     "key": "e_bf2246bd3f_0047_ecf7daff96",
     "original": "日向",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 147"
+    "translation": "日向",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 147",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0048_ce7cfd2ae0",
     "original": "伊吹",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 148"
+    "translation": "伊吹",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 148",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0049_faed743884",
@@ -314,14 +344,16 @@
   {
     "key": "e_bf2246bd3f_0052_48d682bfab",
     "original": "（じろりとみられた）",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 153\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（被锐利地瞥了一眼）",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 153\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0054_4e87c02628",
     "original": "元気そうでなにより",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 154\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "精神不错就好",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 154\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0056_a7f878b8ce",
@@ -350,20 +382,23 @@
   {
     "key": "e_bf2246bd3f_0064_b135e5edf4",
     "original": "（軽く目をそらされた）",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 159\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（被轻轻移开视线）",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 159\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0066_54a7277850",
     "original": "惜しい人材だった",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 160\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "可惜了个人才",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 160\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0068_b5c13c7d4d",
     "original": "いずれ、また逢える\\n全ての終わりには",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 161\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "终将重逢\\n在一切终结之时",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 161\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0070_f12262548c",
@@ -386,32 +421,37 @@
   {
     "key": "e_bf2246bd3f_0076_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 165\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 165\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0078_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 166\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 166\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0080_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 167\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 167\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0082_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 168\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 168\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0084_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 169\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 169\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0086_eec5a36814",
@@ -476,32 +516,37 @@
   {
     "key": "e_bf2246bd3f_0106_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 180\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 180\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0108_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 181\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 181\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0110_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 182\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 182\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0112_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 183\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 183\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0114_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 184\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 184\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0116_61e598dacd",
@@ -566,32 +611,37 @@
   {
     "key": "e_bf2246bd3f_0136_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 195\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 195\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0138_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 196\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 196\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0140_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 197\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 197\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0142_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 198\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 198\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0144_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 199\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 199\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0146_6a7432cfc6",
@@ -626,8 +676,9 @@
   {
     "key": "e_bf2246bd3f_0156_778a60818a",
     "original": "（目をそらされた）",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 205\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（移开了视线）",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 205\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0158_89ea9a769e",
@@ -662,8 +713,9 @@
   {
     "key": "e_bf2246bd3f_0168_1688cbd5f7",
     "original": "もう少しだ…　ユイ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 211\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "就快完成了…　唯",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 211\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0170_50d9c4eaa5",
@@ -842,8 +894,9 @@
   {
     "key": "e_bf2246bd3f_0228_16d8f9d926",
     "original": "順調だ　問題ない\\n満足している",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 241\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "进展顺利\\n我很满意",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 241\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0230_928e807a82",
@@ -854,8 +907,9 @@
   {
     "key": "e_bf2246bd3f_0232_4d247e2cca",
     "original": "順調だ　問題ない",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 243\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "进展顺利没问题",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 243\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0234_a7f878b8ce",
@@ -926,8 +980,9 @@
   {
     "key": "e_bf2246bd3f_0256_ff0c7241d0",
     "original": "……\\n言うべきことは何もない",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 255\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "……\n无话可说",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 255\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0258_8739e1a5b4",
@@ -938,8 +993,9 @@
   {
     "key": "e_bf2246bd3f_0260_9be65d1cfc",
     "original": "計画に狂いが出始めている\\n良くない兆候だ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 257\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "计划开始出现偏差\n这不是好兆头",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 257\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0262_a7f878b8ce",
@@ -968,8 +1024,9 @@
   {
     "key": "e_bf2246bd3f_0270_52b16930d8",
     "original": "もう人類は終わりだから、\\n今のうちに遊びに行きなさい",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 262\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "人类已经没救了\n趁现在去玩吧",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 262\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0272_4a804bc3e1",
@@ -1022,32 +1079,37 @@
   {
     "key": "e_bf2246bd3f_0288_df36272718",
     "original": "お前ならできる",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 271\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "你能行的",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 271\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0290_0d6cfb490e",
     "original": "期待している",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 272\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "我期待着",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 272\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0292_9732124c6c",
     "original": "出撃だ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 273\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "出击",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 273\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0294_23092270d2",
     "original": "乗るなら早くしろ\\nでなければ、帰れ！",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 274\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "要上机就快点\n不然就滚回去！",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 274\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0296_25b28fcac4",
     "original": "あー、もう会うこともないかもな",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 275\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "啊，可能再也见不到了",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 275\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0298_b373477041",
@@ -1076,8 +1138,9 @@
   {
     "key": "e_bf2246bd3f_0306_f0d6fbfe97",
     "original": "学校は、どうだ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 280\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "学校如何",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 280\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0308_aa924400fa",
@@ -1094,8 +1157,9 @@
   {
     "key": "e_bf2246bd3f_0312_41cf6819e9",
     "original": "こうしていると、ユイを思い出す",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 283\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "这样的时候，就会想起唯",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 283\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0314_ad333dd844",
@@ -1118,8 +1182,9 @@
   {
     "key": "e_bf2246bd3f_0320_8f988d7c01",
     "original": "身体は正直だな…",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 287\nSpeaker: IMC_GENDO\nVoice: "
+    "translation": "身体倒是很诚实……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 287\nSpeaker: IMC_GENDO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0322_8d8e780d32",
@@ -1202,8 +1267,9 @@
   {
     "key": "e_bf2246bd3f_0348_104f261869",
     "original": "碇ゲンドウだ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 462\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_001"
+    "translation": "我是碇源堂",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 462\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_001",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0350_f180744719",
@@ -1221,8 +1287,9 @@
   {
     "key": "e_bf2246bd3f_0354_1bb40eecfe",
     "original": "…大丈夫かレイ？",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 465\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_004"
+    "translation": "……没事吧丽？",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 465\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_004",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0356_a7f878b8ce",
@@ -1233,8 +1300,9 @@
   {
     "key": "e_bf2246bd3f_0358_193e7368f9",
     "original": "ゲンドウは黙っている",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 467\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "源堂沉默不语",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 467\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0360_a5f1b39026",
@@ -1245,8 +1313,9 @@
   {
     "key": "e_bf2246bd3f_0362_6acc84fbe0",
     "original": "今話すことは、なにもない",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 469\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_006"
+    "translation": "现在无话可说",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 469\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_006",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0364_a5f1b39026",
@@ -1257,14 +1326,16 @@
   {
     "key": "e_bf2246bd3f_0366_ffbe8dfa69",
     "original": "これから、敵は強くなっていくだろう\\n注意をしなさい",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 471\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_007"
+    "translation": "敌人会越来越强\n多加小心",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 471\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_007",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0368_0252399528",
     "original": "…よくやった",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 472\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_008"
+    "translation": "……干得不错",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 472\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_008",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0370_f180744719",
@@ -1276,20 +1347,23 @@
   {
     "key": "e_bf2246bd3f_0372_0252399528",
     "original": "…よくやった",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 474\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_010"
+    "translation": "……干得不错",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 474\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_010",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0374_e008fd6da1",
     "original": "うん…▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 475\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_011_1"
+    "translation": "嗯……▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 475\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_011_1",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0376_e9a295c2c3",
     "original": "うんっ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 476\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_011_2"
+    "translation": "嗯！",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 476\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_011_2",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0378_a7f878b8ce",
@@ -1300,8 +1374,9 @@
   {
     "key": "e_bf2246bd3f_0380_3ca0b48c60",
     "original": "ゲンドウは少しだけ微笑んだ気がした",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 478\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "源堂似乎微微笑了一下",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 478\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0382_a5f1b39026",
@@ -1312,8 +1387,9 @@
   {
     "key": "e_bf2246bd3f_0384_76636117ca",
     "original": "大人になると、自分が子供だったことを忘れる▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 480\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_013_1"
+    "translation": "人长大后就会忘记自己曾是孩子▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 480\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_013_1",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0386_a5f1b39026",
@@ -1324,8 +1400,9 @@
   {
     "key": "e_bf2246bd3f_0388_19d6db8eed",
     "original": "今のうちに休んでおきなさい\\n次はもっと、つらくなるだろうから",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 482\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_013_2"
+    "translation": "趁现在好好休息\n接下来的战斗会更艰难",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 482\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_013_2",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0390_f180744719",
@@ -1337,14 +1414,16 @@
   {
     "key": "e_bf2246bd3f_0392_ed3b7c8318",
     "original": "…母さんのことを、覚えているか？",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 484\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_015"
+    "translation": "……还记得妈妈的样子吗？",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 484\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_015",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0394_ce0acd2971",
     "original": "…ううん",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 485\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_016"
+    "translation": "……不",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 485\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_016",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0396_a7f878b8ce",
@@ -1355,8 +1434,9 @@
   {
     "key": "e_bf2246bd3f_0398_ee50dcab23",
     "original": "…ごめん",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 487\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_018"
+    "translation": "……对不起",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 487\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_018",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0400_a5f1b39026",
@@ -1367,32 +1447,37 @@
   {
     "key": "e_bf2246bd3f_0402_5a9f59cf59",
     "original": "世界は綺麗だと、昔誰かが言った\\nだから私もネルフも、存在している▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 489\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_019_1"
+    "translation": "世界很美——从前有人这么说过\\n所以我和NERV才能存在至今▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 489\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_019_1",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0404_a187876860",
     "original": "形を守っているのではない\\n思い出を守っているのだ▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 490\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_019_2"
+    "translation": "守护的不是形体\\n而是回忆▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 490\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_019_2",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0406_e816ff7c6d",
     "original": "…お前には悪いことをしているとは、思う▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 491\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_019_3"
+    "translation": "……对你做了过分的事▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 491\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_019_3",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0408_3904cbfe0f",
     "original": "だがどうせ、\\n使徒を倒さねば、その先はない▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 492\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_019_4"
+    "translation": "但反正\\n不消灭使徒就没有未来▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 492\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_019_4",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0410_97060f7c65",
     "original": "うらむなら、うらめ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 493\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_019_5"
+    "translation": "要恨就恨吧",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 493\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_019_5",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0412_a5f1b39026",
@@ -1403,20 +1488,23 @@
   {
     "key": "e_bf2246bd3f_0414_0ed3079fc2",
     "original": "世界は綺麗だと、かあさんが言った\\nだから私もネルフも、存在している▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 495\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_020_1"
+    "translation": "世界很美——妈妈这么说过\\n所以我和NERV才能存在至今▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 495\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_020_1",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0416_a187876860",
     "original": "形を守っているのではない\\n思い出を守っているのだ▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 496\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_020_2"
+    "translation": "守护的不是形体\\n而是回忆▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 496\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_020_2",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0418_b4bd19b57e",
     "original": "…お前には悪いことをしているとは、思う",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 497\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_020_3"
+    "translation": "……对你做了过分的事",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 497\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_020_3",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0420_a5f1b39026",
@@ -1427,8 +1515,9 @@
   {
     "key": "e_bf2246bd3f_0422_38bae220f3",
     "original": "…そんな目で、わたしを見るな\\n…すまん",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 499\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_021"
+    "translation": "……别用那种眼神看我\\n……抱歉",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 499\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_021",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0424_a5f1b39026",
@@ -1439,8 +1528,9 @@
   {
     "key": "e_bf2246bd3f_0426_806ced2f3f",
     "original": "シンジ　とうさんは、かあさんに逢いたい\\nもう一度、もう一度だ　そのためなら、なんでもする",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 501\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_022"
+    "translation": "真嗣\\n爸爸想再见妈妈一面\\n无论如何都想再见一次 为此什么都愿意做",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 501\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_022",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0428_a5f1b39026",
@@ -1451,20 +1541,23 @@
   {
     "key": "e_bf2246bd3f_0430_ae2084158c",
     "original": "最近は昔より今を考えている\\nそんな自分が許せない▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 503\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_023_1"
+    "translation": "最近考虑现在多于过去\\n这样的自己不可原谅▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 503\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_023_1",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0432_a1f070c36f",
     "original": "息子が怖い　どう接していいかわからない\\n傷つけてしまったらどうしようと思っている▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 504\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_023_2"
+    "translation": "害怕儿子 不知该如何相处\\n担心会伤害到他▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 504\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_023_2",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0434_a931fc8335",
     "original": "お前も…\\nだから…",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 505\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_023_3"
+    "translation": "你也……\\n所以……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 505\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_023_3",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0436_a7f878b8ce",
@@ -1475,44 +1568,51 @@
   {
     "key": "e_bf2246bd3f_0438_0336a37f74",
     "original": "とうさん\\n今度さ、かあさんの話をしてよ▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 507\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_025_1"
+    "translation": "老爸\\n下次给我讲讲妈妈的事吧▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 507\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_025_1",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0440_831b72d8af",
     "original": "僕は知りたい　とうさんが好きな人の話を\\nそれと、僕を好きだった人を▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 508\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_025_2"
+    "translation": "我想知道 爸爸喜欢的人的故事\\n还有曾经喜欢过我的人▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 508\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_025_2",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0442_b493c17d33",
     "original": "リツコさんがいってたよ\\n話しているうちに思い出すって▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 509\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_025_3"
+    "translation": "律子小姐说过\\n说着说着就会想起来▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 509\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_025_3",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0444_527e04f0c6",
     "original": "話せばいいんだよ　そうすれば、また逢えるよ\\n母さんと▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 510\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_025_4"
+    "translation": "说出来就好 这样就能再见面\\n和妈妈▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 510\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_025_4",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0446_2344d9c6d7",
     "original": "それでいいじゃないか\\nなんでそれじゃ駄目なの？",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 511\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_025_5"
+    "translation": "这样不就好了吗\\n为什么不行呢？",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 511\nSpeaker: IMC_SHINJI\nVoice: na54_0004_01_025_5",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0448_b383908ccd",
     "original": "ゼーレには勝った　後は…　これをどうするかだ\\n…かあさん",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 512\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_026"
+    "translation": "战胜了SEELE 接下来……\\n就是处理这个了……妈妈",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 512\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_026",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0450_dca9baf558",
     "original": "そして…▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 513\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "然后…▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 513\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0452_b80b71fb19",
@@ -1531,26 +1631,30 @@
   {
     "key": "e_bf2246bd3f_0456_8822f8201a",
     "original": "…昔のことは昔のことだ\\n…よくやった▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 516\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_027_1"
+    "translation": "……过去的事就让它过去吧\\n……干得不错▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 516\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_027_1",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0458_81df19e176",
     "original": "これから祝宴を開きたいと思う\\n私のポケットマネーだ　はめを、外したまえ",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 517\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_027_2"
+    "translation": "想办个庆功宴\\n用我的私房钱 尽情放松吧",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 517\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_027_2",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0460_824b8627a4",
     "original": "あなたが戦いで得たものは、\\n照れ屋の司令と、宴会だった▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 518\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你在战斗中获得的\\n是害羞的司令和一场宴会▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 518\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0462_4fd727932b",
     "original": "それはひどく楽しい宴会で、\\nあなたはそれで笑った▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 519\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "那是场无比欢快的宴会\\n你在宴会上笑了▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 519\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0464_8d4795eec6",
@@ -1562,14 +1666,16 @@
   {
     "key": "e_bf2246bd3f_0466_dca9baf558",
     "original": "そして…▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 521\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "然后…▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 521\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0468_7a0ee0529c",
     "original": "普通の日々がはじまる▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 522\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "平凡的日常开始了……",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 522\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0470_785d845e9c",
@@ -1581,14 +1687,16 @@
   {
     "key": "e_bf2246bd3f_0472_7a06b91bd4",
     "original": "…昔のことは昔のことだ▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 524\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_028"
+    "translation": "……过去的事就让它过去吧▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 524\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_028",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0474_25ee233152",
     "original": "シンジ、\\nかあさんの話をきかせてやろう",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 525\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_029"
+    "translation": "真嗣，\\n给你讲讲妈妈的事吧",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 525\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_029",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0476_fa9b944fd6",
@@ -1600,8 +1708,9 @@
   {
     "key": "e_bf2246bd3f_0478_da0e5d0b0c",
     "original": "それもあるな\\nいい話もある　悲しい話も",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 527\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_031"
+    "translation": "也有那样的故事\\n有开心的 也有悲伤的",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 527\nSpeaker: IMC_GENDO\nVoice: na54_0004_05_031",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0480_c6ba0aaf5b",
@@ -1634,14 +1743,16 @@
   {
     "key": "e_bf2246bd3f_0488_a80a6a7582",
     "original": "あなたが戦いで得たものは、\\n父と母だった▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 532\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你在战斗中获得的，\\n正是父亲与母亲▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 532\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0490_c18750a2cc",
     "original": "ふと空を見上げれば、\\n母を感じた▽",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 533\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "若抬头望向天空，\\n便能感受到母亲的存在▽",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 533\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_bf2246bd3f_0492_8d4795eec6",
@@ -1653,7 +1764,8 @@
   {
     "key": "e_bf2246bd3f_0621_af9c5988bb",
     "original": "新たな武器が追加されました",
-    "translation": "",
-    "context": "File: TALK/GENDO_TALK.NUT\nLine: 863\nCall: DecideStart"
+    "translation": "新增武器已解锁",
+    "context": "File: TALK/GENDO_TALK.NUT\nLine: 863\nCall: DecideStart",
+    "stage": 1
   }
 ]

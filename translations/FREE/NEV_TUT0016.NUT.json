@@ -2,26 +2,30 @@
   {
     "key": "e_cc9e2e6c88_0001_d290f56de2",
     "original": "最近の戦いぶり、まあまあ、ね\\nそろそろエヴァのソフトを更新してもいいみたい",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "最近的战斗表现嘛，还算可以\\n差不多该给EVA更新软件了",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0002_4886ff31a5",
     "original": "ソフトってなんですか？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 125\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "软件是指什么？",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 125\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0003_0873693380",
     "original": "パイロットの思うとおりにエヴァは動くけれど、\\nそれだけじゃないのよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 129\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "EVA虽然会按驾驶员的想法行动\\n但不仅如此哦▽",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 129\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0004_0743a5d23b",
     "original": "照準の中に入れてクリック、\\nするとエヴァは熟練の兵士の動きでそれをやるわけ",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 130\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "只要把目标框进准星点击\\nEVA就会以熟练士兵的动作执行",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 130\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0005_c355218ea8",
@@ -32,55 +36,64 @@
   {
     "key": "e_cc9e2e6c88_0006_28bc1ad712",
     "original": "ま、パイロットの助けを行う\\nエヴァの制御プログラムがあるのよ、たくさんね▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 136\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "总之呢，有大量辅助驾驶员的\\nEVA控制程序存在哦▽",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 136\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0007_7d9bf57f88",
     "original": "これを<02>スキルプログラム<//>と言います",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 137\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "这些叫做<02>技能程序<//>",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 137\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0008_cc9827baf0",
     "original": "<02>スキルプログラム<//>…",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "<02>技能程序<//>…",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0009_8983fc1d0e",
     "original": "<02>スキル<//>には種類とレベルがあるわ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 143\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "<02>技能<//>分为不同类型和等级哦▽",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 143\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0010_8329913f64",
     "original": "容量に限界あるから、その範囲内で\\nやりくりしてエヴァに実装することになるわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 144\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "由于容量有限\\n需要在范围内调配安装到EVA上",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 144\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0011_d3e6dcf01e",
     "original": "僕が選んでいいんですか？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 147\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "可以由我来选择吗？",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 147\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0012_ce029dc24b",
     "original": "もちろん、それぐらいはね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 151\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "当然，这点权限还是有的",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 151\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0013_08ba7c9575",
     "original": "はいっ！　色々ためしてみます",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 154\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "明白！我会多尝试各种组合",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 154\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_cc9e2e6c88_0014_7e89030203",
     "original": "そうね、<02>模擬戦<//>をしながら\\n調整していきましょう",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 157\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "这样吧，通过<02>模拟战<//>\\n边测试边调整好了",
+    "context": "File: FREE/NEV_TUT0016.NUT\nLine: 157\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   }
 ]

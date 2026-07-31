@@ -2,25 +2,29 @@
   {
     "key": "e_98872c0351_0001_1d2daa47bc",
     "original": "ねえ、キスしてみようか",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_9.NUT\nLine: 91\nCall: im.event2\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_1"
+    "translation": "喂，要试试接吻吗",
+    "context": "File: ASUKA/CHR_ASUKA_9.NUT\nLine: 91\nCall: im.event2\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_1",
+    "stage": 1
   },
   {
     "key": "e_98872c0351_0002_5103e47258",
     "original": "なに、そのかお…",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_9.NUT\nLine: 99\nCall: im.event2\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_2"
+    "translation": "你那是什么表情…",
+    "context": "File: ASUKA/CHR_ASUKA_9.NUT\nLine: 99\nCall: im.event2\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_2",
+    "stage": 1
   },
   {
     "key": "e_98872c0351_0003_62f719c47a",
     "original": "…もういい\\nわたしがおかしかった、ばっかみたい",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_9.NUT\nLine: 102\nCall: im.event2\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_3"
+    "translation": "……够了\\n是我太奇怪了，像个傻瓜一样",
+    "context": "File: ASUKA/CHR_ASUKA_9.NUT\nLine: 102\nCall: im.event2\nSpeaker: IMC_ASUKA\nVoice: na54_0001_02_012_3",
+    "stage": 1
   },
   {
     "key": "e_98872c0351_0004_9bedba5c9b",
     "original": "アスカは涙を浮かべている…",
-    "translation": "",
-    "context": "File: ASUKA/CHR_ASUKA_9.NUT\nLine: 107\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "明日香的眼眶泛着泪光……",
+    "context": "File: ASUKA/CHR_ASUKA_9.NUT\nLine: 107\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

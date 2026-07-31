@@ -2,37 +2,43 @@
   {
     "key": "e_978db307fe_0001_205917a527",
     "original": "武器の調達",
-    "translation": "",
-    "context": "File: TUT/TUT_F105.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "武器调配",
+    "context": "File: TUT/TUT_F105.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_978db307fe_0002_205917a527",
     "original": "武器の調達",
-    "translation": "",
-    "context": "File: TUT/TUT_F105.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "武器调配",
+    "context": "File: TUT/TUT_F105.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_978db307fe_0003_c731c777cf",
     "original": "エヴァが装備する<02>武器を調達<//>する場合は、\\n<12>日向<//>に話しかけます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F105.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "若要为EVA调配<02>武器<//>，\\n请与<12>日向<//>对话▽",
+    "context": "File: TUT/TUT_F105.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_978db307fe_0004_cad6e6a0a9",
     "original": "<02>戦闘で獲得した予算<//>で、\\n新たな<02>武器を購入<//>する事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F105.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "使用<02>战斗获得的预算<//>，\\n可以购买新的<02>武器<//>▽",
+    "context": "File: TUT/TUT_F105.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_978db307fe_0005_81899b410e",
     "original": "購入した武器は、<02>マップギミックの配置<//>の際に\\n<02>武器庫ビルに収納<//>する事で初めて、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F105.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "购买的武器需在<02>配置地图机关<//>时\\n<02>存入武器库大楼<//>后，▽",
+    "context": "File: TUT/TUT_F105.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_978db307fe_0006_7ca98df761",
     "original": "戦闘中に利用する事ができるので注意しましょう",
-    "translation": "",
-    "context": "File: TUT/TUT_F105.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "才能在战斗中使用，请注意",
+    "context": "File: TUT/TUT_F105.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

@@ -2,7 +2,8 @@
   {
     "key": "e_fc71735e32_0001_1fd2fbf4da",
     "original": "エヴァシリーズ、１機撃破！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV5020.NUT\nLine: 15\nCall: DecideStart2"
+    "translation": "EVA量产系列，1机击破！",
+    "context": "File: BTL/NEV_BEV5020.NUT\nLine: 15\nCall: DecideStart2",
+    "stage": 1
   }
 ]

@@ -2,19 +2,22 @@
   {
     "key": "e_7097123fcf_0001_0a30f7ec4c",
     "original": "よう！ 情報を制すものは世界を制す\\nしっかり確認して役立ててくれよ",
-    "translation": "",
-    "context": "File: PREPARE/PRE_INFO.NUT\nLine: 43\nCall: im.play\nSpeaker: IMC_AOBA"
+    "translation": "哟！掌控情报者掌控世界\n好好确认并活用吧",
+    "context": "File: PREPARE/PRE_INFO.NUT\nLine: 43\nCall: im.play\nSpeaker: IMC_AOBA",
+    "stage": 1
   },
   {
     "key": "e_7097123fcf_0002_70cfba175c",
     "original": "が、しかーし！\\n今は特になにもない、かな…ハハハ",
-    "translation": "",
-    "context": "File: PREPARE/PRE_INFO.NUT\nLine: 48\nCall: im.play\nSpeaker: IMC_AOBA"
+    "translation": "但、但是！\n现在特别情报…应该没有吧…哈哈哈",
+    "context": "File: PREPARE/PRE_INFO.NUT\nLine: 48\nCall: im.play\nSpeaker: IMC_AOBA",
+    "stage": 1
   },
   {
     "key": "e_7097123fcf_0003_9a4c0e6465",
     "original": "もっと知りたい事があるなら、いろんな人と\\n話してみろよ 情報は足で稼がなきゃな",
-    "translation": "",
-    "context": "File: PREPARE/PRE_INFO.NUT\nLine: 94\nCall: im.play\nSpeaker: IMC_AOBA"
+    "translation": "想知道更多情报的话，就去和不同的人聊聊吧。情报可是要靠双腿跑出来的",
+    "context": "File: PREPARE/PRE_INFO.NUT\nLine: 94\nCall: im.play\nSpeaker: IMC_AOBA",
+    "stage": 1
   }
 ]

@@ -2,25 +2,29 @@
   {
     "key": "e_b7d1d4f58d_0001_c1b8888338",
     "original": "悪いけど、今は何もないわね",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYGMK.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "不好意思，现在什么都没有呢",
+    "context": "File: PREPARE/PRE_BUYGMK.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b7d1d4f58d_0002_62aae95713",
     "original": "所持数が最大です",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYGMK.NUT\nLine: 66\nCall: DecideStart"
+    "translation": "持有数量已达上限",
+    "context": "File: PREPARE/PRE_BUYGMK.NUT\nLine: 66\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_b7d1d4f58d_0003_1c25195964",
     "original": "%d必要ですが、よろしいですか？",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYGMK.NUT\nLine: 110\nCall: DecideStart"
+    "translation": "需要%d，确定吗？",
+    "context": "File: PREPARE/PRE_BUYGMK.NUT\nLine: 110\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_b7d1d4f58d_0004_82805c26d9",
     "original": "マップギミック配置用リストに追加されました",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYGMK.NUT\nLine: 141\nCall: DecideStart"
+    "translation": "已加入地图机关配置列表",
+    "context": "File: PREPARE/PRE_BUYGMK.NUT\nLine: 141\nCall: DecideStart",
+    "stage": 1
   }
 ]

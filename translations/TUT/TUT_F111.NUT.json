@@ -2,25 +2,29 @@
   {
     "key": "e_6ecbbae885_0001_59efe82c39",
     "original": "エヴァの修理",
-    "translation": "",
-    "context": "File: TUT/TUT_F111.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "EVA修理",
+    "context": "File: TUT/TUT_F111.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_6ecbbae885_0002_59efe82c39",
     "original": "エヴァの修理",
-    "translation": "",
-    "context": "File: TUT/TUT_F111.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "EVA修理",
+    "context": "File: TUT/TUT_F111.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_6ecbbae885_0003_3a38845304",
     "original": "戦闘で<02>エヴァがダメージを負った場合<//>には、\\n<12>リツコ<//>に話しかけます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F111.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "战斗中<02>EVA受损时<//>，\\n请与<12>律子<//>对话▽",
+    "context": "File: TUT/TUT_F111.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_6ecbbae885_0004_069a6246d9",
     "original": "<02>戦闘で獲得した予算<//>で、<02>ダメージを回復<//>します\\n<02>エヴァのダメージ<//>は<02>戦闘時の耐久力<//>に影響します",
-    "translation": "",
-    "context": "File: TUT/TUT_F111.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "使用<02>战斗获得的预算<//>可<02>修复损伤<//>\\n<02>EVA损伤<//>会影响<02>战斗时的耐久力<//>",
+    "context": "File: TUT/TUT_F111.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

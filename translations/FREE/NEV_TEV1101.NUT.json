@@ -65,8 +65,9 @@
   {
     "key": "e_a2744e7344_0010_aecbe4cbd4",
     "original": "了解",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 530\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_005"
+    "translation": "了解",
+    "context": "File: FREE/NEV_TEV1101.NUT\nLine: 530\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1102_07_005",
+    "stage": 1
   },
   {
     "key": "e_a2744e7344_0011_46fb25bc39",

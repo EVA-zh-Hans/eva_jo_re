@@ -2,80 +2,93 @@
   {
     "key": "e_b444cbe80a_0001_03fa44ad8b",
     "original": "おかえりー、どうだった？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "欢迎回来～感觉如何？",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0002_66aaca6f3a",
     "original": "…ひどい目にあいました",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 125\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "……被虐得很惨",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 125\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0003_88b9826553",
     "original": "そうね\\nまあ、勝てたら奇跡くらいね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 128\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "也是呢\\n能赢的话简直是奇迹了",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 128\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0004_87d6ce0f02",
     "original": "えー",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 131\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "诶——",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 131\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0005_cf8843fd96",
     "original": "あ、そうだ！▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 135\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "啊，对了！▽",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 135\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0006_ef8c28bb4c",
     "original": "さっきは無かったけど、\\nこれからは建物も重要になるわ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 136\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "刚才没提到，接下来\\n建筑物也会很重要哦▽",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 136\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0007_f366666e92",
     "original": "<02>武器庫ビル<//>では\\n武器が手に入るわよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 137\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "<02>武器库大楼<//>里\\n能获取武器呢▽",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 137\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0008_913f36c0dd",
     "original": "それと、電源接続が切れるとエヴァ、\\n３分しか動かないから、▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 138\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "还有，电源切断后EVA\\n只能活动三分钟，▽",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 138\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0009_5998735277",
     "original": "動きが止まる前に<02>電源ビル<//>に接続してね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 139\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "记得在停机前\\n连接<02>电源大楼<//>",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 139\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0010_1a7dc4528f",
     "original": "そういう事は\\n早く言ってくれればいいのに…",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 142\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "这种事\\n早点说就好了……",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 142\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0011_0ef7a7eb9f",
     "original": "いっぺんに教えても覚えきれないでしょ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 146\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "一次性教太多你也记不住吧▽",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 146\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0012_452de80916",
     "original": "…でも、確かにそうね、\\n次の使徒はいつ攻めてくるかわからないから▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 147\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "……不过确实如此\\n下个使徒不知何时会来袭▽",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 147\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0013_678985ccad",
     "original": "シンジ君…あなたには一刻でも早く、\\n戦闘技術を高めてもらう必要があるのよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "真嗣君…你必须尽快\\n提升战斗技巧才行",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0014_a7f878b8ce",
@@ -86,26 +99,30 @@
   {
     "key": "e_b444cbe80a_0015_d7595239d3",
     "original": "ま、プレッシャーだけかけても\\n仕方ないわね▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 155\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "嘛，光施加压力\\n也没用呢▽",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 155\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0016_fe76e13e67",
     "original": "戦闘についても\\n<02>システムメニュー<//>の<02>チュートリアル<//>で▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 156\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "战斗相关也可以在\\n<02>系统菜单<//>的<02>教程<//>里▽",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 156\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0017_47156d5abf",
     "original": "いつでも確認する事ができるから、\\n後でしっかり復習しておくこと▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 157\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "随时都能查阅\\n之后要好好复习哦▽",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 157\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0018_03828d7326",
     "original": "今は心配でも、\\n時間さえあれば、理解できるはずよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 158\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "现在虽然不安\\n只要有时间总能理解的",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 158\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0019_8f90d85ec1",
@@ -117,37 +134,43 @@
   {
     "key": "e_b444cbe80a_0020_e37568f35f",
     "original": "さぁて、\\n堅苦しいお勉強はこれでおしまいよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 165\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "好啦～\\n死板的教学到此为止▽",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 165\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0021_0e1f8d0062",
     "original": "遊んでらっしゃい？　シンジ君",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 166\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "去玩会儿？真嗣君",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 166\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0022_b3fe89f0c8",
     "original": "命令された方が、\\nやりやすいんだけどな…",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 169\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "被命令着做事\\n反而更轻松啊……",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 169\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0023_067675062e",
     "original": "ふふ、大人の第一歩は\\n自分で考えることよ？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 172\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "呵呵，成人的第一步\\n就是要学会独立思考哦？",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 172\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0024_ed991fbdb9",
     "original": "都合のいいときだけ\\n大人扱いして…",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 175\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "只有在对你方便的时候\\n才把我当大人看待……",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 175\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_b444cbe80a_0025_fb5bc115b8",
     "original": "そうね、ずるい大人だって、\\n自分でも思ってる",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 179\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "是啊，我自己也觉得\\n是个狡猾的大人呢",
+    "context": "File: FREE/NEV_TUT0003_2.NUT\nLine: 179\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   }
 ]

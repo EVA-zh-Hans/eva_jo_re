@@ -16,146 +16,170 @@
   {
     "key": "e_9259938677_0003_4e4a46a71f",
     "original": "エヴァ零号機のアンビリカルケーブル、接続！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 111\nCall: DecideStart2"
+    "translation": "EVA零号机的脐带电缆，连接！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 111\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0004_0b1750f6b4",
     "original": "<02>アンビリカルケーブル　接続！<//>\\nシンクロ率ダウン！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 133\nCall: DecideStart2"
+    "translation": "<02>脐带电缆　连接！<//>\\n同步率下降！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 133\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0005_fd5b819ea2",
     "original": "エヴァ弐号機のアンビリカルケーブル、接続！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 155\nCall: DecideStart2"
+    "translation": "EVA贰号机的脐带电缆，连接！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 155\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0006_ae9552e9f0",
     "original": "エヴァ参号機のアンビリカルケーブル、接続！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 177\nCall: DecideStart2"
+    "translation": "EVA参号机的脐带电缆，连接！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 177\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0007_e22c820476",
     "original": "エヴァ四号機のアンビリカルケーブル、接続！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 199\nCall: DecideStart2"
+    "translation": "EVA四号机的脐带电缆，连接！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 199\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0008_c627171bd0",
     "original": "<02>Ａ．Ｔ．フィールド　バニッシュ！<//>\\n使徒からのダメージ倍加！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 569\nCall: DecideStart2"
+    "translation": "<02>AT力场　消失！<//>\\n使徒造成的伤害加倍！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 569\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0009_d85d0390f4",
     "original": "<02>エヴァ使用武器　残弾０！<//>",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 579\nCall: DecideStart2"
+    "translation": "<02>EVA使用武器　弹数归零！<//>",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 579\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0010_825fdd368e",
     "original": "<02>武器耐久度、減少！<//>",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 589\nCall: DecideStart2"
+    "translation": "<02>武器耐久度下降！<//>",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 589\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0011_63358b1ce7",
     "original": "<02>エヴァ、耐久力減少！<//>",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 599\nCall: DecideStart2"
+    "translation": "<02>EVA耐久力下降！<//>",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 599\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0012_fc118650b6",
     "original": "<02>ゼロエリア、耐久力減少！<//>",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 609\nCall: DecideStart2"
+    "translation": "<02>0区，耐久力下降！<//>",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 609\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0013_b4695b01cc",
     "original": "<02>観測ビル、全て破壊！<//>",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 621\nCall: DecideStart2"
+    "translation": "<02>观测大楼，全数摧毁！<//>",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 621\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0014_89e07fa4b7",
     "original": "使徒落下予想範囲、更新します",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 636\nCall: DecideStart2"
+    "translation": "使徒坠落预测范围，更新中",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 636\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0015_1fd2fbf4da",
     "original": "エヴァシリーズ、１機撃破！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 659\nCall: DecideStart2"
+    "translation": "EVA量产系列，1机击破！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 659\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0016_28a52ae602",
     "original": "２機目撃破！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 683\nCall: DecideStart2"
+    "translation": "第2机击破！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 683\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0017_40999585a2",
     "original": "３機目撃破！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 707\nCall: DecideStart2"
+    "translation": "第3机击破！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 707\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0018_f96d3c3764",
     "original": "４機目撃破！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 731\nCall: DecideStart2"
+    "translation": "第4机击破！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 731\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0019_c443f167b8",
     "original": "５機目撃破！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 755\nCall: DecideStart2"
+    "translation": "第五机击破！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 755\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0020_f8901b546c",
     "original": "６機目撃破！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 779\nCall: DecideStart2"
+    "translation": "第六机击破！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 779\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0021_1378c17cda",
     "original": "７機目撃破！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 803\nCall: DecideStart2"
+    "translation": "第七机击破！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 803\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0022_bb855772ec",
     "original": "８機目撃破！\\nあと１機！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 827\nCall: DecideStart2"
+    "translation": "第八机击破！\\n还剩最后一机！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 827\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0023_469c5d1100",
     "original": "目標、１体殲滅！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 851\nCall: DecideStart2"
+    "translation": "目标，1体歼灭！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 851\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0024_d5051a2027",
     "original": "目標、２体殲滅！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 875\nCall: DecideStart2"
+    "translation": "目标，2体歼灭！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 875\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0025_b2b2c4ff05",
     "original": "目標、３体殲滅！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 899\nCall: DecideStart2"
+    "translation": "目标，3体歼灭！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 899\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0026_855b8da3be",
     "original": "目標、４体殲滅！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 923\nCall: DecideStart2"
+    "translation": "目标，4体歼灭！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 923\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0027_5c0cfc2df6",
@@ -230,37 +254,43 @@
   {
     "key": "e_9259938677_0037_5795e16f2e",
     "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1419\nCall: DecideStart2"
+    "translation": "<02>脐带电缆切断！<//>\\n同步率上升！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1419\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0038_5795e16f2e",
     "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1436\nCall: DecideStart2"
+    "translation": "<02>脐带电缆切断！<//>\\n同步率上升！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1436\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0039_5795e16f2e",
     "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1453\nCall: DecideStart2"
+    "translation": "<02>脐带电缆切断！<//>\\n同步率上升！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1453\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0040_5795e16f2e",
     "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1470\nCall: DecideStart2"
+    "translation": "<02>脐带电缆切断！<//>\\n同步率上升！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1470\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0041_5795e16f2e",
     "original": "<02>アンビリカルケーブル　切断！<//>\\nシンクロ率アップ！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1487\nCall: DecideStart2"
+    "translation": "<02>脐带电缆切断！<//>\\n同步率上升！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1487\nCall: DecideStart2",
+    "stage": 1
   },
   {
     "key": "e_9259938677_0042_cd62317c3e",
     "original": "<02>Ａ．Ｔ．フィールド　バニッシュ！<//>\\n目標の防御力激減！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1831\nCall: DecideStart2"
+    "translation": "<02>AT力场消除！<//>\\n目标防御力锐减！",
+    "context": "File: BTL/NEV_BEV_VOLATILE.NUT\nLine: 1831\nCall: DecideStart2",
+    "stage": 1
   }
 ]

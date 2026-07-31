@@ -2,32 +2,37 @@
   {
     "key": "e_2fb1dc591d_0001_1fbec0ddb5",
     "original": "第３新東京市　中央区",
-    "translation": "",
-    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　東地区"
+    "translation": "第3新东京市 中央区",
+    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　東地区",
+    "stage": 1
   },
   {
     "key": "e_2fb1dc591d_0002_c6a5aa6da9",
     "original": "第３新東京市　東地区",
-    "translation": "",
-    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　西地区"
+    "translation": "第3新东京市 东地区",
+    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　西地区",
+    "stage": 1
   },
   {
     "key": "e_2fb1dc591d_0003_11b350752e",
     "original": "第３新東京市　西地区",
-    "translation": "",
-    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　南地区"
+    "translation": "第3新东京市 西地区",
+    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　南地区",
+    "stage": 1
   },
   {
     "key": "e_2fb1dc591d_0004_c4ec54987c",
     "original": "第３新東京市　南地区",
-    "translation": "",
-    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　北地区"
+    "translation": "第3新东京市 南地区",
+    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　北地区",
+    "stage": 1
   },
   {
     "key": "e_2fb1dc591d_0005_e72089eb06",
     "original": "第３新東京市　北地区",
-    "translation": "",
-    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26\nVoice: 　　ジオフロント"
+    "translation": "第3新东京市 北地区",
+    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 26\nVoice: 　　ジオフロント",
+    "stage": 1
   },
   {
     "key": "e_2fb1dc591d_0006_8506ee0889",
@@ -52,13 +57,15 @@
   {
     "key": "e_2fb1dc591d_0009_f828e90c60",
     "original": "スキルプログラムを実装",
-    "translation": "",
-    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 57\nCall: MenuSetup\nVoice: 戦闘を開始"
+    "translation": "实装技能程序",
+    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 57\nCall: MenuSetup\nVoice: 戦闘を開始",
+    "stage": 1
   },
   {
     "key": "e_2fb1dc591d_0010_a6a0d58410",
     "original": "戦闘を開始",
-    "translation": "",
-    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 57\nCall: MenuSetup"
+    "translation": "开始战斗",
+    "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 57\nCall: MenuSetup",
+    "stage": 1
   }
 ]

@@ -2,20 +2,23 @@
   {
     "key": "e_9d1a186e5d_0001_0eebde4106",
     "original": "友情の証にマル秘情報を教えてやるよ！▽",
-    "translation": "",
-    "context": "File: PREPARE/RELATION.NUT\nLine: 45\nCall: im.play\nSpeaker: IMC_KENSUKE"
+    "translation": "作为友情的证明告诉你机密情报！▽",
+    "context": "File: PREPARE/RELATION.NUT\nLine: 45\nCall: im.play\nSpeaker: IMC_KENSUKE",
+    "stage": 1
   },
   {
     "key": "e_9d1a186e5d_0002_e652239278",
     "original": "ズバリ「注目度ランキング」！！！\\nあの子が今気にしてるのは誰？▽",
-    "translation": "",
-    "context": "File: PREPARE/RELATION.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_KENSUKE"
+    "translation": "揭秘「关注度排行榜」！！！\\n她现在最在意谁？▽",
+    "context": "File: PREPARE/RELATION.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_KENSUKE",
+    "stage": 1
   },
   {
     "key": "e_9d1a186e5d_0003_85157e17a9",
     "original": "あの子にとって僕は何番目？\\nそんな疑問にお答えしちゃうよ！",
-    "translation": "",
-    "context": "File: PREPARE/RELATION.NUT\nLine: 47\nCall: im.play\nSpeaker: IMC_KENSUKE"
+    "translation": "我在她心里排第几？\\n这就为你揭晓答案！",
+    "context": "File: PREPARE/RELATION.NUT\nLine: 47\nCall: im.play\nSpeaker: IMC_KENSUKE",
+    "stage": 1
   },
   {
     "key": "e_9d1a186e5d_0004_32a618a984",
@@ -32,7 +35,8 @@
   {
     "key": "e_9d1a186e5d_0006_d2ecd6e638",
     "original": "毎度あり～",
-    "translation": "",
-    "context": "File: PREPARE/RELATION.NUT\nLine: 198\nCall: im.play\nSpeaker: IMC_KENSUKE"
+    "translation": "承蒙惠顾～",
+    "context": "File: PREPARE/RELATION.NUT\nLine: 198\nCall: im.play\nSpeaker: IMC_KENSUKE",
+    "stage": 1
   }
 ]

@@ -2,157 +2,183 @@
   {
     "key": "e_31d0d8a470_0001_dbaaa34720",
     "original": "マップギミックについて",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "关于地图机关",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0002_dbaaa34720",
     "original": "マップギミックについて",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 23\nCall: DecideStart"
+    "translation": "关于地图机关",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 23\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0003_1a2cf5b2de",
     "original": "切断された電源は、<02>電源ビル<//>で\\n<02>再接続<//>する事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "被切断的电源可在<02>电源大楼<//>\\n进行<02>重新连接<//>▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0004_bc22f84461",
     "original": "<02>予備電源<//>の残量は\\n<02>活動限界時間<//>として表示されますが▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>备用电源<//>的剩余量会以\\n<02>活动极限时间<//>显示▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0005_1168a48d49",
     "original": "電源を<02>再接続<//>する事で\\n<02>予備電源<//>を<02>充電<//>する事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 30\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "通过<02>重新连接<//>电源\\n可为<02>备用电源<//><02>充电<//>▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 30\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0006_34a4f20885",
     "original": "電源は$Rボタンを押しながら\\n$#ボタンと$xボタンを同時に押すと、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 31\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "长按$R键同时按下\\n$#键与$x键时▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 31\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0007_ded0e25d0f",
     "original": "自分で<02>切断<//>する事もできます",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 32\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "也可主动<02>切断<//>电源",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 32\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0008_4995f31f55",
     "original": "<02>観測ビル<//>が配置されたマップで戦闘を行う事で\\n使徒の<02>分析<//>を行う事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 45\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "在设有<02>观测大楼<//>的地图战斗时\\n可对使徒进行<02>分析<//>▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 45\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0009_45e93ae1c1",
     "original": "<02>分析<//>が完了すると、使徒の現在の\\n<02>耐久力<//>と<02>Ａ．Ｔ．<//>が表示されるようになり、",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>分析<//>完成后将显示使徒当前\\n<02>耐久力<//>与<02>AT力场<//>数值",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0010_317c828c7b",
     "original": "<02>ポーズメニュー<//>内で<02>弱点部位<//>、\\n<02>有効武器<//>が分かるようになります▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 59\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>暂停菜单<//>内会标注\\n<02>弱点部位<//>与<02>有效武器<//>▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 59\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0011_48013726c7",
     "original": "なお、多くの<02>観測ビル<//>を配置すると、\\n<02>分析<//>にかかる時間は短縮されます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 60\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "配置更多<02>观测大楼<//>\\n可缩短<02>分析<//>所需时间▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 60\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0012_f6b6b0c0d7",
     "original": "マップ上の<02>観測ビル<//>が全て破壊されてしまうと\\n分析は<02>中断<//>されてしまいます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 61\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "若地图上所有<02>观测大楼<//>被毁\\n<02>分析<//>将<02>中断<//>▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 61\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0013_5d055c0e68",
     "original": "また、<02>分析<//>が完了していた場合でも、\\n<02>耐久力<//>と<02>Ａ．Ｔ．<//>が把握できなくなってしまいます",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 62\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "即使<02>分析<//>已完成\\n也将无法掌握<02>耐久力<//>与<02>AT力场<//>",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 62\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0014_fe1fcd22fa",
     "original": "エヴァの基本武装は<02>演習ナイフ<//>ですが、\\nその他にも様々な武器を使用する事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 74\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "EVA基础武装为<02>训练匕首<//>\\n亦可使用其他各类武器▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 74\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0015_3d83d30424",
     "original": "武器は使用しつづけると、\\n<02>射撃武器<//>の場合は<02>弾切れ<//>、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 75\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "持续使用武器会导致\\n<02>射击武器<//><02>弹药耗尽<//>▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 75\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0016_b41b9e6ee2",
     "original": "<02>格闘武器<//>の場合は<02>耐久度<//>が減少し、\\n本来の性能が出せなくなっていきます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 76\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>格斗武器<//>会因<02>耐久度<//>下降\\n逐渐无法发挥原有性能▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 76\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0017_3f2ee1b238",
     "original": "その場合は武器を<02>換装<//>する必要があります▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 77\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "此时需进行武器<02>更换<//>▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 77\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0018_dfc31599b5",
     "original": "武器の<02>換装<//>は<02>武器庫ビル<//>に近づいて\\n$#ボタンで行います▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 78\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "靠近<02>武器库大楼<//>\\n按$#键可<02>更换<//>武器▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 78\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0019_fc7d9961b7",
     "original": "武器は$Rボタンを押しながら\\n$^ボタンと$oボタンを同時に押すと、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 79\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "长按$R键同时按下\\n$^键与$o键时▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 79\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0020_1cbc779066",
     "original": "装備している武器を廃棄する事もできます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 80\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "可丢弃已装备武器▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 80\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0021_1fa402d35b",
     "original": "なお、武器を<02>換装<//>すると\\nエヴァの挙動が変化します",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 81\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "注意：<02>更换<//>武器会\\n改变EVA行动模式",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 81\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0022_c9d4f1ca4c",
     "original": "<02>兵装ビル<//>の攻撃の状況は\\n画面右部に表示されます",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 94\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>兵装大楼<//>攻击状态\\n显示于画面右侧",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 94\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0023_ab3ea2923d",
     "original": "<02>兵装ビル<//>は使徒が<02>捕捉範囲内<//>に入り\\n<02>捕捉時間<//>が経過すると自動迎撃を行います",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 107\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "当使徒进入<02>兵装大楼<//>\\n<02>捕捉范围<//>并持续<02>捕捉时间<//>后\\n将自动迎击",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 107\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0024_344a80dc57",
     "original": "有効な射程範囲や、威力は\\n兵装ビルによって異なります▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 120\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "有效射程与威力\\n因兵装大楼而异▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 120\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0025_90de6cb5b0",
     "original": "<02>兵装ビル<//>と使徒との位置関係によっては、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 121\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "根据<02>兵装大楼<//>与使徒的\\n相对位置关系▽",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 121\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_31d0d8a470_0026_bc4f88cbf1",
     "original": "エヴァがダメージを受ける場合があるので\\n気をつけてください",
-    "translation": "",
-    "context": "File: TUT/TUT_B004.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "EVA可能会受到损伤\\n请务必小心",
+    "context": "File: TUT/TUT_B004.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

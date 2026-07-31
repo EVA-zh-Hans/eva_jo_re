@@ -2,13 +2,15 @@
   {
     "key": "e_e5847da3b9_0001_6613026da4",
     "original": "僕はどこかひねくれているからね\\nどんな意味かって？　そうだね…▽",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_10.NUT\nLine: 41\nCall: im.event2\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_017_1"
+    "translation": "我这人天生有点拧巴\\n问什么意思？这个嘛……▽",
+    "context": "File: KAWORU/CHR_KAWORU_10.NUT\nLine: 41\nCall: im.event2\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_017_1",
+    "stage": 1
   },
   {
     "key": "e_e5847da3b9_0002_71421d401d",
     "original": "好きってことさ",
-    "translation": "",
-    "context": "File: KAWORU/CHR_KAWORU_10.NUT\nLine: 44\nCall: im.event2\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_017_2"
+    "translation": "就是喜欢的意思",
+    "context": "File: KAWORU/CHR_KAWORU_10.NUT\nLine: 44\nCall: im.event2\nSpeaker: IMC_KAWORU\nVoice: na54_0013_15_017_2",
+    "stage": 1
   }
 ]

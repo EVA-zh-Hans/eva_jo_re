@@ -2,8 +2,9 @@
   {
     "key": "e_6fd828a5c0_0002_8bfc665fe2",
     "original": "シンジ君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 102"
+    "translation": "真嗣君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 102",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0003_7faf5c4e05",
@@ -29,68 +30,79 @@
   {
     "key": "e_6fd828a5c0_0006_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 106"
+    "translation": "铃原君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 106",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0007_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 107"
+    "translation": "相田君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 107",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0008_975d6e0cff",
     "original": "洞木君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 108"
+    "translation": "洞木君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 108",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0009_416fcfda6e",
     "original": "葛城君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 109"
+    "translation": "葛城君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 109",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0010_e89417d3f7",
     "original": "赤木君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 110"
+    "translation": "赤木君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 110",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0011_a6be2384e2",
     "original": "加持君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 111"
+    "translation": "加持君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 111",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0012_1e287f011c",
     "original": "碇",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 112"
+    "translation": "碇",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 112",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0013_dbc879e139",
     "original": "私",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 113"
+    "translation": "我",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 113",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0014_31b1fdfec3",
     "original": "青葉君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 114"
+    "translation": "青叶君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 114",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0015_419e1ceafb",
     "original": "日向君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 115"
+    "translation": "日向君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 115",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0016_031a668228",
     "original": "伊吹君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 116"
+    "translation": "伊吹君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 116",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0017_faed743884",
@@ -102,8 +114,9 @@
   {
     "key": "e_6fd828a5c0_0018_8bfc665fe2",
     "original": "シンジ君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 118"
+    "translation": "真嗣君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 118",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0019_7faf5c4e05",
@@ -129,68 +142,79 @@
   {
     "key": "e_6fd828a5c0_0022_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 122"
+    "translation": "铃原君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 122",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0023_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 123"
+    "translation": "相田君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 123",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0024_975d6e0cff",
     "original": "洞木君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 124"
+    "translation": "洞木君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 124",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0025_416fcfda6e",
     "original": "葛城君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 125"
+    "translation": "葛城君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 125",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0026_e89417d3f7",
     "original": "赤木君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 126"
+    "translation": "赤木君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 126",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0027_a6be2384e2",
     "original": "加持君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 127"
+    "translation": "加持君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 127",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0028_1e287f011c",
     "original": "碇",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 128"
+    "translation": "碇",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 128",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0029_dbc879e139",
     "original": "私",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 129"
+    "translation": "我",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 129",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0030_31b1fdfec3",
     "original": "青葉君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 130"
+    "translation": "青叶君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 130",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0031_419e1ceafb",
     "original": "日向君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 131"
+    "translation": "日向君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 131",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0032_031a668228",
     "original": "伊吹君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 132"
+    "translation": "伊吹君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 132",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0033_faed743884",
@@ -202,8 +226,9 @@
   {
     "key": "e_6fd828a5c0_0034_8bfc665fe2",
     "original": "シンジ君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 134"
+    "translation": "真嗣君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 134",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0035_7faf5c4e05",
@@ -229,68 +254,79 @@
   {
     "key": "e_6fd828a5c0_0038_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 138"
+    "translation": "铃原君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 138",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0039_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 139"
+    "translation": "相田君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 139",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0040_975d6e0cff",
     "original": "洞木君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 140"
+    "translation": "洞木君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 140",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0041_416fcfda6e",
     "original": "葛城君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 141"
+    "translation": "葛城君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 141",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0042_e89417d3f7",
     "original": "赤木君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 142"
+    "translation": "赤木君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 142",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0043_a6be2384e2",
     "original": "加持君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 143"
+    "translation": "加持君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 143",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0044_1e287f011c",
     "original": "碇",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 144"
+    "translation": "碇",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 144",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0045_dbc879e139",
     "original": "私",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 145"
+    "translation": "我",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 145",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0046_31b1fdfec3",
     "original": "青葉君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 146"
+    "translation": "青叶君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 146",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0047_419e1ceafb",
     "original": "日向君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 147"
+    "translation": "日向君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 147",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0048_031a668228",
     "original": "伊吹君",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 148"
+    "translation": "伊吹君",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 148",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0049_faed743884",
@@ -308,8 +344,9 @@
   {
     "key": "e_6fd828a5c0_0052_386698dcb0",
     "original": "自分まで若返りそうだよ\\nははは",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 153\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "连我都觉得变年轻了\n哈哈哈",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 153\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0054_6283837129",
@@ -326,32 +363,37 @@
   {
     "key": "e_6fd828a5c0_0058_8951dddcb3",
     "original": "やれやれ　歳を感じるよ\\n君たちを見てるとね",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 156\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "哎呀呀　看着你们\n我都感觉岁月不饶人了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 156\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0060_f9e35ab398",
     "original": "おお、そうだ\\n急用があったな",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 157\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "对了对了\n突然想起有急事",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 157\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0062_0310d68766",
     "original": "私が気に入った者から順番に死ぬのさ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 158\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "我看顺眼的人\n总会接二连三地死去",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 158\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0064_12b33b0c32",
     "original": "%sが死んだのは\\n残念だったよ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 159\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s的死\n真是令人遗憾",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 159\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0066_072cf6b36a",
     "original": "%sが死んだか",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 160\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s死了吗",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 160\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0068_e6cdb44705",
@@ -362,38 +404,44 @@
   {
     "key": "e_6fd828a5c0_0070_dc1888da37",
     "original": "%s、\\nなかなか死なない気がしてたんだが",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 162\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s\n我原以为你能活得再久些",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 162\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0072_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 163\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 163\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0074_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 164\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 164\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0076_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 165\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 165\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0078_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 166\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 166\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0080_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 167\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 167\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0082_0ef183120b",
@@ -428,8 +476,9 @@
   {
     "key": "e_6fd828a5c0_0092_53d249b5c6",
     "original": "%sがやっと退院したそうだよ\\nまったく、ひやひやさせる…",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 173\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "听说%s终于出院了\n真是让人捏把汗…",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 173\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0094_2f47ac9d84",
@@ -458,74 +507,86 @@
   {
     "key": "e_6fd828a5c0_0102_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 178\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 178\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0104_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 179\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 179\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0106_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 180\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 180\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0108_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 181\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 181\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0110_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 182\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 182\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0112_f088827643",
     "original": "まったく、若いうちから\\n怪我するものじゃない…",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 183\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "年轻人动不动就受伤\\n实在不该……",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 183\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0114_4c96fdb464",
     "original": "まだ、痛むかね",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 184\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "还疼吗",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 184\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0116_c27411264e",
     "original": "怪我は大丈夫かね",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 185\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "伤势不要紧吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 185\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0118_9bb7e9d6f7",
     "original": "自己管理をしっかりやることだ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 186\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "要好好管理自己身体",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 186\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0120_4698c311d6",
     "original": "死なないようにしたまえ\\n自分の身は自分で守るように",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 187\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "记住别轻易送命\\n自己的性命自己守护",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 187\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0122_708bdc8372",
     "original": "%sめ…\\n勝手に死んだら許さんぞ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 188\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s你这家伙…\\n敢擅自死掉绝不饶恕",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 188\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0124_62d4595c14",
     "original": "%sめ、勝手に怪我して…",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 189\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s这混账，随便就受伤…",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 189\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0126_0c30c0efb6",
@@ -536,8 +597,9 @@
   {
     "key": "e_6fd828a5c0_0128_bd15f34cef",
     "original": "%sは大丈夫なのかね？",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 191\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s真的不要紧吗？",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 191\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0130_04a83bb918",
@@ -548,32 +610,37 @@
   {
     "key": "e_6fd828a5c0_0132_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 193\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 193\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0134_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 194\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 194\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0136_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 195\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 195\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0138_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 196\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 196\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0140_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 197\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 197\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0142_577d7d5f3e",
@@ -638,8 +705,9 @@
   {
     "key": "e_6fd828a5c0_0162_810e2949d2",
     "original": "…碇、また一歩目標に近づいたな",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 208\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "…碇，又向目标迈进了一步呢",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 208\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0164_889fa8bfdb",
@@ -662,8 +730,9 @@
   {
     "key": "e_6fd828a5c0_0170_ceec2cbf55",
     "original": "まあまあだったよ\\nありがとう",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 212\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "还算可以吧\n谢谢",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 212\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0172_8f8c8f0c20",
@@ -686,8 +755,9 @@
   {
     "key": "e_6fd828a5c0_0178_31b915de10",
     "original": "ぎりぎりすぎるな…",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 216\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "太勉强了……",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 216\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0180_4c67221b50",
@@ -752,14 +822,16 @@
   {
     "key": "e_6fd828a5c0_0200_ac934fd7cf",
     "original": "もう少しがんばりなさい\\n自分としては、それぐらいしか言えない",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 227\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "再努力些吧\n我只能说到这个程度了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 227\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0202_4a7412d2c5",
     "original": "エヴァだけで戦わなくてもいいと思うよ\\n建物なんてどうかね？",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 228\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "不必只用EVA战斗\n试试利用建筑物如何？",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 228\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0204_b770b5f22c",
@@ -794,26 +866,30 @@
   {
     "key": "e_6fd828a5c0_0214_92029e41e6",
     "original": "無様な姿を見せおって…",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 234\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "竟露出如此丑态…",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 234\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0216_92029e41e6",
     "original": "無様な姿を見せおって…",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 235\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "竟露出如此丑态…",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 235\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0218_92029e41e6",
     "original": "無様な姿を見せおって…",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 236\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "竟露出如此丑态…",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 236\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0220_92029e41e6",
     "original": "無様な姿を見せおって…",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 237\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "竟露出如此丑态…",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 237\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0222_03700e04b3",
@@ -836,8 +912,9 @@
   {
     "key": "e_6fd828a5c0_0228_06d3383f74",
     "original": "…訓練をしておきたまえ\\n詳しくは、言えない",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 241\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "……先去训练吧\\n详情不便透露",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 241\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0230_168db86d41",
@@ -860,8 +937,9 @@
   {
     "key": "e_6fd828a5c0_0236_f7b3cc3b55",
     "original": "あとどれだけ、戦えば\\n約束の地にいけるのか…",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 245\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "还要战斗多久\\n才能抵达应许之地……",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 245\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0238_90d0ead10b",
@@ -908,8 +986,9 @@
   {
     "key": "e_6fd828a5c0_0252_3b4962b354",
     "original": "まあ、一戦大きく勝つだけでも変わるさ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 253\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "只要取得一场大胜\\n局面就会改变",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 253\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0254_5169e1b133",
@@ -926,8 +1005,9 @@
   {
     "key": "e_6fd828a5c0_0258_d85d975022",
     "original": "なに　まだセカンドインパクトの後の\\n数年ほどじゃないさ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 256\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "没什么　第二次冲击后\\n不过才过了几年而已",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 256\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0260_4747ccf248",
@@ -938,8 +1018,9 @@
   {
     "key": "e_6fd828a5c0_0262_7623dd67dd",
     "original": "君には世話になったね\\n今のうちに、言っておくよ▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 258\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "承蒙你关照了\\n趁现在先说清楚吧▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 258\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0264_3b18ab5155",
@@ -956,8 +1037,9 @@
   {
     "key": "e_6fd828a5c0_0268_6511961a84",
     "original": "やれやれ　私は十分生きたがね…\\n君はつらかろう",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 261\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "哎呀呀　我已经活得够本了…\\n倒是难为你了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 261\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0270_27799ade0f",
@@ -968,68 +1050,79 @@
   {
     "key": "e_6fd828a5c0_0272_1d4cac7c83",
     "original": "まあ、死ねばみんな同じだよ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 263\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "反正人死了都一样",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 263\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0274_28d22bea40",
     "original": "%sの話はよく聞くね\\nいい話のようで結構結構",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 264\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s的传闻听得不少\\n似乎是好事　不错不错",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 264\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0276_083e82e22b",
     "original": "%sの話はよく聞くね",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 265\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "经常听人提起%s的事呢",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 265\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0278_ac15ffe08e",
     "original": "%sの話か\\n君も興味があるのかね？",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 266\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "%s的事吗？\n你也感兴趣？",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 266\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0280_2de871032b",
     "original": "%sの話はよく聞くね\\n正直興味は無いんだが",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 267\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "虽然常听说%s的事\n老实说我不太感兴趣",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 267\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0282_3bbce8afad",
     "original": "%sの悪い話はよく聞くね\\n正直うんざりなんだが",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 268\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "总听到%s的负面传闻\n说实话很厌烦",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 268\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0284_0e5f95f25f",
     "original": "最高の戦いを見せてもらおう",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 269\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "让我见识下最精彩的战斗吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 269\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0286_76e9e7bb85",
     "original": "準備は怠らぬように",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 270\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "准备工作别懈怠",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 270\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0288_c6c27932c1",
     "original": "出撃は、ケイジのエヴァの前からだ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 271\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "出击位置在机库的EVA前面",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 271\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0290_2078e08fb6",
     "original": "恥をかかさんようにな",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 272\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "可别给我丢脸啊",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 272\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0292_adcc4b99e3",
     "original": "…パイロットの交代も視野に入れるべきだな",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 273\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "…或许该考虑更换驾驶员了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 273\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0294_bd4a548827",
@@ -1064,8 +1157,9 @@
   {
     "key": "e_6fd828a5c0_0304_7891c9fc47",
     "original": "仕事には勇気が必要だよ▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 279\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "工作需要勇气▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 279\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0306_2f8b16d00a",
@@ -1082,8 +1176,9 @@
   {
     "key": "e_6fd828a5c0_0310_d591dc53d4",
     "original": "将棋は好きだがね　それが？",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 282\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "将棋倒是喜欢\n怎么了？",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 282\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0312_8e8a3cbd9a",
@@ -1136,8 +1231,9 @@
   {
     "key": "e_6fd828a5c0_0328_6b4ca33e0f",
     "original": "ダメージを与えられなければ、意味はない\\n攻撃力、貫通力は重要だよ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 291\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "无法造成伤害就毫无意义\\n攻击力和穿透力才是关键",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 291\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0330_3a6dc08192",
@@ -1154,8 +1250,9 @@
   {
     "key": "e_6fd828a5c0_0334_271997dd43",
     "original": "赤木博士は、\\nどんどんお母さんに似ていくなあ…",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 294\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "赤木博士越来越像她母亲了……",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 294\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0336_b66792ef7e",
@@ -1184,74 +1281,86 @@
   {
     "key": "e_6fd828a5c0_0344_0b2c91f12d",
     "original": "長射程の武器や兵装ビルで、敵の近接攻撃範囲外から\\nアウトレンジ攻撃を仕掛けるのがセオリーだろう",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 460\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "用长射程武器或兵装大楼\\n在敌方近战范围外发动超距攻击才是正解",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 460\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0346_a403a16e60",
     "original": "聞いてはいるだろうが、ゼロエリア防壁周辺に、\\n強力な兵装ビルをたくさん配置してはいかんな▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 461\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "虽然你们可能听过\\n但千万别在0区防壁附近部署太多强力兵装大楼▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 461\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0348_96c3add516",
     "original": "兵装ビルの攻撃に巻き込んでしまい\\nゼロエリア防壁まで壊す事にもなりかねん",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 462\nSpeaker: IMC_KOZO\nVoice: "
+    "translation": "万一被兵装大楼的攻击波及\\n连0区防壁都可能被破坏",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 462\nSpeaker: IMC_KOZO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0350_624689627d",
     "original": "…私は、冬月だ　副司令をやっている\\nまあ、それくらいは覚えておきたまえ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 463\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_001"
+    "translation": "……我是冬月，担任副司令\\n这点至少该记住吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 463\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_001",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0352_1f982fe5db",
     "original": "その老人は、酷く驚いた",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 464\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "老人露出极度震惊的表情",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 464\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0354_624689627d",
     "original": "…私は、冬月だ　副司令をやっている\\nまあ、それくらいは覚えておきたまえ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 465\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_002"
+    "translation": "……我是冬月，担任副司令\\n这点至少该记住吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 465\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_002",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0356_8b1eb5709b",
     "original": "…おしゃべりはいいから、\\nもっと本分を大事にしたまえ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 466\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_003"
+    "translation": "……闲聊到此为止\\n多专注本职工作吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 466\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_003",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0358_7943444556",
     "original": "君は若い\\n私は歳をとっている",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 467\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_004_1"
+    "translation": "你还年轻\\n而我已垂垂老矣",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 467\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_004_1",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0360_fe6d907cd2",
     "original": "…だから、それがどうしたという顔をしないでくれ\\n私にも色々ある",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 468\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_004_2"
+    "translation": "……所以别摆出那种表情\\n我也有难言之隐",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 468\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_004_2",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0362_3670e59f3c",
     "original": "…講義は得意だが、こうやって\\n面と向かって話すのは苦手だ　そうは思わんかね？",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 469\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_005"
+    "translation": "……我擅长讲课\\n但像这样面对面交谈实在不拿手，你觉得呢？",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 469\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_005",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0364_0a30d8ec55",
     "original": "次は考えよう",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 470\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_006"
+    "translation": "下次再想吧",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 470\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_006",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0366_1206ecf819",
     "original": "不意に冬月は生物の対称性について語りだした",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 471\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "冬月突然开始讲述生物对称性理论",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 471\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0368_a5f1b39026",
@@ -1274,38 +1383,44 @@
   {
     "key": "e_6fd828a5c0_0374_e315f8fcf5",
     "original": "…というわけだ　どんな高等生物にも対がある\\n多分、使徒や、エヴァにも",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 475\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_007"
+    "translation": "……总之高等生物都存在对称体\\n使徒和EVA恐怕也不例外",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 475\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_007",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0376_dfe96c97fb",
     "original": "１時間ほど話につき合わされました",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 476\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "被迫听他讲了一小时",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 476\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0378_1907222ff7",
     "original": "いいのかね\\nこんな老人とおしゃべりにふけっていて▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 477\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_008"
+    "translation": "和老头子闲聊这么久\\n真的没问题吗▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 477\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_008",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0380_5438cd1365",
     "original": "…別にこの会話を\\n楽しんでないと言うわけではないが　まあいい",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 478\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_009"
+    "translation": "……倒不是说讨厌这种对话\\n算了也罢",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 478\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_009",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0382_3186cd946c",
     "original": "２時間ほど話につき合わされました",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 479\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "被迫听他讲了两小时",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 479\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0384_378e51c0dd",
     "original": "私はもともと、形而上生物学が専門でね\\nこういうところでの仕事は、専門外だ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 480\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_010"
+    "translation": "我原本专攻形而上生物学\\n在这种地方工作算是跨界了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 480\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_010",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0386_a5f1b39026",
@@ -1316,110 +1431,128 @@
   {
     "key": "e_6fd828a5c0_0388_5beb9f238d",
     "original": "まあ、なんでこうなったかは、どうでもいい\\nワシと司令だけ知っていればいいだけの話だ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 482\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_011"
+    "translation": "嘛、变成这样的原因怎样都好\\n只要俺和司令知道就够了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 482\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_011",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0390_33fd959e0c",
     "original": "冬月につかまって\\n３時間ほど話をきかされました",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 483\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "被冬月逮住\\n听了三小时的说教",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 483\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0392_31bc79a02f",
     "original": "…さすがにつかれたよ▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 484\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_012_1"
+    "translation": "…果然还是累了▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 484\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_012_1",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0394_66cbeda96e",
     "original": "いや、なんで疲れるようなことをするかは\\n聞かないでくれたまえ▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 485\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_012_2"
+    "translation": "不、别问俺为什么要做这种累人的事▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 485\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_012_2",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0396_629120f63d",
     "original": "私だって自分がバカな事をしていると言うのは\\n良く分っている",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 486\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_012_3"
+    "translation": "俺也清楚自己干的都是蠢事",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 486\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_012_3",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0398_2fb0eed2e8",
     "original": "…君は本当に母親にそっくりだね\\nいや、なんでもない",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 487\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_013"
+    "translation": "…你和你母亲真是一模一样\\n不、没什么",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 487\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_013",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0400_7702b677ba",
     "original": "…私は思うよ\\n使徒の対は何かを…▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 488\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_014_1"
+    "translation": "…俺在想\\n使徒的对应物或许是…▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 488\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_014_1",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0402_f48241bec1",
     "original": "あるいは、私と君のように、\\n全然違うのかもしれないね▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 489\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_014_2"
+    "translation": "又或者像你和俺这样\\n完全不同的存在也说不定▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 489\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_014_2",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0404_5c8ec57d97",
     "original": "違うが、対というのは\\n生き物では割りとある",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 490\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_014_3"
+    "translation": "不过成对这种现象\\n在生物界还挺常见的",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 490\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_014_3",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0406_2fb0eed2e8",
     "original": "…君は本当に母親にそっくりだね\\nいや、なんでもない",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 491\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_015"
+    "translation": "…你和你母亲真是一模一样\\n不、没什么",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 491\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_015",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0408_4a2fce61e4",
     "original": "…昔、恋をしたことがある\\n一度だ　それで充分だと思ってるよ",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 492\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_016"
+    "translation": "…曾经也恋爱过\\n一次就够 俺觉得足够了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 492\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_016",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0410_7455a13fc7",
     "original": "なに　副司令探していたの？\\nあの人ならいないわよ▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 493\nSpeaker: IMC_MISATO\nVoice: na54_0005_04_017_1"
+    "translation": "怎么 在找副司令？\\n那位现在可不在哦▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 493\nSpeaker: IMC_MISATO\nVoice: na54_0005_04_017_1",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0412_23bc58ff4c",
     "original": "それがちょーっち面倒ごとに\\n巻き込まれてるみたいでね　あ、今のオフレコね▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 494\nSpeaker: IMC_MISATO\nVoice: na54_0005_04_017_2"
+    "translation": "好像被卷进什么麻烦事了～\\n啊、刚才的话别外传▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 494\nSpeaker: IMC_MISATO\nVoice: na54_0005_04_017_2",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0414_7d950de4ab",
     "original": "…大丈夫　彼は有能だから",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 495\nSpeaker: IMC_MISATO\nVoice: na54_0005_04_017_3"
+    "translation": "…放心 他可是能干的人",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 495\nSpeaker: IMC_MISATO\nVoice: na54_0005_04_017_3",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0416_26e1f13fae",
     "original": "…ここも久しぶりだな\\n…元気そうでなにより▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 496\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_018_1"
+    "translation": "…好久没来这里了\\n…看你气色不错就好▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 496\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_018_1",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0418_d0194aea67",
     "original": "私は…ワシは加持くんに助けられたよ\\nあとは君にだな▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 497\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_018_2"
+    "translation": "俺啊…多亏加持那小子帮忙\\n接下来就靠你了▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 497\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_018_2",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0420_0a70f18c89",
     "original": "…この歳だが、諦めずにすんだ\\nありがとう",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 498\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_018_3"
+    "translation": "…这把年纪还能坚持下来\\n多谢了",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 498\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_018_3",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0422_dca9baf558",
     "original": "そして…▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 499\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "然后…▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 499\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0424_b80b71fb19",
@@ -1431,8 +1564,9 @@
   {
     "key": "e_6fd828a5c0_0426_267add46cd",
     "original": "平和になった　そして失業　ワシが\\n年金生活になるまではあと１年　あてはなし…",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 501\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_019"
+    "translation": "和平到来 然后失业\\n离俺领养老金还有一年 前途渺茫…",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 501\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_019",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0428_cb62666af5",
@@ -1444,8 +1578,9 @@
   {
     "key": "e_6fd828a5c0_0430_187ac71e65",
     "original": "ま、それでもいいんだがね　１年の間\\n家庭教師をするのはどうだね　格安にするが▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 503\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_020_1"
+    "translation": "不过嘛 接下来一年\\n当家庭教师怎么样 价格好商量▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 503\nSpeaker: IMC_KOZO\nVoice: na54_0005_06_020_1",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0432_7840849020",
@@ -1457,20 +1592,23 @@
   {
     "key": "e_6fd828a5c0_0434_aafb6a2b08",
     "original": "あなたが戦いで得たものは、\\nなにか吹っ切れた老人だった▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 505\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你在战斗中获得的\\n是个豁然开朗的老头子▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 505\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0436_51c62db74f",
     "original": "あなたはそれで、何の不満もない▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 506\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你对此毫无不满▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 506\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0438_29d137dbe6",
     "original": "終わりはいつかは来るかもしれないが、\\nそれまでは楽しくやれそうだからだ▽",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 507\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "虽然终点终会来临\\n但在此之前应该能过得开心▽",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 507\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0440_8d4795eec6",
@@ -1482,31 +1620,36 @@
   {
     "key": "e_6fd828a5c0_0478_f0978b778f",
     "original": "そう、ですか？",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 520\nVoice: えー？"
+    "translation": "是、这样吗？",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 520\nVoice: えー？",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0479_3798813503",
     "original": "えー？",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 520\nVoice: "
+    "translation": "诶～？",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 520\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0502_6955385b9f",
     "original": "そうなんですか？",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 524\nVoice: じゃあ、なんで…"
+    "translation": "原来是这样吗？",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 524\nVoice: じゃあ、なんで…",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0503_7f1bc21a4f",
     "original": "じゃあ、なんで…",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 524\nVoice: "
+    "translation": "那、为什么…",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 524\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0569_af9c5988bb",
     "original": "新たな武器が追加されました",
-    "translation": "",
-    "context": "File: TALK/KOZO_TALK.NUT\nLine: 837\nCall: DecideStart"
+    "translation": "新增武器已解锁",
+    "context": "File: TALK/KOZO_TALK.NUT\nLine: 837\nCall: DecideStart",
+    "stage": 1
   }
 ]

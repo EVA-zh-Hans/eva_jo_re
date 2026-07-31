@@ -2,25 +2,29 @@
   {
     "key": "e_93f1de5b3a_0001_a071551c3a",
     "original": "システムメニュー３",
-    "translation": "",
-    "context": "File: TUT/TUT_F008.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "系统菜单3",
+    "context": "File: TUT/TUT_F008.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_93f1de5b3a_0002_a071551c3a",
     "original": "システムメニュー３",
-    "translation": "",
-    "context": "File: TUT/TUT_F008.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "系统菜单3",
+    "context": "File: TUT/TUT_F008.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_93f1de5b3a_0003_e667c655a2",
     "original": "<02>オプション<//>では、\\nゲームの<02>プレイ環境を設定<//>します▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F008.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>选项<//>用于\\n设置游戏的<02>游玩环境<//>▽",
+    "context": "File: TUT/TUT_F008.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_93f1de5b3a_0004_475c670113",
     "original": "快適にプレイできるように、あなた好みに\\nカスタマイズする事ができます",
-    "translation": "",
-    "context": "File: TUT/TUT_F008.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "可根据个人喜好进行定制，\\n让游戏体验更加舒适",
+    "context": "File: TUT/TUT_F008.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

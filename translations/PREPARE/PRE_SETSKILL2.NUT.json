@@ -2,13 +2,15 @@
   {
     "key": "e_5122a6ee5f_0001_43536546bf",
     "original": "スキルプログラムが開発されていません",
-    "translation": "",
-    "context": "File: PREPARE/PRE_SETSKILL2.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "尚未开发技能程序",
+    "context": "File: PREPARE/PRE_SETSKILL2.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_5122a6ee5f_0002_00035df266",
     "original": "実装状況をクリアしますが、よろしいですか？",
-    "translation": "",
-    "context": "File: PREPARE/PRE_SETSKILL2.NUT\nLine: 167\nCall: DecideStart"
+    "translation": "要清除所有已安装程序，确定吗？",
+    "context": "File: PREPARE/PRE_SETSKILL2.NUT\nLine: 167\nCall: DecideStart",
+    "stage": 1
   }
 ]

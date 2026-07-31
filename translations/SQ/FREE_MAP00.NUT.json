@@ -2,25 +2,29 @@
   {
     "key": "e_4aae82d454_0053_a1d5863e1a",
     "original": "新たな模擬戦が追加されました",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP00.NUT\nLine: 191\nCall: DecideStart"
+    "translation": "新增模拟战已解锁",
+    "context": "File: SQ/FREE_MAP00.NUT\nLine: 191\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_4aae82d454_0054_9554d185f6",
     "original": "新たなスキルが追加されました",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP00.NUT\nLine: 200\nCall: DecideStart"
+    "translation": "新增技能已解锁",
+    "context": "File: SQ/FREE_MAP00.NUT\nLine: 200\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_4aae82d454_0055_af9c5988bb",
     "original": "新たな武器が追加されました",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP00.NUT\nLine: 209\nCall: DecideStart"
+    "translation": "新增武器已解锁",
+    "context": "File: SQ/FREE_MAP00.NUT\nLine: 209\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_4aae82d454_0056_92e91c83a2",
     "original": "新たなギミックが追加されました",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP00.NUT\nLine: 218\nCall: DecideStart"
+    "translation": "新增机关已解锁",
+    "context": "File: SQ/FREE_MAP00.NUT\nLine: 218\nCall: DecideStart",
+    "stage": 1
   }
 ]

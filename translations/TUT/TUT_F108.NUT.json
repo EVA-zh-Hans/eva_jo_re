@@ -2,43 +2,50 @@
   {
     "key": "e_df85b25c74_0001_1c2cff232b",
     "original": "スキルプログラムの実装",
-    "translation": "",
-    "context": "File: TUT/TUT_F108.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "技能程序安装",
+    "context": "File: TUT/TUT_F108.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_df85b25c74_0002_1c2cff232b",
     "original": "スキルプログラムの実装",
-    "translation": "",
-    "context": "File: TUT/TUT_F108.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "技能程序安装",
+    "context": "File: TUT/TUT_F108.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_df85b25c74_0003_d984ef2ba6",
     "original": "エヴァ初号機に、\\n手に入れた<02>スキルプログラムを実装<//>する場合は、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F108.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "若要为EVA初号机\\n安装获得的<02>技能程序<//>，▽",
+    "context": "File: TUT/TUT_F108.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_df85b25c74_0004_98d763d4e1",
     "original": "<12>リツコ<//>に話しかけます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F108.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "请与<12>律子<//>对话▽",
+    "context": "File: TUT/TUT_F108.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_df85b25c74_0005_07acbaafc0",
     "original": "まず、現在所有するプログラムのリストから、\\n<02>実装したいプログラム<//>を選びます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F108.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "首先从当前拥有的程序列表中\\n选择<02>要安装的程序<//>▽",
+    "context": "File: TUT/TUT_F108.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_df85b25c74_0006_e39c58a127",
     "original": "次に、各プログラム毎に\\n<02>開発された１～３のレベル<//>を選択します▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F108.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "接着为每个程序选择\\n<02>已开发的1～3级<//>▽",
+    "context": "File: TUT/TUT_F108.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_df85b25c74_0007_cb6a8b86bb",
     "original": "<02>スロットの数には限りがある<//>ので、\\n<02>敵や戦略に応じた組み合わせ<//>を考える必要があります",
-    "translation": "",
-    "context": "File: TUT/TUT_F108.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>槽位数量有限<//>，\\n需根据<02>敌人和战略<//>进行组合",
+    "context": "File: TUT/TUT_F108.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

@@ -2,44 +2,51 @@
   {
     "key": "e_ecf058da75_0002_644c29440f",
     "original": "碇君",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 102"
+    "translation": "碇君",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 102",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0003_dbc879e139",
     "original": "私",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 103"
+    "translation": "我",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 103",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0004_ec9c8f9e98",
     "original": "セカンド",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 104"
+    "translation": "第二适格者",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 104",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0005_ee11ae3ed4",
     "original": "渚君",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 105"
+    "translation": "渚君",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 105",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0006_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 106"
+    "translation": "铃原君",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 106",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0007_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 107"
+    "translation": "相田君",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 107",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0008_377efb9379",
     "original": "洞木さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 108"
+    "translation": "洞木同学",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 108",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0009_1245c0956d",
@@ -51,8 +58,9 @@
   {
     "key": "e_ecf058da75_0010_b21bfd74bf",
     "original": "赤木さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 110"
+    "translation": "赤木さん",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 110",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0011_df6bcb0fe8",
@@ -64,32 +72,37 @@
   {
     "key": "e_ecf058da75_0012_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 112"
+    "translation": "碇司令",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 112",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0013_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 113"
+    "translation": "冬月副司令",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 113",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0014_4653cddce9",
     "original": "青葉さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 114"
+    "translation": "青叶さん",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 114",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0015_60da3b82eb",
     "original": "日向さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 115"
+    "translation": "日向さん",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 115",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0016_b8140644e6",
     "original": "伊吹さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 116"
+    "translation": "伊吹さん",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 116",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0017_faed743884",
@@ -101,44 +114,51 @@
   {
     "key": "e_ecf058da75_0018_644c29440f",
     "original": "碇君",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 118"
+    "translation": "碇君",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 118",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0019_dbc879e139",
     "original": "私",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 119"
+    "translation": "我",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 119",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0020_ec9c8f9e98",
     "original": "セカンド",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 120"
+    "translation": "第二适格者",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 120",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0021_ee11ae3ed4",
     "original": "渚君",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 121"
+    "translation": "渚君",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 121",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0022_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 122"
+    "translation": "铃原君",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 122",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0023_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 123"
+    "translation": "相田君",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 123",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0024_377efb9379",
     "original": "洞木さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 124"
+    "translation": "洞木同学",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 124",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0025_1245c0956d",
@@ -150,8 +170,9 @@
   {
     "key": "e_ecf058da75_0026_b21bfd74bf",
     "original": "赤木さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 126"
+    "translation": "赤木さん",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 126",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0027_df6bcb0fe8",
@@ -163,32 +184,37 @@
   {
     "key": "e_ecf058da75_0028_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 128"
+    "translation": "碇司令",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 128",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0029_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 129"
+    "translation": "冬月副司令",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 129",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0030_4653cddce9",
     "original": "青葉さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 130"
+    "translation": "青叶さん",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 130",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0031_60da3b82eb",
     "original": "日向さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 131"
+    "translation": "日向さん",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 131",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0032_b8140644e6",
     "original": "伊吹さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 132"
+    "translation": "伊吹さん",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 132",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0033_faed743884",
@@ -200,44 +226,51 @@
   {
     "key": "e_ecf058da75_0034_644c29440f",
     "original": "碇君",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 134"
+    "translation": "碇君",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 134",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0035_dbc879e139",
     "original": "私",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 135"
+    "translation": "我",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 135",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0036_ec9c8f9e98",
     "original": "セカンド",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 136"
+    "translation": "第二适格者",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 136",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0037_ee11ae3ed4",
     "original": "渚君",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 137"
+    "translation": "渚君",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 137",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0038_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 138"
+    "translation": "铃原君",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 138",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0039_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 139"
+    "translation": "相田君",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 139",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0040_377efb9379",
     "original": "洞木さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 140"
+    "translation": "洞木同学",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 140",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0041_1245c0956d",
@@ -249,8 +282,9 @@
   {
     "key": "e_ecf058da75_0042_b21bfd74bf",
     "original": "赤木さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 142"
+    "translation": "赤木さん",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 142",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0043_df6bcb0fe8",
@@ -262,32 +296,37 @@
   {
     "key": "e_ecf058da75_0044_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 144"
+    "translation": "碇司令",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 144",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0045_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 145"
+    "translation": "冬月副司令",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 145",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0046_4653cddce9",
     "original": "青葉さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 146"
+    "translation": "青叶さん",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 146",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0047_60da3b82eb",
     "original": "日向さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 147"
+    "translation": "日向さん",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 147",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0048_b8140644e6",
     "original": "伊吹さん",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 148"
+    "translation": "伊吹さん",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 148",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0049_faed743884",
@@ -299,8 +338,9 @@
   {
     "key": "e_ecf058da75_0050_f3f212fadb",
     "original": "…挨拶って、なに？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 152\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……问候，是什么？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 152\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0052_a5f1b39026",
@@ -311,8 +351,9 @@
   {
     "key": "e_ecf058da75_0054_313be5ae5d",
     "original": "（微笑んだ）",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 154\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（微笑）",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 154\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0056_01942952c9",
@@ -329,8 +370,9 @@
   {
     "key": "e_ecf058da75_0060_dd6c0da515",
     "original": "……\\nなに？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 157\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\n什么？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 157\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0062_ca40453c51",
@@ -341,8 +383,9 @@
   {
     "key": "e_ecf058da75_0064_6e275dc726",
     "original": "…人は死んでも\\n代わりはいるわ",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 159\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……人就算死了\\n也会有替代品",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 159\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0066_a7f878b8ce",
@@ -473,8 +516,9 @@
   {
     "key": "e_ecf058da75_0108_313be5ae5d",
     "original": "（微笑んだ）",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 181\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（微笑）",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 181\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0110_01942952c9",
@@ -491,14 +535,16 @@
   {
     "key": "e_ecf058da75_0114_d1ae9a7110",
     "original": "怪我をしただけよ",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 184\nSpeaker: IMC_REI\nVoice: "
+    "translation": "只是受了点伤",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 184\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0116_192e1e5935",
     "original": "私が心配しているところを\\n見たいの？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 185\nSpeaker: IMC_REI\nVoice: "
+    "translation": "想看到我为你担心的样子吗？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 185\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0118_a7f878b8ce",
@@ -509,8 +555,9 @@
   {
     "key": "e_ecf058da75_0120_6278b03de1",
     "original": "……　怪我は、よくないわ",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 187\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……　受伤，可不好呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 187\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0122_a7f878b8ce",
@@ -521,8 +568,9 @@
   {
     "key": "e_ecf058da75_0124_728e2ebf9e",
     "original": "戦闘に、支障はないようね",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 189\nSpeaker: IMC_REI\nVoice: "
+    "translation": "战斗，似乎没有妨碍呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 189\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0126_2042f324cd",
@@ -593,8 +641,9 @@
   {
     "key": "e_ecf058da75_0148_b7806bee0c",
     "original": "……\\n似合うと、言って欲しいの？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 201\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\n是想让我说，很合适吗？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 201\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0150_01942952c9",
@@ -605,8 +654,9 @@
   {
     "key": "e_ecf058da75_0152_b7806bee0c",
     "original": "……\\n似合うと、言って欲しいの？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 203\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……\n是想让我说，很合适吗？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 203\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0154_a5f1b39026",
@@ -617,8 +667,9 @@
   {
     "key": "e_ecf058da75_0156_5dff617599",
     "original": "（目をそらした）",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 205\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（移开视线）",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 205\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0158_8a7abe0d0c",
@@ -653,8 +704,9 @@
   {
     "key": "e_ecf058da75_0168_af50de57e5",
     "original": "戦いがなくなったら\\n絆をなくすかも知れないと思うことは？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 211\nSpeaker: IMC_REI\nVoice: "
+    "translation": "如果战斗消失了\n你是否想过可能会失去羁绊？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 211\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0170_01942952c9",
@@ -839,8 +891,9 @@
   {
     "key": "e_ecf058da75_0230_83eeb2e997",
     "original": "（綾波は嬉しそうに微笑んでる）",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 242\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（绫波正露出欣喜的微笑）",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 242\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0232_a2aa0556dc",
@@ -863,8 +916,9 @@
   {
     "key": "e_ecf058da75_0238_d7b344fd52",
     "original": "勝ってるわ\\nでも…それが何？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 246\nSpeaker: IMC_REI\nVoice: "
+    "translation": "赢了呢\\n不过…那又如何？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 246\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0240_94640c865c",
@@ -935,14 +989,16 @@
   {
     "key": "e_ecf058da75_0262_ea92dcbe28",
     "original": "戦わなければいけないのに、\\nなぜ皆は文句を言うのかしら",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 258\nSpeaker: IMC_REI\nVoice: "
+    "translation": "明明非战不可\\n为何大家都要抱怨",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 258\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0264_4cb281fb01",
     "original": "…戦況は悪いけど\\nだから、なに？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 259\nSpeaker: IMC_REI\nVoice: "
+    "translation": "…战况确实糟糕\\n但那又如何？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 259\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0266_01942952c9",
@@ -965,8 +1021,9 @@
   {
     "key": "e_ecf058da75_0272_312f5bf113",
     "original": "…私は死ぬのは怖くない",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 263\nSpeaker: IMC_REI\nVoice: "
+    "translation": "…我并不畏惧死亡",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 263\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0274_01942952c9",
@@ -1026,14 +1083,16 @@
   {
     "key": "e_ecf058da75_0292_a70b6e560b",
     "original": "エヴァに、乗らないと…",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 273\nSpeaker: IMC_REI\nVoice: "
+    "translation": "必须…驾驶EVA了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 273\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0294_ab1fdca163",
     "original": "非常召集よ",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 274\nSpeaker: IMC_REI\nVoice: "
+    "translation": "紧急集合哦",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 274\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0296_a7f878b8ce",
@@ -1044,8 +1103,9 @@
   {
     "key": "e_ecf058da75_0298_00fd31ba99",
     "original": "（無視された）",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 276\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（被无视了）",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 276\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0300_11f9a4677c",
@@ -1068,8 +1128,9 @@
   {
     "key": "e_ecf058da75_0306_183c1d3c91",
     "original": "……　暑いの？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 280\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……　很热吗？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 280\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0308_ce3891c869",
@@ -1080,8 +1141,9 @@
   {
     "key": "e_ecf058da75_0310_14b0dcb452",
     "original": "私にとっては、絆、だから",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 282\nSpeaker: IMC_REI\nVoice: "
+    "translation": "对我来说 是羁绊",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 282\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0312_0b4be59818",
@@ -1116,8 +1178,9 @@
   {
     "key": "e_ecf058da75_0322_a16d8826a5",
     "original": "…そんなことして、楽しい？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 288\nSpeaker: IMC_REI\nVoice: "
+    "translation": "……做这种事，很开心？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 288\nSpeaker: IMC_REI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0324_ec9ea718c2",
@@ -1194,128 +1257,149 @@
   {
     "key": "e_ecf058da75_0348_20529546b9",
     "original": "…私は綾波レイ\\nあなたと同じパイロット",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 462\nSpeaker: IMC_REI\nVoice: na54_0002_03_001"
+    "translation": "……我是绫波丽\\n和你一样的驾驶员",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 462\nSpeaker: IMC_REI\nVoice: na54_0002_03_001",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0350_9a5fe29f63",
     "original": "綾波は人形のようにじっとしている",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 463\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "绫波像人偶般静止不动",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 463\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0352_e7bc37b31a",
     "original": "ゲンドウと綾波は仲良く話している\\n生き生きと会話しているようだ",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 464\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "源堂和绫波正愉快交谈着\\n看起来对话充满生气",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 464\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0354_9a5fe29f63",
     "original": "綾波は人形のようにじっとしている",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 465\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "绫波像人偶般静止不动",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 465\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0356_5a8cd9fa11",
     "original": "私の顔を見たって、\\nエヴァは心を開いてはくれないわ",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 466\nSpeaker: IMC_REI\nVoice: na54_0002_03_002"
+    "translation": "就算看着我的脸\\nEVA也不会敞开心扉",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 466\nSpeaker: IMC_REI\nVoice: na54_0002_03_002",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0358_7519035e65",
     "original": "綾波は人形のようにじっとしていたが、\\n少し顔を赤らめた",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 467\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "绫波虽然像人偶般静止不动\\n脸颊却微微泛红",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 467\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0360_65dce24b0d",
     "original": "だからなに？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 468\nSpeaker: IMC_REI\nVoice: na54_0002_03_003"
+    "translation": "所以呢？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 468\nSpeaker: IMC_REI\nVoice: na54_0002_03_003",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0362_1562c1011a",
     "original": "綾波は無表情だ\\nあなたを見ている",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 469\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "绫波面无表情地看着你",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 469\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0364_2915cbe0de",
     "original": "どんな表情をしていいのか、判らない",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 470\nSpeaker: IMC_REI\nVoice: na54_0002_03_004"
+    "translation": "不知道该露出什么表情才好",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 470\nSpeaker: IMC_REI\nVoice: na54_0002_03_004",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0366_afa7d56443",
     "original": "綾波は少しだけ表情を変えた\\n笑顔のような気がした",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 471\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "绫波的表情微微变化\n仿佛露出了笑容",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 471\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0368_1a516030d6",
     "original": "綾波さん、今日も学校来てなかったね",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 472\nSpeaker: IMC_HIKARI\nVoice: na54_0002_12_005"
+    "translation": "绫波同学，今天也没来学校呢",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 472\nSpeaker: IMC_HIKARI\nVoice: na54_0002_12_005",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0370_be62055180",
     "original": "綾波？ なに、あんなのが好きなの？\\n今日は見てないけど",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 473\nSpeaker: IMC_KENSUKE\nVoice: na54_0002_14_006"
+    "translation": "绫波？你怎么会喜欢那种东西？\\n今天倒是没见到她",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 473\nSpeaker: IMC_KENSUKE\nVoice: na54_0002_14_006",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0372_200a173b8c",
     "original": "綾波かぁ来てないなあ\\nよう怪我してたから、また喧嘩かも",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 474\nSpeaker: IMC_TOJI\nVoice: na54_0002_13_007"
+    "translation": "绫波啊～今天没来呢\\n看她老是带伤，估计又打架了吧",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 474\nSpeaker: IMC_TOJI\nVoice: na54_0002_13_007",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0374_cf72cb4823",
     "original": "え？　ファーストならがっこうきてないわよ",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 475\nSpeaker: IMC_ASUKA\nVoice: na54_0002_02_008"
+    "translation": "哈？第一适格者根本没来学校好吧",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 475\nSpeaker: IMC_ASUKA\nVoice: na54_0002_02_008",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0376_b8fa7d7d60",
     "original": "あ！　綾波さんにプリント届けてくれない？\\n最近、来てないから",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 476\nSpeaker: IMC_HIKARI\nVoice: na54_0002_12_009"
+    "translation": "啊！能帮我把讲义带给绫波同学吗？\\n她最近都没来上课",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 476\nSpeaker: IMC_HIKARI\nVoice: na54_0002_12_009",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0378_9de8125107",
     "original": "プリントを届けにいこう…",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 477\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "去送讲义吧……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 477\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0380_46b6902e96",
     "original": "呼び鈴を鳴らしても出てこない▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 478\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "按门铃也没人应▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 478\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0382_38ecc45d2d",
     "original": "ノックも駄目…\\n呼んでも駄目…▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 479\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "敲门没用……\\n喊她也不应……▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 479\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0384_9736614530",
     "original": "鍵は…　開いてる",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 480\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "门锁……开着",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 480\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0386_dcb4cb4951",
     "original": "殺風景な…",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 481\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "真是冷清…",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 481\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0388_fd269e291e",
     "original": "わぁ！",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 482\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "哇！",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 482\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0390_a7f878b8ce",
@@ -1326,26 +1410,30 @@
   {
     "key": "e_ecf058da75_0392_bdb8773696",
     "original": "綾波は着替えている",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 484\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "绫波正在换衣服",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 484\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0394_ebe73e42b1",
     "original": "…何？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 485\nSpeaker: IMC_REI\nVoice: na54_0002_03_011"
+    "translation": "……有事？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 485\nSpeaker: IMC_REI\nVoice: na54_0002_03_011",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0396_df96290c5a",
     "original": "ああプリント",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 486\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "啊 这是文件",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 486\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0398_cee2729bca",
     "original": "綾波を押し倒した",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 487\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "把绫波推倒了",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 487\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0400_a7f878b8ce",
@@ -1356,32 +1444,37 @@
   {
     "key": "e_ecf058da75_0402_b9514db9d4",
     "original": "手を\\nどけてくれる？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 489\nSpeaker: IMC_REI\nVoice: na54_0002_03_012"
+    "translation": "能把手\\n拿开吗？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 489\nSpeaker: IMC_REI\nVoice: na54_0002_03_012",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0404_325b47713a",
     "original": "あなたは言い訳らしいものを述べると\\nプリントを置いて立ち去った▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 490\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你支支吾吾地说了些像是辩解的话，放下打印纸便离开了▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 490\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0406_46e9dafacd",
     "original": "顔から火が出るほど恥ずかしかった",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 491\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "羞得脸上快要喷火",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 491\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0408_b0a4c6197a",
     "original": "プリントを置いて立ち去った▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 492\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "放下打印纸便离开了▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 492\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0410_46e9dafacd",
     "original": "顔から火が出るほど恥ずかしかった",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 493\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "羞得脸上快要喷火",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 493\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0412_a7f878b8ce",
@@ -1392,14 +1485,16 @@
   {
     "key": "e_ecf058da75_0414_05a5ec0bb8",
     "original": "綾波は普通だ　何も気にしてないようだ…",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 495\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "绫波很平静　似乎完全没放在心上…",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 495\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0416_bcf98c06fe",
     "original": "…色々気にしているかもしれないけど▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 496\nSpeaker: IMC_REI\nVoice: na54_0002_03_014_1"
+    "translation": "…或许在意的事比想象中更多▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 496\nSpeaker: IMC_REI\nVoice: na54_0002_03_014_1",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0418_a5f1b39026",
@@ -1416,38 +1511,44 @@
   {
     "key": "e_ecf058da75_0422_59e940271e",
     "original": "笑うと、いいと思うわ",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 499\nSpeaker: IMC_REI\nVoice: na54_0002_03_014_2"
+    "translation": "多笑笑会比较好",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 499\nSpeaker: IMC_REI\nVoice: na54_0002_03_014_2",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0424_9f2c441391",
     "original": "（あれは…　綾波？）",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 500\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（那是……丽？）",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 500\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0426_02d6387130",
     "original": "あなたは、誰？\\n私は…何人目？　私は…",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 501\nSpeaker: IMC_REI\nVoice: na54_0002_03_015"
+    "translation": "你是谁？\\n我……是第几个？我……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 501\nSpeaker: IMC_REI\nVoice: na54_0002_03_015",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0428_743c6a7dd4",
     "original": "綾波が涙を流したような気がした",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 502\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "仿佛看见丽流下了眼泪",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 502\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0430_d211297301",
     "original": "…私には役割がある\\n私は、でも、知ってしまった　人を　あなたを▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 503\nSpeaker: IMC_REI\nVoice: na54_0002_03_016_1"
+    "translation": "……我有必须完成的使命\\n可是，当我真正了解了你这个人▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 503\nSpeaker: IMC_REI\nVoice: na54_0002_03_016_1",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0432_e956dbcc3f",
     "original": "だから役割をやりたくない\\nそう言ったら、人を傷つけた…",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 504\nSpeaker: IMC_REI\nVoice: na54_0002_03_016_2"
+    "translation": "就不想履行使命了\\n说出这种话……又伤害了别人",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 504\nSpeaker: IMC_REI\nVoice: na54_0002_03_016_2",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0434_a7f878b8ce",
@@ -1458,32 +1559,37 @@
   {
     "key": "e_ecf058da75_0436_35b4d1da85",
     "original": "綾波は、あなたに優しく微笑みかけた",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 506\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "绫波对你温柔地微笑",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 506\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0438_dca9baf558",
     "original": "そして…▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 507\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "然后…▽",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 507\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0440_7a0ee0529c",
     "original": "普通の日々がはじまる▽",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 508\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "平凡的日常开始了……",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 508\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0442_d930094948",
     "original": "まだなれない、見たことのない、\\n普通の、日々が",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 509\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "尚未习惯的、从未见过的、\\n平凡的日常",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 509\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0444_5b18612f25",
     "original": "…明るくて元気な子に、なって見たい\\n今から、なれると思う？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 510\nSpeaker: IMC_REI\nVoice: na54_0002_03_001-P17"
+    "translation": "……想成为开朗活泼的孩子\\n现在开始努力的话，还来得及吗？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 510\nSpeaker: IMC_REI\nVoice: na54_0002_03_001-P17",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0446_eed98edf91",
@@ -1495,8 +1601,9 @@
   {
     "key": "e_ecf058da75_0448_68278f1229",
     "original": "どこか遠い透明の　でも今はそうではないし、\\nこれからはもっと、普通になるだろう",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 512\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "虽然曾是遥不可及的透明存在\\n但如今已不同，今后也会越来越接近平凡吧",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 512\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0450_9f5b69e22f",
@@ -1515,79 +1622,92 @@
   {
     "key": "e_ecf058da75_0478_bd4fe7f5a2",
     "original": "別に？",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 524\nVoice: 綺麗だなって"
+    "translation": "没什么？",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 524\nVoice: 綺麗だなって",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0479_e0d8825323",
     "original": "綺麗だなって",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 524\nVoice: "
+    "translation": "「真美啊」",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 524\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0484_d3e3029813",
     "original": "笑えばいいと思うよ",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 525\nVoice: 綺麗だなって"
+    "translation": "笑一笑比较好哦",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 525\nVoice: 綺麗だなって",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0485_e0d8825323",
     "original": "綺麗だなって",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 525\nVoice: "
+    "translation": "「真美啊」",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 525\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0502_7d3268b6e6",
     "original": "ドアを開けて入る",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 528\nVoice: プリントを置いて立ち去る"
+    "translation": "推门进去",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 528\nVoice: プリントを置いて立ち去る",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0503_0c59561c7d",
     "original": "プリントを置いて立ち去る",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 528\nVoice: "
+    "translation": "放下讲义离开",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 528\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0508_e5ac61832b",
     "original": "あやまる",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 529\nVoice: プリントを置いて立ち去る"
+    "translation": "道歉",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 529\nVoice: プリントを置いて立ち去る",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0509_0c59561c7d",
     "original": "プリントを置いて立ち去る",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 529\nVoice: "
+    "translation": "放下讲义离开",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 529\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0514_5b17517f6d",
     "original": "盛大にこける",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 530\nVoice: プリントを置いて立ち去る"
+    "translation": "夸张地摔倒",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 530\nVoice: プリントを置いて立ち去る",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0515_0c59561c7d",
     "original": "プリントを置いて立ち去る",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 530\nVoice: "
+    "translation": "放下讲义离开",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 530\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0544_146425a99a",
     "original": "綾波の生存を喜ぶ",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 535\nVoice: びっくりしてみる"
+    "translation": "为绫波生还而欣喜",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 535\nVoice: びっくりしてみる",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0545_56f7c85155",
     "original": "びっくりしてみる",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 535\nVoice: "
+    "translation": "试着表现出惊讶",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 535\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_ecf058da75_0587_af9c5988bb",
     "original": "新たな武器が追加されました",
-    "translation": "",
-    "context": "File: TALK/REI_TALK.NUT\nLine: 844\nCall: DecideStart"
+    "translation": "新增武器已解锁",
+    "context": "File: TALK/REI_TALK.NUT\nLine: 844\nCall: DecideStart",
+    "stage": 1
   }
 ]

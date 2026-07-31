@@ -2,7 +2,8 @@
   {
     "key": "e_5be82e71be_0001_808f6d578c",
     "original": "<02>格闘武器、耐久度減少！<//>",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV5005.NUT\nLine: 10\nCall: DecideStart2"
+    "translation": "<02>格斗武器耐久度下降！<//>",
+    "context": "File: BTL/NEV_BEV5005.NUT\nLine: 10\nCall: DecideStart2",
+    "stage": 1
   }
 ]

@@ -2,25 +2,29 @@
   {
     "key": "e_c78ff01d81_0001_56497e7a93",
     "original": "綾波さん、今日も学校来てなかったね…",
-    "translation": "",
-    "context": "File: REI/CHR_REI_05.NUT\nLine: 119\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0002_12_005"
+    "translation": "绫波同学，今天又没来学校呢……",
+    "context": "File: REI/CHR_REI_05.NUT\nLine: 119\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0002_12_005",
+    "stage": 1
   },
   {
     "key": "e_c78ff01d81_0002_17070415ef",
     "original": "綾波？　なに、あんなのが好きなの？\\n今日は見てないけど…",
-    "translation": "",
-    "context": "File: REI/CHR_REI_05.NUT\nLine: 147\nCall: im.event2\nSpeaker: IMC_KENSUKE\nVoice: na54_0002_14_006"
+    "translation": "绫波？原来你喜欢那种东西？\\n不过今天没见到她……",
+    "context": "File: REI/CHR_REI_05.NUT\nLine: 147\nCall: im.event2\nSpeaker: IMC_KENSUKE\nVoice: na54_0002_14_006",
+    "stage": 1
   },
   {
     "key": "e_c78ff01d81_0003_87d487a215",
     "original": "綾波かぁ、来てないなあ…\\nよう怪我してたから、また喧嘩かも",
-    "translation": "",
-    "context": "File: REI/CHR_REI_05.NUT\nLine: 175\nCall: im.event2\nSpeaker: IMC_TOJI\nVoice: na54_0002_13_007"
+    "translation": "绫波啊，今天没来呢……\\n之前看她受伤了，可能又打架了吧",
+    "context": "File: REI/CHR_REI_05.NUT\nLine: 175\nCall: im.event2\nSpeaker: IMC_TOJI\nVoice: na54_0002_13_007",
+    "stage": 1
   },
   {
     "key": "e_c78ff01d81_0004_f4b080b7fb",
     "original": "え？　ファーストなら\\nがっこうきてないわよ",
-    "translation": "",
-    "context": "File: REI/CHR_REI_05.NUT\nLine: 203\nCall: im.event2\nSpeaker: IMC_ASUKA\nVoice: na54_0002_02_008"
+    "translation": "诶？第一适格者的话\\n根本没来学校哦",
+    "context": "File: REI/CHR_REI_05.NUT\nLine: 203\nCall: im.event2\nSpeaker: IMC_ASUKA\nVoice: na54_0002_02_008",
+    "stage": 1
   }
 ]

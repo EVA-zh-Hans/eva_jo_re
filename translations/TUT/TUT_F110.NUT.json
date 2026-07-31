@@ -2,25 +2,29 @@
   {
     "key": "e_014508e97b_0001_d7f53bd419",
     "original": "パイロットの治療",
-    "translation": "",
-    "context": "File: TUT/TUT_F110.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "驾驶员治疗",
+    "context": "File: TUT/TUT_F110.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_014508e97b_0002_d7f53bd419",
     "original": "パイロットの治療",
-    "translation": "",
-    "context": "File: TUT/TUT_F110.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "驾驶员治疗",
+    "context": "File: TUT/TUT_F110.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_014508e97b_0003_8dcea3aa27",
     "original": "戦闘で<02>パイロットが傷付いた場合<//>には、\\n<12>マヤ<//>に話しかけます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F110.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "战斗中<02>驾驶员受伤时<//>，\\n请与<12>摩耶<//>对话▽",
+    "context": "File: TUT/TUT_F110.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_014508e97b_0004_23ebe6b99b",
     "original": "<02>戦闘で獲得した予算<//>で、<02>負傷を回復<//>します\\n<02>負傷<//>は<02>戦闘開始時のシンクロ率<//>に影響します",
-    "translation": "",
-    "context": "File: TUT/TUT_F110.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "使用<02>战斗获得的预算<//>可<02>治疗伤势<//>\\n<02>负伤<//>会影响<02>战斗开始时的同步率<//>",
+    "context": "File: TUT/TUT_F110.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

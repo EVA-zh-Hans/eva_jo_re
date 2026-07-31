@@ -2,20 +2,23 @@
   {
     "key": "e_8ca43a0a45_0001_b2c50167b2",
     "original": "会話コマンドの色分け",
-    "translation": "",
-    "context": "File: TUT/TUT_F011.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "对话指令的颜色区分",
+    "context": "File: TUT/TUT_F011.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_8ca43a0a45_0002_b2c50167b2",
     "original": "会話コマンドの色分け",
-    "translation": "",
-    "context": "File: TUT/TUT_F011.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "对话指令的颜色区分",
+    "context": "File: TUT/TUT_F011.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_8ca43a0a45_0003_b47c1610f2",
     "original": "会話コマンドは、種類ごとに色分けされています\\n　<08>ピンク<//>：キャライベント▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F011.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "对话指令按类型以颜色区分\\n　<08>粉色<//>：角色事件▽",
+    "context": "File: TUT/TUT_F011.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_8ca43a0a45_0004_b0bffa231e",

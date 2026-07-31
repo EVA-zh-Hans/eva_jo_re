@@ -2,31 +2,36 @@
   {
     "key": "e_d4aaecfbb5_0001_9f275e4d88",
     "original": "戦闘の始め方",
-    "translation": "",
-    "context": "File: TUT/TUT_F109.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "开始战斗",
+    "context": "File: TUT/TUT_F109.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_d4aaecfbb5_0002_9f275e4d88",
     "original": "戦闘の始め方",
-    "translation": "",
-    "context": "File: TUT/TUT_F109.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "开始战斗",
+    "context": "File: TUT/TUT_F109.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_d4aaecfbb5_0003_c678e66809",
     "original": "戦闘の準備が充分に整ったら、\\n<02>エヴァに搭乗し出撃<//>する事になります▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F109.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "战斗准备充分后，\\n即可<02>搭乘EVA出击<//>▽",
+    "context": "File: TUT/TUT_F109.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_d4aaecfbb5_0004_999b793d35",
     "original": "<01>初号機ケイジ<//>のエヴァの前に移動すると\\n<02>エヴァに乗る<//>というコマンドが表示されるので、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F109.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "移动到<01>初号机机库<//>的EVA前\\n会显示<02>搭乘EVA<//>指令，▽",
+    "context": "File: TUT/TUT_F109.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_d4aaecfbb5_0005_98812b5ea7",
     "original": "$oボタンで決定する事により<02>戦闘が開始されます<//>",
-    "translation": "",
-    "context": "File: TUT/TUT_F109.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "按下$o键确认后<02>战斗即会开始<//>",
+    "context": "File: TUT/TUT_F109.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

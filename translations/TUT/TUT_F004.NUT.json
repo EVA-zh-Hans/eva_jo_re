@@ -2,31 +2,36 @@
   {
     "key": "e_bd52833d64_0001_10cd11f252",
     "original": "できる事を表示する",
-    "translation": "",
-    "context": "File: TUT/TUT_F004.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "可执行指令显示",
+    "context": "File: TUT/TUT_F004.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_bd52833d64_0002_10cd11f252",
     "original": "できる事を表示する",
-    "translation": "",
-    "context": "File: TUT/TUT_F004.NUT\nLine: 19\nCall: DecideStart"
+    "translation": "可执行指令显示",
+    "context": "File: TUT/TUT_F004.NUT\nLine: 19\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_bd52833d64_0003_29fe79868a",
     "original": "なにか、あるいは誰かに近付くと、画面右下に\\n$o・$#ボタンに対応した<02>コマンド<//>が表示されます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F004.NUT\nLine: 24\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "接近物体或人物时\\n画面右下会显示$o/$#键对应的<02>指令<//>▽",
+    "context": "File: TUT/TUT_F004.NUT\nLine: 24\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_bd52833d64_0004_c654442475",
     "original": "$#ボタンを押すと、<02>その時に可能な全ての\\nコマンドリスト<//>が表示されます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F004.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "按$#键会显示<02>当前所有\\n可执行指令列表<//>▽",
+    "context": "File: TUT/TUT_F004.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_bd52833d64_0005_3651cf0840",
     "original": "様々なコマンドの中から、自分の好きなものを\\n選択する事ができます",
-    "translation": "",
-    "context": "File: TUT/TUT_F004.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "可从多样指令中\\n自由选择心仪选项",
+    "context": "File: TUT/TUT_F004.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

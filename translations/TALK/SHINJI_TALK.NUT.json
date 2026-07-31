@@ -2,14 +2,16 @@
   {
     "key": "e_4615c83b0a_0002_3eb9f20eae",
     "original": "僕",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 102"
+    "translation": "我",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 102",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0003_5a192e1f79",
     "original": "綾波",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 103"
+    "translation": "绫波",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 103",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0004_d40a6a7733",
@@ -21,8 +23,9 @@
   {
     "key": "e_4615c83b0a_0005_af34d38598",
     "original": "カヲル君",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 105"
+    "translation": "薰君",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 105",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0006_a1f11b49a5",
@@ -41,20 +44,23 @@
   {
     "key": "e_4615c83b0a_0008_a6df4147d6",
     "original": "委員長",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 108"
+    "translation": "班长",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 108",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0009_348d0c2cd7",
     "original": "ミサトさん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 109"
+    "translation": "美里小姐",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 109",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0010_7b6b38e9da",
     "original": "リツコさん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 110"
+    "translation": "律子小姐",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 110",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0011_df6bcb0fe8",
@@ -66,32 +72,37 @@
   {
     "key": "e_4615c83b0a_0012_4ad769946c",
     "original": "父さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 112"
+    "translation": "老爸",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 112",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0013_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 113"
+    "translation": "冬月副司令",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 113",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0014_4653cddce9",
     "original": "青葉さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 114"
+    "translation": "青叶さん",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 114",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0015_60da3b82eb",
     "original": "日向さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 115"
+    "translation": "日向さん",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 115",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0016_b8140644e6",
     "original": "伊吹さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 116"
+    "translation": "伊吹さん",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 116",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0017_faed743884",
@@ -103,14 +114,16 @@
   {
     "key": "e_4615c83b0a_0018_3eb9f20eae",
     "original": "僕",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 118"
+    "translation": "我",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 118",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0019_5a192e1f79",
     "original": "綾波",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 119"
+    "translation": "绫波",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 119",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0020_d40a6a7733",
@@ -122,8 +135,9 @@
   {
     "key": "e_4615c83b0a_0021_af34d38598",
     "original": "カヲル君",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 121"
+    "translation": "薰君",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 121",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0022_a1f11b49a5",
@@ -142,20 +156,23 @@
   {
     "key": "e_4615c83b0a_0024_a6df4147d6",
     "original": "委員長",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 124"
+    "translation": "班长",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 124",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0025_348d0c2cd7",
     "original": "ミサトさん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 125"
+    "translation": "美里小姐",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 125",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0026_7b6b38e9da",
     "original": "リツコさん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 126"
+    "translation": "律子小姐",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 126",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0027_df6bcb0fe8",
@@ -167,32 +184,37 @@
   {
     "key": "e_4615c83b0a_0028_4ad769946c",
     "original": "父さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 128"
+    "translation": "老爸",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 128",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0029_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 129"
+    "translation": "冬月副司令",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 129",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0030_4653cddce9",
     "original": "青葉さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 130"
+    "translation": "青叶さん",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 130",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0031_60da3b82eb",
     "original": "日向さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 131"
+    "translation": "日向さん",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 131",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0032_b8140644e6",
     "original": "伊吹さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 132"
+    "translation": "伊吹さん",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 132",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0033_faed743884",
@@ -204,14 +226,16 @@
   {
     "key": "e_4615c83b0a_0034_3eb9f20eae",
     "original": "僕",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 134"
+    "translation": "我",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 134",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0035_5a192e1f79",
     "original": "綾波",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 135"
+    "translation": "绫波",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 135",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0036_d40a6a7733",
@@ -223,8 +247,9 @@
   {
     "key": "e_4615c83b0a_0037_af34d38598",
     "original": "カヲル君",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 137"
+    "translation": "薰君",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 137",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0038_a1f11b49a5",
@@ -243,20 +268,23 @@
   {
     "key": "e_4615c83b0a_0040_a6df4147d6",
     "original": "委員長",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 140"
+    "translation": "班长",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 140",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0041_348d0c2cd7",
     "original": "ミサトさん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 141"
+    "translation": "美里小姐",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 141",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0042_7b6b38e9da",
     "original": "リツコさん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 142"
+    "translation": "律子小姐",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 142",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0043_df6bcb0fe8",
@@ -268,32 +296,37 @@
   {
     "key": "e_4615c83b0a_0044_4ad769946c",
     "original": "父さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 144"
+    "translation": "老爸",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 144",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0045_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 145"
+    "translation": "冬月副司令",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 145",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0046_4653cddce9",
     "original": "青葉さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 146"
+    "translation": "青叶さん",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 146",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0047_60da3b82eb",
     "original": "日向さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 147"
+    "translation": "日向さん",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 147",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0048_b8140644e6",
     "original": "伊吹さん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 148"
+    "translation": "伊吹さん",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 148",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0049_faed743884",
@@ -305,56 +338,65 @@
   {
     "key": "e_4615c83b0a_0050_ad329ba888",
     "original": "（ど、どう話しかけよう）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 152\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（该、该怎么搭话呢）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 152\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0052_ab185ac350",
     "original": "こ、こんにちは！",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 153\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "你、你好！",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 153\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0054_6b38dfc6ba",
     "original": "（少し頭を下げた）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 154\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（微微低头致意）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 154\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0056_6b38dfc6ba",
     "original": "（少し頭を下げた）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 155\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（微微低头致意）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 155\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0058_abe53d1848",
     "original": "（目をそむけた）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 156\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（别开了目光）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 156\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0060_cb4bcd9962",
     "original": "（逃げる算段を立てているようだ）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 157\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（似乎在盘算逃跑路线）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 157\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0062_564d437142",
     "original": "%sの分まで、生きなきゃね",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 158\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "必须连%s的份一起活下去",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 158\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0064_9f14a6bc40",
     "original": "%s、\\n死んだら…　終わりじゃないか…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 159\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s如果死了……\\n不就彻底结束了吗…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 159\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0066_e9fc974349",
     "original": "%sが死んだね",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 160\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s死了呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 160\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0068_15b80b6094",
@@ -365,8 +407,9 @@
   {
     "key": "e_4615c83b0a_0070_1a54fce2d4",
     "original": "死ねなくなったな…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 162\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "已经死不了了呢…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 162\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0072_45b5c4f0d7",
@@ -377,8 +420,9 @@
   {
     "key": "e_4615c83b0a_0074_389f10a46e",
     "original": "見知らぬ天井に慣れちゃったよ…\\nいや、こっちの話",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 164\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "已经习惯陌生的天花板了…\\n啊，当我没说",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 164\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0076_0b77c2130f",
@@ -395,14 +439,16 @@
   {
     "key": "e_4615c83b0a_0080_36a60029ba",
     "original": "（退院したてなのに運が悪いなあ）▽",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 167\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（刚出院就碰上这种事真倒霉）▽",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 167\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0082_b2fd76c211",
     "original": "ううん？　なんでも",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 168\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "没、没什么特别的事",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 168\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0084_f832742ee7",
@@ -431,8 +477,9 @@
   {
     "key": "e_4615c83b0a_0092_778a60818a",
     "original": "（目をそらされた）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 173\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（移开了视线）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 173\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0094_a74b866249",
@@ -479,8 +526,9 @@
   {
     "key": "e_4615c83b0a_0108_a9c039d09e",
     "original": "痛い\\nそれでもまた、戦うことになるんだ…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 181\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "好痛\\n可还是得继续战斗下去……",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 181\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0110_3971b81ea9",
@@ -491,26 +539,30 @@
   {
     "key": "e_4615c83b0a_0112_85b5cf7662",
     "original": "怪我してるんだから優しくしてよ…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 183\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "我都受伤了……对我温柔点嘛…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 183\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0114_f35410a017",
     "original": "……　無理しないで",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 184\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "……别太勉强",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 184\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0116_4d8838ced0",
     "original": "これで、休めると、いいね…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 185\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "这样……就能好好休息了吧…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 185\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0118_446d756e11",
     "original": "痛い？大丈夫？",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 186\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "疼吗？不要紧吧？",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 186\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0120_a7f878b8ce",
@@ -521,14 +573,16 @@
   {
     "key": "e_4615c83b0a_0122_362f3c3b55",
     "original": "すぐ、直るよ　きっと",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 188\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "很快……就会好的，一定",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 188\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0124_fd16a81174",
     "original": "…%s、\\n無茶しないように注意してね",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 189\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "…%s\\n注意别太乱来啊",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 189\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0126_283e65e3ec",
@@ -557,8 +611,9 @@
   {
     "key": "e_4615c83b0a_0134_4b25e075e8",
     "original": "に、似合うといいんだけど…　ごめん",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 194\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "应该……很适合你吧…抱歉",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 194\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0136_3daca8b14a",
@@ -569,26 +624,30 @@
   {
     "key": "e_4615c83b0a_0138_69cd011992",
     "original": "……\\n（こちらを伺ってるようだ）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 196\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "……\\n（似乎在观察这边）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 196\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0140_70e1f178d4",
     "original": "？　どうかした？",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 197\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "？怎么了？",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 197\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0142_a4b9a2dc17",
     "original": "（目を逸らされた）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 198\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（被移开了视线）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 198\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0144_0eabeb37b9",
     "original": "ええと　その　かわ、いい、と思うよ　すごく…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 199\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "那个……很、很可爱，我觉得…非常…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 199\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0146_9ace001a83",
@@ -599,14 +658,16 @@
   {
     "key": "e_4615c83b0a_0148_90656ba68a",
     "original": "（目を丸くしてこちらを見ている）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 201\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（瞪大眼睛看着你）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 201\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0150_70e1f178d4",
     "original": "？　どうかした？",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 202\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "？怎么了？",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 202\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0152_171991009f",
@@ -617,14 +678,16 @@
   {
     "key": "e_4615c83b0a_0154_37dd54b162",
     "original": "%sの、別の魅力発見！",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 204\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "发现了%s的全新魅力！",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 204\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0156_d88f72054b",
     "original": "%sって、あんな服も似合うんだね！",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 205\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "没想到%s穿那种衣服也很合适呢！",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 205\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0158_6e9d0da1a6",
@@ -659,8 +722,9 @@
   {
     "key": "e_4615c83b0a_0168_3b477f5f6d",
     "original": "父さんは、僕を褒めてくれるかな…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 211\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "爸爸会…表扬我吗…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 211\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0170_007ad462bc",
@@ -719,8 +783,9 @@
   {
     "key": "e_4615c83b0a_0188_dd2f76f988",
     "original": "（なぜか嬉しそうだ）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 221\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（不知为何显得很开心）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 221\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0190_db5e609882",
@@ -731,8 +796,9 @@
   {
     "key": "e_4615c83b0a_0192_8f97c9470f",
     "original": "うまく、いってて良かったね",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 223\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "能顺利进行、太好了呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 223\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0194_3b5242aa65",
@@ -761,8 +827,9 @@
   {
     "key": "e_4615c83b0a_0202_672397dbfe",
     "original": "（目を逸らした）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 228\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（移开视线）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 228\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0204_ee6397b811",
@@ -797,8 +864,9 @@
   {
     "key": "e_4615c83b0a_0214_00a115057e",
     "original": "負けちゃったね…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 234\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "输掉了呢……",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 234\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0216_80eaf5e8ec",
@@ -851,20 +919,23 @@
   {
     "key": "e_4615c83b0a_0232_500b942aac",
     "original": "（平和になれば、\\n　苦手じゃなくなるのかな…）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 243\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（要是和平了的话\n  就不会这么不擅长了吧…）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 243\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0234_1dc4c5ac8e",
     "original": "僕たちは、うまくやれてるのかな\\nそれが、少し自信なくて…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 244\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "我们这样算顺利吗\n稍微有点没自信…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 244\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0236_b9a4363bb2",
     "original": "勝ってるよね\\nねえ、勝ってるよね？",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 245\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "我们赢了吧\n喂 是赢了吧？",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 245\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0238_e4d6c1b1f4",
@@ -881,14 +952,16 @@
   {
     "key": "e_4615c83b0a_0242_a3a0787fdc",
     "original": "（目線をそらされた）",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 248\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "（视线被躲开了）",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 248\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0244_eed36cd0c2",
     "original": "怖いよね　戦うの\\n怖くないの？　そうか…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 249\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "很可怕吧 战斗\n你不害怕吗？ 这样啊…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 249\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0246_4a92dc2952",
@@ -935,8 +1008,9 @@
   {
     "key": "e_4615c83b0a_0260_e953ec1a09",
     "original": "建物、壊れないようにしたいね",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 257\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "希望建筑物别被破坏",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 257\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0262_1049121aae",
@@ -947,8 +1021,9 @@
   {
     "key": "e_4615c83b0a_0264_a9ac984ab2",
     "original": "友達もだいぶ減ったよね\\nどうなるのかな…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 259\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "朋友也少了很多\\n会变成怎样呢…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 259\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0266_ce8f5a75b4",
@@ -965,8 +1040,9 @@
   {
     "key": "e_4615c83b0a_0270_eca90ef3af",
     "original": "誰だって死にたくないよね",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 262\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "谁都不想死吧",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 262\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0272_8cceeb55ca",
@@ -977,62 +1053,72 @@
   {
     "key": "e_4615c83b0a_0274_24c4fc3f17",
     "original": "%s、すごいな　ああなりたい！",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 264\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s真厉害　我也想成为那样！",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 264\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0276_837d15e20a",
     "original": "%s、すごいな　ああなりたい…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 265\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s真厉害　我也想成为那样…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 265\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0278_58641e0064",
     "original": "%sって、目立つよね…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 266\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "%s真是引人注目呢…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 266\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0280_3b772c29db",
     "original": "%sみたいには、なりたくないな…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 267\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "不想变成%s那样啊…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 267\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0282_7559792395",
     "original": "ホント%sみたいには、なりたくないな",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 268\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "真的不想变成%s那样",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 268\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0284_547d3b09c2",
     "original": "気をつけて",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 269\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "小心点",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 269\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0286_542212104a",
     "original": "逃げちゃダメだ",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 270\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "不能逃避",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 270\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0288_4fa660aa7a",
     "original": "出撃だね",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 271\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "要出击了呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 271\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0290_b01f86558a",
     "original": "いいよですよね　みんなは安全な場所で",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 272\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "这样就好　大家都能待在安全的地方",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 272\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0292_9a768936f2",
     "original": "もうイヤだ",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 273\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "已经受够了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 273\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0294_2ada1c9eea",
@@ -1061,8 +1147,9 @@
   {
     "key": "e_4615c83b0a_0302_558243810b",
     "original": "勉強、前は結構できたんだよ\\nでも、パイロットがね…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 278\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "以前成绩其实不错\\n但自从当了驾驶员就…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 278\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0304_644be12d91",
@@ -1091,8 +1178,9 @@
   {
     "key": "e_4615c83b0a_0312_c14be98cc9",
     "original": "音楽…好きなんだ　チェロとか\\n…今はやってないけど",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 283\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "音乐…很喜欢 大提琴之类的\\n虽然现在没在练了",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 283\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0314_c9cdb7583e",
@@ -1109,8 +1197,9 @@
   {
     "key": "e_4615c83b0a_0318_00f79ee7de",
     "original": "さわるの、好きだね",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 286\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你很喜欢肢体接触呢",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 286\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0320_2d25e50add",
@@ -1127,14 +1216,16 @@
   {
     "key": "e_4615c83b0a_0324_69b95126a8",
     "original": "構えると動きが遅くなるよ",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 289\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "摆架势会让动作变慢哦",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 289\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0326_c17e8f6ebe",
     "original": "実戦の前に模擬戦をたくさんやらないとね",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 290\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "实战前要多进行模拟战",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 290\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0328_d82bb9503c",
@@ -1157,8 +1248,9 @@
   {
     "key": "e_4615c83b0a_0334_eaa91fc817",
     "original": "ミサトさんはいつも適当なんだ…",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 294\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "美里小姐总是很随便…",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 294\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0336_d428240e92",
@@ -1175,13 +1267,15 @@
   {
     "key": "e_4615c83b0a_0340_bb433fbcd6",
     "original": "ええと、僕に…\\nなにか？",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 297\nSpeaker: IMC_SHINJI\nVoice: "
+    "translation": "那个…找我有事吗？",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 297\nSpeaker: IMC_SHINJI\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_4615c83b0a_0348_af9c5988bb",
     "original": "新たな武器が追加されました",
-    "translation": "",
-    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 699\nCall: DecideStart"
+    "translation": "新增武器已解锁",
+    "context": "File: TALK/SHINJI_TALK.NUT\nLine: 699\nCall: DecideStart",
+    "stage": 1
   }
 ]

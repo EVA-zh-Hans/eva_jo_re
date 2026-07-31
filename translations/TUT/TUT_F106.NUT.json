@@ -16,25 +16,29 @@
   {
     "key": "e_62468268a6_0003_6bbd66b659",
     "original": "これまで戦った使徒のデータを利用して、\\nシミュレーターによる<02>模擬戦<//>を行います▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F106.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "利用之前与使徒战斗的数据，\\n进行<02>模拟战<//>▽",
+    "context": "File: TUT/TUT_F106.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_62468268a6_0004_5cf9f4fad8",
     "original": "<02>模擬戦<//>を開始するには、<12>マヤ<//>に話しかけます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F106.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "要开始<02>模拟战<//>，请与<12>摩耶<//>对话▽",
+    "context": "File: TUT/TUT_F106.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_62468268a6_0005_195dfcff2e",
     "original": "<02>模擬戦<//>で得られた貴重なデータは、\\nネルフの様々な活動に利用されるので、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F106.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>模拟战<//>获得的宝贵数据\\n可用于NERV的各种活动，▽",
+    "context": "File: TUT/TUT_F106.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_62468268a6_0006_56fb32991b",
     "original": "<02>戦闘結果に応じた予算<//>を手に入れる事ができます",
-    "translation": "",
-    "context": "File: TUT/TUT_F106.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "根据<02>战斗结果<//>可获得相应预算",
+    "context": "File: TUT/TUT_F106.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

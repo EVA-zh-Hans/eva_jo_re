@@ -2,37 +2,43 @@
   {
     "key": "e_31034bfd6c_0001_88ba5bc796",
     "original": "解析、出来たわよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0010.NUT\nLine: 124\nCall: im.play\nSpeaker: IMC_RITSUKO"
+    "translation": "解析完成了",
+    "context": "File: FREE/NEV_TUT0010.NUT\nLine: 124\nCall: im.play\nSpeaker: IMC_RITSUKO",
+    "stage": 1
   },
   {
     "key": "e_31034bfd6c_0002_924ebd3a87",
     "original": "さんきゅ\\nお、また随分詳しいわね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0010.NUT\nLine: 128\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "谢啦\\n哦，这次也很详细呢",
+    "context": "File: FREE/NEV_TUT0010.NUT\nLine: 128\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_31034bfd6c_0003_de40cad5d7",
     "original": "ドイツからの資料が大きいわ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0010.NUT\nLine: 132\nCall: im.play\nSpeaker: IMC_RITSUKO"
+    "translation": "德国传来的资料帮了大忙▽",
+    "context": "File: FREE/NEV_TUT0010.NUT\nLine: 132\nCall: im.play\nSpeaker: IMC_RITSUKO",
+    "stage": 1
   },
   {
     "key": "e_31034bfd6c_0004_ed731cf708",
     "original": "日本じゃ、戦闘に追われて\\n敵の研究なんて中々できないもの",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0010.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_RITSUKO"
+    "translation": "在日本光是应付战斗\\n就够呛了，哪有空研究敌人",
+    "context": "File: FREE/NEV_TUT0010.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_RITSUKO",
+    "stage": 1
   },
   {
     "key": "e_31034bfd6c_0005_5508469a52",
     "original": "む…またアイツか",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0010.NUT\nLine: 137\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "唔……又是那家伙吗",
+    "context": "File: FREE/NEV_TUT0010.NUT\nLine: 137\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_31034bfd6c_0006_700d086fbe",
     "original": "お礼くらいは言ってもいいかもね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0010.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_RITSUKO"
+    "translation": "道个谢也没关系吧",
+    "context": "File: FREE/NEV_TUT0010.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_RITSUKO",
+    "stage": 1
   }
 ]

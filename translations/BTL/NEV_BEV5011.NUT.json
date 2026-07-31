@@ -2,7 +2,8 @@
   {
     "key": "e_282699cac3_0001_118c9fce63",
     "original": "制限時間経過！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV5011.NUT\nLine: 10\nCall: DecideStart2"
+    "translation": "限制时间到！",
+    "context": "File: BTL/NEV_BEV5011.NUT\nLine: 10\nCall: DecideStart2",
+    "stage": 1
   }
 ]

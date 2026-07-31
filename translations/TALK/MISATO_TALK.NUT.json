@@ -2,8 +2,9 @@
   {
     "key": "e_89badcf1cb_0002_8bfc665fe2",
     "original": "シンジ君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 102"
+    "translation": "真嗣君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 102",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0003_7faf5c4e05",
@@ -22,32 +23,37 @@
   {
     "key": "e_89badcf1cb_0005_af34d38598",
     "original": "カヲル君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 105"
+    "translation": "薰君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 105",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0006_a6354ada0e",
     "original": "トウジ君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 106"
+    "translation": "冬二君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 106",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0007_6a088b2c67",
     "original": "ケンスケ君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 107"
+    "translation": "剑介君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 107",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0008_377efb9379",
     "original": "洞木さん",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 108"
+    "translation": "洞木同学",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 108",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0009_3f8703803d",
     "original": "アタシ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 109"
+    "translation": "本小姐",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 109",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0010_20fdc17ce1",
@@ -59,32 +65,37 @@
   {
     "key": "e_89badcf1cb_0011_a6be2384e2",
     "original": "加持君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 111"
+    "translation": "加持君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 111",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0012_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 112"
+    "translation": "碇司令",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 112",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0013_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 113"
+    "translation": "冬月副司令",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 113",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0014_31b1fdfec3",
     "original": "青葉君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 114"
+    "translation": "青叶君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 114",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0015_419e1ceafb",
     "original": "日向君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 115"
+    "translation": "日向君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 115",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0016_b166649dcd",
@@ -103,8 +114,9 @@
   {
     "key": "e_89badcf1cb_0018_8bfc665fe2",
     "original": "シンジ君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 118"
+    "translation": "真嗣君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 118",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0019_7faf5c4e05",
@@ -123,32 +135,37 @@
   {
     "key": "e_89badcf1cb_0021_af34d38598",
     "original": "カヲル君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 121"
+    "translation": "薰君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 121",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0022_a6354ada0e",
     "original": "トウジ君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 122"
+    "translation": "冬二君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 122",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0023_6a088b2c67",
     "original": "ケンスケ君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 123"
+    "translation": "剑介君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 123",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0024_377efb9379",
     "original": "洞木さん",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 124"
+    "translation": "洞木同学",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 124",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0025_3f8703803d",
     "original": "アタシ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 125"
+    "translation": "本小姐",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 125",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0026_20fdc17ce1",
@@ -160,32 +177,37 @@
   {
     "key": "e_89badcf1cb_0027_a6be2384e2",
     "original": "加持君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 127"
+    "translation": "加持君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 127",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0028_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 128"
+    "translation": "碇司令",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 128",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0029_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 129"
+    "translation": "冬月副司令",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 129",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0030_31b1fdfec3",
     "original": "青葉君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 130"
+    "translation": "青叶君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 130",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0031_419e1ceafb",
     "original": "日向君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 131"
+    "translation": "日向君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 131",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0032_b166649dcd",
@@ -204,8 +226,9 @@
   {
     "key": "e_89badcf1cb_0034_8bfc665fe2",
     "original": "シンジ君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 134"
+    "translation": "真嗣君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 134",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0035_7faf5c4e05",
@@ -224,32 +247,37 @@
   {
     "key": "e_89badcf1cb_0037_af34d38598",
     "original": "カヲル君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 137"
+    "translation": "薰君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 137",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0038_a6354ada0e",
     "original": "トウジ君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 138"
+    "translation": "冬二君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 138",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0039_6a088b2c67",
     "original": "ケンスケ君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 139"
+    "translation": "剑介君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 139",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0040_377efb9379",
     "original": "洞木さん",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 140"
+    "translation": "洞木同学",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 140",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0041_3f8703803d",
     "original": "アタシ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 141"
+    "translation": "本小姐",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 141",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0042_20fdc17ce1",
@@ -261,32 +289,37 @@
   {
     "key": "e_89badcf1cb_0043_a6be2384e2",
     "original": "加持君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 143"
+    "translation": "加持君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 143",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0044_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 144"
+    "translation": "碇司令",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 144",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0045_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 145"
+    "translation": "冬月副司令",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 145",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0046_31b1fdfec3",
     "original": "青葉君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 146"
+    "translation": "青叶君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 146",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0047_419e1ceafb",
     "original": "日向君",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 147"
+    "translation": "日向君",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 147",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0048_b166649dcd",
@@ -311,50 +344,58 @@
   {
     "key": "e_89badcf1cb_0052_42ea005490",
     "original": "うんうん、\\n私のところに会いに来たんだ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 153\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "嗯嗯、\n是专程来见我的吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 153\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0054_72baac2aac",
     "original": "ごっくろー\\n元気だった？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 154\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "好久不见～\n最近还好吗？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 154\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0056_855f613679",
     "original": "元気だった？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 155\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "最近还好吗？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 155\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0058_c6ac28bd02",
     "original": "ごっめーん\\n今仕事が立て込んでてぇ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 156\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "抱歉啦\\n现在工作堆成山了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 156\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0060_bb0cc8f52d",
     "original": "仕事があるんです\\nごめんなさい",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 157\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "还有工作要处理\\n对不起啊",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 157\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0062_a013677148",
     "original": "…がんばりましょう\\n%sの、分まで",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 158\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "……一起加油吧\\n连同%s的那份",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 158\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0064_14cf6dc555",
     "original": "誰だって死ぬわ　\\nでも、それで負けてはいけないのよ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 159\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "谁都会死的\\n但不能因此就认输啊",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 159\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0066_4251503fb5",
     "original": "%sがいないと\\n戦力足りないんだよなあ…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 160\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s不在的话\\n战力实在不够用啊……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 160\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0068_5188ea952a",
@@ -371,38 +412,44 @@
   {
     "key": "e_89badcf1cb_0072_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 163\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 163\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0074_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 164\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 164\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0076_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 165\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 165\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0078_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 166\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 166\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0080_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 167\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 167\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0082_6db5ffed97",
     "original": "…おかえりなさい▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 168\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "…欢迎回来▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 168\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0084_cb89c3c967",
@@ -467,32 +514,37 @@
   {
     "key": "e_89badcf1cb_0104_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 179\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 179\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0106_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 180\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 180\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0108_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 181\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 181\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0110_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 182\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 182\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0112_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 183\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 183\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0114_7f54a52470",
@@ -509,20 +561,23 @@
   {
     "key": "e_89badcf1cb_0118_7567d51289",
     "original": "痛み止めは効いてるみたいね",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 186\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "止痛药似乎起效了呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 186\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0120_ee4833acc8",
     "original": "次は、怪我したらダメよ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 187\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "下次可别再受伤了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 187\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0122_2c2637be54",
     "original": "次は、怪我したらダメよ\\n貴重な戦力、なんだから",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 188\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "下次别受伤了\\n你可是珍贵的战力啊",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 188\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0124_204c8330cb",
@@ -569,26 +624,30 @@
   {
     "key": "e_89badcf1cb_0138_992c814888",
     "original": "どう？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 196\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "怎么样？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 196\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0140_4301f9a8f0",
     "original": "あなたのためじゃないわよ？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 197\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "才不是为了你呢？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 197\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0142_7c3baaf94c",
     "original": "こっちをじろじろ見ないの",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 198\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "别直勾勾盯着这边看",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 198\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0144_e6a0df9f18",
     "original": "いいおしゃれね\\n似合ってるわよ？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 199\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "这身打扮真不错呢\n很适合你哦？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 199\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0146_59e06edf45",
@@ -599,38 +658,44 @@
   {
     "key": "e_89badcf1cb_0148_a1e9934aa6",
     "original": "どうしたのよ　その格好",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 201\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "怎么回事啊　这身打扮",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 201\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0150_a1e9934aa6",
     "original": "どうしたのよ　その格好",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 202\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "怎么回事啊　这身打扮",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 202\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0152_d58b594d5f",
     "original": "どうしたのよ　その格好▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 203\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "怎么回事啊，这身打扮▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 203\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0154_03cbdfdfb9",
     "original": "なんか悔い改めたの？\\nそんなことはないか…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 204\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "难道是突然悔改了？\n看来不是这样啊……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 204\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0156_b94f0ba8ef",
     "original": "%sになにがあったんだろ…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 205\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s身上发生了什么吧……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 205\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0158_9c60b303e0",
     "original": "%s、おしゃれしてるわね…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 206\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s，打扮得挺时髦嘛……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 206\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0160_0bda9a7012",
@@ -641,14 +706,16 @@
   {
     "key": "e_89badcf1cb_0162_d8c3321f00",
     "original": "%sかあ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 208\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s啊……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 208\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0164_3c20203ad6",
     "original": "%s、おしゃれしてたけど…\\nなにがあったのかしら",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 209\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s刚才打扮得很时髦呢……\\n发生什么事了吗",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 209\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0166_5b6a60661e",
@@ -683,14 +750,16 @@
   {
     "key": "e_89badcf1cb_0176_d31bdf004f",
     "original": "勝ったわね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 215\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "赢了呢▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 215\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0178_70e5a8a500",
     "original": "でも…寿命、ちょーっち縮んだかも\\n注意して？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 216\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "不过…寿命可能缩短了一点点呢\n要注意哦？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 216\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0180_9e15e20e17",
@@ -725,14 +794,16 @@
   {
     "key": "e_89badcf1cb_0190_985e7105db",
     "original": "上でき、上でき♪",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 222\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "优秀，优秀～",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 222\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0192_a1c64b87f9",
     "original": "うん、いい感じね\\n実戦でもあの調子でね？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 223\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "嗯，感觉不错呢\\n实战时也要保持这个状态哦？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 223\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0194_360bf80663",
@@ -767,14 +838,16 @@
   {
     "key": "e_89badcf1cb_0204_cb6d3f4f03",
     "original": "実戦が思いやられるわね…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 229\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "实战实在让人担心啊……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 229\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0206_8c2e5f070f",
     "original": "実戦までに直しましょ？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 230\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "在实战前改进吧？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 230\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0208_787633290b",
@@ -785,14 +858,16 @@
   {
     "key": "e_89badcf1cb_0210_400f519732",
     "original": "んー　努力不足",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 232\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "嗯～努力不够",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 232\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0212_6d99a82d41",
     "original": "ドンマイドンマイ！",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 233\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "别在意别在意！",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 233\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0214_2a0d329ce1",
@@ -809,8 +884,9 @@
   {
     "key": "e_89badcf1cb_0218_85c45585b0",
     "original": "うーん　指揮として自信なくしそう…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 236\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "唔……作为指挥官都要失去信心了……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 236\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0220_19c1d4142f",
@@ -845,14 +921,16 @@
   {
     "key": "e_89badcf1cb_0230_ed3c024cfb",
     "original": "平和になった瞬間\\n防御関係の予算がおりなくなったわ▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 242\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "和平到来的瞬间\\n防御相关的预算就被砍光了▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 242\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0232_ad23e8d670",
     "original": "まったく…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 243\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "真是的……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 243\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0234_76094d9d62",
@@ -893,8 +971,9 @@
   {
     "key": "e_89badcf1cb_0246_81a24e15bd",
     "original": "少しは戦況有利そうだけどね…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 250\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "战况看起来稍微有利了些……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 250\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0248_7a12dd039f",
@@ -911,8 +990,9 @@
   {
     "key": "e_89badcf1cb_0252_084305745b",
     "original": "戦闘はいつあるかわからない\\nだから、遊んできたら？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 253\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "战斗不知何时会来\\n不如先放松下如何？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 253\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0254_e9bf42723c",
@@ -935,8 +1015,9 @@
   {
     "key": "e_89badcf1cb_0260_ac32124c36",
     "original": "エヴァが足りない分は建物で補うしかないわ\\nがんばりましょう？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 257\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "EVA不足的部分只能用建筑来弥补了\n一起努力吧？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 257\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0262_01d12e4ac5",
@@ -971,14 +1052,16 @@
   {
     "key": "e_89badcf1cb_0272_bbd994f9e9",
     "original": "人類は負ける、か▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 263\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "人类要输了吗▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 263\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0274_bf7a0d0c3c",
     "original": "まあ、ちょーっち\\nまだやり残したことがあるんだけどね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 264\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "不过嘛～\\n还有一点点未完成的事呢▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 264\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0276_d31c8ad38c",
@@ -1001,26 +1084,30 @@
   {
     "key": "e_89badcf1cb_0282_9de62a51fa",
     "original": "無能な顔を見せないで\\n目障りだから",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 268\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "别摆出那副无能的表情\\n看着就碍眼",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 268\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0284_9a06319830",
     "original": "%sねえ\\nいい話ばっかりで、うさんくさいのよねぇ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 269\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s啊\\n尽说些漂亮话，可疑得很呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 269\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0286_9f3e9422eb",
     "original": "%sねえ\\nうさんくさいのよね",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 270\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s啊\\n总觉得很可疑呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 270\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0288_0c04b95664",
     "original": "%sは\\nちょっと気になるかもね",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 271\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s啊\\n或许有点在意呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 271\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0290_3d20c557db",
@@ -1031,38 +1118,44 @@
   {
     "key": "e_89badcf1cb_0292_f63df54558",
     "original": "%sかぁ\\nかなりひっどい嫌われようね",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 273\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "%s啊\\n被讨厌得相当厉害呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 273\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0294_c24bb68eea",
     "original": "エヴァに乗ってくれるだけで、感謝するわ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 274\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "只要肯驾驶EVA，我就很感谢了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 274\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0296_033713bbab",
     "original": "ダメよ、逃げちゃ\\n…なによりも自分から",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 275\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "不行哦，逃避的话\\n…最对不起的是自己",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 275\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0298_9bb47e26ac",
     "original": "無理しちゃダメよ！",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 276\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "别太勉强自己！",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 276\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0300_404f29b1db",
     "original": "急いで、時間が無いわ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 277\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "快点，没时间了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 277\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0302_415870c4f1",
     "original": "作戦指示に従いなさい！",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 278\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "必须服从作战指示！",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 278\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0304_b7559fb865",
@@ -1085,14 +1178,16 @@
   {
     "key": "e_89badcf1cb_0310_5b321f0f40",
     "original": "私が小さいときは、\\n夏はここまで暑くなかったわよ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 282\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "我小时候的夏天\\n可没这么热呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 282\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0312_c98fd1dc1f",
     "original": "ま、学校ゴッコもたまには面白いかも？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 283\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "嘛，偶尔玩玩上学游戏\\n也挺有意思的？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 283\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0314_118a088c6e",
@@ -1109,14 +1204,16 @@
   {
     "key": "e_89badcf1cb_0318_b868156281",
     "original": "おいしいものは大好きだけど？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 286\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "虽然很喜欢美味的东西？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 286\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0320_da89901325",
     "original": "そうね　昔は全部嫌いだわ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 287\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "是啊，以前明明全都讨厌的",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 287\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0322_c66b7c687b",
@@ -1127,14 +1224,16 @@
   {
     "key": "e_89badcf1cb_0324_189095e40b",
     "original": "遊ぶの、一生懸命やってる？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 289\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "玩的时候，有全力以赴吗？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 289\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0326_39f19c7744",
     "original": "えーと　いいわよ\\nあなたがよかったら、だけど…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 290\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "那个…可以哦\n只要你愿意的话…",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 290\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0328_61702a7692",
@@ -1145,8 +1244,9 @@
   {
     "key": "e_89badcf1cb_0330_4535ffa2e1",
     "original": "ほら、動くとキスできないでしょ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 292\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "你看，乱动的话就亲不到了哦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 292\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0332_faed988544",
@@ -1169,8 +1269,9 @@
   {
     "key": "e_89badcf1cb_0338_167ece66e3",
     "original": "格闘スキルを持っておくと、武器の\\n耐久度の減少を、ある程度抑える事ができるわ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 296\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "掌握格斗技能的话，\\n能在一定程度上抑制武器耐久度的损耗哦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 296\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0340_50bdb7ea2d",
@@ -1205,44 +1306,51 @@
   {
     "key": "e_89badcf1cb_0350_c995cc9e74",
     "original": "いらいらするから、やめてくれない？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 302\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "这样让人很烦躁，能别这样了吗？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 302\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0352_d0944a8e08",
     "original": "使徒を迎撃する為のマップギミックを\\n手配する場合は、私に話しかけてね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 464\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "要配置迎击使徒用的地图机关时，记得来找我商量▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 464\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0354_8da971261a",
     "original": "戦闘で獲得した予算で、\\n新たなマップギミックを購入する事ができるから",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 465\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "可以用战斗获得的预算，来购置新的地图机关哦",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 465\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0356_49ca89288e",
     "original": "手に入れたマップギミックを、戦場である\\n第３新東京市に配置する時は、私に話しかけてね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 466\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "当需要将获得的地图机关配置到战场——第三新东京市时，记得来找我商量▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 466\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0358_92dcb9caae",
     "original": "所有するギミックのリストから、各エリアにある\\nスロットにギミックを配置してね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 467\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "从持有的机关列表中，\\n在各区域的槽位配置机关吧▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 467\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0360_4d83176df0",
     "original": "集めた情報に従って的確な配置をするのよ？\\nでないと戦闘が大変なことになるんだから",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 468\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "要根据收集的情报精准布局哦？\\n否则战斗会变得很棘手的",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 468\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0362_6841e3521a",
     "original": "戦闘で第３新東京市が被災した時には、\\n私に話しかけてね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 469\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "当第三新东京市在战斗中受灾时，\\n记得来找我▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 469\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0364_a9f87d0d3d",
@@ -1253,8 +1361,9 @@
   {
     "key": "e_89badcf1cb_0366_f00dbd95f4",
     "original": "充分におしゃべりできた？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 471\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "聊得尽兴了吗？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 471\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0368_02ed5ac802",
@@ -1271,572 +1380,667 @@
   {
     "key": "e_89badcf1cb_0372_d553a40226",
     "original": "準備した方がいい事０００",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 474\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "建议准备事项000",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 474\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0374_3b9c3f5b1c",
     "original": "準備しない方がいい事０００",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 475\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "不建议准备事项000",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 475\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0376_dc6438139b",
     "original": "特殊操作０００",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 476\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "特殊操作000",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 476\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0378_48916f24c9",
     "original": "空を飛ぶ使徒かぁ…　やっかいなヤツね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 477\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "会飞的使徒啊……\\n真是个麻烦的家伙▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 477\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0380_98db529484",
     "original": "飛んでる相手には格闘攻撃が届かないわ\\n射撃武器の準備を忘れないでね",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 478\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "格斗攻击可打不到空中敌人\\n别忘了准备射击武器",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 478\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0382_1e2e4fbbbe",
     "original": "中央区のど真ん中にあるゼロエリア防壁は、\\n絶対に壊されちゃダメよ！▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 479\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "中央区正中央的0区防壁\\n绝对不能被破坏哦！▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 479\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0384_e9942059b2",
     "original": "ゼロエリア防壁の真下には、人類最後の砦である\\nこのネルフ本部があるんだから▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 480\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "0区防壁的正下方，就是人类最后的堡垒——NERV总部啊▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 480\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0386_6d1f5ecea5",
     "original": "もちろんゼロエリア防壁周辺に、不用意に\\n強力な兵装ビルをたくさん配置するのも厳禁ね！",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 481\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "当然也严禁在0区防壁周边随意部署大量强力兵装大楼！",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 481\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0388_01e69c0ce1",
     "original": "兵装ビルの攻撃にゼロエリア防壁まで\\n巻き込まれる事になるわ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 482\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "兵装大楼的攻击会连累到0区防壁的",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 482\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0390_95051856cf",
     "original": "準備した方がいい事００２",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 483\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "建议准备事项002",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 483\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0392_6840cefaa4",
     "original": "準備しない方がいい事００２",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 484\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "不建议准备事项002",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 484\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0394_0620edac43",
     "original": "特殊操作００２",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 485\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "特殊操作002",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 485\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0396_5928620740",
     "original": "準備した方がいい事００３",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 486\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "建议准备事项003",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 486\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0398_183b7459fa",
     "original": "準備しない方がいい事００３",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 487\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "不建议准备事项003",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 487\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0400_ea5042de73",
     "original": "特殊操作００３",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 488\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "特殊操作003",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 488\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0402_ea804bd26d",
     "original": "準備した方がいい事００４",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 489\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "建议准备事项004",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 489\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0404_d9c6f1df67",
     "original": "準備しない方がいい事００４",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 490\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "不建议准备事项004",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 490\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0406_693334ef92",
     "original": "特殊操作００４",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 491\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "特殊操作004",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 491\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0408_1e2e4fbbbe",
     "original": "中央区のど真ん中にあるゼロエリア防壁は、\\n絶対に壊されちゃダメよ！▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 492\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "中央区正中央的0区防壁\\n绝对不能被破坏哦！▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 492\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0410_e9942059b2",
     "original": "ゼロエリア防壁の真下には、人類最後の砦である\\nこのネルフ本部があるんだから▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 493\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "0区防壁的正下方，就是人类最后的堡垒——NERV总部啊▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 493\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0412_6d1f5ecea5",
     "original": "もちろんゼロエリア防壁周辺に、不用意に\\n強力な兵装ビルをたくさん配置するのも厳禁ね！",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 494\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "当然也严禁在0区防壁周边随意部署大量强力兵装大楼！",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 494\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0414_01e69c0ce1",
     "original": "兵装ビルの攻撃にゼロエリア防壁まで\\n巻き込まれる事になるわ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 495\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "兵装大楼的攻击会连累到0区防壁的",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 495\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0416_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 496\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 496\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0418_85df0921c9",
     "original": "アスカの搭乗する弐号機との共同戦線を行います\\nまずは個別に分離した目標を攻撃▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 497\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "将与明日香驾驶的贰号机展开联合作战\\n先攻击各自分离的目标▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 497\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0420_e41683611e",
     "original": "とどめは目標が合体した瞬間、\\nコアを狙って２点同時荷重攻撃　これしかないわ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 498\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "最后一击要在目标合体的瞬间\\n瞄准核心发动两点同步加压攻击 只有这个方法了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 498\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0422_64aea9c658",
     "original": "準備した方がいい事００６",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 499\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "建议准备事项006",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 499\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0424_70d1b65c92",
     "original": "準備しない方がいい事００６",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 500\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "不建议准备事项006",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 500\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0426_5cf09ad3d5",
     "original": "特殊操作００６",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 501\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "特殊操作006",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 501\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0428_9dac58b7bc",
     "original": "敵が一目散にここに向かってるんなら\\n足止めの為に兵装ビルを配置するといいわ▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 502\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "既然敌人正全速朝这边冲来\n建议在兵装大楼布置防线进行拦截▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 502\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0430_3f60108bee",
     "original": "胴体を高く上げてる時には、格闘攻撃が届かないわ\\n射撃武器の準備を忘れないでね",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 503\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "当敌人高举躯体时，格斗攻击是无法触及的\n别忘了准备射击武器",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 503\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0432_f606bd5704",
     "original": "前にも言ったと思うけど、ゼロエリア防壁周辺に、\\n強力な兵装ビルをたくさん配置しない事！",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 504\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "之前应该说过吧，绝对不要在0区防壁周边\n部署大量强力兵装大楼！",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 504\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0434_138200cd0f",
     "original": "兵装ビルの攻撃に巻き込んで\\nゼロエリア防壁まで壊しちゃ元も子もないわ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 505\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "要是被兵装大楼的攻击波及\n连0区防壁都破坏的话就本末倒置了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 505\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0436_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 506\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 506\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0438_62e1f1c678",
     "original": "敵が落下してくるまでは\\nこちらからの攻撃手段は皆無ね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 507\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "在敌人坠落之前\n我们完全没有攻击手段呢▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 507\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0440_3b4cbef121",
     "original": "エヴァの強化に専念し、装甲、回避、移動スキルに\\nコストを集約するのが得策ね",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 508\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "集中资源强化EVA的装甲、闪避和移动技能\\n才是上策呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 508\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0442_c8b30d6e9c",
     "original": "どうせ攻撃が届かないんだから、\\n高価なビルは配置しちゃダメよ！▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 509\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "反正攻击也够不着\\n别浪费钱布置昂贵建筑啦！▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 509\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0444_a175556874",
     "original": "破壊されるだけで無駄になるわ\\nもったいないじゃない",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 510\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "被破坏就血本无归了\\n太浪费了吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 510\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0446_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 511\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 511\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0448_a7f2e8983b",
     "original": "目標の落下地点にエヴァを配置 Ａ．Ｔ．フィールド\\n全開で、あなたたちが直接使徒を受け止めるのよ▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 512\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "把EVA部署在目标落点\\n展开AT力场直接接住使徒▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 512\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0450_602c6a428b",
     "original": "マギが落下予想地点を算出します　時間経過に従い\\nミニマップ上の落下予測地点が更新されていくわ▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 513\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "MAGI会计算坠落预测点\\n小地图上的标记会随时间更新▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 513\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0452_dfa4cf41a0",
     "original": "最終落下地点が判明次第、その場所で\\n「Ａ．Ｔ．フィールド全開」を発動して受け止めて",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 514\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "一旦确定最终落点，就在该位置发动「AT力场全开」进行拦截",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 514\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0454_297eb1e5dd",
     "original": "準備した方がいい事００９",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 515\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "建议准备事项009",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 515\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0456_506a92cce0",
     "original": "準備しない方がいい事００９",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 516\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "不建议准备事项009",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 516\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0458_f73a6d8c2d",
     "original": "特殊操作００９",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 517\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "特殊操作009",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 517\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0460_4d9aec3134",
     "original": "レーダーにも反応しない、ロックも利かないじゃ、\\nまともに攻撃できないわね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 518\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "雷达没反应，也无法锁定目标，根本没法正常攻击呢▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 518\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0462_fb22a26e14",
     "original": "とにかく相手のＡ．Ｔ．を削りまくって、\\nバニッシュに追い込むべきね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 519\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "总之要全力削弱对方的AT力场，逼它进入湮灭状态▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 519\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0464_955fd365b3",
     "original": "敵のＡ．Ｔ．を中和する速度を早めるには、\\n浸食スキルを実装するのが有効よ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 520\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "要加速中和敌人的AT力场，装备侵蚀技能很有效",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 520\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0466_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 521\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 521\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0468_c037f61f73",
     "original": "レーダーに反応が無いから、\\n通常時は$Lボタンによるロック操作ができないわ▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 522\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "因为雷达没有反应，平时无法用$L键进行锁定操作▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 522\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0470_c4903b1afa",
     "original": "おまけに、目標の現在地が\\nミニマップに表示されないのも地味に嫌なところね",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 523\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "更讨厌的是\\n目标当前位置居然不会显示在小地图上",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 523\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0472_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 524\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 524\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0474_3881027eae",
     "original": "ジオフロントにまで敵の侵攻を許すとは我ながら\\n大失態ね　でも、ものは考え様…▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 525\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "居然让敌人攻到地下都市\\n真是重大失误……不过换个角度想……▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 525\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0476_d8b4bd9dcc",
     "original": "ここなら第３新東京市の損壊を気にする必要が無いわ\\nつまり大火力の兵装ビルや武器を配置し放題ってわけ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 526\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "在这里就不用担心破坏第三新东京市了\\n可以尽情部署兵装大楼的重型武器",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 526\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0478_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 527\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 527\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0480_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 528\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 528\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0482_7583d5e99b",
     "original": "ロンギヌスの槍到着までは\\nこちらからの攻撃手段は皆無ね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 529\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "在朗基努斯之枪送达前\\n我们完全没有进攻手段呢▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 529\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0484_3b4cbef121",
     "original": "エヴァの強化に専念し、装甲、回避、移動スキルに\\nコストを集約するのが得策ね",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 530\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "集中资源强化EVA的装甲、闪避和移动技能\\n才是上策呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 530\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0486_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 531\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 531\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0488_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 532\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 532\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0490_35c6149779",
     "original": "機敏な動きが自慢なヤツなら、\\n兵装ビルで足止めしちゃえばいいじゃない",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 533\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "对付动作敏捷的家伙\\n用兵装大楼拖住它不就好了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 533\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0492_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 534\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 534\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0494_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 535\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 535\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0496_a1700ff9cb",
     "original": "ターミナルドグマ内では\\nマップギミックの支援は受けられないの▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 536\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "在最终教条区里\\n可没法获得地图机关的支援哦▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 536\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0498_3646fc3e29",
     "original": "エヴァの強化に専念し、スキルにコストを集約、\\n自力で何とかするしかないわね",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 537\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "只能专注于强化EVA、集中资源提升技能\\n靠自己的力量解决问题了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 537\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0500_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 538\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 538\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0502_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 539\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 539\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0504_805a0d0044",
     "original": "ジオフロントなら第３新東京市の損壊を気にせず、\\n大火力の兵装ビルや武器を配置し放題よ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 540\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "要是地下都市的话就不用担心第三新东京市损毁\\n可以随意部署兵装大楼和重型武器呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 540\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0506_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 541\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 541\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0508_868310e193",
     "original": "なし",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 542\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 542\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0510_653312c8a0",
     "original": "次々と降下してくる量産機を１体ずつ撃破して\\n１対が倒れれば次が現われるから▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 543\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "量产机群会接连不断地降落\\n击倒一对就会立刻出现下一对▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 543\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0512_69b517daf9",
     "original": "いいシンジ君　エヴァシリーズを全て消滅させるのよ\\n生き残る手段はそれしかないわ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 544\nSpeaker: IMC_MISATO\nVoice: "
+    "translation": "听好了真嗣君 必须消灭所有EVA量产系列\\n这是唯一的生存之道",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 544\nSpeaker: IMC_MISATO\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0514_23dd40732c",
     "original": "こんにちは　私はネルフの作戦指揮官\\nそね、あなたの上司というわけ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 545\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_001"
+    "translation": "你好，我是NERV的作战指挥官\\n也就是你的上司",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 545\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_001",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0516_965b599430",
     "original": "…んー　ちょっち、いい事を考えたんだけど\\n聞いてみる？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 546\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_002"
+    "translation": "……嗯～刚想到件好事\\n要听听看吗？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 546\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_002",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0518_43de931569",
     "original": "こちらのつぶやきは聞こえなかったようだ▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 547\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "这边的自言自语似乎没被听见▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 547\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0520_0fd2291b92",
     "original": "ミサトは残念な親父ギャグを言った",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 548\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "美里说了个冷到家的老爹笑话",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 548\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0522_5078263d7a",
     "original": "あれ？　結構いけてると思ったんだけど\\nリツコで試したのがいけなかったか…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 549\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_003"
+    "translation": "咦？明明觉得挺不错的\\n难道是先在律子那里试用的缘故……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 549\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_003",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0524_0fd2291b92",
     "original": "ミサトは残念な親父ギャグを言った",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 550\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "美里说了个冷到家的老爹笑话",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 550\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0526_5078263d7a",
     "original": "あれ？　結構いけてると思ったんだけど\\nリツコで試したのがいけなかったか…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 551\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_003"
+    "translation": "咦？明明觉得挺不错的\\n难道是先在律子那里试用的缘故……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 551\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_003",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0528_67a7f90c44",
     "original": "あなたは立派よ　私は知っているわ\\n…あなたはこの街を、世界を守っている",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 552\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_004"
+    "translation": "你很优秀呢 我一直都知道的……你在守护着这座城市、这个世界",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 552\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_004",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0530_965b599430",
     "original": "…んー　ちょっち、いい事を考えたんだけど\\n聞いてみる？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 553\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_005"
+    "translation": "……嗯～刚想到件好事\\n要听听看吗？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 553\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_005",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0532_6c10bd3d5c",
     "original": "こちらのつぶやきを聞く気はないようだ▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 554\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "对方似乎没打算听这边的自言自语▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 554\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0534_0aa1892437",
     "original": "ミサトは大変残念な親父ギャグを言った",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 555\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "美里说了个超级冷的大叔笑话",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 555\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0536_fade1cc0cb",
     "original": "あれ？　結構いけてると思ったんだけど\\n副司令は爆笑だったんだけどな…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 556\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_006"
+    "translation": "咦？明明觉得这个梗还不错啊……副司令可是笑得前仰后合呢……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 556\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_006",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0538_0aa1892437",
     "original": "ミサトは大変残念な親父ギャグを言った",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 557\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "美里说了个超级冷的大叔笑话",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 557\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0540_fade1cc0cb",
     "original": "あれ？　結構いけてると思ったんだけど\\n副司令は爆笑だったんだけどな…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 558\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_006"
+    "translation": "咦？明明觉得这个梗还不错啊……副司令可是笑得前仰后合呢……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 558\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_006",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0542_84cdb49e89",
     "original": "ミサトは真剣な顔をしている▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 559\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "美里露出了严肃的表情▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 559\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0544_519d201e05",
     "original": "あなたは声をかけそこねた▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 560\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "没能搭上话▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 560\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0546_6a9eef1ab3",
     "original": "親父ギャグ大好きなだらしない人と、\\nどっちが本当のミサトさんなんだろう…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 561\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "那个喜欢大叔笑话的邋遢鬼，\\n和眼前这位到底哪个才是真正的美里小姐呢……",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 561\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0548_a284efadc9",
     "original": "あ、そうか！　中学生向けの\\nギャグじゃなかったからいけなかったんだ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 562\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_007"
+    "translation": "啊、原来如此！因为是面向初中生的\\n笑话所以行不通啊",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 562\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_007",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0550_3d9d4c9c8a",
     "original": "ミサトは嬉しそうに子供っぽく笑った",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 563\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "美里像个孩子般开心地笑了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 563\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0552_2940260034",
     "original": "ミサトは真剣な顔をしている",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 564\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "美里露出严肃的表情",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 564\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0554_dbaf251fac",
     "original": "どうしたの？▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 565\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_008_1"
+    "translation": "怎么了？▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 565\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_008_1",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0556_31abc8b0ea",
     "original": "ああ難しい顔してた？\\nごめんね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 566\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_008_2"
+    "translation": "啊、刚才表情太严肃了？\n抱歉呢▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 566\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_008_2",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0558_45cf152346",
     "original": "子供には難しい顔をしないようにしてるんだけどねー",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 567\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_008_3"
+    "translation": "明明对孩子应该保持笑容才对的～",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 567\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_008_3",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0560_439dda257b",
     "original": "ありがと",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 568\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_009"
+    "translation": "谢谢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 568\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_009",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0562_fea1437303",
@@ -1847,68 +2051,79 @@
   {
     "key": "e_89badcf1cb_0564_29a0440a94",
     "original": "…んーちょっち、いい事を考えたんだけど\\n聞いてみる？▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 570\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_011_1"
+    "translation": "……嗯—想到件有趣的事\n要听听看吗？▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 570\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_011_1",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0566_d9b18fe4f5",
     "original": "あら…　振られちゃった",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 571\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_011_2"
+    "translation": "哎呀……被拒绝了呢",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 571\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_011_2",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0568_fbf40d91b7",
     "original": "どうしたの？　最近元気ないじゃない？\\nそうだ新しいギャグを…▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 572\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_012_1"
+    "translation": "怎么了？最近没什么精神呢\\n对了 我想到个新段子…▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 572\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_012_1",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0570_28e64002c2",
     "original": "あら…　うーん　難しいなあ\\n友達ゴッコもここまでなのかな…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 573\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_012_2"
+    "translation": "哎呀……唔 真难办啊\\n连朋友游戏都玩不下去了吗…",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 573\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_012_2",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0572_72785a8894",
     "original": "いつも助かってるわ ありがとう",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 574\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_013"
+    "translation": "一直以来多谢你帮忙了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 574\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_013",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0574_896c1da7ec",
     "original": "いつも助かってるわ ありがと…",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 575\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_013"
+    "translation": "一直以来多谢你帮…",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 575\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_013",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0576_00a3b1ef69",
     "original": "ミサトは声をかけようとしてやめた▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 576\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "美里欲言又止▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 576\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0578_5ad8d91d5f",
     "original": "少し悲しそうだった",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 577\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "神情略显哀伤",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 577\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0580_1ab187794b",
     "original": "…上司として命令します\\n次の戦闘、勝ちなさい　いいわね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 578\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_014_1"
+    "translation": "…以长官身份命令你\\n下一场战斗必须取胜　明白吗▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 578\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_014_1",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0582_a22e5cdb8b",
     "original": "…そんな目をしないで\\nこれも、仕事よ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 579\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_014_2"
+    "translation": "…别用那种眼神看我\\n这也是工作的一部分",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 579\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_014_2",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0584_2503173991",
     "original": "よくできたわ…▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 580\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_015_1"
+    "translation": "做得很好…▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 580\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_015_1",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0586_a5f1b39026",
@@ -1931,26 +2146,30 @@
   {
     "key": "e_89badcf1cb_0592_bc9922321f",
     "original": "ほら、命令じゃないと、\\n「勝手に勝って」とかになるじゃない",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 584\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_015_2"
+    "translation": "你看，要是不下命令的话，\\n就会变成「擅自打赢」这种状况吧",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 584\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_015_2",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0594_b4687723da",
     "original": "ミサトは少し笑った",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 585\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "美里微微笑了笑",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 585\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0596_5f72cd2fc7",
     "original": "そうそう　その顔が見たかったのよ",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 586\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_016"
+    "translation": "对对，就是想看你这个表情",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 586\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_016",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0598_dca9baf558",
     "original": "そして…▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 587\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "然后…▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 587\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0600_b80b71fb19",
@@ -1962,8 +2181,9 @@
   {
     "key": "e_89badcf1cb_0602_14dc3c3e47",
     "original": "…終わったわね　なにもかも▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 589\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_017"
+    "translation": "……都结束了呢　一切的一切▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 589\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_017",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0604_a5f1b39026",
@@ -1974,8 +2194,9 @@
   {
     "key": "e_89badcf1cb_0606_4bb24f4006",
     "original": "告白していい？\\n私、最初の方は仕事であなたとつきあってた",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 591\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_018"
+    "translation": "可以坦白吗？\\n其实最初和你交往是出于工作目的",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 591\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_018",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0608_a5f1b39026",
@@ -1986,8 +2207,9 @@
   {
     "key": "e_89badcf1cb_0610_ad13a39644",
     "original": "ま、これからもよろしく\\n今度は、仕事じゃなくね▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 593\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_019_1"
+    "translation": "嘛、今后也请多指教\\n这次可不是工作关系了▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 593\nSpeaker: IMC_MISATO\nVoice: na54_0003_04_019_1",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0612_1f93352107",
@@ -1999,26 +2221,30 @@
   {
     "key": "e_89badcf1cb_0614_45d2c22c49",
     "original": "あなたが戦いで得たものは、\\nミサトだった▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 595\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你在战斗中获得的\\n正是美里▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 595\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0616_9b63fe128c",
     "original": "指揮官でも、年上の人でもなく\\nミサト▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 596\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "不是指挥官也不是年长者\\n而是美里▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 596\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0618_1d3208435b",
     "original": "それでいいのだと\\nあなたは思った▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 597\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你觉得这样就好▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 597\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0620_037622c784",
     "original": "自分はまだ中学生で、難しいことはわからないし\\n単純なほうがいいと思ったからだ▽",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 598\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "毕竟自己还是中学生\\n搞不懂复杂的事\\n觉得单纯点更好▽",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 598\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0622_8d4795eec6",
@@ -2030,103 +2256,120 @@
   {
     "key": "e_89badcf1cb_0642_78b73c499a",
     "original": "まだ足りない",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 610\nVoice: もう充分"
+    "translation": "还不够",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 610\nVoice: もう充分",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0643_f53f16428e",
     "original": "もう充分",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 610\nVoice: "
+    "translation": "已经够了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 610\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0966_ccff02404d",
     "original": "やめておく",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 664\nVoice: 聞いてみる"
+    "translation": "还是算了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 664\nVoice: 聞いてみる",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0967_715f66b602",
     "original": "聞いてみる",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 664\nVoice: "
+    "translation": "问问看",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 664\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0990_ccff02404d",
     "original": "やめておく",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 668\nVoice: 聞いてみる"
+    "translation": "还是算了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 668\nVoice: 聞いてみる",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_0991_715f66b602",
     "original": "聞いてみる",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 668\nVoice: "
+    "translation": "问问看",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 668\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_1014_18b6ede18f",
     "original": "そう言う問題？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 672\nVoice: えー"
+    "translation": "是这种问题？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 672\nVoice: えー",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_1015_87d6ce0f02",
     "original": "えー",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 672\nVoice: "
+    "translation": "诶——",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 672\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_1026_ff059dbbf6",
     "original": "声をかけるかまよう",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 674\nVoice: 声をかけられずにいる"
+    "translation": "犹豫着要不要搭话",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 674\nVoice: 声をかけられずにいる",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_1027_02d04f95fb",
     "original": "声をかけられずにいる",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 674\nVoice: "
+    "translation": "始终没能开口",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 674\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_1032_4dbe6383c3",
     "original": "お疲れさまです",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 675\nVoice: なんか傷つく"
+    "translation": "辛苦了",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 675\nVoice: なんか傷つく",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_1033_d09d485ee9",
     "original": "なんか傷つく",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 675\nVoice: "
+    "translation": "感觉有点受伤",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 675\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_1080_dd61af0851",
     "original": "それがやりたかったのかー！",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 683\nVoice: ひどく残念な顔をする"
+    "translation": "原来是想做这个啊ー！",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 683\nVoice: ひどく残念な顔をする",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_1081_c1dfc430d9",
     "original": "ひどく残念な顔をする",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 683\nVoice: "
+    "translation": "露出极度遗憾的表情",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 683\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_1092_7b5f53ae77",
     "original": "後半は？",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 685\nVoice: 知ってます"
+    "translation": "后半段呢？",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 685\nVoice: 知ってます",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_1093_ac09d13311",
     "original": "知ってます",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 685\nVoice: "
+    "translation": "我知道",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 685\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_89badcf1cb_1111_af9c5988bb",
     "original": "新たな武器が追加されました",
-    "translation": "",
-    "context": "File: TALK/MISATO_TALK.NUT\nLine: 990\nCall: DecideStart"
+    "translation": "新增武器已解锁",
+    "context": "File: TALK/MISATO_TALK.NUT\nLine: 990\nCall: DecideStart",
+    "stage": 1
   }
 ]

@@ -2,205 +2,239 @@
   {
     "key": "e_46b065e55a_0001_de3da09a02",
     "original": "エヴァの基本ステータス",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "EVA基础状态",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0002_de3da09a02",
     "original": "エヴァの基本ステータス",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 22\nCall: DecideStart"
+    "translation": "EVA基础状态",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 22\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0003_38dd1b92fd",
     "original": "<02>耐久力<//>は、エヴァがダメージに耐えられる力です▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>耐久力<//>是EVA承受伤害的能力▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0004_444366feaf",
     "original": "これがゼロになるとエヴァは\\n戦闘不能になってしまいます",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "归零时EVA将陷入战斗不能状态",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0005_48a7120a9d",
     "original": "<02>装甲スキル<//>を<02>実装<//>する事で、\\nエヴァの防御力を高める事もできます",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "通过<02>装备<//><02>装甲技能<//>可提升EVA防御力",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0006_b729db76dd",
     "original": "減少した<02>耐久力<//>の一部は\\n自己修復が可能な<02>ヘイフリック<//>となり、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 42\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "损失的<02>耐久力<//>会转化为可自我修复的<02>海弗利克<//>区域▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 42\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0007_0499266313",
     "original": "続けてダメージを受けずにいる事ができれば、\\nこの領域までのダメージは徐々に回復していきます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 43\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "只要不再持续受伤，该区域的损伤会逐渐恢复▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 43\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0008_6e7002843b",
     "original": "エヴァとの<02>シンクロ率<//>が高い程、\\n<02>ヘイフリック<//>の幅は大きくなります",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 56\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>同步率<//>越高，<02>海弗利克<//>区域越大",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 56\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0009_3ec8220560",
     "original": "<02>ヘイフリックスキル<//>を<02>実装<//>する事で、\\n回復速度を速める事もできます",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 57\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>装备<//><02>海弗利克技能<//>可加速恢复",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 57\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0010_6f63b120db",
     "original": "<02>Ａ．Ｔ．<//>は<02>ダッシュ<//>や<02>回避行動<//>など、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 69\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>AT<//>用于<02>冲刺<//><02>闪避<//>等行动▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 69\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0011_1fb035e966",
     "original": "<02>Ａ．Ｔ．<//>を必要とする行動をしたり、\\n使徒の攻撃を受けたりする事で消費します▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 70\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "进行消耗<02>AT<//>的行动或遭受使徒攻击时都会减少▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 70\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0012_d7e4f5e1c8",
     "original": "消費する行動を止めれば、\\n<02>Ａ．Ｔ．<//>は自然に回復します",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 71\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "停止消耗行动后，<02>AT<//>会自然恢复",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 71\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0013_495dae09d1",
     "original": "<02>Ａ．Ｔ．<//>を全て消費してしまうと、\\n<02>バニッシュ<//>の状態になり、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 84\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "当<02>AT<//>耗尽时将进入<02>力竭<//>状态▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 84\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0014_4c81e1f3eb",
     "original": "それらの行動ができなくなってしまう上に、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 85\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "不仅无法进行相关行动▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 85\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0015_0e0ad926c5",
     "original": "エヴァを守る<02>Ａ．Ｔ．フィールド<//>が\\n消失してしまうため▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 86\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "守护EVA的<02>AT力场<//>也会消失▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 86\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0016_b3c8f29887",
     "original": "その間に攻撃を受けると、\\n大ダメージになる恐れがあります",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 87\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "此时遭受攻击可能造成致命伤害",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 87\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0017_093a44a8f7",
     "original": "この事は使徒に対しても同じことが言えます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 101\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "这个机制对使徒同样适用▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 101\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0018_6e5a6dcc8a",
     "original": "使徒の<02>Ａ．Ｔ．<//>がゼロになり、\\n<02>バニッシュ<//>の状態になると▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 102\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "当使徒的<02>AT力场<//>归零，\\n进入<02>消失<//>状态时▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 102\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0019_2fe80f44d9",
     "original": "通常時とは比較にならない\\nダメージを与える事ができます",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 103\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "能造成远超平时的\\n巨大伤害",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 103\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0020_dee5626cee",
     "original": "パイロットとエヴァの<02>シンクロ率<//>は、\\n何もしない状態では徐々に減少していきます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 116\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "驾驶员与EVA的<02>同步率<//>，\\n在无操作状态下会逐渐下降▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 116\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0021_76f99dd712",
     "original": "また、エヴァがダメージを受けると、\\nその記憶はパイロットにもフィードバックされ、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 117\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "此外，当EVA受到伤害时，\\n这段记忆也会反馈给驾驶员，▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 117\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0022_9db39157b3",
     "original": "<02>シンクロ率<//>が落ちてしまいます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 118\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>同步率<//>就会降低▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 118\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0023_69772751ee",
     "original": "逆に使徒にダメージを与えると、\\n気分が高揚して<02>シンクロ率<//>は上昇します▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 119\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "相反若对使徒造成伤害，\\n情绪高涨会使<02>同步率<//>上升▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 119\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0024_27a842341e",
     "original": "電源を切断する事でも一時的に\\n<02>シンクロ率<//>を上昇させる事もできます",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 120\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "通过切断电源也能暂时性\\n提升<02>同步率<//>",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 120\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0025_e9145d6f6f",
     "original": "<02>シンクロ率<//>はエヴァの<02>攻撃力<//>と、\\n<02>ヘイフリック<//>の幅に直接影響するため、▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>同步率<//>直接影响EVA的<02>攻击力<//>与\\n<02>海弗利克<//>幅度，▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0026_f3153fcc72",
     "original": "できるだけ高く維持する事を心がけてください",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 134\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "请务必努力维持较高数值",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 134\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0027_4c5e486927",
     "original": "エヴァは第３新東京市に\\n設置されている<02>電源ビル<//>から▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 146\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "EVA通过第3新东京市\\n设置的<02>电源大楼<//>▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 146\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0028_5b17d5b435",
     "original": "エヴァの背中に接続されている\\n<02>アンビリカルケーブル<//>を介して▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 147\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "经由EVA背部连接的\\n<02>脐带电缆<//>▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 147\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0029_995c18c693",
     "original": "電力を供給して動いています▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "获得电力维持运作▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0030_121b7e8cf7",
     "original": "戦闘中に電源が切断された場合でも、\\nエヴァは<02>予備電源<//>を使用して活動する事ができます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 149\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "战斗中即使电源被切断，\\nEVA也能使用<02>备用电源<//>继续活动▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 149\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0031_106a198f14",
     "original": "<02>予備電源<//>で活動できる時間は、\\n<02>活動限界時間<//>として表示されます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 150\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>备用电源<//>可维持活动的时间，\\n会显示为<02>活动极限时间<//>▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 150\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0032_336a181404",
     "original": "<02>活動限界時間<//>がゼロになると、\\nエヴァの活動は停止し▽",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 151\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "当<02>活动极限时间<//>归零时，\\nEVA将停止活动▽",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 151\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0033_dbfb2b9fd5",
     "original": "戦闘不能になってしまいますので、\\n気をつけてください",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 152\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "陷入无法战斗的状态，\\n请务必注意",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 152\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_46b065e55a_0034_7a74e09905",
     "original": "<02>予備電源スキル<//>を<02>実装<//>する事で、\\n<02>活動限界時間<//>を延長する事もできます",
-    "translation": "",
-    "context": "File: TUT/TUT_B001.NUT\nLine: 153\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "通过<02>实装<//><02>备用电源技能<//>，\\n可延长<02>活动极限时间<//>",
+    "context": "File: TUT/TUT_B001.NUT\nLine: 153\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

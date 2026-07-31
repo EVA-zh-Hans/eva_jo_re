@@ -2,44 +2,51 @@
   {
     "key": "e_217d406f6f_0002_8bfc665fe2",
     "original": "シンジ君",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 102"
+    "translation": "真嗣君",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 102",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0003_90683c105a",
     "original": "綾波さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 103"
+    "translation": "绫波さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 103",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0004_941ac9f85b",
     "original": "惣流さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 104"
+    "translation": "惣流さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 104",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0005_ee11ae3ed4",
     "original": "渚君",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 105"
+    "translation": "渚君",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 105",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0006_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 106"
+    "translation": "铃原君",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 106",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0007_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 107"
+    "translation": "相田君",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 107",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0008_377efb9379",
     "original": "洞木さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 108"
+    "translation": "洞木同学",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 108",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0009_1245c0956d",
@@ -51,8 +58,9 @@
   {
     "key": "e_217d406f6f_0010_7c8ea42352",
     "original": "赤木博士",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 110"
+    "translation": "赤木博士",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 110",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0011_df6bcb0fe8",
@@ -64,32 +72,37 @@
   {
     "key": "e_217d406f6f_0012_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 112"
+    "translation": "碇司令",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 112",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0013_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 113"
+    "translation": "冬月副司令",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 113",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0014_4653cddce9",
     "original": "青葉さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 114"
+    "translation": "青叶さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 114",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0015_60da3b82eb",
     "original": "日向さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 115"
+    "translation": "日向さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 115",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0016_b8140644e6",
     "original": "伊吹さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 116"
+    "translation": "伊吹さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 116",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0017_faed743884",
@@ -101,44 +114,51 @@
   {
     "key": "e_217d406f6f_0018_8bfc665fe2",
     "original": "シンジ君",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 118"
+    "translation": "真嗣君",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 118",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0019_90683c105a",
     "original": "綾波さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 119"
+    "translation": "绫波さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 119",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0020_941ac9f85b",
     "original": "惣流さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 120"
+    "translation": "惣流さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 120",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0021_ee11ae3ed4",
     "original": "渚君",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 121"
+    "translation": "渚君",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 121",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0022_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 122"
+    "translation": "铃原君",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 122",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0023_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 123"
+    "translation": "相田君",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 123",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0024_377efb9379",
     "original": "洞木さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 124"
+    "translation": "洞木同学",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 124",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0025_1245c0956d",
@@ -150,8 +170,9 @@
   {
     "key": "e_217d406f6f_0026_7c8ea42352",
     "original": "赤木博士",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 126"
+    "translation": "赤木博士",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 126",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0027_df6bcb0fe8",
@@ -163,32 +184,37 @@
   {
     "key": "e_217d406f6f_0028_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 128"
+    "translation": "碇司令",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 128",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0029_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 129"
+    "translation": "冬月副司令",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 129",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0030_4653cddce9",
     "original": "青葉さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 130"
+    "translation": "青叶さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 130",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0031_60da3b82eb",
     "original": "日向さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 131"
+    "translation": "日向さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 131",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0032_b8140644e6",
     "original": "伊吹さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 132"
+    "translation": "伊吹さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 132",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0033_faed743884",
@@ -200,44 +226,51 @@
   {
     "key": "e_217d406f6f_0034_8bfc665fe2",
     "original": "シンジ君",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 134"
+    "translation": "真嗣君",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 134",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0035_90683c105a",
     "original": "綾波さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 135"
+    "translation": "绫波さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 135",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0036_941ac9f85b",
     "original": "惣流さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 136"
+    "translation": "惣流さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 136",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0037_ee11ae3ed4",
     "original": "渚君",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 137"
+    "translation": "渚君",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 137",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0038_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 138"
+    "translation": "铃原君",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 138",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0039_04036ebe3a",
     "original": "相田君",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 139"
+    "translation": "相田君",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 139",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0040_377efb9379",
     "original": "洞木さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 140"
+    "translation": "洞木同学",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 140",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0041_1245c0956d",
@@ -249,8 +282,9 @@
   {
     "key": "e_217d406f6f_0042_7c8ea42352",
     "original": "赤木博士",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 142"
+    "translation": "赤木博士",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 142",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0043_df6bcb0fe8",
@@ -262,32 +296,37 @@
   {
     "key": "e_217d406f6f_0044_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 144"
+    "translation": "碇司令",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 144",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0045_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 145"
+    "translation": "冬月副司令",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 145",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0046_4653cddce9",
     "original": "青葉さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 146"
+    "translation": "青叶さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 146",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0047_60da3b82eb",
     "original": "日向さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 147"
+    "translation": "日向さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 147",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0048_b8140644e6",
     "original": "伊吹さん",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 148"
+    "translation": "伊吹さん",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 148",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0049_faed743884",
@@ -299,877 +338,1023 @@
   {
     "key": "e_217d406f6f_0050_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 152\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 152\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0052_539c7a3a89",
     "original": "ああ　新聞でよみましたよ！\\n光栄です",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 153\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "啊、在报纸上看到过！\\n真是荣幸",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 153\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0054_256e5e8dd3",
     "original": "おお",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 154\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "噢",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 154\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0056_0bedb4ead6",
     "original": "やあ、元気かい？",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 155\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "哟、最近还好吗？",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 155\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0058_62906dd177",
     "original": "あー",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 156\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "啊—",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 156\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0060_dcc7a1f4a6",
     "original": "か、帰っていいかな",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 157\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "那、那个……我能先回去吗",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 157\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0062_6faf8cf262",
     "original": "人類の損失だ…%s……",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 158\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "这是人类的损失啊…%s……",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 158\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0064_be2692fd01",
     "original": "……\\n%sさんの死を悼みます",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 159\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "……\\n谨此悼念%s的离世",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 159\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0066_ca6f1a3f36",
     "original": "……\\n残念だったね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 160\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "……\\n真是遗憾呢",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 160\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0068_b6638b362b",
     "original": "いやー\\nパイロットが死んじゃったねー",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 161\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "哎呀—\\n驾驶员死掉了呢—",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 161\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0070_32d1e20517",
     "original": "君はうれしくないかい？\\n…いや…なんでもない",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 162\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "你不开心吗？\\n……不……没什么",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 162\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0072_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 163\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 163\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0074_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 164\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 164\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0076_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 165\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 165\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0078_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 166\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 166\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0080_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 167\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 167\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0082_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 168\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 168\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0084_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 169\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 169\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0086_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 170\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 170\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0088_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 171\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 171\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0090_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 172\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 172\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0092_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 173\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 173\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0094_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 174\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 174\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0096_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 175\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 175\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0098_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 176\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 176\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0100_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 177\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 177\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0102_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 178\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 178\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0104_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 179\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 179\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0106_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 180\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 180\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0108_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 181\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 181\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0110_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 182\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 182\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0112_97fa266c9c",
     "original": "我々の代わりに貴方が…",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 183\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "代替我们的你……",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 183\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0114_069987954d",
     "original": "痛みますか、大丈夫ですか？",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 184\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "很痛吗，不要紧吧？",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 184\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0116_f56b90092d",
     "original": "大丈夫ですか",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 185\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "不要紧吧",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 185\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0118_bedf1bfa2c",
     "original": "…子供が戦いなんかするから",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 186\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "……让小孩子去战斗什么的",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 186\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0120_53ea4adfc6",
     "original": "これに懲りたら\\n戦うのなんかやめることだ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 187\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "要是吃够苦头的话\\n就别再战斗了",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 187\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0122_cd233a5fdc",
     "original": "%sには\\n頭が下がります",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 188\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "%s\\n真是让人佩服",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 188\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0124_414f49a834",
     "original": "怪我してまで市民を助けるなんて…\\n%s…",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 189\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "不惜受伤也要帮助市民什么的……\\n%s……",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 189\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0126_b0aa4e657f",
     "original": "%s、\\n大丈夫ですかねえ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 190\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "%s、\\n不要紧吧",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 190\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0128_2905cbbbbb",
     "original": "%s…\\nああ　そういや、怪我したとか",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 191\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "%s……\\n啊对了，听说受伤了什么的",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 191\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0130_17dd64c378",
     "original": "%sか、\\n税金の無駄遣いが、これで減ったね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 192\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "%s啊，\\n这样就能减少税金的浪费了",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 192\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0132_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 193\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 193\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0134_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 194\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 194\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0136_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 195\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 195\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0138_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 196\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 196\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0140_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 197\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 197\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0142_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 198\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 198\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0144_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 199\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 199\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0146_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 200\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 200\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0148_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 201\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 201\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0150_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 202\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 202\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0152_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 203\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 203\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0154_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 204\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 204\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0156_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 205\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 205\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0158_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 206\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 206\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0160_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 207\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 207\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0162_360e7e751c",
     "original": "戦闘に勝ってくれて嬉しいよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 208\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "真高兴你能打赢战斗",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 208\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0164_aad58d8ef2",
     "original": "ありがとう！\\n本当にありがとう！",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 209\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "谢谢！\\n真的太感谢了！",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 209\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0166_fe5faaf1db",
     "original": "大活躍だったらしいね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 210\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "听说你大显身手了呢",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 210\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0168_0855288440",
     "original": "…まあ、ほめてはあげたいね\\n戦闘のことさ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 211\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "……嘛，战斗方面\\n倒是值得表扬",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 211\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0170_02c2aa9a15",
     "original": "敵が弱いらしいね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 212\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "敌人好像很弱呢",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 212\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0172_6f4c840e60",
     "original": "なんとか、貴方によって世界は守られている",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 213\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "多亏有你，世界才得以守护",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 213\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0174_d5f6dde265",
     "original": "今日も生きてる　それに感謝したいよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 214\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "今天也活着　真想为此感谢你",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 214\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0176_52e7f82dc4",
     "original": "なんとか勝ったらしいね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 215\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "似乎勉强打赢了呢",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 215\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0178_99dcba5ccd",
     "original": "ラッキーだったみたいだね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 216\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "看来是运气好呢",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 216\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0180_4c1f04087e",
     "original": "もう少し、がんばって欲しいねえ\\n何だって、戦闘だよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 217\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "希望你再努力一点啊\\n毕竟这可是战斗",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 217\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0182_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 218\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 218\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0184_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 219\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 219\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0186_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 220\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 220\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0188_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 221\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 221\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0190_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 222\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 222\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0192_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 223\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 223\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0194_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 224\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 224\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0196_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 225\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 225\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0198_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 226\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 226\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0200_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 227\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 227\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0202_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 228\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 228\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0204_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 229\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 229\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0206_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 230\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 230\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0208_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 231\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 231\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0210_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 232\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 232\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0212_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 233\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 233\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0214_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 234\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 234\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0216_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 235\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 235\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0218_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 236\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 236\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0220_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 237\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 237\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0222_f43d791b18",
     "original": "守護神がこうしているおかげでここはどこよりも安全だよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 238\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "多亏守护神坐镇，这里比任何地方都安全",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 238\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0224_005dc7bde5",
     "original": "たまに敵はでてくるけど、おおむね平和だよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 239\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "虽然偶尔会有敌人出现，但大体还算和平",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 239\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0226_41e55592db",
     "original": "君のおかげで助かっているよ\\nありがとう",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 240\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "多亏你才得救\\n谢谢",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 240\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0228_d26feddf27",
     "original": "確かに平和だけどね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 241\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "确实很和平呢",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 241\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0230_9ac1b6fd18",
     "original": "平和だな\\nあなたは何かの役に立ってるんですか？",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 242\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "真是和平呢\\n你有在做什么贡献吗？",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 242\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0232_edf8677ffe",
     "original": "ネルフって最強だなあ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 243\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "NERV果然是最强的啊",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 243\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0234_3a5ea55deb",
     "original": "ネルフもなかなかやるなぁ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 244\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "NERV干得不错嘛",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 244\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0236_4e95a0e713",
     "original": "このまま平和になればいいなあ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 245\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "希望就这样一直和平下去",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 245\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0238_81a24e15bd",
     "original": "少しは戦況有利そうだけどね…",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 246\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "战况看起来稍微有利了些……",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 246\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0240_4842b72727",
     "original": "お前がもっとがんばれば平和になるのに",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 247\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "你要是再努力点就能带来和平了",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 247\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0242_e2a258409a",
     "original": "これからの戦闘、君の活躍に期待してるよ\\n君、パイロットなんだろ？",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 248\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "接下来的战斗，就指望你大显身手了\\n你可是驾驶员吧？",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 248\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0244_9a79dc480e",
     "original": "戦闘になっても、ネルフが守ってくれるんだよね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 249\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "就算发生战斗，NERV也会保护我们的吧",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 249\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0246_16c867a5dd",
     "original": "なんでこの街ばかりが襲われるんだろう？",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 250\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "为什么总是这个城市遭到袭击呢？",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 250\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0248_6f3754b4e5",
     "original": "戦闘戦闘って迷惑なんだよなー",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 251\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "整天打仗打仗的烦死了啊—",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 251\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0250_cb14a492d9",
     "original": "もうこれ以上街を壊さないでくれよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 252\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "别再破坏这座城市了",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 252\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0252_209026771f",
     "original": "戦況は芳しくない様だね\\n大丈夫？　無理は禁物だよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 253\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "战况似乎不太乐观呢\\n还好吗？别太勉强自己",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 253\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0254_195a13e793",
     "original": "みんな生活が苦しいみたいだね　贅沢できないな",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 254\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "大家日子都不好过呢　没法奢侈了",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 254\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0256_2fb9a66794",
     "original": "壊れた建物が増えてきたね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 255\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "损毁的建筑越来越多了呢",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 255\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0258_fc28c853b2",
     "original": "誰かさんのせいで、\\n最近暮らし難くなってるからなあ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 256\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "都怪某些人\\n最近日子越来越难过了啊",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 256\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0260_bfbf2e628e",
     "original": "もっと上手く戦えないのかい？",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 257\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "就不能打得更好点吗？",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 257\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0262_6e4a23c30d",
     "original": "この戦況は君だけのせいじゃないよ\\n気にしないで",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 258\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "这战况不是你的错\\n别放在心上",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 258\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0264_5e558771a5",
     "original": "明日死んでも後悔しない様にしなきゃ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 259\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "就算明天会死\\n也要活得没有遗憾才行",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 259\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0266_a9d42dfd7a",
     "original": "もう、第３新東京市も終わりかな",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 260\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "第三新东京市也要完蛋了吧",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 260\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0268_d98d37828a",
     "original": "疎開することになったんですよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 261\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "已经决定要疏散了",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 261\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0270_0aa44b13d9",
     "original": "ネルフは…\\n国連はなにしてるんでしょうねえ…",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 262\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "NERV和UN军队…\n到底在干什么啊…",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 262\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0272_3b2f600b5c",
     "original": "%sって、\\n最近よく聞く名前だね！",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 263\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "%s这个名字\n最近经常听到呢！",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 263\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0274_c1507745ff",
     "original": "%sって、\\n最近よく聞く名前だね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 264\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "%s这个名字\n最近经常听到呢",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 264\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0276_f6c68028b6",
     "original": "%sかい？\\n聞いたことあるよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 265\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "%s吗？\\n听说过呢",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 265\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0278_ab973ce4d6",
     "original": "%s…\\nゴシップでは悪く言われてる様だが…",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 266\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "%s……\\n八卦消息里风评不太好啊……",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 266\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0280_c12058d6eb",
     "original": "%s…\\nゴシップではかなり悪く言われてる様だが…",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 267\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "%s……\\n八卦消息里风评相当糟糕呢……",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 267\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0282_123cac07ac",
     "original": "勝って帰って来るのを待ってるよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 268\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "等你凯旋归来",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 268\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0284_96ff579375",
     "original": "期待してるよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 269\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "期待你的表现",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 269\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0286_13530a69ed",
     "original": "気をつけてくれよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 270\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "千万要小心啊",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 270\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0288_713628eac7",
     "original": "作戦通りに戦えば、勝てるはずなのに",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 271\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "按作战计划打明明能赢的……",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 271\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0290_0bbb1f9580",
     "original": "もう世界も終わりか…",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 272\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "世界也快要终结了吧……",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 272\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0292_6b5527b78a",
     "original": "最近国連軍の戦車をよく見るね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 273\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "最近经常看到UN军队的坦克呢",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 273\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0294_3db7fa0f8d",
     "original": "使徒のおかげで安心して寝られないよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 274\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "都是使徒害得没法安心睡觉",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 274\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0296_b48f8b4566",
     "original": "閉所恐怖症だからシェルターって苦手なんだ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 275\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "我有幽闭恐惧症，避难所实在待不惯",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 275\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0298_a7a23869aa",
     "original": "今日も暑いね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 276\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "今天也好热啊",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 276\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0300_b99b082736",
     "original": "学校、ちゃんといってるのかい？",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 277\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "学校有好好去吗？",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 277\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0302_23e4918602",
     "original": "若いのにネルフにいるんだってね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 278\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "年纪轻轻就在NERV工作啊",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 278\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0304_c392bdbe1d",
     "original": "大人になると付き合いも大変だよ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 279\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "成年人的交际可是很累人的",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 279\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0306_9219672476",
     "original": "甘い物が大好きなんだが、大人で男は不利でねえ",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 280\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "虽然超爱甜食，但成年男性吃这个总不太合适",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 280\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0308_b603645486",
     "original": "残業が嫌いでね",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 281\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "最讨厌加班了",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 281\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0310_bcc6c3da28",
     "original": "たまにはスポーツで\\nいい汗かいてみたら？",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 282\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "偶尔也该运动运动\\n出个痛快汗吧？",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 282\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0312_b9c65b45ed",
     "original": "遊ぶのは重要だよ　いや私の話だが",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 283\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "玩乐很重要哦　虽然是我个人见解",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 283\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0314_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 284\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 284\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0316_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 285\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 285\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0318_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 286\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 286\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0320_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 287\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 287\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0322_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 288\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 288\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0324_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 289\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 289\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0326_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 290\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 290\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0328_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 291\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 291\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0330_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 292\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 292\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0332_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 293\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 293\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0334_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 294\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 294\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0336_8dcef2a67a",
     "original": "ふぅ…",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 295\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "呼……",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 295\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0338_9e517bb815",
     "original": "いい加減にしてくれないかな",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 296\nSpeaker: IMC_CITIZEN\nVoice: "
+    "translation": "能不能适可而止啊",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 296\nSpeaker: IMC_CITIZEN\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_217d406f6f_0346_af9c5988bb",
     "original": "新たな武器が追加されました",
-    "translation": "",
-    "context": "File: TALK/M012_TALK.NUT\nLine: 686\nCall: DecideStart"
+    "translation": "新增武器已解锁",
+    "context": "File: TALK/M012_TALK.NUT\nLine: 686\nCall: DecideStart",
+    "stage": 1
   }
 ]

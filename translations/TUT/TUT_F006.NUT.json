@@ -2,25 +2,29 @@
   {
     "key": "e_853ca58106_0001_25289ee07a",
     "original": "システムメニュー１",
-    "translation": "",
-    "context": "File: TUT/TUT_F006.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "系统菜单1",
+    "context": "File: TUT/TUT_F006.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_853ca58106_0002_25289ee07a",
     "original": "システムメニュー１",
-    "translation": "",
-    "context": "File: TUT/TUT_F006.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "系统菜单1",
+    "context": "File: TUT/TUT_F006.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_853ca58106_0003_d0c1db94e1",
     "original": "日常のプレイ中に$^ボタンを押すと\\n<02>システムメニュー<//>が表示されます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F006.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "日常游玩时按$^键\\n即可唤出<02>系统菜单<//>▽",
+    "context": "File: TUT/TUT_F006.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_853ca58106_0004_f15a86a5ee",
     "original": "それぞれのコマンドで、様々な機能を利用したり、\\n情報を閲覧する事ができます",
-    "translation": "",
-    "context": "File: TUT/TUT_F006.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "可通过不同指令使用各类功能\\n或查阅信息",
+    "context": "File: TUT/TUT_F006.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

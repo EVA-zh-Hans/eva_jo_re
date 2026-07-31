@@ -2,7 +2,8 @@
   {
     "key": "e_d786f4df17_0001_1378c17cda",
     "original": "７機目撃破！",
-    "translation": "",
-    "context": "File: BTL/NEV_BEV5026.NUT\nLine: 15\nCall: DecideStart2"
+    "translation": "第七机击破！",
+    "context": "File: BTL/NEV_BEV5026.NUT\nLine: 15\nCall: DecideStart2",
+    "stage": 1
   }
 ]

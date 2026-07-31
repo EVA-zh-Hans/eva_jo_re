@@ -2,68 +2,79 @@
   {
     "key": "e_8038d1573b_0001_f7dae195fe",
     "original": "…ミサトさん",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "……美里小姐",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 122\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0002_7c59608752",
     "original": "うん？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 125\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "嗯？",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 125\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0003_ca6e7cb7c3",
     "original": "…なんでエヴァに、\\nたくさん武器の種類があるんですか？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 128\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "……为什么EVA要配备\n这么多种类的武器呢？",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 128\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0004_b84af46c16",
     "original": "そうね、敵が良くわからないから、\\n色々準備してるの▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 131\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "这个嘛，因为敌人的特性难以捉摸\n所以才需要做多手准备▽",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 131\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0005_c110b04548",
     "original": "どんな使徒が出るか、エヴァやその武器を\\n設計する時には、分ってなかったから",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 132\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "在设计EVA和配套武器时\n根本没法预知会出现什么样的使徒",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 132\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0006_bd03ee6ed9",
     "original": "…今は？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 135\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "……现在呢？",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 135\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0007_3abfc36825",
     "original": "あんまり変わらないわね▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 139\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "情况也没好多少呢▽",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 139\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0008_f2eda3963d",
     "original": "だから、たくさんの武器がいるのよ\\nたとえ使わないでもね▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "所以才需要配备大量武器呀\n就算有些根本用不上▽",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 140\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0009_9248de6960",
     "original": "例えば動きの速い敵に、<02>ガトリングガン<//>では\\n対応しきれないわ…威力は強いんだけどね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 141\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "比如对付高速移动的敌人时，<02>加特林机炮<//>就跟不上节奏了……虽然威力确实很强",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 141\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0010_289fcd3fd8",
     "original": "空飛んでる敵には、\\n<02>ナイフ<//>とかつかえませんよね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 144\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "对空中飞行的敌人\n<02>战术匕首<//>就派不上用场了吧",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 144\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0011_72ff8fdb34",
     "original": "そうね、敵が降りてくるのを待ってもいいけど、\\nそれじゃ、いやでしょ？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "没错，虽然可以等敌人降落再攻击\n但那样太憋屈了吧？",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 148\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0012_f62751e08a",
@@ -75,32 +86,37 @@
   {
     "key": "e_8038d1573b_0013_cdce9232f4",
     "original": "万能の武器はないわ\\nでも、万能である必要なんてない▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 155\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "不存在万能的武器\n但本来就不需要万能▽",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 155\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0014_35411876ad",
     "original": "その時、その時で一番いい武器を\\n使いこなせばいいだけよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 156\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "只要根据战况选择最适合的武器\n并熟练掌握就足够啦▽",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 156\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0015_020d28902a",
     "original": "<02>武器庫ビル<//>で武器を換装できるわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 157\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "在<02>武器库大楼<//>可以进行武器换装",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 157\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0016_44e0992915",
     "original": "大変そうですね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 160\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "听起来很辛苦呢",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 160\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0017_7322fe5991",
     "original": "基本的には被らないように\\n性質の違う武器を置くだけよ",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 163\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "基本原则就是避免重复\\n配置不同特性的武器就行",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 163\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0018_c734eecdf9",
@@ -112,31 +128,36 @@
   {
     "key": "e_8038d1573b_0019_68da82fd14",
     "original": "それにしても、熱心ね\\nどうかしたの？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 170\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "不过还真是认真呢\\n发生什么事了吗？",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 170\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0020_2e3625cee7",
     "original": "中学の課題で…",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 173\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "中学的课题作业…",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 173\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0021_b200015542",
     "original": "ばか！　軍事機密にきまってるでしょ！",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 177\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "笨蛋！这当然是军事机密啊！",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 177\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0022_8cc0ea4e6e",
     "original": "えー！",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 180\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "诶——！",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 180\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_8038d1573b_0023_e45298c119",
     "original": "えーじゃない！　バカー！",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 184\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "不准诶——！蠢货！",
+    "context": "File: FREE/NEV_TUT0015.NUT\nLine: 184\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   }
 ]

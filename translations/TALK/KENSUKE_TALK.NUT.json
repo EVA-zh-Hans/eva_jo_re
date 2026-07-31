@@ -9,20 +9,23 @@
   {
     "key": "e_18fa1d43cb_0003_5a192e1f79",
     "original": "綾波",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 103"
+    "translation": "绫波",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 103",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0004_182b28f23a",
     "original": "惣流",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 104"
+    "translation": "惣流",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 104",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0005_cac410151b",
     "original": "渚",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 105"
+    "translation": "渚",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 105",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0006_a1f11b49a5",
@@ -34,26 +37,30 @@
   {
     "key": "e_18fa1d43cb_0007_3eb9f20eae",
     "original": "僕",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 107"
+    "translation": "我",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 107",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0008_a6df4147d6",
     "original": "委員長",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 108"
+    "translation": "班长",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 108",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0009_348d0c2cd7",
     "original": "ミサトさん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 109"
+    "translation": "美里小姐",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 109",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0010_7b6b38e9da",
     "original": "リツコさん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 110"
+    "translation": "律子小姐",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 110",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0011_df6bcb0fe8",
@@ -65,32 +72,37 @@
   {
     "key": "e_18fa1d43cb_0012_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 112"
+    "translation": "碇司令",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 112",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0013_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 113"
+    "translation": "冬月副司令",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 113",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0014_4653cddce9",
     "original": "青葉さん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 114"
+    "translation": "青叶さん",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 114",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0015_60da3b82eb",
     "original": "日向さん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 115"
+    "translation": "日向さん",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 115",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0016_b8140644e6",
     "original": "伊吹さん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 116"
+    "translation": "伊吹さん",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 116",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0017_faed743884",
@@ -109,20 +121,23 @@
   {
     "key": "e_18fa1d43cb_0019_5a192e1f79",
     "original": "綾波",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 119"
+    "translation": "绫波",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 119",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0020_182b28f23a",
     "original": "惣流",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 120"
+    "translation": "惣流",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 120",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0021_cac410151b",
     "original": "渚",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 121"
+    "translation": "渚",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 121",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0022_a1f11b49a5",
@@ -134,26 +149,30 @@
   {
     "key": "e_18fa1d43cb_0023_3eb9f20eae",
     "original": "僕",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 123"
+    "translation": "我",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 123",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0024_a6df4147d6",
     "original": "委員長",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 124"
+    "translation": "班长",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 124",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0025_348d0c2cd7",
     "original": "ミサトさん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 125"
+    "translation": "美里小姐",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 125",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0026_7b6b38e9da",
     "original": "リツコさん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 126"
+    "translation": "律子小姐",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 126",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0027_df6bcb0fe8",
@@ -165,32 +184,37 @@
   {
     "key": "e_18fa1d43cb_0028_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 128"
+    "translation": "碇司令",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 128",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0029_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 129"
+    "translation": "冬月副司令",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 129",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0030_4653cddce9",
     "original": "青葉さん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 130"
+    "translation": "青叶さん",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 130",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0031_60da3b82eb",
     "original": "日向さん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 131"
+    "translation": "日向さん",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 131",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0032_b8140644e6",
     "original": "伊吹さん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 132"
+    "translation": "伊吹さん",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 132",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0033_faed743884",
@@ -209,20 +233,23 @@
   {
     "key": "e_18fa1d43cb_0035_5a192e1f79",
     "original": "綾波",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 135"
+    "translation": "绫波",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 135",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0036_182b28f23a",
     "original": "惣流",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 136"
+    "translation": "惣流",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 136",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0037_cac410151b",
     "original": "渚",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 137"
+    "translation": "渚",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 137",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0038_a1f11b49a5",
@@ -234,26 +261,30 @@
   {
     "key": "e_18fa1d43cb_0039_3eb9f20eae",
     "original": "僕",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 139"
+    "translation": "我",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 139",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0040_a6df4147d6",
     "original": "委員長",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 140"
+    "translation": "班长",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 140",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0041_348d0c2cd7",
     "original": "ミサトさん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 141"
+    "translation": "美里小姐",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 141",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0042_7b6b38e9da",
     "original": "リツコさん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 142"
+    "translation": "律子小姐",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 142",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0043_df6bcb0fe8",
@@ -265,32 +296,37 @@
   {
     "key": "e_18fa1d43cb_0044_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 144"
+    "translation": "碇司令",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 144",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0045_6e1fcccd27",
     "original": "冬月副司令",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 145"
+    "translation": "冬月副司令",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 145",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0046_4653cddce9",
     "original": "青葉さん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 146"
+    "translation": "青叶さん",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 146",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0047_60da3b82eb",
     "original": "日向さん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 147"
+    "translation": "日向さん",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 147",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0048_b8140644e6",
     "original": "伊吹さん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 148"
+    "translation": "伊吹さん",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 148",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0049_faed743884",
@@ -308,14 +344,16 @@
   {
     "key": "e_18fa1d43cb_0052_f19038b773",
     "original": "ああ　心の友よ！",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 153\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "啊啊 心灵之友啊！",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 153\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0054_64eadaabdb",
     "original": "？\\nどうしたんだい？",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 154\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "？\n怎么了？",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 154\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0056_0f9ddf1270",
@@ -326,38 +364,44 @@
   {
     "key": "e_18fa1d43cb_0058_6a6be25a9c",
     "original": "んー　困ったな",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 156\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "唔～真头疼啊",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 156\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0060_2a328dfd80",
     "original": "いや、困った困った\\nなんでもないけどね",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 157\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "没事没事\n其实也没什么大不了的",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 157\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0062_aba99c0b1c",
     "original": "%sは幸せだったと思うよ　きっとさ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 158\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "%s应该过得很幸福吧 肯定是的",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 158\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0064_d49f376bce",
     "original": "%sが死んだなんて、\\nなかなか信じられないね",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 159\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "%s居然死了\n实在难以置信啊",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 159\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0066_6cd11fdfe0",
     "original": "%sが死んだなんて、\\nなかなか信じられないね▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 160\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "%s居然死了\n实在难以置信啊▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 160\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0068_1b2861e024",
     "original": "死んだかー",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 161\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "死了啊",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 161\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0070_73356b0f89",
@@ -374,38 +418,44 @@
   {
     "key": "e_18fa1d43cb_0074_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 164\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 164\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0076_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 165\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 165\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0078_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 166\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 166\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0080_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 167\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 167\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0082_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 168\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 168\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0084_bdc72bbfd1",
     "original": "退院おめでと\\nみんな、結構落ち込んでたぜ？",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 169\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "恭喜出院\n大家之前都挺消沉的呢？",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 169\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0086_15b3480ff6",
@@ -464,38 +514,44 @@
   {
     "key": "e_18fa1d43cb_0104_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 179\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 179\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0106_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 180\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 180\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0108_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 181\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 181\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0110_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 182\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 182\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0112_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 183\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 183\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0114_2d71c0cd1f",
     "original": "怪我してるときくらい、\\n休めればいいのにさ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 184\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "受伤的时候，\\n能休息就好了",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 184\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0116_ed6bcff499",
@@ -506,26 +562,30 @@
   {
     "key": "e_18fa1d43cb_0118_d0c2238f60",
     "original": "そのケガ、大丈夫？",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 186\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "那伤，不要紧吗？",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 186\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0120_6baf1469c5",
     "original": "どんなヘマしたんだか…",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 187\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "到底犯了什么错啊…",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 187\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0122_b03809adf5",
     "original": "重傷じゃないか\\n家帰って、寝たら？",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 188\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "伤得不轻吧\\n回家躺会儿？",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 188\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0124_53a7a4bc8b",
     "original": "%s、\\n怪我してたけどほんと大丈夫かな",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 189\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "%s、\\n虽然受伤了但真的不要紧吗",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 189\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0126_d2b0a0913c",
@@ -536,8 +596,9 @@
   {
     "key": "e_18fa1d43cb_0128_04500a08ce",
     "original": "%s、大丈夫かな？\\n大丈夫だといいけど",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 191\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "%s、不要紧吧？\\n希望没事",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 191\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0130_ae7cd77f1f",
@@ -554,38 +615,44 @@
   {
     "key": "e_18fa1d43cb_0134_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 194\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 194\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0136_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 195\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 195\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0138_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 196\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 196\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0140_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 197\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 197\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0142_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 198\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 198\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0144_d4d4b53223",
     "original": "うん？　ああ　着替え\\n知ってたけど　それがなに？",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 199\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "嗯？啊 换衣服\\n我知道 怎么了？",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 199\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0146_13b077d195",
@@ -608,8 +675,9 @@
   {
     "key": "e_18fa1d43cb_0152_7641c1c66e",
     "original": "いい天気だなあ\\nえ、どうしたの？",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 203\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "天气真好啊\\n咦，怎么了？",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 203\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0154_dbaaa41d12",
@@ -626,8 +694,9 @@
   {
     "key": "e_18fa1d43cb_0158_cc2ba20653",
     "original": "%s、変だね",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 206\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "%s、好奇怪",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 206\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0160_f1c8667714",
@@ -656,8 +725,9 @@
   {
     "key": "e_18fa1d43cb_0168_2919fc7661",
     "original": "大活躍だったな\\n俺　見たよ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 211\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "大显身手了呢\\n我看到了",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 211\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0170_dfce8cce2f",
@@ -674,8 +744,9 @@
   {
     "key": "e_18fa1d43cb_0174_1ecbcbe87a",
     "original": "敵も必死みたいだね\\nでも、勝って良かったよ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 214\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "敌人好像也很拼命\\n不过，赢了真好",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 214\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0176_c71fb1443f",
@@ -692,8 +763,9 @@
   {
     "key": "e_18fa1d43cb_0180_9d9b4df2bd",
     "original": "なんとか勝ったって感じかい？",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 217\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "算是勉强打赢的感觉？",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 217\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0182_0c58d6d824",
@@ -704,128 +776,149 @@
   {
     "key": "e_18fa1d43cb_0184_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 219\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 219\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0186_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 220\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 220\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0188_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 221\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 221\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0190_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 222\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 222\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0192_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 223\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 223\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0194_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 224\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 224\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0196_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 225\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 225\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0198_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 226\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 226\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0200_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 227\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 227\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0202_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 228\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 228\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0204_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 229\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 229\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0206_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 230\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 230\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0208_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 231\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 231\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0210_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 232\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 232\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0212_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 233\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 233\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0214_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 234\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 234\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0216_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 235\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 235\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0218_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 236\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 236\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0220_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 237\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 237\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0222_cf1211da33",
     "original": "無し",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 238\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "无",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 238\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0224_63cd4947f3",
     "original": "これだけ連勝しても敵はあきらめてないんだ\\n敵はここに攻めなきゃ、どっちみち死ぬんだと思うよ▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 239\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "连胜这么多场敌人还不死心\n他们不攻过来也是死路一条吧▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 239\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0226_51a5775235",
@@ -860,8 +953,9 @@
   {
     "key": "e_18fa1d43cb_0236_4b3caf1c22",
     "original": "戦況有利なのに\\n敵はまっすぐここに来てるんだよなあ…▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 245\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "明明形势大好\n敌人却直冲这里来了啊…▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 245\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0238_35db079394",
@@ -884,8 +978,9 @@
   {
     "key": "e_18fa1d43cb_0244_bd529bc851",
     "original": "少しは戦況、有利そうだけどね…",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 249\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "虽然局势稍微有利了些…",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 249\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0246_60663ef4eb",
@@ -896,14 +991,16 @@
   {
     "key": "e_18fa1d43cb_0248_1793cd1035",
     "original": "あのロボットが守る価値あるものって\\n何だろう…",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 251\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "那个机器人守护的东西\n到底是什么呢…",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 251\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0250_01f9647761",
     "original": "ネルフが何守ってるのかが興味あるね",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 252\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "NERV到底在守护什么真让人好奇",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 252\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0252_62433baf9c",
@@ -932,8 +1029,9 @@
   {
     "key": "e_18fa1d43cb_0260_1ea9d17a25",
     "original": "なに　ソ連だって\\nこれくらいひどかったって言うよ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 257\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "没什么 听说苏联\n当年也这么惨过",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 257\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0262_b857037d37",
@@ -950,8 +1048,9 @@
   {
     "key": "e_18fa1d43cb_0266_8d8321875a",
     "original": "あーもう、ひどい有様だよ\\n最近　学校もなくなりそうだ！",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 260\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "啊真是的 惨不忍睹\n最近学校都快停课了！",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 260\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0268_d49601feb3",
@@ -962,8 +1061,9 @@
   {
     "key": "e_18fa1d43cb_0270_e8b4179054",
     "original": "僕も疎開かな\\n最後まで、見たかったけど",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 262\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "我也该疏散了\n虽然想看到最后",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 262\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0272_d49601feb3",
@@ -974,8 +1074,9 @@
   {
     "key": "e_18fa1d43cb_0274_2fa8f1cc7a",
     "original": "負けても次はあるよ\\n生き延びればね　僕はダメだろうけど",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 264\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "输了还有下次机会\\n只要能活下来的话……虽然我大概不行吧",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 264\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0276_6d2d806015",
@@ -986,8 +1087,9 @@
   {
     "key": "e_18fa1d43cb_0278_f53541c0fd",
     "original": "%s、いやー、すごい噂だぜ！",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 266\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "%s，哇——这传闻可厉害了！",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 266\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0280_8eee7ef4e4",
@@ -998,8 +1100,9 @@
   {
     "key": "e_18fa1d43cb_0282_48cebf43e0",
     "original": "%sかい？\\n噂には聞くかな",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 268\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "%s吗？\\n倒是有所耳闻",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 268\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0284_8fd3eedf02",
@@ -1010,38 +1113,44 @@
   {
     "key": "e_18fa1d43cb_0286_3f7cc3c8b9",
     "original": "%sかあ、\\nいい話は全く聞かないねえ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 270\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "%s啊……\\n完全没听到什么好消息呢",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 270\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0288_4b871cee31",
     "original": "お前にまかせた！　がんばれよ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 271\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "就交给你了！加油啊",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 271\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0290_6fc36a5b61",
     "original": "くそぉ、戦ってるのを見たいのに",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 272\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "可恶……好想亲眼看看战斗场面啊",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 272\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0292_073a3c45cb",
     "original": "シェルターに急がなきゃ！",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 273\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "得赶快去避难所！",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 273\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0294_c04cdb48b0",
     "original": "さっさと出撃したほうがいいんじゃない？",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 274\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "还是快点出击比较好吧？",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 274\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0296_25b28fcac4",
     "original": "あー、もう会うこともないかもな",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 275\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "啊，可能再也见不到了",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 275\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0298_78dcee16c4",
@@ -1088,14 +1197,16 @@
   {
     "key": "e_18fa1d43cb_0312_213e8f441f",
     "original": "はっ　好きなものは\\nミリタリーであります",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 283\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "哈！喜欢的东西\\n就是军事相关",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 283\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0314_46febcbcdc",
     "original": "嫌いなものは戦争だよ▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 284\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "讨厌的东西是战争▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 284\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0316_e7d952982e",
@@ -1112,8 +1223,9 @@
   {
     "key": "e_18fa1d43cb_0320_436e3b92b3",
     "original": "暇なら、野戦演習でもする？",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 287\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "有空的话，要不要来场野战演习？",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 287\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0322_1a85718609",
@@ -1178,8 +1290,9 @@
   {
     "key": "e_18fa1d43cb_0342_00b4b3cd8f",
     "original": "こう見えても、僕は君を心配してるんだぜ\\nあぶなっかしいから",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 298\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "别看我这样\\n其实很担心你的\\n总感觉你随时会出事",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 298\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0344_621e90d8fb",
@@ -1190,212 +1303,247 @@
   {
     "key": "e_18fa1d43cb_0346_efa0f98101",
     "original": "同じ話を何度もしないでも…",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 300\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "别老重复同样的话啊…",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 300\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0348_1112f98a85",
     "original": "機敏な動きが自慢なヤツなら、\\n兵装ビルで足止めができるよ▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 462\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "要是遇到动作敏捷的家伙\\n在兵装大楼就能拖住它▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 462\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0350_ec6e5705c6",
     "original": "いわゆる制圧射撃ってヤツだね\\nそれなら命中精度や威力は必要とされないからさ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 463\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "就是所谓的压制射击啦\\n这种时候命中率和威力反而不重要",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 463\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0352_857966209c",
     "original": "やあ、転校生　ぼくは相田ケンスケ\\nこんなものだけどヨロシク▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 464\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_001_1"
+    "translation": "嗨，转学生\\n我是相田剑介\\n请多指教啦▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 464\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_001_1",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0354_8acc6fb88f",
     "original": "え！　なにがこんな？　うーん　難しいこと言うね君は\\nまあいいか、仲良くしようよ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 465\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_001_2"
+    "translation": "诶！什么叫「请多指教」？\\n你这人说话真难懂\\n算了，交个朋友吧",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 465\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_001_2",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0356_e07cc430ec",
     "original": "んー、なにかあった？　いや、言わないでいい\\n僕が調べてくるから　じゃ！",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 466\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_002"
+    "translation": "嗯？发生什么了？\\n算了不用告诉我\\n我去帮你打听下 先走啦",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 466\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_002",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0358_ee0fe45a5d",
     "original": "調べてきたよ！　ふむふむ君はパイロットなのかい？\\nあのロボットの▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 467\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_003_1"
+    "translation": "打听到啦！原来你是驾驶员啊？\\n开那个机器人的▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 467\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_003_1",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0360_de21c5c57c",
     "original": "ああ、ＴＶには映らないけれどね　シェルターに\\n逃げ遅れた人なんかが、結構見てるんだよ▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 468\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_003_2"
+    "translation": "虽然电视上没播\\n但避难所里没及时撤离的人\\n可都看得清清楚楚▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 468\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_003_2",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0362_07c3a76747",
     "original": "あのサイズじゃ政府ががんばっても隠せないよ▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 469\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_003_3"
+    "translation": "那种体型政府想瞒也瞒不住啦▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 469\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_003_3",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0364_6e040fbf5e",
     "original": "え、どうやって調べたかって？　いや、\\n学校に届けてたろ？　先生に聞いたら教えてくれたよ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 470\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_003_4"
+    "translation": "怎么打听的？\\n学校不是收到通知了嘛\\n我问老师就问出来啦",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 470\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_003_4",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0366_d34aaa4c86",
     "original": "相変わらず政府はうそばっかりいってるなあ　なんで\\n中学生にも見破られそうなことを発表するんだろうね▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 471\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_004_1"
+    "translation": "政府还是老样子满嘴谎话\\n连中学生都能看穿的把戏\\n居然还敢公开▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 471\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_004_1",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0368_2f8e284586",
     "original": "使徒なんて名前、誰だって知ってるよ　今時",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 472\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_004_2"
+    "translation": "使徒这种名字\\n现在谁还不知道啊",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 472\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_004_2",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0370_2408308273",
     "original": "僕が不思議なのは、\\nなんで子供がパイロットなのかってことさ▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 473\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_005_1"
+    "translation": "我唯一想不通的是\\n为什么让小孩子当驾驶员▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 473\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_005_1",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0372_8c5b5cc39b",
     "original": "僕は僕がパイロットになれるかもしれないから\\n嬉しいけど、▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 474\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_005_2"
+    "translation": "虽然要是我能当驾驶员\\n肯定会很开心啦▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 474\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_005_2",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0374_f7b291a2ce",
     "original": "大人はそんな事情では動かないのも\\n良く知っている",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 475\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_005_3"
+    "translation": "但大人们可不会\\n因为这种理由就行动",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 475\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_005_3",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0376_633a7995d0",
     "original": "政府の発表はともかくとして、\\n実際は結構ひどいみたいだね▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 476\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_006_1"
+    "translation": "暂且不论政府的官方说法，\\n实际情况似乎相当糟糕呢▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 476\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_006_1",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0378_998760697c",
     "original": "まあ、僕の散歩できる範囲での話なんだけど▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 477\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_006_2"
+    "translation": "当然，这只是在我日常散步范围内的见闻▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 477\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_006_2",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0380_27ea57b247",
     "original": "使徒はなんであんなに暴れまわるんだろう　まるで\\n僕の好きなアニメや特撮みたいだ　僕はそう思うよ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 478\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_006_3"
+    "translation": "使徒为何如此肆虐呢　简直就像\\n我喜欢的动画和特摄剧场景　我是这么想的",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 478\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_006_3",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0382_cd23f5ef06",
     "original": "世界は謎ばかりだ うーん",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 479\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_007"
+    "translation": "世界充满谜团 唔——",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 479\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_007",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0384_777bb29666",
     "original": "パイロットの仕事って大変かい？",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 480\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_008"
+    "translation": "驾驶员的工作很辛苦吧？",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 480\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_008",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0386_80d1734cea",
     "original": "つらくなるときはない？",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 481\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_009"
+    "translation": "会有撑不住的时候吗？",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 481\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_009",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0388_ce8cdacbc7",
     "original": "なぜ自分がって思う？",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 482\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_010"
+    "translation": "有没有想过为什么偏偏是自己？",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 482\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_010",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0390_8c7d83ade4",
     "original": "そっか　ううん　いや\\n僕は色々考えたけど、結局わかんなくてさ▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 483\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_011_1"
+    "translation": "这样啊　唔　其实\\n我也思考过很多，但最终也没想明白▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 483\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_011_1",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0392_efd7f3519b",
     "original": "そりゃそうだよね\\n中学生なんだから　でも…",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 484\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_011_2"
+    "translation": "也是啊\\n毕竟还是初中生　不过…",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 484\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_011_2",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0394_e7cf4a4b2c",
     "original": "巨人や、巨大ロボってのは\\n大抵人間の味方なんだよ　なんでだと思う？▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 485\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_012_1"
+    "translation": "巨人和巨型机器人这类存在\\n通常都是人类的盟友　知道为什么吗？▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 485\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_012_1",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0396_104880783a",
     "original": "それが力の象徴で、祈りを映しているからさ▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 486\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_012_2"
+    "translation": "因为它们是力量的象征，承载着人们的祈愿▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 486\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_012_2",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0398_36b82c9864",
     "original": "この国の人は、たいてい心の奥底に、大ピンチの\\nその時には巨人が現れたらいいなと思ってる▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 487\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_012_3"
+    "translation": "这个国家的人心底深处\\n总期盼危难时刻会有巨人现身▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 487\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_012_3",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0400_7c5ded9af9",
     "original": "くだらない話だろ\\nでも、本当なんだぜ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 488\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_012_4"
+    "translation": "很幼稚的想法吧\\n但确实如此",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 488\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_012_4",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0402_36b82c9864",
     "original": "この国の人は、たいてい心の奥底に、大ピンチの\\nその時には巨人が現れたらいいなと思ってる▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 489\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_013_1"
+    "translation": "这个国家的人心底深处\\n总期盼危难时刻会有巨人现身▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 489\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_013_1",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0404_6332195967",
     "original": "僕だってそうだ\\nくだらない話だろ　でも、本当なんだぜ▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 490\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_013_2"
+    "translation": "我也是这么想的\\n很可笑对吧　但这就是事实▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 490\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_013_2",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0406_781aa96065",
     "original": "僕は世界のピンチには、巨人が現れると思っている\\nその巨人の正体が僕の友達なんだ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 491\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_013_3"
+    "translation": "我相信世界危机时巨人会出现\\n而那巨人正是我的朋友",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 491\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_013_3",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0408_a7a1a78bea",
     "original": "…なあ　今は人類の大ピンチだぜ、巨人さん\\nいってこいよ　僕は…祈ってるから▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 492\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_014_1"
+    "translation": "…喂　现在可是人类存亡之际啊，巨人先生\\n快去大干一场吧　我会…为你祈祷的▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 492\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_014_1",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0410_8044937dcf",
     "original": "僕は祈ってるから　だから勝って来いよ",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 493\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_014_2"
+    "translation": "我会一直祈祷　所以一定要凯旋啊",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 493\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_014_2",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0412_dca9baf558",
     "original": "そして…▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 494\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "然后…▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 494\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0414_7a0ee0529c",
     "original": "普通の日々がはじまる▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 495\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "平凡的日常开始了……",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 495\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0416_36a29d49db",
@@ -1407,26 +1555,30 @@
   {
     "key": "e_18fa1d43cb_0418_83a1d2bd4f",
     "original": "これでヒーローゴッコ終わり\\nまた学生に逆戻りだな▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 497\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_015_1"
+    "translation": "英雄游戏到此结束\\n又要变回普通学生了▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 497\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_015_1",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0420_dfdcfc0057",
     "original": "帰ろうぜ　いいビデオみせるよ\\n少しは、お前に似てるって",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 498\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_015_2"
+    "translation": "回去吧　给你看部好片子\\n主角和你有点像哦",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 498\nSpeaker: IMC_KENSUKE\nVoice: na54_0012_14_015_2",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0422_34453dc197",
     "original": "あなたが戦いで得たものは、\\n同い年のいい友達だった▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 499\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你在战斗中获得的\\n是同龄的挚友▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 499\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0424_d2a5d64c79",
     "original": "あなたは空を見た後、１、２と数えて、\\nそして笑顔になった▽",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 500\nSpeaker: IMC_NONE\nVoice: "
+    "translation": "你仰望天空默数一二\\n随后展露笑颜▽",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 500\nSpeaker: IMC_NONE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0426_8d4795eec6",
@@ -1438,49 +1590,57 @@
   {
     "key": "e_18fa1d43cb_0428_c51236f95a",
     "original": "友情の証にマル秘情報を教えてやるよ！",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 502\nSpeaker: IMC_KENSUKE\nVoice: "
+    "translation": "作为友情的证明，告诉你个机密情报！",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 502\nSpeaker: IMC_KENSUKE\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0478_d4baae1973",
     "original": "大変",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 516\nVoice: わからない"
+    "translation": "辛苦",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 516\nVoice: わからない",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0479_db9e0e7076",
     "original": "わからない",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 516\nVoice: "
+    "translation": "不清楚",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 516\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0484_871840b40b",
     "original": "いつもつらいかな",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 517\nVoice: 誰かがやらないといけない"
+    "translation": "总是很痛苦吗",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 517\nVoice: 誰かがやらないといけない",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0485_e80f53796d",
     "original": "誰かがやらないといけない",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 517\nVoice: "
+    "translation": "总得有人去做",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 517\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0490_d9b71155b9",
     "original": "それはいつも",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 518\nVoice: 絆だから"
+    "translation": "因为一直以来",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 518\nVoice: 絆だから",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0491_39c914e3c7",
     "original": "絆だから",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 518\nVoice: "
+    "translation": "都是这份羁绊",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 518\nVoice: ",
+    "stage": 1
   },
   {
     "key": "e_18fa1d43cb_0539_af9c5988bb",
     "original": "新たな武器が追加されました",
-    "translation": "",
-    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 828\nCall: DecideStart"
+    "translation": "新增武器已解锁",
+    "context": "File: TALK/KENSUKE_TALK.NUT\nLine: 828\nCall: DecideStart",
+    "stage": 1
   }
 ]

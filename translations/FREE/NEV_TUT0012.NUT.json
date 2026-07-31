@@ -2,50 +2,58 @@
   {
     "key": "e_466dee77b2_0001_c1df1c7538",
     "original": "敵を倒すと、敵は強くなるんですね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 85\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "打倒敌人后\\n敌人就会变强是吗",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 85\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0002_6ee5662926",
     "original": "そうね、こちらの攻撃方法に応じて\\n手口を変えてくるわ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 88\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "没错，它们会根据\\n我们的攻击方式改变策略▽",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 88\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0003_9f883f8747",
     "original": "同じ戦法は通用しないって事ね▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 89\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "意味着同样的战术不再奏效▽",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 89\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0004_1e1f043dff",
     "original": "今、シミュレーション、\\n<02>模擬戦<//>のほうも入れ替えてもらってる",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 90\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "现在连模拟作战\\n<02>训练模式<//>也更新过了",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 90\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0005_e8fbcf8066",
     "original": "でもそれに勝ったら、\\nまた強くなるんですよね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 93\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "但如果能赢下来的话，\\n就会变得更强对吧",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 93\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0006_9bbbaa026d",
     "original": "そうね…\\nこれからは、つらくなるわよ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 96\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "是啊……\\n从今往后会更辛苦哦▽",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 96\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0007_0c17be83ad",
     "original": "進化競争ね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 97\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "进化竞争呢",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 97\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0008_4f3a649d6b",
     "original": "受験競争みたいですね…",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 100\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "就像升学考试一样呢……",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 100\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0009_a7f878b8ce",
@@ -56,67 +64,78 @@
   {
     "key": "e_466dee77b2_0010_20c6441222",
     "original": "すみません",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 106\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "抱歉",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 106\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0011_1f4b20b5cd",
     "original": "…いいえ\\nたまには、いいこと言うじゃない▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 109\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "…没关系\\n偶尔也能说出不错的话嘛▽",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 109\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0012_259bbbd83c",
     "original": "…模擬戦は別にせよ、\\nどうせ一回でも負けたら終わりなのが今の人類よ▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 110\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "…模拟战另当别论\\n如今的人类只要输一次就全完了▽",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 110\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0013_ed1b73c097",
     "original": "勝ち続けるしかないし、あなたにはこれから、\\nそのための訓練をしてもらいます▽",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 111\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "必须不断胜利才行，所以接下来\\n要让你接受相应的训练▽",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 111\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0014_463cfc4279",
     "original": "勝ち続けるための、ね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 112\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "为了持续胜利的，训练哦",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 112\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0015_12699e36df",
     "original": "はい、わかりました",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 115\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "好的，我明白了",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 115\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0016_604e549c48",
     "original": "嫌がらないのね",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 118\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "居然没抱怨呢",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 118\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0017_fdee764d27",
     "original": "…僕だって\\n死にたくはありません…",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 121\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "…我也不想\\n就这样死去啊…",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 121\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0018_b958e94aaa",
     "original": "（…友達が出来たのが、\\n　プラスになってるのかな）",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 124\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "（…交到朋友这件事\\n　让他产生积极性了吗）",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 124\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0019_ccee77627c",
     "original": "…え？",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 127\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "…啊？",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 127\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   },
   {
     "key": "e_466dee77b2_0020_026408275f",
     "original": "なんでもないわ",
-    "translation": "",
-    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 130\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "没什么",
+    "context": "File: FREE/NEV_TUT0012.NUT\nLine: 130\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   }
 ]

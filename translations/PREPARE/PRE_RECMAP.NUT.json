@@ -2,43 +2,50 @@
   {
     "key": "e_f7e734bee0_0001_3024e74ea8",
     "original": "被害を受けた第３新東京市で行われている、\\n復興活動の支援ができるわ",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 48\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "在遭受破坏的第三新东京市，\\n可以支援复兴活动哦",
+    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 48\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_f7e734bee0_0002_3b9b834fd9",
     "original": "…ってどこも被害はないじゃない▽",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 52\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "……这不是哪儿都没受损嘛▽",
+    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 52\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   },
   {
     "key": "e_f7e734bee0_0003_1c25195964",
     "original": "%d必要ですが、よろしいですか？",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 104\nCall: DecideStart"
+    "translation": "需要%d，确定吗？",
+    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 104\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_f7e734bee0_0004_284fd94ce2",
     "original": "復興が完了しました",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 142\nCall: DecideStart"
+    "translation": "复兴工作已完成",
+    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 142\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_f7e734bee0_0005_aa683ff4fb",
     "original": "<12>民間人<//>から<12>シンジ<//>への注目度が<07>１<//>上がった\\n<12>民間人<//>から<12>シンジ<//>への態度が<07>ポジティブ<//>に変化した",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 153\nCall: DecideStart"
+    "translation": "<12>市民<//>对<12>真嗣<//>的关注度<07>+1<//>\\n<12>市民<//>对<12>真嗣<//>的态度转为<07>积极<//>",
+    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 153\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_f7e734bee0_0006_61723bde08",
     "original": "全ての復興が完了しました",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 165\nCall: DecideStart"
+    "translation": "所有复兴工作已完成",
+    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 165\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_f7e734bee0_0007_eb6f5a3ae1",
     "original": "あなたは人に誉められる立派なことをしたのよ\\n胸を張っていいわ",
-    "translation": "",
-    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 195\nCall: im.play\nSpeaker: IMC_MISATO"
+    "translation": "你做了件值得被称赞的漂亮事\\n挺起胸膛骄傲吧",
+    "context": "File: PREPARE/PRE_RECMAP.NUT\nLine: 195\nCall: im.play\nSpeaker: IMC_MISATO",
+    "stage": 1
   }
 ]

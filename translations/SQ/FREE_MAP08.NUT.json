@@ -2,38 +2,44 @@
   {
     "key": "e_7310b555e3_0001_a1d5863e1a",
     "original": "新たな模擬戦が追加されました",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP08.NUT\nLine: 57\nCall: DecideStart"
+    "translation": "新增模拟战已解锁",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 57\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_7310b555e3_0002_9554d185f6",
     "original": "新たなスキルが追加されました",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP08.NUT\nLine: 66\nCall: DecideStart"
+    "translation": "新增技能已解锁",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 66\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_7310b555e3_0003_af9c5988bb",
     "original": "新たな武器が追加されました",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP08.NUT\nLine: 75\nCall: DecideStart"
+    "translation": "新增武器已解锁",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 75\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_7310b555e3_0004_92e91c83a2",
     "original": "新たなギミックが追加されました",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP08.NUT\nLine: 84\nCall: DecideStart"
+    "translation": "新增机关已解锁",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 84\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_7310b555e3_0005_780c0307e0",
     "original": "ペンペンと話す",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP08.NUT\nLine: 102\nCall: OpenMenuNoWait\nVoice: 移動する"
+    "translation": "与Pen Pen对话",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 102\nCall: OpenMenuNoWait\nVoice: 移動する",
+    "stage": 1
   },
   {
     "key": "e_7310b555e3_0006_5f965ad66c",
     "original": "移動する",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP08.NUT\nLine: 102\nCall: OpenMenuNoWait\nVoice: セーブする"
+    "translation": "移动",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 102\nCall: OpenMenuNoWait\nVoice: セーブする",
+    "stage": 1
   },
   {
     "key": "e_7310b555e3_0007_6ce09ac47e",
@@ -45,8 +51,9 @@
   {
     "key": "e_7310b555e3_0008_780c0307e0",
     "original": "ペンペンと話す",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP08.NUT\nLine: 107\nCall: OpenMenuNoWait\nVoice: 日常生活を終了する"
+    "translation": "与Pen Pen对话",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 107\nCall: OpenMenuNoWait\nVoice: 日常生活を終了する",
+    "stage": 1
   },
   {
     "key": "e_7310b555e3_0009_cdcee9f30e",
@@ -58,8 +65,9 @@
   {
     "key": "e_7310b555e3_0010_5f965ad66c",
     "original": "移動する",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP08.NUT\nLine: 107\nCall: OpenMenuNoWait\nVoice: セーブする"
+    "translation": "移动",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 107\nCall: OpenMenuNoWait\nVoice: セーブする",
+    "stage": 1
   },
   {
     "key": "e_7310b555e3_0011_6ce09ac47e",
@@ -71,8 +79,9 @@
   {
     "key": "e_7310b555e3_0012_5f965ad66c",
     "original": "移動する",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP08.NUT\nLine: 115\nCall: OpenMenuNoWait\nVoice: セーブする"
+    "translation": "移动",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 115\nCall: OpenMenuNoWait\nVoice: セーブする",
+    "stage": 1
   },
   {
     "key": "e_7310b555e3_0013_6ce09ac47e",
@@ -91,8 +100,9 @@
   {
     "key": "e_7310b555e3_0015_5f965ad66c",
     "original": "移動する",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP08.NUT\nLine: 120\nCall: OpenMenuNoWait\nVoice: セーブする"
+    "translation": "移动",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 120\nCall: OpenMenuNoWait\nVoice: セーブする",
+    "stage": 1
   },
   {
     "key": "e_7310b555e3_0016_6ce09ac47e",
@@ -104,7 +114,8 @@
   {
     "key": "e_7310b555e3_0017_98e9e77ff5",
     "original": "今日はもう休もうかな",
-    "translation": "",
-    "context": "File: SQ/FREE_MAP08.NUT\nLine: 215\nCall: im.play\nSpeaker: IMC_SHINJI"
+    "translation": "今天还是先休息吧",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 215\nCall: im.play\nSpeaker: IMC_SHINJI",
+    "stage": 1
   }
 ]

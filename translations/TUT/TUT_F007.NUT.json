@@ -2,31 +2,36 @@
   {
     "key": "e_0f1759c265_0001_789d3f272a",
     "original": "システムメニュー２",
-    "translation": "",
-    "context": "File: TUT/TUT_F007.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "系统菜单2",
+    "context": "File: TUT/TUT_F007.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_0f1759c265_0002_789d3f272a",
     "original": "システムメニュー２",
-    "translation": "",
-    "context": "File: TUT/TUT_F007.NUT\nLine: 23\nCall: DecideStart"
+    "translation": "系统菜单2",
+    "context": "File: TUT/TUT_F007.NUT\nLine: 23\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_0f1759c265_0003_d1a637cdf7",
     "original": "<02>キャラステータス<//>では、<02>登場キャラクターの\\n様々なデータ<//>を確認する事ができます",
-    "translation": "",
-    "context": "File: TUT/TUT_F007.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>角色状态<//>可查看<02>登场角色\\n的各项数据<//>",
+    "context": "File: TUT/TUT_F007.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_0f1759c265_0004_978a31addc",
     "original": "<02>エヴァステータス<//>では、<02>登場した機体の\\n様々なデータ<//>を確認する事ができます",
-    "translation": "",
-    "context": "File: TUT/TUT_F007.NUT\nLine: 40\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "在<02>EVA状态<//>界面，可以查看<02>登场机体的各种数据<//>",
+    "context": "File: TUT/TUT_F007.NUT\nLine: 40\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_0f1759c265_0005_ae2451eff8",
     "original": "<02>第３新東京市ステータス<//>では、<02>第３新東京市\\n各エリアの様々なデータ<//>を確認する事ができます",
-    "translation": "",
-    "context": "File: TUT/TUT_F007.NUT\nLine: 52\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "在<02>第三新东京市状态<//>界面，可以查看<02>第三新东京市各区域的各类数据<//>",
+    "context": "File: TUT/TUT_F007.NUT\nLine: 52\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

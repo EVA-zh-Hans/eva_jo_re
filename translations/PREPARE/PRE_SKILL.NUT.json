@@ -16,19 +16,22 @@
   {
     "key": "e_bfbe3532f0_0003_5e473364b1",
     "original": "開発したスキルプログラムを実装すれば\\nエヴァはもっと強くなるわよ",
-    "translation": "",
-    "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 78\nCall: im.play\nSpeaker: IMC_RITSUKO"
+    "translation": "只要安装开发的技能程序\\nEVA就能变得更强哦",
+    "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 78\nCall: im.play\nSpeaker: IMC_RITSUKO",
+    "stage": 1
   },
   {
     "key": "e_bfbe3532f0_0004_5e50355b1c",
     "original": "スキルプログラムを開発すれば\\nエヴァはもっと強くなるわよ",
-    "translation": "",
-    "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 82\nCall: im.play\nSpeaker: IMC_RITSUKO"
+    "translation": "只要开发技能程序\\nEVA就能变得更强哦",
+    "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 82\nCall: im.play\nSpeaker: IMC_RITSUKO",
+    "stage": 1
   },
   {
     "key": "e_bfbe3532f0_0005_af4d0b0afa",
     "original": "またいらっしゃい",
-    "translation": "",
-    "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 191\nCall: im.play\nSpeaker: IMC_RITSUKO"
+    "translation": "欢迎下次再来",
+    "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 191\nCall: im.play\nSpeaker: IMC_RITSUKO",
+    "stage": 1
   }
 ]

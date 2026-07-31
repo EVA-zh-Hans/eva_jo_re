@@ -2,37 +2,43 @@
   {
     "key": "e_37cf70b196_0001_84edc5ab23",
     "original": "強い武器を手に入れれば、\\n戦闘も楽になると思うよ！",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYWPN.NUT\nLine: 42\nCall: im.play\nSpeaker: IMC_MAKOTO"
+    "translation": "拿到强力武器的话，\n战斗也会轻松些！",
+    "context": "File: PREPARE/PRE_BUYWPN.NUT\nLine: 42\nCall: im.play\nSpeaker: IMC_MAKOTO",
+    "stage": 1
   },
   {
     "key": "e_37cf70b196_0002_ecac477d58",
     "original": "えーっと、申し訳ないけど、\\n今調達できるものはないようだね▽",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYWPN.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_MAKOTO"
+    "translation": "呃…很抱歉，\n现在能调度的物资似乎都没有呢▽",
+    "context": "File: PREPARE/PRE_BUYWPN.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_MAKOTO",
+    "stage": 1
   },
   {
     "key": "e_37cf70b196_0003_62aae95713",
     "original": "所持数が最大です",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYWPN.NUT\nLine: 86\nCall: DecideStart"
+    "translation": "持有数量已达上限",
+    "context": "File: PREPARE/PRE_BUYWPN.NUT\nLine: 86\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_37cf70b196_0004_1c25195964",
     "original": "%d必要ですが、よろしいですか？",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYWPN.NUT\nLine: 129\nCall: DecideStart"
+    "translation": "需要%d，确定吗？",
+    "context": "File: PREPARE/PRE_BUYWPN.NUT\nLine: 129\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_37cf70b196_0005_af6a7000d8",
     "original": "武器配置用リストに追加されました",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYWPN.NUT\nLine: 160\nCall: DecideStart"
+    "translation": "已加入武器配置列表",
+    "context": "File: PREPARE/PRE_BUYWPN.NUT\nLine: 160\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_37cf70b196_0006_023c61af81",
     "original": "調達した武器は、\\n武器庫ビルに配置するのを忘れないようにね",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BUYWPN.NUT\nLine: 185\nCall: im.play\nSpeaker: IMC_MAKOTO"
+    "translation": "采购的武器\n别忘了配置到武器库大楼",
+    "context": "File: PREPARE/PRE_BUYWPN.NUT\nLine: 185\nCall: im.play\nSpeaker: IMC_MAKOTO",
+    "stage": 1
   }
 ]

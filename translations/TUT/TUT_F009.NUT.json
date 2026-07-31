@@ -2,25 +2,29 @@
   {
     "key": "e_a66a3be486_0001_a4cb860847",
     "original": "システムメニュー４",
-    "translation": "",
-    "context": "File: TUT/TUT_F009.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "系统菜单4",
+    "context": "File: TUT/TUT_F009.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_a66a3be486_0002_a4cb860847",
     "original": "システムメニュー４",
-    "translation": "",
-    "context": "File: TUT/TUT_F009.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "系统菜单4",
+    "context": "File: TUT/TUT_F009.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_a66a3be486_0003_3e0fc2aee7",
     "original": "<02>チュートリアル<//>では、<02>生活や戦闘などの\\nガイダンス<//>が説明されています▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F009.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>教程<//>提供关于<02>生活和战斗等\\n指引<//>的说明▽",
+    "context": "File: TUT/TUT_F009.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_a66a3be486_0004_531f77d1d8",
     "original": "今後わからない事があったら、プレイの方法と\\nヒントを<02>チュートリアル<//>で確認しましょう",
-    "translation": "",
-    "context": "File: TUT/TUT_F009.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "今后若有不明白之处，可通过<02>教程<//>\\n确认游玩方法和提示",
+    "context": "File: TUT/TUT_F009.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

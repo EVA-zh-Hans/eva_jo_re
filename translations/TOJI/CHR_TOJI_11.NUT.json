@@ -2,19 +2,22 @@
   {
     "key": "e_baa6319b96_0001_7a89a1a053",
     "original": "…鈴原がね、自分にもしなにかあったら、\\nあなたに伝えてくれって",
-    "translation": "",
-    "context": "File: TOJI/CHR_TOJI_11.NUT\nLine: 41\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0011_12_012_1"
+    "translation": "…冬二他说 如果自己遭遇不测\\n要我把这些话转达给你",
+    "context": "File: TOJI/CHR_TOJI_11.NUT\nLine: 41\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0011_12_012_1",
+    "stage": 1
   },
   {
     "key": "e_baa6319b96_0002_0b1613783a",
     "original": "お前は悪くない、いじょ\\n笑顔じゅーよー、じゃな…だって",
-    "translation": "",
-    "context": "File: TOJI/CHR_TOJI_11.NUT\nLine: 44\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0011_12_012_2"
+    "translation": "不是你的错 以上\\n要保持笑容 这样…他说",
+    "context": "File: TOJI/CHR_TOJI_11.NUT\nLine: 44\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0011_12_012_2",
+    "stage": 1
   },
   {
     "key": "e_baa6319b96_0003_feee82f8d5",
     "original": "ばかだよね…\\nほんとばかだよね…",
-    "translation": "",
-    "context": "File: TOJI/CHR_TOJI_11.NUT\nLine: 47\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0011_12_012_3"
+    "translation": "笨蛋…\\n真是个大笨蛋…",
+    "context": "File: TOJI/CHR_TOJI_11.NUT\nLine: 47\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0011_12_012_3",
+    "stage": 1
   }
 ]

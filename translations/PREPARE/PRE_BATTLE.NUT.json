@@ -2,32 +2,37 @@
   {
     "key": "e_87590d723c_0001_1fbec0ddb5",
     "original": "第３新東京市　中央区",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　東地区"
+    "translation": "第3新东京市 中央区",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　東地区",
+    "stage": 1
   },
   {
     "key": "e_87590d723c_0002_c6a5aa6da9",
     "original": "第３新東京市　東地区",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　西地区"
+    "translation": "第3新东京市 东地区",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　西地区",
+    "stage": 1
   },
   {
     "key": "e_87590d723c_0003_11b350752e",
     "original": "第３新東京市　西地区",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　南地区"
+    "translation": "第3新东京市 西地区",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　南地区",
+    "stage": 1
   },
   {
     "key": "e_87590d723c_0004_c4ec54987c",
     "original": "第３新東京市　南地区",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　北地区"
+    "translation": "第3新东京市 南地区",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 第３新東京市　北地区",
+    "stage": 1
   },
   {
     "key": "e_87590d723c_0005_e72089eb06",
     "original": "第３新東京市　北地区",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 　　ジオフロント"
+    "translation": "第3新东京市 北地区",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 26\nVoice: 　　ジオフロント",
+    "stage": 1
   },
   {
     "key": "e_87590d723c_0006_8506ee0889",
@@ -45,14 +50,16 @@
   {
     "key": "e_87590d723c_0008_e519684cc5",
     "original": "あら、訓練ですか？\\n無茶はしないでくださいね",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 65\nCall: im.play\nSpeaker: IMC_MAYA"
+    "translation": "哎呀，要训练吗？\n可别乱来哦",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 65\nCall: im.play\nSpeaker: IMC_MAYA",
+    "stage": 1
   },
   {
     "key": "e_87590d723c_0009_8da50e8143",
     "original": "すみません…\\n今、できる模擬戦はありません▽",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 69\nCall: im.play\nSpeaker: IMC_MAYA"
+    "translation": "抱歉……\n现在没有能进行的模拟战▽",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 69\nCall: im.play\nSpeaker: IMC_MAYA",
+    "stage": 1
   },
   {
     "key": "e_87590d723c_0010_a44373a21d",
@@ -64,25 +71,29 @@
   {
     "key": "e_87590d723c_0011_f828e90c60",
     "original": "スキルプログラムを実装",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 142\nCall: MenuSetup\nVoice: 模擬戦を開始"
+    "translation": "实装技能程序",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 142\nCall: MenuSetup\nVoice: 模擬戦を開始",
+    "stage": 1
   },
   {
     "key": "e_87590d723c_0012_cc66a6ad67",
     "original": "模擬戦を開始",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 142\nCall: MenuSetup"
+    "translation": "开始模拟战",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 142\nCall: MenuSetup",
+    "stage": 1
   },
   {
     "key": "e_87590d723c_0013_830fa9bdce",
     "original": "それでは、模擬戦を開始します",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 188\nCall: im.play\nSpeaker: IMC_MAYA"
+    "translation": "那么，开始模拟战",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 188\nCall: im.play\nSpeaker: IMC_MAYA",
+    "stage": 1
   },
   {
     "key": "e_87590d723c_0014_e6e1152fbf",
     "original": "またいつでも来てください\\n早くエヴァに慣れてくださいね！",
-    "translation": "",
-    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 270\nCall: im.play\nSpeaker: IMC_MAYA"
+    "translation": "随时欢迎再来\n要快点熟悉EVA哦！",
+    "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 270\nCall: im.play\nSpeaker: IMC_MAYA",
+    "stage": 1
   }
 ]

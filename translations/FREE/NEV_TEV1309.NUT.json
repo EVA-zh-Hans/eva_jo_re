@@ -439,8 +439,9 @@
   {
     "key": "e_a9bd4e8593_0064_aecbe4cbd4",
     "original": "了解",
-    "translation": "",
-    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1479\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1310_10_017"
+    "translation": "了解",
+    "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1479\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA10_1310_10_017",
+    "stage": 1
   },
   {
     "key": "e_a9bd4e8593_0065_6de8c818d3",

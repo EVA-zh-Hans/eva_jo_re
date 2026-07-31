@@ -2,56 +2,65 @@
   {
     "key": "e_b8371d2aae_0001_a739c6fd73",
     "original": "綾波さんにプリント届けてくれない？\\n最近、来てないから",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 96\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0002_12_009"
+    "translation": "能帮忙把讲义送给绫波同学吗？\\n她最近都没来",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 96\nCall: im.event2\nSpeaker: IMC_HIKARI\nVoice: na54_0002_12_009",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0002_9de8125107",
     "original": "プリントを届けにいこう…",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 115\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "去送讲义吧……",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 115\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0003_46b6902e96",
     "original": "呼び鈴を鳴らしても出てこない▽",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 150\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "按门铃也没人应▽",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 150\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0004_453f3735a4",
     "original": "ノックも駄目…\\n呼んでも駄目…",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 151\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "敲门也不行…\\n喊也没反应…",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 151\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0005_cf07b8f8df",
     "original": "鍵は…開いてる",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 156\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "门锁…开着",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 156\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0007_8305c00933",
     "original": "部屋の中へ入る",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 159\nCall: im.question\nSpeaker: IMC_NONE\nVoice: プリントを置いて立ち去る"
+    "translation": "进入房间",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 159\nCall: im.question\nSpeaker: IMC_NONE\nVoice: プリントを置いて立ち去る",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0008_0c59561c7d",
     "original": "プリントを置いて立ち去る",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 159\nCall: im.question\nSpeaker: IMC_NONE"
+    "translation": "放下讲义离开",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 159\nCall: im.question\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0009_dcb4cb4951",
     "original": "殺風景な…",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 191\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "真是冷清…",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 191\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0010_73b57737ca",
     "original": "わぁッ！",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 197\nCall: im.event2\nSpeaker: IMC_SHINJI\nVoice: na54_0002_03_010"
+    "translation": "哇啊！",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 197\nCall: im.event2\nSpeaker: IMC_SHINJI\nVoice: na54_0002_03_010",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0011_a7f878b8ce",
@@ -62,44 +71,51 @@
   {
     "key": "e_b8371d2aae_0012_bdb8773696",
     "original": "綾波は着替えている",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 203\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "绫波正在换衣服",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 203\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0014_e5ac61832b",
     "original": "あやまる",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 206\nCall: im.question\nSpeaker: IMC_NONE\nVoice: プリントを置いて立ち去る"
+    "translation": "道歉",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 206\nCall: im.question\nSpeaker: IMC_NONE\nVoice: プリントを置いて立ち去る",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0015_0c59561c7d",
     "original": "プリントを置いて立ち去る",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 206\nCall: im.question\nSpeaker: IMC_NONE"
+    "translation": "放下讲义离开",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 206\nCall: im.question\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0016_893cbc1f43",
     "original": "…何？\\nあ、プリント…",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 215\nCall: im.event2\nSpeaker: IMC_REI\nVoice: na54_0002_03_011"
+    "translation": "…什么事？\\n啊，是文件…",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 215\nCall: im.event2\nSpeaker: IMC_REI\nVoice: na54_0002_03_011",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0018_5b17517f6d",
     "original": "盛大にこける",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 218\nCall: im.question\nSpeaker: IMC_NONE\nVoice: プリントを置いて立ち去る"
+    "translation": "夸张地摔倒",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 218\nCall: im.question\nSpeaker: IMC_NONE\nVoice: プリントを置いて立ち去る",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0019_0c59561c7d",
     "original": "プリントを置いて立ち去る",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 218\nCall: im.question\nSpeaker: IMC_NONE"
+    "translation": "放下讲义离开",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 218\nCall: im.question\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0020_cee2729bca",
     "original": "綾波を押し倒した",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 232\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "把绫波推倒了",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 232\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0021_a7f878b8ce",
@@ -110,37 +126,43 @@
   {
     "key": "e_b8371d2aae_0022_5d6fc5d564",
     "original": "手を…\\nどけてくれる？",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 239\nCall: im.event2\nSpeaker: IMC_REI\nVoice: na54_0002_03_012"
+    "translation": "把手…\\n拿开好吗？",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 239\nCall: im.event2\nSpeaker: IMC_REI\nVoice: na54_0002_03_012",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0023_a3fd398a2d",
     "original": "あなたは言い訳らしいものを述べると\\nプリントを置いて立ち去った",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 244\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "你支支吾吾地解释完\\n放下文件离开了",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 244\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0024_46e9dafacd",
     "original": "顔から火が出るほど恥ずかしかった",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 245\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "羞得脸上快要喷火",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 245\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0025_64b9e95923",
     "original": "プリントを置いて立ち去った\\n顔から火が出るほど恥ずかしかった",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 256\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "放下文件离开了\\n羞得脸上快要喷火",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 256\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0026_64b9e95923",
     "original": "プリントを置いて立ち去った\\n顔から火が出るほど恥ずかしかった",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 268\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "放下文件离开了\\n羞得脸上快要喷火",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 268\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_b8371d2aae_0027_64b9e95923",
     "original": "プリントを置いて立ち去った\\n顔から火が出るほど恥ずかしかった",
-    "translation": "",
-    "context": "File: REI/CHR_REI_06.NUT\nLine: 279\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "放下文件离开了\\n羞得脸上快要喷火",
+    "context": "File: REI/CHR_REI_06.NUT\nLine: 279\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

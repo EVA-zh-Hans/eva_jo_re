@@ -2,25 +2,29 @@
   {
     "key": "e_3345fc7a3b_0001_f17e515e42",
     "original": "情報確認",
-    "translation": "",
-    "context": "File: TUT/TUT_F102.NUT\nLine: 7\nCall: StartNavi"
+    "translation": "情报确认",
+    "context": "File: TUT/TUT_F102.NUT\nLine: 7\nCall: StartNavi",
+    "stage": 1
   },
   {
     "key": "e_3345fc7a3b_0002_f17e515e42",
     "original": "情報確認",
-    "translation": "",
-    "context": "File: TUT/TUT_F102.NUT\nLine: 20\nCall: DecideStart"
+    "translation": "情报确认",
+    "context": "File: TUT/TUT_F102.NUT\nLine: 20\nCall: DecideStart",
+    "stage": 1
   },
   {
     "key": "e_3345fc7a3b_0003_5d923cb078",
     "original": "<02>戦闘準備<//>に必要な<02>情報を確認<//>したい場合は、\\n<12>青葉<//>に話しかけます▽",
-    "translation": "",
-    "context": "File: TUT/TUT_F102.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "若要确认<02>战斗准备<//>所需的<02>情报<//>，\\n就去找<12>青叶<//>吧▽",
+    "context": "File: TUT/TUT_F102.NUT\nLine: 25\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   },
   {
     "key": "e_3345fc7a3b_0004_bb029325fc",
     "original": "<02>それまでに聞いた情報がリストで一覧<//>できます",
-    "translation": "",
-    "context": "File: TUT/TUT_F102.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE"
+    "translation": "<02>之前获得的情报会以列表形式一览<//>",
+    "context": "File: TUT/TUT_F102.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_NONE",
+    "stage": 1
   }
 ]

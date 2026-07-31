@@ -58,8 +58,9 @@
   {
     "key": "e_db6f7768ae_0009_3db00bd3d6",
     "original": "碇司令",
-    "translation": "",
-    "context": "File: FREE/NEV_SEV0404.NUT\nLine: 281\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0404_03_008"
+    "translation": "碇司令",
+    "context": "File: FREE/NEV_SEV0404.NUT\nLine: 281\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_0404_03_008",
+    "stage": 1
   },
   {
     "key": "e_db6f7768ae_0010_4542b1b53c",
