@@ -2,2161 +2,2161 @@
   {
     "key": "e_a55e457788_0001_479636aaf5",
     "original": "初対面の挨拶",
-    "translation": "",
+    "translation": "初次见面的问候",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 0\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0002_879d2e2b82",
     "original": "挨拶する",
-    "translation": "",
+    "translation": "打招呼",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 1\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0003_a2f81df923",
     "original": "＊の死について",
-    "translation": "",
+    "translation": "关于＊的死",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 2\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0004_193176f688",
     "original": "怪我を心配する",
-    "translation": "",
+    "translation": "担心伤势",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 3\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0005_f779e56a92",
     "original": "怪我について話す",
-    "translation": "",
+    "translation": "谈谈伤势",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 4\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0006_b522c64ddb",
     "original": "＊の怪我について",
-    "translation": "",
+    "translation": "关于＊的伤势",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 5\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0007_5a69328d05",
     "original": "楽勝だったよ",
-    "translation": "",
+    "translation": "赢得很轻松",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 6\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0008_d4c77dde90",
     "original": "何とか勝てたよ",
-    "translation": "",
+    "translation": "总算赢了",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 7\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0009_fe358e4477",
     "original": "模擬戦楽勝だったよ",
-    "translation": "",
+    "translation": "模拟战轻松获胜",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 8\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0010_41301fb31e",
     "original": "模擬戦何とか勝てたよ",
-    "translation": "",
+    "translation": "模拟战总算赢了",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 9\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0011_f77cdc21aa",
     "original": "模擬戦で惜敗したよ",
-    "translation": "",
+    "translation": "模拟战惜败",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 10\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0012_2a90055abe",
     "original": "模擬戦で惨敗だったよ",
-    "translation": "",
+    "translation": "模拟战惨败",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 11\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0013_1f1557b046",
     "original": "戦況は優勢だね",
-    "translation": "",
+    "translation": "战况占优",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 12\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0014_4b54cc494c",
     "original": "戦況は有利に進んでる",
-    "translation": "",
+    "translation": "战况进展顺利",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 13\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0015_465a56ea8b",
     "original": "戦況はどっちつかず",
-    "translation": "",
+    "translation": "战况不相上下",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 14\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0016_4b13b51c22",
     "original": "戦況は不利かも",
-    "translation": "",
+    "translation": "战况可能不利",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 15\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0017_9700af8a45",
     "original": "戦況はかなり厳しい",
-    "translation": "",
+    "translation": "战况相当严峻",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 16\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0018_a5b0e6a30b",
     "original": "＊に関する噂話",
-    "translation": "",
+    "translation": "关于＊的传闻",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 17\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0019_ec05f2764c",
     "original": "非常事態について",
-    "translation": "",
+    "translation": "关于紧急状态",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 18\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0020_80cbc83dfb",
     "original": "最近の話題",
-    "translation": "",
+    "translation": "最近的话题",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 19\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0021_80cbc83dfb",
     "original": "最近の話題",
-    "translation": "",
+    "translation": "最近的话题",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 20\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0022_80cbc83dfb",
     "original": "最近の話題",
-    "translation": "",
+    "translation": "最近的话题",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 21\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0023_c41abeeaf4",
     "original": "雑談する",
-    "translation": "",
+    "translation": "闲聊",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 22\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0024_c41abeeaf4",
     "original": "雑談する",
-    "translation": "",
+    "translation": "闲聊",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 23\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0025_c41abeeaf4",
     "original": "雑談する",
-    "translation": "",
+    "translation": "闲聊",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 24\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0026_c41abeeaf4",
     "original": "雑談する",
-    "translation": "",
+    "translation": "闲聊",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 25\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0027_c41abeeaf4",
     "original": "雑談する",
-    "translation": "",
+    "translation": "闲聊",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 26\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0028_c41abeeaf4",
     "original": "雑談する",
-    "translation": "",
+    "translation": "闲聊",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 27\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0029_c41abeeaf4",
     "original": "雑談する",
-    "translation": "",
+    "translation": "闲聊",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 28\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0030_c41abeeaf4",
     "original": "雑談する",
-    "translation": "",
+    "translation": "闲聊",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 29\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0031_65792ae76c",
     "original": "イチャイチャする",
-    "translation": "",
+    "translation": "亲热一下",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 30\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0032_65792ae76c",
     "original": "イチャイチャする",
-    "translation": "",
+    "translation": "亲热一下",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 31\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0033_65792ae76c",
     "original": "イチャイチャする",
-    "translation": "",
+    "translation": "亲热一下",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 32\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0034_65792ae76c",
     "original": "イチャイチャする",
-    "translation": "",
+    "translation": "亲热一下",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 33\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0035_6cef75a58c",
     "original": "アドバイスを聞く",
-    "translation": "",
+    "translation": "听取建议",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 34\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0036_6cef75a58c",
     "original": "アドバイスを聞く",
-    "translation": "",
+    "translation": "听取建议",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 35\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0037_6cef75a58c",
     "original": "アドバイスを聞く",
-    "translation": "",
+    "translation": "听取建议",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 36\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0038_0d43fa4ec2",
     "original": "あの人のはなし",
-    "translation": "",
+    "translation": "那个人的事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 37\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0039_0d43fa4ec2",
     "original": "あの人のはなし",
-    "translation": "",
+    "translation": "那个人的事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 38\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0040_0d43fa4ec2",
     "original": "あの人のはなし",
-    "translation": "",
+    "translation": "那个人的事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 39\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0041_0d43fa4ec2",
     "original": "あの人のはなし",
-    "translation": "",
+    "translation": "那个人的事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 40\nCharacter ID: common"
   },
   {
     "key": "e_a55e457788_0042_b2843b404e",
     "original": "自由時間を終了する",
-    "translation": "",
+    "translation": "结束自由时间",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 41\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0043_7edd9a3f11",
     "original": "君は？",
-    "translation": "",
+    "translation": "你呢？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 42\nCharacter ID: rei"
   },
   {
     "key": "e_a55e457788_0044_5be51fee0c",
     "original": "綾波を見てみる",
-    "translation": "",
+    "translation": "看看绫波",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 43\nCharacter ID: rei"
   },
   {
     "key": "e_a55e457788_0045_7d8f60dd61",
     "original": "綾波を見る",
-    "translation": "",
+    "translation": "看着绫波",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 44\nCharacter ID: rei"
   },
   {
     "key": "e_a55e457788_0046_4013c28358",
     "original": "綾波を見つめる",
-    "translation": "",
+    "translation": "注视绫波",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 45\nCharacter ID: rei"
   },
   {
     "key": "e_a55e457788_0047_0e43170775",
     "original": "綾波の様子を見る",
-    "translation": "",
+    "translation": "观察绫波的样子",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 46\nCharacter ID: rei"
   },
   {
     "key": "e_a55e457788_0048_56a139d420",
     "original": "綾波が気になる",
-    "translation": "",
+    "translation": "在意绫波",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 47\nCharacter ID: rei"
   },
   {
     "key": "e_a55e457788_0049_0651a4f71c",
     "original": "あれは、綾波？",
-    "translation": "",
+    "translation": "那是绫波？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 48\nCharacter ID: rei"
   },
   {
     "key": "e_a55e457788_0050_ebf6128f79",
     "original": "綾波の本心",
-    "translation": "",
+    "translation": "绫波的真心",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 49\nCharacter ID: rei"
   },
   {
     "key": "e_a55e457788_0051_4013c28358",
     "original": "綾波を見つめる",
-    "translation": "",
+    "translation": "注视绫波",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 50\nCharacter ID: rei"
   },
   {
     "key": "e_a55e457788_0052_3bdbd1d45f",
     "original": "はじめの一歩？",
-    "translation": "",
+    "translation": "第一步？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 51\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0053_9788255bfc",
     "original": "第一印象と違う？",
-    "translation": "",
+    "translation": "和第一印象不同？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 52\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0054_99737ab443",
     "original": "ツンケンしてるよね？",
-    "translation": "",
+    "translation": "你总是冷冰冰的吧？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 53\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0055_0de58cdcc4",
     "original": "負けず嫌い？",
-    "translation": "",
+    "translation": "不服输？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 54\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0056_ecc33d0ffa",
     "original": "負けたくない理由は？",
-    "translation": "",
+    "translation": "不想输的理由？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 55\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0057_dfb70c238f",
     "original": "具合が悪い？",
-    "translation": "",
+    "translation": "身体不舒服？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 56\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0058_83b8f086b9",
     "original": "こどもって？",
-    "translation": "",
+    "translation": "小孩子是指？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 57\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0059_82c0c75fa7",
     "original": "なんで線引いてるの？",
-    "translation": "",
+    "translation": "为什么划清界限？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 58\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0060_3c4d092ffe",
     "original": "なんか避けてない？",
-    "translation": "",
+    "translation": "你是不是在躲我？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 59\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0061_a895df5c50",
     "original": "怒ってる？",
-    "translation": "",
+    "translation": "生气了？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 60\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0062_fadbc5d0d8",
     "original": "どうしたの？",
-    "translation": "",
+    "translation": "怎么了？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 61\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0063_982c4c9bb9",
     "original": "感情も必要じゃない？",
-    "translation": "",
+    "translation": "感情也有必要吧？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 62\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0064_3fe3a9d5ff",
     "original": "？？？",
-    "translation": "",
+    "translation": "？？？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 63\nCharacter ID: asuka"
   },
   {
     "key": "e_a55e457788_0065_fa63b8d2af",
     "original": "少年を見る",
-    "translation": "",
+    "translation": "看着少年",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 64\nCharacter ID: kaworu"
   },
   {
     "key": "e_a55e457788_0066_7edd9a3f11",
     "original": "君は？",
-    "translation": "",
+    "translation": "你呢？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 65\nCharacter ID: kaworu"
   },
   {
     "key": "e_a55e457788_0067_9f4467e0ad",
     "original": "カヲルと話す",
-    "translation": "",
+    "translation": "和薰交谈",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 66\nCharacter ID: kaworu"
   },
   {
     "key": "e_a55e457788_0068_b18ae49c40",
     "original": "似ている事、違う事",
-    "translation": "",
+    "translation": "相似与不同之处",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 67\nCharacter ID: kaworu"
   },
   {
     "key": "e_a55e457788_0069_776af584d7",
     "original": "うまく話せないんだ",
-    "translation": "",
+    "translation": "我不太会说话",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 68\nCharacter ID: kaworu"
   },
   {
     "key": "e_a55e457788_0070_6ea06afe77",
     "original": "上手く歌えないんだ",
-    "translation": "",
+    "translation": "我唱不好",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 69\nCharacter ID: kaworu"
   },
   {
     "key": "e_a55e457788_0071_8028980326",
     "original": "カヲルの価値観",
-    "translation": "",
+    "translation": "薰的价值观",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 70\nCharacter ID: kaworu"
   },
   {
     "key": "e_a55e457788_0072_8873cae808",
     "original": "等価なこと",
-    "translation": "",
+    "translation": "等价之事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 71\nCharacter ID: kaworu"
   },
   {
     "key": "e_a55e457788_0073_c3d8fc1fba",
     "original": "カヲルの歌",
-    "translation": "",
+    "translation": "薰的歌",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 72\nCharacter ID: kaworu"
   },
   {
     "key": "e_a55e457788_0074_d8a5d110dc",
     "original": "カヲルの頼み",
-    "translation": "",
+    "translation": "薰的请求",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 73\nCharacter ID: kaworu"
   },
   {
     "key": "e_a55e457788_0075_60a3c0ad78",
     "original": "よろしく",
-    "translation": "",
+    "translation": "请多关照",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 74\nCharacter ID: touji"
   },
   {
     "key": "e_a55e457788_0076_5d93436edb",
     "original": "よく笑ってるね",
-    "translation": "",
+    "translation": "你经常笑呢",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 75\nCharacter ID: touji"
   },
   {
     "key": "e_a55e457788_0077_da858f1476",
     "original": "少し疲れただけだよ",
-    "translation": "",
+    "translation": "只是有点累",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 76\nCharacter ID: touji"
   },
   {
     "key": "e_a55e457788_0078_d4344ee560",
     "original": "改まってどうしたの？",
-    "translation": "",
+    "translation": "怎么突然这么郑重？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 77\nCharacter ID: touji"
   },
   {
     "key": "e_a55e457788_0079_1316b304d5",
     "original": "元気がない？",
-    "translation": "",
+    "translation": "没精神？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 78\nCharacter ID: touji"
   },
   {
     "key": "e_a55e457788_0080_c42e44b1ec",
     "original": "何か悩み事？",
-    "translation": "",
+    "translation": "有什么烦恼？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 79\nCharacter ID: touji"
   },
   {
     "key": "e_a55e457788_0081_d034eda682",
     "original": "思い詰めた顔してる？",
-    "translation": "",
+    "translation": "一脸心事重重？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 80\nCharacter ID: touji"
   },
   {
     "key": "e_a55e457788_0082_56d4acad3c",
     "original": "トウジを心配する",
-    "translation": "",
+    "translation": "担心冬二",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 81\nCharacter ID: touji"
   },
   {
     "key": "e_a55e457788_0083_60a3c0ad78",
     "original": "よろしく",
-    "translation": "",
+    "translation": "请多关照",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 82\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0084_1b97c871b5",
     "original": "あ、相田くん！",
-    "translation": "",
+    "translation": "啊，相田同学！",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 83\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0085_2a8059d761",
     "original": "調べるって、何を？",
-    "translation": "",
+    "translation": "要调查什么？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 84\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0086_753c7b9032",
     "original": "ニュースに詳しいね",
-    "translation": "",
+    "translation": "你很懂新闻呢",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 85\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0087_6bd3fd1cab",
     "original": "何か疑問でも？",
-    "translation": "",
+    "translation": "有什么疑问吗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 86\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0088_4ca53fb003",
     "original": "使徒の被害について",
-    "translation": "",
+    "translation": "关于使徒造成的损失",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 87\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0089_aac0b00aa4",
     "original": "何か悩み事でも？",
-    "translation": "",
+    "translation": "有什么烦恼吗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 88\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0090_1ec9fbc25f",
     "original": "相談なら乗るけど",
-    "translation": "",
+    "translation": "有事可以找我商量",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 89\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0091_475aae7c95",
     "original": "くだらないお話",
-    "translation": "",
+    "translation": "无聊的故事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 90\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0092_dd0ba3f99b",
     "original": "巨人のお話",
-    "translation": "",
+    "translation": "巨人的故事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 91\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0093_7533b72fe2",
     "original": "ケンスケの祈り",
-    "translation": "",
+    "translation": "剑介的祈祷",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 92\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0094_60a3c0ad78",
     "original": "よろしく",
-    "translation": "",
+    "translation": "请多关照",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 93\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0095_8c91b617c9",
     "original": "ヒカリの話を聞く",
-    "translation": "",
+    "translation": "听光说话",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 94\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0096_d46d03f6c3",
     "original": "ヒカリの視線を感じる",
-    "translation": "",
+    "translation": "感受到光的视线",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 95\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0097_b49cf78916",
     "original": "あれ？　元気ない？",
-    "translation": "",
+    "translation": "咦？　没精神？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 96\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0098_bff4c9382c",
     "original": "どうしたの？　その指",
-    "translation": "",
+    "translation": "怎么了？　你的手指",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 97\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0099_3aaa0a4b40",
     "original": "ヒカリの読書",
-    "translation": "",
+    "translation": "光在读的书",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 98\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0100_c758bbd049",
     "original": "ヒカリの視線に気付く",
-    "translation": "",
+    "translation": "察觉光的视线",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 99\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0101_1316b304d5",
     "original": "元気がない？",
-    "translation": "",
+    "translation": "没精神？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 100\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0102_9855a905f8",
     "original": "泣いてるの？",
-    "translation": "",
+    "translation": "你在哭吗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 101\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0103_f51a2a38ab",
     "original": "またあえた",
-    "translation": "",
+    "translation": "又见面了",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 102\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0104_c077daedd9",
     "original": "ヒカリを見つめる",
-    "translation": "",
+    "translation": "注视光",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 103\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0105_4df39449d8",
     "original": "い・い・事",
-    "translation": "",
+    "translation": "好・事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 104\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0106_1af3a9e755",
     "original": "真面目な表情のミサト",
-    "translation": "",
+    "translation": "表情认真的美里",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 105\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0107_db06f82ffb",
     "original": "続、い・い・事",
-    "translation": "",
+    "translation": "好・事续篇",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 106\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0108_06eec92ef0",
     "original": "真剣な表情のミサト",
-    "translation": "",
+    "translation": "表情严肃的美里",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 107\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0109_0bc9face4f",
     "original": "また親父ギャグですか？",
-    "translation": "",
+    "translation": "又是冷笑话吗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 108\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0110_87a8e961b8",
     "original": "難しい表情のミサト",
-    "translation": "",
+    "translation": "表情凝重的美里",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 109\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0111_1e3689ef09",
     "original": "興味の無いそぶりをする",
-    "translation": "",
+    "translation": "装作不感兴趣",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 110\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0112_a8130b1237",
     "original": "今日はちょっと…",
-    "translation": "",
+    "translation": "今天有点……",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 111\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0113_eab363933c",
     "original": "すみません…",
-    "translation": "",
+    "translation": "对不起……",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 112\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0114_b482bc3fd7",
     "original": "かたくなな態度をとる",
-    "translation": "",
+    "translation": "采取固执的态度",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 113\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0115_d5229f6c4f",
     "original": "毅然とした表情のミサト",
-    "translation": "",
+    "translation": "表情毅然的美里",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 114\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0116_158d5aa7ef",
     "original": "勝ちましたけど",
-    "translation": "",
+    "translation": "虽然赢了",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 115\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0117_3feeb3412f",
     "original": "リツコに話し掛ける",
-    "translation": "",
+    "translation": "与律子搭话",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 116\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0118_34640af35f",
     "original": "普段の話をする",
-    "translation": "",
+    "translation": "聊平常的事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 117\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0119_c7e8f0ce41",
     "original": "うれしそうに話す",
-    "translation": "",
+    "translation": "开心地交谈",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 118\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0120_6b23a2f7af",
     "original": "リツコを見る",
-    "translation": "",
+    "translation": "看着律子",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 119\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0121_2ef3cbd773",
     "original": "なぜぼくがエヴァに？",
-    "translation": "",
+    "translation": "为什么是我驾驶EVA？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 120\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0122_7005bd6e50",
     "original": "大人なリツコ",
-    "translation": "",
+    "translation": "成熟的律子",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 121\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0123_bdad599315",
     "original": "新しいプランですか？",
-    "translation": "",
+    "translation": "是新方案吗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 122\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0124_216d8a66f2",
     "original": "この前のプランは？",
-    "translation": "",
+    "translation": "上次的方案呢？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 123\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0125_4dfedbe4e2",
     "original": "そろそろできました？",
-    "translation": "",
+    "translation": "差不多完成了吗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 124\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0126_a1eaf0e7fc",
     "original": "疲れた様子を気遣う",
-    "translation": "",
+    "translation": "关心疲惫的她",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 125\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0127_68414bd403",
     "original": "よろしくお願いします",
-    "translation": "",
+    "translation": "请多关照",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 126\nCharacter ID: ryoji"
   },
   {
     "key": "e_a55e457788_0128_03aa366ae8",
     "original": "ぼくに何か？",
-    "translation": "",
+    "translation": "找我有事？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 127\nCharacter ID: ryoji"
   },
   {
     "key": "e_a55e457788_0129_b142409b5d",
     "original": "何してるんですか？",
-    "translation": "",
+    "translation": "在做什么？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 128\nCharacter ID: ryoji"
   },
   {
     "key": "e_a55e457788_0130_1680d8bc6e",
     "original": "何か言いたい事でも？",
-    "translation": "",
+    "translation": "有什么想说的吗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 129\nCharacter ID: ryoji"
   },
   {
     "key": "e_a55e457788_0131_4b61c7150a",
     "original": "楽しそうですね",
-    "translation": "",
+    "translation": "看起来很开心",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 130\nCharacter ID: ryoji"
   },
   {
     "key": "e_a55e457788_0132_d9f4a4a2c0",
     "original": "あれ？　その顔は？",
-    "translation": "",
+    "translation": "咦？　你那表情？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 131\nCharacter ID: ryoji"
   },
   {
     "key": "e_a55e457788_0133_9e5d29fd1f",
     "original": "真剣な顔してますね",
-    "translation": "",
+    "translation": "一脸认真呢",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 132\nCharacter ID: ryoji"
   },
   {
     "key": "e_a55e457788_0134_c6d0fa49ef",
     "original": "また調べ物ですか？",
-    "translation": "",
+    "translation": "又在查资料吗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 133\nCharacter ID: ryoji"
   },
   {
     "key": "e_a55e457788_0135_799557574a",
     "original": "ネルフとゼーレの関係？",
-    "translation": "",
+    "translation": "NERV和SEELE的关系？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 134\nCharacter ID: ryoji"
   },
   {
     "key": "e_a55e457788_0136_be53b94133",
     "original": "危なくないの？",
-    "translation": "",
+    "translation": "不危险吗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 135\nCharacter ID: ryoji"
   },
   {
     "key": "e_a55e457788_0137_df3ce09832",
     "original": "思い切って話す",
-    "translation": "",
+    "translation": "鼓起勇气交谈",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 136\nCharacter ID: gendo"
   },
   {
     "key": "e_a55e457788_0138_6ee2daabfc",
     "original": "気まずい雰囲気",
-    "translation": "",
+    "translation": "尴尬的气氛",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 137\nCharacter ID: gendo"
   },
   {
     "key": "e_a55e457788_0139_c64a5d40d8",
     "original": "何を話そうかな",
-    "translation": "",
+    "translation": "说点什么好呢",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 138\nCharacter ID: gendo"
   },
   {
     "key": "e_a55e457788_0140_0ee4f21d25",
     "original": "何か？",
-    "translation": "",
+    "translation": "什么事？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 139\nCharacter ID: gendo"
   },
   {
     "key": "e_a55e457788_0141_da5290b731",
     "original": "見てて、くれました？",
-    "translation": "",
+    "translation": "你看到了吗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 140\nCharacter ID: gendo"
   },
   {
     "key": "e_a55e457788_0142_5050ee5295",
     "original": "雰囲気が変わった？",
-    "translation": "",
+    "translation": "气氛变了？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 141\nCharacter ID: gendo"
   },
   {
     "key": "e_a55e457788_0143_5f00cbb2ba",
     "original": "思い出の話",
-    "translation": "",
+    "translation": "回忆往事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 142\nCharacter ID: gendo"
   },
   {
     "key": "e_a55e457788_0144_820ad1258d",
     "original": "ゲンドウの思い出話",
-    "translation": "",
+    "translation": "碇源堂的往事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 143\nCharacter ID: gendo"
   },
   {
     "key": "e_a55e457788_0145_aa2256433b",
     "original": "ゲンドウの気持ち",
-    "translation": "",
+    "translation": "碇源堂的心情",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 144\nCharacter ID: gendo"
   },
   {
     "key": "e_a55e457788_0146_21ddcbc642",
     "original": "かあさんに逢いたい？",
-    "translation": "",
+    "translation": "想见妈妈吗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 145\nCharacter ID: gendo"
   },
   {
     "key": "e_a55e457788_0147_04f4141030",
     "original": "ゲンドウの本心",
-    "translation": "",
+    "translation": "碇源堂的真心",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 146\nCharacter ID: gendo"
   },
   {
     "key": "e_a55e457788_0148_68414bd403",
     "original": "よろしくお願いします",
-    "translation": "",
+    "translation": "请多关照",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 147\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0149_c1e7096a7b",
     "original": "冬月に話し掛ける",
-    "translation": "",
+    "translation": "与冬月搭话",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 148\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0150_2adb9600a4",
     "original": "冬月の視線",
-    "translation": "",
+    "translation": "冬月的视线",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 149\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0151_d157dc2d4f",
     "original": "昔は先生だったんですね",
-    "translation": "",
+    "translation": "您以前是老师吧",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 150\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0152_45e8434e0f",
     "original": "冬月の講義",
-    "translation": "",
+    "translation": "冬月的讲课",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 151\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0153_d297fc92c5",
     "original": "休み時間？",
-    "translation": "",
+    "translation": "休息时间？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 152\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0154_a1a5fb976d",
     "original": "冬月先生の専門は？",
-    "translation": "",
+    "translation": "冬月老师的专业是？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 153\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0155_8b75d296b2",
     "original": "冬月の視線に気付く",
-    "translation": "",
+    "translation": "察觉冬月的视线",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 154\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0156_bf3785262d",
     "original": "冬月の見ているもの",
-    "translation": "",
+    "translation": "冬月所看的东西",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 155\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0157_9415b9e638",
     "original": "冬月の思い出話",
-    "translation": "",
+    "translation": "冬月的往事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 156\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0158_2b31a644e1",
     "original": "おかえりなさい",
-    "translation": "",
+    "translation": "欢迎回来",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 157\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0159_68414bd403",
     "original": "よろしくお願いします",
-    "translation": "",
+    "translation": "请多关照",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 158\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0160_37afeecb01",
     "original": "名前の話",
-    "translation": "",
+    "translation": "关于名字",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 159\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0161_731a9e298d",
     "original": "ど忘れ？",
-    "translation": "",
+    "translation": "忘了？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 160\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0162_4c181e3d87",
     "original": "君の名は",
-    "translation": "",
+    "translation": "你的名字是",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 161\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0163_a02806f96e",
     "original": "あなたはだ～れ？",
-    "translation": "",
+    "translation": "你是哪位？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 162\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0164_d745a49dc9",
     "original": "エレキギター？",
-    "translation": "",
+    "translation": "电吉他？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 163\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0165_989bf9292d",
     "original": "親友の話",
-    "translation": "",
+    "translation": "挚友的事",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 164\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0166_32e803245c",
     "original": "真剣な話",
-    "translation": "",
+    "translation": "认真的话题",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 165\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0167_096e29bb73",
     "original": "深刻な頼み",
-    "translation": "",
+    "translation": "严肃的请求",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 166\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0168_897ac13228",
     "original": "青葉の笑顔",
-    "translation": "",
+    "translation": "青叶的笑容",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 167\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0169_d143f02a91",
     "original": "マイ・ネーム・イズ…",
-    "translation": "",
+    "translation": "My Name Is…",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 168\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0170_68414bd403",
     "original": "よろしくお願いします",
-    "translation": "",
+    "translation": "请多关照",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 169\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0171_ecc5f9e188",
     "original": "ミサトさんのこと？",
-    "translation": "",
+    "translation": "美里的事？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 170\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0172_9799ae225e",
     "original": "何かあったの？",
-    "translation": "",
+    "translation": "发生什么了？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 171\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0173_c1631c2c12",
     "original": "嬉しそうですね？",
-    "translation": "",
+    "translation": "看起来很开心？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 172\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0174_a1bc44cb74",
     "original": "空気が読めない",
-    "translation": "",
+    "translation": "不会察言观色",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 173\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0175_e878ce4825",
     "original": "隠し事が下手な日向",
-    "translation": "",
+    "translation": "不善于隐瞒的日向",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 174\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0176_b47dfb9047",
     "original": "重要な仕事…",
-    "translation": "",
+    "translation": "重要的工作……",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 175\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0177_a045c15f3b",
     "original": "あれ？　無事？？？",
-    "translation": "",
+    "translation": "咦？　平安无事？？？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 176\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0178_68414bd403",
     "original": "よろしくお願いします",
-    "translation": "",
+    "translation": "请多关照",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 177\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0179_1efac018f5",
     "original": "お仕事は？",
-    "translation": "",
+    "translation": "工作怎么样？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 178\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0180_c9cdad6c86",
     "original": "先輩って？",
-    "translation": "",
+    "translation": "前辈是指？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 179\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0181_0492703a78",
     "original": "うれしそうですね？",
-    "translation": "",
+    "translation": "看起来很开心？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 180\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0182_1f3047c986",
     "original": "何かいいことでも？",
-    "translation": "",
+    "translation": "有什么好事吗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 181\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0183_340eca0e8f",
     "original": "今度は落ち込んでる？",
-    "translation": "",
+    "translation": "这次又消沉了？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 182\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0184_39d62f4e28",
     "original": "今度は喜んでる？",
-    "translation": "",
+    "translation": "这次又高兴了？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 183\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0185_43cd70e096",
     "original": "また落ち込んでる！？",
-    "translation": "",
+    "translation": "又消沉了！？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 184\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0186_126684ebb1",
     "original": "マヤの悩み",
-    "translation": "",
+    "translation": "摩耶的烦恼",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 185\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0187_cf9b08dcfc",
     "original": "カミングアウト",
-    "translation": "",
+    "translation": "坦白",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 186\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0188_51780b1dbf",
     "original": "汚くなんかないですよ",
-    "translation": "",
+    "translation": "一点也不脏",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 187\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0189_03295ab1a6",
     "original": "落ち込むマヤ",
-    "translation": "",
+    "translation": "消沉的摩耶",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 188\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0190_b1a34a2ef4",
     "original": "放っておけない",
-    "translation": "",
+    "translation": "不能放着不管",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 189\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0191_6a0ca051fc",
     "original": "マヤの視線",
-    "translation": "",
+    "translation": "摩耶的视线",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 190\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0192_28ac70cd41",
     "original": "言葉以上の思い",
-    "translation": "",
+    "translation": "超越语言的心意",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 191\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0193_800332cf16",
     "original": "いい顔になったよ",
-    "translation": "",
+    "translation": "表情变好了",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 192\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0194_f14c4bf967",
     "original": "ペンペンの目",
-    "translation": "",
+    "translation": "Pen Pen的眼睛",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 193\nCharacter ID: penpen"
   },
   {
     "key": "e_a55e457788_0195_00fe8c38d2",
     "original": "見つめる視線",
-    "translation": "",
+    "translation": "注视的目光",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 194\nCharacter ID: penpen"
   },
   {
     "key": "e_a55e457788_0196_08bc8535af",
     "original": "視線の先には",
-    "translation": "",
+    "translation": "视线的前方",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 195\nCharacter ID: penpen"
   },
   {
     "key": "e_a55e457788_0197_ffb6e96497",
     "original": "ペンペンの視線",
-    "translation": "",
+    "translation": "Pen Pen的视线",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 196\nCharacter ID: penpen"
   },
   {
     "key": "e_a55e457788_0198_8943d1fdd7",
     "original": "マップギミック",
-    "translation": "",
+    "translation": "地图机关",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 197\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0199_205917a527",
     "original": "武器の調達",
-    "translation": "",
+    "translation": "武器调配",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 198\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0200_d714578514",
     "original": "情報の確認",
-    "translation": "",
+    "translation": "确认情报",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 199\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0201_621d8cc344",
     "original": "模擬戦",
-    "translation": "",
+    "translation": "模拟战",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 200\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0202_432cfe4b50",
     "original": "スキルプログラム",
-    "translation": "",
+    "translation": "技能程序",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 201\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0203_d7f53bd419",
     "original": "パイロットの治療",
-    "translation": "",
+    "translation": "驾驶员治疗",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 202\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0204_59efe82c39",
     "original": "エヴァの修理",
-    "translation": "",
+    "translation": "EVA修理",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 203\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0205_f028806e4e",
     "original": "都市の復興支援",
-    "translation": "",
+    "translation": "城市重建支援",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 204\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0206_85a250ba14",
     "original": "ケンスケは情報通",
-    "translation": "",
+    "translation": "剑介是情报通",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 205\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0207_1353541ae4",
     "original": "トウジの気合",
-    "translation": "",
+    "translation": "冬二的干劲",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 206\nCharacter ID: touji"
   },
   {
     "key": "e_a55e457788_0208_6ddca50e83",
     "original": "ヒカリの救急箱",
-    "translation": "",
+    "translation": "光的急救箱",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 207\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0209_3b2877fde3",
     "original": "情報収集？",
-    "translation": "",
+    "translation": "收集情报？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 208\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0210_b967776158",
     "original": "情報確認？",
-    "translation": "",
+    "translation": "确认情报？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 209\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0211_7c1f5f921a",
     "original": "マップギミックの手配？",
-    "translation": "",
+    "translation": "安排地图机关？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 210\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0212_c9bfbd3d3d",
     "original": "マップギミックの配置？",
-    "translation": "",
+    "translation": "配置地图机关？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 211\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0213_ccbd9c3f61",
     "original": "武器の調達？",
-    "translation": "",
+    "translation": "调配武器？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 212\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0214_c534a08aab",
     "original": "模擬戦？",
-    "translation": "",
+    "translation": "模拟战？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 213\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0215_629896b69a",
     "original": "スキルプログラム開発？",
-    "translation": "",
+    "translation": "开发技能程序？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 214\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0216_367cf2bbd8",
     "original": "スキルプログラム実装？",
-    "translation": "",
+    "translation": "实装技能程序？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 215\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0217_444b815557",
     "original": "戦闘の始め方？",
-    "translation": "",
+    "translation": "如何开始战斗？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 216\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0218_82028b9e75",
     "original": "パイロットの治療？",
-    "translation": "",
+    "translation": "治疗驾驶员？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 217\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0219_07593d09f3",
     "original": "エヴァの修理？",
-    "translation": "",
+    "translation": "修理EVA？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 218\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0220_a361ce9d0e",
     "original": "都市の復興支援？",
-    "translation": "",
+    "translation": "支援城市重建？",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 219\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0221_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 220\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0222_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 221\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0223_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 222\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0224_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 223\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0225_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 224\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0226_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 225\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0227_2cad250d39",
     "original": "準備しない方がいい事",
-    "translation": "",
+    "translation": "不该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 226\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0228_4ed4a231f8",
     "original": "準備する必要が無い事",
-    "translation": "",
+    "translation": "无需做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 227\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0229_9baa75840d",
     "original": "特殊操作",
-    "translation": "",
+    "translation": "特殊操作",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 228\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0230_13387a8a05",
     "original": "特殊戦闘システム",
-    "translation": "",
+    "translation": "特殊战斗系统",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 229\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0231_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 230\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0232_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 231\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0233_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 232\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0234_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 233\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0235_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 234\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0236_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 235\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0237_2cad250d39",
     "original": "準備しない方がいい事",
-    "translation": "",
+    "translation": "不该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 236\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0238_4ed4a231f8",
     "original": "準備する必要が無い事",
-    "translation": "",
+    "translation": "无需做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 237\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0239_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 238\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0240_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 239\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0241_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 240\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0242_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 241\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0243_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 242\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0244_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 243\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0245_2cad250d39",
     "original": "準備しない方がいい事",
-    "translation": "",
+    "translation": "不该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 244\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0246_4ed4a231f8",
     "original": "準備する必要が無い事",
-    "translation": "",
+    "translation": "无需做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 245\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0247_9baa75840d",
     "original": "特殊操作",
-    "translation": "",
+    "translation": "特殊操作",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 246\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0248_13387a8a05",
     "original": "特殊戦闘システム",
-    "translation": "",
+    "translation": "特殊战斗系统",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 247\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0249_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 248\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0250_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 249\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0251_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 250\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0252_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 251\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0253_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 252\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0254_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 253\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0255_2cad250d39",
     "original": "準備しない方がいい事",
-    "translation": "",
+    "translation": "不该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 254\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0256_4ed4a231f8",
     "original": "準備する必要が無い事",
-    "translation": "",
+    "translation": "无需做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 255\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0257_9baa75840d",
     "original": "特殊操作",
-    "translation": "",
+    "translation": "特殊操作",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 256\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0258_13387a8a05",
     "original": "特殊戦闘システム",
-    "translation": "",
+    "translation": "特殊战斗系统",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 257\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0259_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 258\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0260_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 259\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0261_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 260\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0262_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 261\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0263_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 262\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0264_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 263\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0265_2cad250d39",
     "original": "準備しない方がいい事",
-    "translation": "",
+    "translation": "不该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 264\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0266_4ed4a231f8",
     "original": "準備する必要が無い事",
-    "translation": "",
+    "translation": "无需做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 265\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0267_9baa75840d",
     "original": "特殊操作",
-    "translation": "",
+    "translation": "特殊操作",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 266\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0268_13387a8a05",
     "original": "特殊戦闘システム",
-    "translation": "",
+    "translation": "特殊战斗系统",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 267\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0269_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 268\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0270_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 269\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0271_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 270\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0272_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 271\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0273_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 272\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0274_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 273\nCharacter ID: kensuke"
   },
   {
     "key": "e_a55e457788_0275_2cad250d39",
     "original": "準備しない方がいい事",
-    "translation": "",
+    "translation": "不该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 274\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0276_4ed4a231f8",
     "original": "準備する必要が無い事",
-    "translation": "",
+    "translation": "无需做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 275\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0277_13387a8a05",
     "original": "特殊戦闘システム",
-    "translation": "",
+    "translation": "特殊战斗系统",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 276\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0278_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 277\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0279_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 278\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0280_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 279\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0281_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 280\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0282_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 281\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0283_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 282\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0284_2cad250d39",
     "original": "準備しない方がいい事",
-    "translation": "",
+    "translation": "不该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 283\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0285_4ed4a231f8",
     "original": "準備する必要が無い事",
-    "translation": "",
+    "translation": "无需做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 284\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0286_9baa75840d",
     "original": "特殊操作",
-    "translation": "",
+    "translation": "特殊操作",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 285\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0287_13387a8a05",
     "original": "特殊戦闘システム",
-    "translation": "",
+    "translation": "特殊战斗系统",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 286\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0288_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 287\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0289_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 288\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0290_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 289\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0291_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 290\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0292_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 291\nCharacter ID: touji"
   },
   {
     "key": "e_a55e457788_0293_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 292\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0294_2cad250d39",
     "original": "準備しない方がいい事",
-    "translation": "",
+    "translation": "不该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 293\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0295_4ed4a231f8",
     "original": "準備する必要が無い事",
-    "translation": "",
+    "translation": "无需做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 294\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0296_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 295\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0297_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 296\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0298_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 297\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0299_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 298\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0300_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 299\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0301_2cad250d39",
     "original": "準備しない方がいい事",
-    "translation": "",
+    "translation": "不该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 300\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0302_4ed4a231f8",
     "original": "準備する必要が無い事",
-    "translation": "",
+    "translation": "无需做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 301\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0303_13387a8a05",
     "original": "特殊戦闘システム",
-    "translation": "",
+    "translation": "特殊战斗系统",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 302\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0304_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 303\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0305_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 304\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0306_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 305\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0307_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 306\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0308_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 307\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0309_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 308\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0310_2cad250d39",
     "original": "準備しない方がいい事",
-    "translation": "",
+    "translation": "不该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 309\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0311_4ed4a231f8",
     "original": "準備する必要が無い事",
-    "translation": "",
+    "translation": "无需做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 310\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0312_9baa75840d",
     "original": "特殊操作",
-    "translation": "",
+    "translation": "特殊操作",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 311\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0313_13387a8a05",
     "original": "特殊戦闘システム",
-    "translation": "",
+    "translation": "特殊战斗系统",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 312\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0314_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 313\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0315_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 314\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0316_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 315\nCharacter ID: hikari"
   },
   {
     "key": "e_a55e457788_0317_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 316\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0318_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 317\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0319_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 318\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0320_9baa75840d",
     "original": "特殊操作",
-    "translation": "",
+    "translation": "特殊操作",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 319\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0321_13387a8a05",
     "original": "特殊戦闘システム",
-    "translation": "",
+    "translation": "特殊战斗系统",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 320\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0322_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 321\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0323_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 322\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0324_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 323\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0325_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 324\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0326_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 325\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0327_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 326\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0328_2cad250d39",
     "original": "準備しない方がいい事",
-    "translation": "",
+    "translation": "不该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 327\nCharacter ID: kozo"
   },
   {
     "key": "e_a55e457788_0329_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 328\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0330_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 329\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0331_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 330\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0332_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 331\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0333_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 332\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0334_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 333\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0335_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 334\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0336_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 335\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0337_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 336\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0338_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 337\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0339_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 338\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0340_4ed4a231f8",
     "original": "準備する必要が無い事",
-    "translation": "",
+    "translation": "无需做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 339\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0341_13387a8a05",
     "original": "特殊戦闘システム",
-    "translation": "",
+    "translation": "特殊战斗系统",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 340\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0342_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 341\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0343_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 342\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0344_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 343\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0345_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 344\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0346_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 345\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0347_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 346\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0348_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 347\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0349_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 348\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0350_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 349\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0351_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 350\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0352_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 351\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0353_4ed4a231f8",
     "original": "準備する必要が無い事",
-    "translation": "",
+    "translation": "无需做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 352\nCharacter ID: ritsuko"
   },
   {
     "key": "e_a55e457788_0354_607c0d0f1a",
     "original": "使徒の出現場所",
-    "translation": "",
+    "translation": "使徒的出现地点",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 353\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0355_ad1071d53a",
     "original": "使徒の移動方法",
-    "translation": "",
+    "translation": "使徒的移动方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 354\nCharacter ID: shigeru"
   },
   {
     "key": "e_a55e457788_0356_2d2eb54c60",
     "original": "使徒の攻撃方法",
-    "translation": "",
+    "translation": "使徒的攻击方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 355\nCharacter ID: makoto"
   },
   {
     "key": "e_a55e457788_0357_217be4bdab",
     "original": "使徒の防御方法",
-    "translation": "",
+    "translation": "使徒的防御方式",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 356\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0358_a9bbe961cc",
     "original": "使徒のその他特徴",
-    "translation": "",
+    "translation": "使徒的其他特征",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 357\nCharacter ID: maya"
   },
   {
     "key": "e_a55e457788_0359_86ea5e7010",
     "original": "準備した方がいい事",
-    "translation": "",
+    "translation": "应该做的准备",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 358\nCharacter ID: misato"
   },
   {
     "key": "e_a55e457788_0360_13387a8a05",
     "original": "特殊戦闘システム",
-    "translation": "",
+    "translation": "特殊战斗系统",
     "context": "File: PEI/AI_TALKLIST.BIN\nRow: 359\nCharacter ID: misato"
   }
 ]
