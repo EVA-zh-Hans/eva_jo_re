@@ -2,19 +2,19 @@
   {
     "key": "e_11063f6b8a_0005_e0f279b3f2",
     "original": "パイロットを治療する",
-    "translation": "",
+    "translation": "治疗驾驶员",
     "context": "File: BTNNAVI/CURECHA3.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_11063f6b8a_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/CURECHA3.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_11063f6b8a_0015_df3535a647",
     "original": "決定",
-    "translation": "",
+    "translation": "确定",
     "context": "File: BTNNAVI/CURECHA3.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   }
 ]

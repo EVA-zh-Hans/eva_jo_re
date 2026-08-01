@@ -8,13 +8,13 @@
   {
     "key": "e_dcd9ba032b_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/SELMAP.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_dcd9ba032b_0015_df3535a647",
     "original": "決定",
-    "translation": "",
+    "translation": "确定",
     "context": "File: BTNNAVI/SELMAP.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   }
 ]

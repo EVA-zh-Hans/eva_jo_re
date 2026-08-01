@@ -2,13 +2,13 @@
   {
     "key": "e_74126e13ee_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/ANA02.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_74126e13ee_0015_df3535a647",
     "original": "決定",
-    "translation": "",
+    "translation": "确定",
     "context": "File: BTNNAVI/ANA02.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   }
 ]

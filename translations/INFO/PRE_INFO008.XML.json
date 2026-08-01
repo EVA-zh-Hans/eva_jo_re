@@ -2,49 +2,57 @@
   {
     "key": "e_f25ef00e82_0005_2de562d000",
     "original": "第３新東京市　中央区上空\\n衛星軌道上に出現",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO008.XML\nLine: 3\nElement: DETAIL\nAttribute: exp"
+    "translation": "出现在第三新东京市中央区上空\\n卫星轨道上",
+    "context": "File: INFO/PRE_INFO008.XML\nLine: 3\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_f25ef00e82_0009_4952bb421b",
     "original": "衛星軌道上からの落下",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO008.XML\nLine: 4\nElement: DETAIL\nAttribute: exp"
+    "translation": "从卫星轨道坠落",
+    "context": "File: INFO/PRE_INFO008.XML\nLine: 4\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_f25ef00e82_0013_56eb7a8752",
     "original": "上空からの爆撃",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO008.XML\nLine: 5\nElement: DETAIL\nAttribute: exp"
+    "translation": "从上空进行轰炸",
+    "context": "File: INFO/PRE_INFO008.XML\nLine: 5\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_f25ef00e82_0017_e828e51a0e",
     "original": "時間の経過ごとに爆撃は激しくなる",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO008.XML\nLine: 6\nElement: DETAIL\nAttribute: exp"
+    "translation": "轰炸会随时间推移而加剧",
+    "context": "File: INFO/PRE_INFO008.XML\nLine: 6\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_f25ef00e82_0021_78b43c1f15",
     "original": "エヴァの強化に専念し、装甲、回避、\\n移動スキルにコストを集約する",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO008.XML\nLine: 7\nElement: DETAIL\nAttribute: exp"
+    "translation": "专注强化EVA，将成本集中用于装甲、回避和\\n移动技能",
+    "context": "File: INFO/PRE_INFO008.XML\nLine: 7\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_f25ef00e82_0025_687fb9b1fc",
     "original": "兵装ビルの攻撃も届かないので、\\n高価なビルの配置は\\n破壊されるだけで無駄になってしまう",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO008.XML\nLine: 8\nElement: DETAIL\nAttribute: exp"
+    "translation": "兵装大楼的攻击也无法命中，\\n配置昂贵的大楼只会被摧毁，\\n白费工夫",
+    "context": "File: INFO/PRE_INFO008.XML\nLine: 8\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_f25ef00e82_0029_386ba943b2",
     "original": "通常の攻撃は不可能なため、\\n武器庫ビル、兵装ビルは配置しても\\n意味がない",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO008.XML\nLine: 9\nElement: DETAIL\nAttribute: exp"
+    "translation": "由于无法进行普通攻击，\\n即使配置武器库大楼、兵装大楼也\\n没有意义",
+    "context": "File: INFO/PRE_INFO008.XML\nLine: 9\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_f25ef00e82_0033_558ffb2964",
     "original": "時間経過により使徒の落下予測地点が\\n更新されていく\\n最終落下地点が判明次第、その場所で\\n「Ａ．Ｔ．フィールド全開」を発動する　",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO008.XML\nLine: 10\nElement: DETAIL\nAttribute: exp"
+    "translation": "随着时间推移，使徒的坠落预测地点会\\n不断更新。\\n确定最终坠落地点后，在该处发动\\n“AT力场全开”",
+    "context": "File: INFO/PRE_INFO008.XML\nLine: 10\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   }
 ]

@@ -2,19 +2,19 @@
   {
     "key": "e_899967bffc_0005_b8d2f3086a",
     "original": "キャラクター　ステータス",
-    "translation": "",
+    "translation": "角色状态",
     "context": "File: BTNNAVI/STSCHA.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_899967bffc_0015_8fc7f89916",
     "original": "戻る",
-    "translation": "",
+    "translation": "返回",
     "context": "File: BTNNAVI/STSCHA.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_899967bffc_0020_78d51c574e",
     "original": "キャラ切替",
-    "translation": "",
+    "translation": "切换角色",
     "context": "File: BTNNAVI/STSCHA.XML\nLine: 7\nElement: BTN\nAttribute: caption"
   }
 ]

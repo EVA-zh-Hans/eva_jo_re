@@ -21,7 +21,7 @@
   {
     "key": "e_a172a51a8c_0020_bca84ea5c6",
     "original": "キャンセル",
-    "translation": "",
+    "translation": "取消",
     "context": "File: BTNNAVI/OPT1.XML\nLine: 7\nElement: BTN\nAttribute: caption"
   }
 ]

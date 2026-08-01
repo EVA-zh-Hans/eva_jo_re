@@ -2,19 +2,19 @@
   {
     "key": "e_e85cf610bb_0005_3140506470",
     "original": "武器を調達する",
-    "translation": "",
+    "translation": "调配武器",
     "context": "File: BTNNAVI/BUYWPN3.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_e85cf610bb_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/BUYWPN3.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_e85cf610bb_0015_df3535a647",
     "original": "決定",
-    "translation": "",
+    "translation": "确定",
     "context": "File: BTNNAVI/BUYWPN3.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   }
 ]

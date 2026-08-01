@@ -2,127 +2,127 @@
   {
     "key": "e_1e9b88dbcd_0004_936088c47d",
     "original": "ネルフ関係者から第３の少年と呼ばれて\\nいる、非常にナイーヴで内向的な少年\\nエヴァに乗ることで、父・碇ゲンドウに\\n認められようとする",
-    "translation": "",
+    "translation": "被NERV相关人员称为第三少年\\n非常敏感内向的少年\\n通过驾驶EVA，想得到父亲碇源堂的认可",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 5\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0006_31229f119a",
     "original": "エヴァ開発当初から訓練を受けていた、\\n第１の少女\\n無口で、ほとんど感情を表さないが、\\nゲンドウのみに心を開く",
-    "translation": "",
+    "translation": "从EVA开发初期就接受训练的第一少女\\n沉默寡言，几乎不表露感情，\\n但只对源堂敞开心扉",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 6\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0008_621c5fb29d",
     "original": "エヴァ弐号機の専属操縦者である第２の\\n少女　日本とドイツのクォーターだが、\\n国籍はアメリカ　\\nプライドが高く、負けず嫌いな少女",
-    "translation": "",
+    "translation": "贰号机的专属驾驶员，第二少女\\n拥有日本和德国血统，\\n国籍为美国\\n自尊心强、不服输的少女",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 7\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0010_bd0daaa764",
     "original": "エヴァパイロットとして戦闘不能と\\nなってしまったアスカに代わり、\\nゼーレから派遣されてきた第５の少年\\n不思議な魅力でシンジを惑わせる",
-    "translation": "",
+    "translation": "明日香作为EVA驾驶员失去战斗能力后，\\n由SEELE派来的第五少年\\n以不可思议的魅力迷惑真嗣",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 8\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0012_b6367ec2ee",
     "original": "第３新東京市第壱中学校２年生\\nシンジのクラスメートで、自称硬派\\n使徒との戦闘に妹が巻き込まれ負傷・\\n入院しており、いつも気にかけている",
-    "translation": "",
+    "translation": "第三新东京市第一中学二年级学生\\n真嗣的同班同学，自称硬派\\n妹妹在与使徒的战斗中受伤住院，\\n他一直对此挂心",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 9\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0014_5b72eca216",
     "original": "シンジやトウジの同級生\\nミリタリーマニアで、趣味はプラモデル\\nビデオなど多岐にわたる\\nエヴァのパイロットに憧れている",
-    "translation": "",
+    "translation": "真嗣和冬二的同学\\n军事迷，兴趣包括塑料模型、\\n录像等各种事物\\n憧憬成为EVA驾驶员",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 10\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0016_c689b9bb21",
     "original": "シンジたちのクラスの学級委員長\\n責任感が強く真面目な少女\\nトウジに想いを寄せているが、\\n本人に言い出せずにいる",
-    "translation": "",
+    "translation": "真嗣等人班级的班长\\n责任感强且认真的少女\\n喜欢冬二，却无法向本人表白",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 11\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0018_17f7ca0816",
     "original": "ネルフ本部戦術作戦部作戦局第一課に\\n所属\\nネルフの作戦部長として戦闘指揮を行う\\nシンジたちエヴァパイロットの保護者",
-    "translation": "",
+    "translation": "隶属NERV总部战术作战部作战局第一课\\n作为NERV作战部长指挥战斗\\n也是保护真嗣等EVA驾驶员的监护人",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 12\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0020_65bf5a70b4",
     "original": "ネルフ本部技術開発部技術一課所属\\nエヴァンゲリオン開発責任者\\n理知的だが神経質なところもある\\nミサトとは学生のころからの友人",
-    "translation": "",
+    "translation": "隶属NERV总部技术开发部技术第一课\\nEVA开发负责人\\n理智但也有神经质的一面\\n从学生时代起就是美里的朋友",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 13\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0022_52122ef90c",
     "original": "ネルフ特殊査察部に属し、アダムの搬送\\nなどネルフ内の機密に深く関わっている\\n飄々とした人物で、ミサトとは学生時代\\nに恋人関係にあった",
-    "translation": "",
+    "translation": "隶属NERV特殊监察部，深度参与\\n运送亚当等NERV机密事务\\n性格洒脱，学生时代曾与美里交往",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 14\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0024_f2000698fe",
     "original": "シンジの父親であり、人類補完計画の\\n実行責任者\\n目的遂行のためには手段を選ばない\\n非情さを見せる",
-    "translation": "",
+    "translation": "真嗣的父亲，人类补完计划的\\n执行负责人\\n为达成目的不择手段，\\n展现出冷酷的一面",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 15\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0026_44323e36cf",
     "original": "常にゲンドウの傍に立ち、\\n彼が不在のときはネルフの指揮をとる\\n性格は温和で、冷静\\n決断力にも富む",
-    "translation": "",
+    "translation": "总是站在源堂身旁，\\n他不在时便负责指挥NERV\\n性格温和冷静，也富有决断力",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 16\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0028_a2ce196ba5",
     "original": "ネルフ本部中央作戦司令部情報局第二課\\n所属\\n発令所内で通信・情報分析を担当する\\n口数は少ない",
-    "translation": "",
+    "translation": "隶属NERV总部中央作战司令部情报局第二课\\n负责指挥所内的通信与情报分析\\n沉默寡言",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 17\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0030_1f05bf9c43",
     "original": "ネルフ本部中央作戦司令部作戦局第一課\\n所属　ミサトの作戦立案を補佐する\\n発令所内では戦況分析などの\\nオペレーター業務を担当する",
-    "translation": "",
+    "translation": "隶属NERV总部中央作战司令部作战局第一课\\n协助美里制定作战计划\\n在指挥所负责战况分析等\\n操作员工作",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 18\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0032_92ec6bf5ae",
     "original": "ネルフ本部技術局第一課所属　\\n直属の上司は赤木リツコ\\n通常は発令所でのエヴァの操縦者を\\nモニターするオペレーターを務める",
-    "translation": "",
+    "translation": "隶属NERV总部技术局第一课\\n直属上司是赤木律子\\n通常在指挥所担任监控EVA驾驶员的操作员",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 19\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0034_c74fb366b5",
     "original": "新種の温泉ペンギン\\nミサトの同居人であり、彼女の\\nマンションにある冷蔵庫型の\\n特製居住スペースに住んでいる",
-    "translation": "",
+    "translation": "新品种温泉企鹅\\n是美里的同居者\\n住在她公寓冰箱形的\\n特制居住空间里",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 20\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0037_cd5e43b524",
     "original": "最初に完成した汎用人型決戦兵器\\n性能実験等への使用を目的に製作された\\n試作型エヴァである\\n起動実験時の暴走により凍結される",
-    "translation": "",
+    "translation": "最早完成的通用人型决战兵器\\n为性能实验等用途制造的\\n试作型EVA\\n因启动实验失控而被冻结",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 23\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0039_3c9cca2732",
     "original": "２番目に完成した実戦試験用エヴァ\\n実戦に投入されたのはシンジが搭乗した\\n初号機が最初である\\n有線の電力供給で稼動する",
-    "translation": "",
+    "translation": "第二架完成的实战测试用EVA\\n最先投入实战的是由真嗣驾驶的初号机\\n通过有线电力供应运作",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 24\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0041_29e5145163",
     "original": "３番目に作られたエヴァであり、\\n制式タイプである\\n部品は日本製だが、その組み立ては\\nドイツにおいて行われた",
-    "translation": "",
+    "translation": "第三架制造的EVA，正式型号\\n部件由日本制造，但在德国组装",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 25\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0043_d16326095a",
     "original": "ネルフアメリカ支部で組み立てられた、\\n４番目のエヴァ\\nアメリカ第２支部の消滅に伴い、\\n日本に引き取られる",
-    "translation": "",
+    "translation": "由NERV美国支部组装的第四架EVA\\n随着美国第二支部消失，\\n被接收并运往日本",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 26\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_1e9b88dbcd_0045_3127eab698",
     "original": "最初に完成した汎用人型決戦兵器\\n使徒との戦いで大破し、その後改修され\\n再就役となる\\nその際、本体色が黄色から青色となる",
-    "translation": "",
+    "translation": "最早完成的通用人型决战兵器\\n在与使徒的战斗中严重损毁，之后改修\\n重新服役\\n机体颜色也由黄色变为蓝色",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 27\nElement: EXP\nAttribute: str"
   }
 ]

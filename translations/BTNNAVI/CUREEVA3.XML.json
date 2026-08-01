@@ -2,19 +2,19 @@
   {
     "key": "e_d388b0f77f_0005_9958036190",
     "original": "エヴァンゲリオンを修理する",
-    "translation": "",
+    "translation": "修理EVA",
     "context": "File: BTNNAVI/CUREEVA3.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_d388b0f77f_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/CUREEVA3.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_d388b0f77f_0015_df3535a647",
     "original": "決定",
-    "translation": "",
+    "translation": "确定",
     "context": "File: BTNNAVI/CUREEVA3.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   }
 ]

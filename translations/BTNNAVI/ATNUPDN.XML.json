@@ -2,19 +2,19 @@
   {
     "key": "e_39ec09ea40_0010_656987c9ba",
     "original": "スクロール",
-    "translation": "",
+    "translation": "滚动",
     "context": "File: BTNNAVI/ATNUPDN.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_39ec09ea40_0015_1a15468854",
     "original": "切替",
-    "translation": "",
+    "translation": "切换",
     "context": "File: BTNNAVI/ATNUPDN.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_39ec09ea40_0020_75fca1d949",
     "original": "進む",
-    "translation": "",
+    "translation": "继续",
     "context": "File: BTNNAVI/ATNUPDN.XML\nLine: 7\nElement: BTN\nAttribute: caption"
   }
 ]

@@ -2,31 +2,31 @@
   {
     "key": "e_b768a5f9d5_0004_296de0e31f",
     "original": "正常",
-    "translation": "",
+    "translation": "正常",
     "context": "File: PREPARE/PRE_RECMAP.XML\nLine: 5\nElement: FACTOR\nAttribute: str"
   },
   {
     "key": "e_b768a5f9d5_0007_dc890145c9",
     "original": "軽微",
-    "translation": "",
+    "translation": "轻微",
     "context": "File: PREPARE/PRE_RECMAP.XML\nLine: 6\nElement: FACTOR\nAttribute: str"
   },
   {
     "key": "e_b768a5f9d5_0010_476cabd660",
     "original": "中破",
-    "translation": "",
+    "translation": "中破",
     "context": "File: PREPARE/PRE_RECMAP.XML\nLine: 7\nElement: FACTOR\nAttribute: str"
   },
   {
     "key": "e_b768a5f9d5_0013_63ef2f53f7",
     "original": "甚大",
-    "translation": "",
+    "translation": "严重",
     "context": "File: PREPARE/PRE_RECMAP.XML\nLine: 8\nElement: FACTOR\nAttribute: str"
   },
   {
     "key": "e_b768a5f9d5_0016_3af561ea07",
     "original": "壊滅",
-    "translation": "",
+    "translation": "毁灭",
     "context": "File: PREPARE/PRE_RECMAP.XML\nLine: 9\nElement: FACTOR\nAttribute: str"
   }
 ]

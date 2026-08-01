@@ -8,19 +8,19 @@
   {
     "key": "e_2c4ccc5384_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/STSCITY.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_2c4ccc5384_0015_8fc7f89916",
     "original": "戻る",
-    "translation": "",
+    "translation": "返回",
     "context": "File: BTNNAVI/STSCITY.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_2c4ccc5384_0020_28827c714d",
     "original": "詳細切替",
-    "translation": "",
+    "translation": "切换详情",
     "context": "File: BTNNAVI/STSCITY.XML\nLine: 7\nElement: BTN\nAttribute: caption"
   }
 ]

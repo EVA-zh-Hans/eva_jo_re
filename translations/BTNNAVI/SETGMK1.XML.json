@@ -2,31 +2,31 @@
   {
     "key": "e_17ba124830_0005_59980e6260",
     "original": "マップギミックを配置する",
-    "translation": "",
+    "translation": "配置地图机关",
     "context": "File: BTNNAVI/SETGMK1.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_17ba124830_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/SETGMK1.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_17ba124830_0015_df3535a647",
     "original": "決定",
-    "translation": "",
+    "translation": "确定",
     "context": "File: BTNNAVI/SETGMK1.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_17ba124830_0020_8fc7f89916",
     "original": "戻る",
-    "translation": "",
+    "translation": "返回",
     "context": "File: BTNNAVI/SETGMK1.XML\nLine: 7\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_17ba124830_0025_28827c714d",
     "original": "詳細切替",
-    "translation": "",
+    "translation": "切换详情",
     "context": "File: BTNNAVI/SETGMK1.XML\nLine: 8\nElement: BTN\nAttribute: caption"
   }
 ]

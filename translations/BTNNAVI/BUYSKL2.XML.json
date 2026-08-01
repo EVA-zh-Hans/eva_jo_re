@@ -2,31 +2,31 @@
   {
     "key": "e_18700e6776_0005_0e3eed5538",
     "original": "スキルプログラムを開発する",
-    "translation": "",
+    "translation": "开发技能程序",
     "context": "File: BTNNAVI/BUYSKL2.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_18700e6776_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/BUYSKL2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_18700e6776_0015_6ef4ab3371",
     "original": "頁切替",
-    "translation": "",
+    "translation": "翻页",
     "context": "File: BTNNAVI/BUYSKL2.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_18700e6776_0020_df3535a647",
     "original": "決定",
-    "translation": "",
+    "translation": "确定",
     "context": "File: BTNNAVI/BUYSKL2.XML\nLine: 7\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_18700e6776_0025_8fc7f89916",
     "original": "戻る",
-    "translation": "",
+    "translation": "返回",
     "context": "File: BTNNAVI/BUYSKL2.XML\nLine: 8\nElement: BTN\nAttribute: caption"
   }
 ]

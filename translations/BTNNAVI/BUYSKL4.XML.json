@@ -2,13 +2,13 @@
   {
     "key": "e_4e882c2f6c_0005_0e3eed5538",
     "original": "スキルプログラムを開発する",
-    "translation": "",
+    "translation": "开发技能程序",
     "context": "File: BTNNAVI/BUYSKL4.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_4e882c2f6c_0010_75fca1d949",
     "original": "進む",
-    "translation": "",
+    "translation": "继续",
     "context": "File: BTNNAVI/BUYSKL4.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   }
 ]

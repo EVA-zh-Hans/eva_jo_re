@@ -2,13 +2,13 @@
   {
     "key": "e_898b48a2b7_0005_6a7dd6d6de",
     "original": "模擬戦の結果を見る",
-    "translation": "",
+    "translation": "查看模拟战结果",
     "context": "File: BTNNAVI/LAST4.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_898b48a2b7_0010_75fca1d949",
     "original": "進む",
-    "translation": "",
+    "translation": "继续",
     "context": "File: BTNNAVI/LAST4.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   }
 ]

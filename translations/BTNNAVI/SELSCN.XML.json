@@ -2,19 +2,19 @@
   {
     "key": "e_85de116d33_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/SELSCN.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_85de116d33_0015_df3535a647",
     "original": "決定",
-    "translation": "",
+    "translation": "确定",
     "context": "File: BTNNAVI/SELSCN.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_85de116d33_0020_8fc7f89916",
     "original": "戻る",
-    "translation": "",
+    "translation": "返回",
     "context": "File: BTNNAVI/SELSCN.XML\nLine: 7\nElement: BTN\nAttribute: caption"
   }
 ]

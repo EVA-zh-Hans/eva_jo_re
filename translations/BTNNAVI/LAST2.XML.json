@@ -2,19 +2,19 @@
   {
     "key": "e_76286bcce8_0005_6ab6e42d29",
     "original": "戦闘を開始する",
-    "translation": "",
+    "translation": "开始战斗",
     "context": "File: BTNNAVI/LAST2.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_76286bcce8_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/LAST2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_76286bcce8_0015_df3535a647",
     "original": "決定",
-    "translation": "",
+    "translation": "确定",
     "context": "File: BTNNAVI/LAST2.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   }
 ]

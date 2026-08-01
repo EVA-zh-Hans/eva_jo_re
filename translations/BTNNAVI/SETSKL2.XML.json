@@ -2,37 +2,37 @@
   {
     "key": "e_e1a3208b34_0005_47fb885a32",
     "original": "スキルプログラムを実装する",
-    "translation": "",
+    "translation": "装备技能程序",
     "context": "File: BTNNAVI/SETSKL2.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_e1a3208b34_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/SETSKL2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_e1a3208b34_0015_6ef4ab3371",
     "original": "頁切替",
-    "translation": "",
+    "translation": "翻页",
     "context": "File: BTNNAVI/SETSKL2.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_e1a3208b34_0020_df3535a647",
     "original": "決定",
-    "translation": "",
+    "translation": "确定",
     "context": "File: BTNNAVI/SETSKL2.XML\nLine: 7\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_e1a3208b34_0025_df8b14c87b",
     "original": "クリア",
-    "translation": "",
+    "translation": "完成",
     "context": "File: BTNNAVI/SETSKL2.XML\nLine: 8\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_e1a3208b34_0030_8fc7f89916",
     "original": "戻る",
-    "translation": "",
+    "translation": "返回",
     "context": "File: BTNNAVI/SETSKL2.XML\nLine: 9\nElement: BTN\nAttribute: caption"
   }
 ]

@@ -8,7 +8,7 @@
   {
     "key": "e_b5bcb542ea_0010_656987c9ba",
     "original": "スクロール",
-    "translation": "",
+    "translation": "滚动",
     "context": "File: BTNNAVI/RANK2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
@@ -20,7 +20,7 @@
   {
     "key": "e_b5bcb542ea_0020_8fc7f89916",
     "original": "戻る",
-    "translation": "",
+    "translation": "返回",
     "context": "File: BTNNAVI/RANK2.XML\nLine: 7\nElement: BTN\nAttribute: caption"
   }
 ]

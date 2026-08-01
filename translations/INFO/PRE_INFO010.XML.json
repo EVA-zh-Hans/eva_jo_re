@@ -2,49 +2,57 @@
   {
     "key": "e_40d4e77e74_0005_7cca48e4d7",
     "original": "第３新東京市　南地区直上に突如出現",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO010.XML\nLine: 3\nElement: DETAIL\nAttribute: exp"
+    "translation": "突然出现在第三新东京市南区正上方",
+    "context": "File: INFO/PRE_INFO010.XML\nLine: 3\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_40d4e77e74_0009_fff6653026",
     "original": "浮遊による移動、移動速度は遅い\\nテレポート移動をする事もある",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO010.XML\nLine: 4\nElement: DETAIL\nAttribute: exp"
+    "translation": "以漂浮方式移动，移动速度较慢\\n有时也会进行传送移动",
+    "context": "File: INFO/PRE_INFO010.XML\nLine: 4\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_40d4e77e74_0013_3fc8cc6149",
     "original": "地面からの攻撃に注意",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO010.XML\nLine: 5\nElement: DETAIL\nAttribute: exp"
+    "translation": "注意来自地面的攻击",
+    "context": "File: INFO/PRE_INFO010.XML\nLine: 5\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_40d4e77e74_0017_8a1941ac7c",
     "original": "Ａ．Ｔ．フィールドを展開するガード",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO010.XML\nLine: 6\nElement: DETAIL\nAttribute: exp"
+    "translation": "展开AT力场进行防御",
+    "context": "File: INFO/PRE_INFO010.XML\nLine: 6\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_40d4e77e74_0021_06f1fc6c5c",
     "original": "レーダーに反応が無い\\nＡ．Ｔ．フィールドを中和し\\nバニッシュすれば何らかの変化を\\n起こす事が予想される",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO010.XML\nLine: 7\nElement: DETAIL\nAttribute: exp"
+    "translation": "雷达没有反应\\n中和AT力场并将其湮灭后\\n预计会发生某种变化",
+    "context": "File: INFO/PRE_INFO010.XML\nLine: 7\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_40d4e77e74_0025_d7e3ee0114",
     "original": "通常時はダメージがほぼ入らないため\\nとにかくバニッシュを狙う\\n浸食スキルを重視する",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO010.XML\nLine: 8\nElement: DETAIL\nAttribute: exp"
+    "translation": "通常几乎无法造成伤害，\\n总之要瞄准湮灭状态，\\n并优先使用侵蚀技能",
+    "context": "File: INFO/PRE_INFO010.XML\nLine: 8\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_40d4e77e74_0029_09b361f1e9",
     "original": "レーダーに反応が無いので、\\n通常時はロックができない\\nまた、ミニマップに目標の\\n現在地が表示されない",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO010.XML\nLine: 9\nElement: DETAIL\nAttribute: exp"
+    "translation": "由于雷达没有反应，\\n通常无法锁定目标，\\n小地图上也不会显示目标的\\n当前位置",
+    "context": "File: INFO/PRE_INFO010.XML\nLine: 9\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_40d4e77e74_0033_a80240a343",
     "original": "Ａ．Ｔ．フィールドのバニッシュで\\n目標の状態を変化させながら戦う",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO010.XML\nLine: 10\nElement: DETAIL\nAttribute: exp"
+    "translation": "一边通过湮灭AT力场改变目标状态，\\n一边进行战斗",
+    "context": "File: INFO/PRE_INFO010.XML\nLine: 10\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   }
 ]

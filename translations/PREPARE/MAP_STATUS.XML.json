@@ -2,133 +2,133 @@
   {
     "key": "e_05fbb4dc75_0004_1fbec0ddb5",
     "original": "第３新東京市　中央区",
-    "translation": "",
+    "translation": "第3新东京市 中央区",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 5\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0006_c6a5aa6da9",
     "original": "第３新東京市　東地区",
-    "translation": "",
+    "translation": "第3新东京市 东区",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 6\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0008_11b350752e",
     "original": "第３新東京市　西地区",
-    "translation": "",
+    "translation": "第3新东京市 西区",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 7\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0010_c4ec54987c",
     "original": "第３新東京市　南地区",
-    "translation": "",
+    "translation": "第3新东京市 南区",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 8\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0012_e72089eb06",
     "original": "第３新東京市　北地区",
-    "translation": "",
+    "translation": "第3新东京市 北区",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 9\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0014_d4f9ee3733",
     "original": "ジオフロント",
-    "translation": "",
+    "translation": "地下都市",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 10\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0016_f31fbff523",
     "original": "二子山決戦場",
-    "translation": "",
+    "translation": "二子山决战场",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 11\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0018_cabeb29e0b",
     "original": "ターミナルドグマ",
-    "translation": "",
+    "translation": "最终教条区",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 12\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0020_0b424fe455",
     "original": "太平洋近海",
-    "translation": "",
+    "translation": "太平洋近海",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 13\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0022_358326882c",
     "original": "浅間山火口内",
-    "translation": "",
+    "translation": "浅间山火山口内",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 14\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0024_a3a5392e6d",
     "original": "旧東京都心",
-    "translation": "",
+    "translation": "旧东京都心",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 15\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0027_7a7c2f9da6",
     "original": "最後の砦、ゼロエリアが存在する\\n防衛のためのスロットが充分に用意\\nされているため、マップギミックを\\n駆使した戦闘が可能である",
-    "translation": "",
+    "translation": "最后的堡垒，0区就位于此处\\n准备了充足的防御槽位\\n可以运用地图机关进行战斗",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 18\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0029_0cf1eccf7b",
     "original": "第３新東京市の郊外地区である\\n都市部への連絡も容易であり、\\nシンジ達の生活拠点でもある\\n近隣には第壱中学校も存在する",
-    "translation": "",
+    "translation": "第三新东京市的郊外地区\\n与市区联系方便，也是\\n真嗣等人的生活据点\\n附近还有第一中学",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 19\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0031_ee18702598",
     "original": "広く帯状に広がる丘陵地帯が特徴\\n近隣まで都市が迫っているが、\\n損壊対象となる一般ビルは少ない",
-    "translation": "",
+    "translation": "广阔的带状丘陵地带\\n虽然城市已逼近附近，\\n但作为损毁目标的普通建筑很少",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 20\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0033_746386458a",
     "original": "芦ノ湖沿岸に位置する区域\\nジオフロントに太陽光を供給する、\\n巨大な集光ビル群や、\\n湖畔に面する公園施設が特徴的",
-    "translation": "",
+    "translation": "位于芦之湖沿岸的区域\\n拥有向地下都市供应阳光的\\n大型聚光建筑群，\\n以及面向湖畔的公园设施",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 21\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0035_315e8cee61",
     "original": "東地区と同じく郊外地区であるが、\\n大部分は農業地帯となっているため、\\n損壊対象となる一般ビルがない\\nそのため大火力での戦いが可能",
-    "translation": "",
+    "translation": "与东区一样是郊外地区，\\n但大部分是农业地带，\\n没有作为损毁目标的普通建筑\\n因此可以进行重火力战斗",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 22\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0037_5360e45f33",
     "original": "第３新東京市の地下にある、直径６km、\\n高さ０'９kmにも及ぶ巨大な空洞\\n森林や地底湖を内包し、\\n中央にネルフ本部がある",
-    "translation": "",
+    "translation": "位于第三新东京市地下，直径6公里、\\n高度达0.9公里的巨大空洞\\n内部有森林和地下湖，\\nNERV总部位于中央",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 23\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0039_3c9cca2732",
     "original": "２番目に完成した実戦試験用エヴァ\\n実戦に投入されたのはシンジが搭乗した\\n初号機が最初である\\n有線の電力供給で稼動する",
-    "translation": "",
+    "translation": "第二架完成的实战测试用EVA\\n最先投入实战的是由真嗣驾驶的初号机\\n通过有线电力供应运作",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 24\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0041_589030c42f",
     "original": "ターミナルドグマです",
-    "translation": "",
+    "translation": "这里是最终教条区",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 25\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0043_bbd6804f2b",
     "original": "太平洋近海です",
-    "translation": "",
+    "translation": "这里是太平洋近海",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 26\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0045_7fdd910053",
     "original": "浅間山です",
-    "translation": "",
+    "translation": "这里是浅间山",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 27\nElement: EXP\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0047_ac0c171033",
     "original": "旧東京都心です",
-    "translation": "",
+    "translation": "这里是旧东京都心",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 28\nElement: EXP\nAttribute: str"
   }
 ]

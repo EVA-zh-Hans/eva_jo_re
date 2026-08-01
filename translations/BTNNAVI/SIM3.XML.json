@@ -2,19 +2,19 @@
   {
     "key": "e_46f0c640ef_0005_ab52d22a60",
     "original": "模擬戦を始める",
-    "translation": "",
+    "translation": "开始模拟战",
     "context": "File: BTNNAVI/SIM3.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_46f0c640ef_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/SIM3.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_46f0c640ef_0015_df3535a647",
     "original": "決定",
-    "translation": "",
+    "translation": "确定",
     "context": "File: BTNNAVI/SIM3.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   }
 ]

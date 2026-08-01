@@ -8,13 +8,13 @@
   {
     "key": "e_329b33866f_0015_8fc7f89916",
     "original": "戻る",
-    "translation": "",
+    "translation": "返回",
     "context": "File: BTNNAVI/STSEVA.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_329b33866f_0020_1a31182aef",
     "original": "機体切替",
-    "translation": "",
+    "translation": "切换机体",
     "context": "File: BTNNAVI/STSEVA.XML\nLine: 7\nElement: BTN\nAttribute: caption"
   }
 ]

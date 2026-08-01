@@ -2,43 +2,50 @@
   {
     "key": "e_2bf2b469eb_0005_a891dc29b6",
     "original": "９体の量産機がジオフロントに飛来",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO016.XML\nLine: 3\nElement: DETAIL\nAttribute: exp"
+    "translation": "9架量产机飞抵地下都市",
+    "context": "File: INFO/PRE_INFO016.XML\nLine: 3\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_2bf2b469eb_0009_44bef9284e",
     "original": "歩行による移動、移動速度は速い",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO016.XML\nLine: 4\nElement: DETAIL\nAttribute: exp"
+    "translation": "通过步行移动，移动速度很快",
+    "context": "File: INFO/PRE_INFO016.XML\nLine: 4\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_2bf2b469eb_0013_6d3071703f",
     "original": "大剣による攻撃",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO016.XML\nLine: 5\nElement: DETAIL\nAttribute: exp"
+    "translation": "使用大剑攻击",
+    "context": "File: INFO/PRE_INFO016.XML\nLine: 5\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_2bf2b469eb_0017_8a1941ac7c",
     "original": "Ａ．Ｔ．フィールドを展開するガード",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO016.XML\nLine: 6\nElement: DETAIL\nAttribute: exp"
+    "translation": "展开AT力场进行防御",
+    "context": "File: INFO/PRE_INFO016.XML\nLine: 6\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_2bf2b469eb_0021_f7d8032241",
     "original": "攻撃の一環としてダッシュやジャンプ\\nでの移動をする",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO016.XML\nLine: 7\nElement: DETAIL\nAttribute: exp"
+    "translation": "会以冲刺或跳跃移动，\\n作为攻击的一环",
+    "context": "File: INFO/PRE_INFO016.XML\nLine: 7\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_2bf2b469eb_0025_a16177aa4e",
     "original": "第３新東京市の損壊を気にする必要が\\n無いので大火力の兵装ビル・武器の\\n配置が可能",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO016.XML\nLine: 8\nElement: DETAIL\nAttribute: exp"
+    "translation": "无需担心第三新东京市的损毁，\\n因此可以配置重火力兵装大楼和武器",
+    "context": "File: INFO/PRE_INFO016.XML\nLine: 8\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_2bf2b469eb_0029_d2d53f9b10",
     "original": "量産機９体との連続戦闘\\n１体が倒れると次の１体が現れる",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO016.XML\nLine: 9\nElement: DETAIL\nAttribute: exp"
+    "translation": "与9架量产机连续战斗，\\n一架倒下后下一架就会出现",
+    "context": "File: INFO/PRE_INFO016.XML\nLine: 9\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   }
 ]

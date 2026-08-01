@@ -2,43 +2,50 @@
   {
     "key": "e_e518908f94_0005_bf22c69e27",
     "original": "第３新東京市　北地区に出現予定",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO011.XML\nLine: 3\nElement: DETAIL\nAttribute: exp"
+    "translation": "预计出现在第三新东京市北区",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 3\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_e518908f94_0009_44bef9284e",
     "original": "歩行による移動、移動速度は速い",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO011.XML\nLine: 4\nElement: DETAIL\nAttribute: exp"
+    "translation": "通过步行移动，移动速度很快",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 4\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_e518908f94_0013_6f1cbba0b2",
     "original": "格闘攻撃が中心\\n腕の伸縮による中距離攻撃",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO011.XML\nLine: 5\nElement: DETAIL\nAttribute: exp"
+    "translation": "以格斗攻击为主，\\n通过手臂伸缩进行中距离攻击",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 5\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_e518908f94_0017_8a1941ac7c",
     "original": "Ａ．Ｔ．フィールドを展開するガード",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO011.XML\nLine: 6\nElement: DETAIL\nAttribute: exp"
+    "translation": "展开AT力场进行防御",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 6\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_e518908f94_0021_f7d8032241",
     "original": "攻撃の一環としてダッシュやジャンプ\\nでの移動をする",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO011.XML\nLine: 7\nElement: DETAIL\nAttribute: exp"
+    "translation": "会以冲刺或跳跃移动，\\n作为攻击的一环",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 7\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_e518908f94_0025_b31da4e26f",
     "original": "長射程の武器や兵装ビルによる\\n敵の近接攻撃範囲外からの\\nアウトレンジ攻撃",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO011.XML\nLine: 8\nElement: DETAIL\nAttribute: exp"
+    "translation": "使用长射程武器或兵装大楼，\\n在敌方近战攻击范围外发动\\n超距攻击",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 8\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_e518908f94_0029_cf63ea2f81",
     "original": "ゼロエリア防壁周辺に強力な\\n兵装ビルを多数配置すると、\\n防壁にまで被害が及ぶ事がある",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO011.XML\nLine: 9\nElement: DETAIL\nAttribute: exp"
+    "translation": "若在0区防壁周边配置大量\\n强力兵装大楼，\\n攻击可能会波及防壁",
+    "context": "File: INFO/PRE_INFO011.XML\nLine: 9\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   }
 ]

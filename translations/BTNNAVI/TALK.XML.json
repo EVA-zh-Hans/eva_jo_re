@@ -2,7 +2,7 @@
   {
     "key": "e_e9ed9bb59e_0010_75fca1d949",
     "original": "進む",
-    "translation": "",
+    "translation": "继续",
     "context": "File: BTNNAVI/TALK.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   }
 ]

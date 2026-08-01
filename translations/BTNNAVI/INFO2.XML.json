@@ -8,19 +8,19 @@
   {
     "key": "e_d28f512f82_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/INFO2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_d28f512f82_0015_6ef4ab3371",
     "original": "頁切替",
-    "translation": "",
+    "translation": "翻页",
     "context": "File: BTNNAVI/INFO2.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_d28f512f82_0020_8fc7f89916",
     "original": "戻る",
-    "translation": "",
+    "translation": "返回",
     "context": "File: BTNNAVI/INFO2.XML\nLine: 7\nElement: BTN\nAttribute: caption"
   }
 ]

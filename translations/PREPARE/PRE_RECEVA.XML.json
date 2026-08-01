@@ -9,49 +9,49 @@
   {
     "key": "e_988e3a9159_0006_968ff0ac1a",
     "original": "エヴァ初号機",
-    "translation": "",
+    "translation": "初号机",
     "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 6\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_988e3a9159_0008_407d17e407",
     "original": "エヴァ弐号機",
-    "translation": "",
+    "translation": "贰号机",
     "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 7\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_988e3a9159_0010_f5d9f28354",
     "original": "エヴァ参号機",
-    "translation": "",
+    "translation": "参号机",
     "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 8\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_988e3a9159_0013_296de0e31f",
     "original": "正常",
-    "translation": "",
+    "translation": "正常",
     "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 11\nElement: FACTOR\nAttribute: str"
   },
   {
     "key": "e_988e3a9159_0016_dc890145c9",
     "original": "軽微",
-    "translation": "",
+    "translation": "轻微",
     "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 12\nElement: FACTOR\nAttribute: str"
   },
   {
     "key": "e_988e3a9159_0019_476cabd660",
     "original": "中破",
-    "translation": "",
+    "translation": "中破",
     "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 13\nElement: FACTOR\nAttribute: str"
   },
   {
     "key": "e_988e3a9159_0022_63ef2f53f7",
     "original": "甚大",
-    "translation": "",
+    "translation": "严重",
     "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 14\nElement: FACTOR\nAttribute: str"
   },
   {
     "key": "e_988e3a9159_0025_60dbc6b080",
     "original": "破壊",
-    "translation": "",
+    "translation": "损毁",
     "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 15\nElement: FACTOR\nAttribute: str"
   }
 ]

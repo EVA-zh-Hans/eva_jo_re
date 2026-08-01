@@ -2,13 +2,13 @@
   {
     "key": "e_17b0f795d4_0005_8943d1fdd7",
     "original": "マップギミック",
-    "translation": "",
+    "translation": "地图机关",
     "context": "File: BTNNAVI/GMK1.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_17b0f795d4_0010_75fca1d949",
     "original": "進む",
-    "translation": "",
+    "translation": "继续",
     "context": "File: BTNNAVI/GMK1.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   }
 ]

@@ -2,13 +2,13 @@
   {
     "key": "e_a11064df78_0005_ab52d22a60",
     "original": "模擬戦を始める",
-    "translation": "",
+    "translation": "开始模拟战",
     "context": "File: BTNNAVI/SIM1.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {
     "key": "e_a11064df78_0010_75fca1d949",
     "original": "進む",
-    "translation": "",
+    "translation": "继续",
     "context": "File: BTNNAVI/SIM1.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   }
 ]

@@ -9,19 +9,19 @@
   {
     "key": "e_f952655a4e_0010_e721d064de",
     "original": "選択",
-    "translation": "",
+    "translation": "选择",
     "context": "File: BTNNAVI/OPT2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_f952655a4e_0015_df3535a647",
     "original": "決定",
-    "translation": "",
+    "translation": "确定",
     "context": "File: BTNNAVI/OPT2.XML\nLine: 6\nElement: BTN\nAttribute: caption"
   },
   {
     "key": "e_f952655a4e_0020_bca84ea5c6",
     "original": "キャンセル",
-    "translation": "",
+    "translation": "取消",
     "context": "File: BTNNAVI/OPT2.XML\nLine: 7\nElement: BTN\nAttribute: caption"
   }
 ]

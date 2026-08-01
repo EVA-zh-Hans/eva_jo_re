@@ -2,61 +2,71 @@
   {
     "key": "e_06e1dca3d3_0005_48ceb425aa",
     "original": "使徒の出現場所００２",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO002.XML\nLine: 3\nElement: DETAIL\nAttribute: exp"
+    "translation": "使徒出现地点００２",
+    "context": "File: INFO/PRE_INFO002.XML\nLine: 3\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_06e1dca3d3_0009_f679af8259",
     "original": "使徒の移動方法００２",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO002.XML\nLine: 4\nElement: DETAIL\nAttribute: exp"
+    "translation": "使徒移动方式００２",
+    "context": "File: INFO/PRE_INFO002.XML\nLine: 4\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_06e1dca3d3_0013_f76f64c7e9",
     "original": "使徒の攻撃方法００２",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO002.XML\nLine: 5\nElement: DETAIL\nAttribute: exp"
+    "translation": "使徒攻击方式００２",
+    "context": "File: INFO/PRE_INFO002.XML\nLine: 5\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_06e1dca3d3_0017_48a76e2e3a",
     "original": "使徒の防御方法００２",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO002.XML\nLine: 6\nElement: DETAIL\nAttribute: exp"
+    "translation": "使徒防御方式００２",
+    "context": "File: INFO/PRE_INFO002.XML\nLine: 6\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_06e1dca3d3_0021_58c37dc824",
     "original": "その他特徴００２",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO002.XML\nLine: 7\nElement: DETAIL\nAttribute: exp"
+    "translation": "其他特征００２",
+    "context": "File: INFO/PRE_INFO002.XML\nLine: 7\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_06e1dca3d3_0025_95051856cf",
     "original": "準備した方がいい事００２",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO002.XML\nLine: 8\nElement: DETAIL\nAttribute: exp"
+    "translation": "建议准备的事项００２",
+    "context": "File: INFO/PRE_INFO002.XML\nLine: 8\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_06e1dca3d3_0029_6840cefaa4",
     "original": "準備しない方がいい事００２",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO002.XML\nLine: 9\nElement: DETAIL\nAttribute: exp"
+    "translation": "不建议准备的事项００２",
+    "context": "File: INFO/PRE_INFO002.XML\nLine: 9\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_06e1dca3d3_0033_15dc8c5cd5",
     "original": "準備する必要が無い事００２",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO002.XML\nLine: 10\nElement: DETAIL\nAttribute: exp"
+    "translation": "无需准备的事项００２",
+    "context": "File: INFO/PRE_INFO002.XML\nLine: 10\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_06e1dca3d3_0037_0620edac43",
     "original": "特殊操作００２",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO002.XML\nLine: 11\nElement: DETAIL\nAttribute: exp"
+    "translation": "特殊操作００２",
+    "context": "File: INFO/PRE_INFO002.XML\nLine: 11\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   },
   {
     "key": "e_06e1dca3d3_0041_95ec295880",
     "original": "特殊戦闘システム００２",
-    "translation": "",
-    "context": "File: INFO/PRE_INFO002.XML\nLine: 12\nElement: DETAIL\nAttribute: exp"
+    "translation": "特殊战斗系统００２",
+    "context": "File: INFO/PRE_INFO002.XML\nLine: 12\nElement: DETAIL\nAttribute: exp",
+    "stage": 1
   }
 ]
