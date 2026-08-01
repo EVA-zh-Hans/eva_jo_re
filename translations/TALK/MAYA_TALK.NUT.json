@@ -23,21 +23,21 @@
   {
     "key": "e_b9d8d784fb_0005_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 105",
     "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0006_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "铃原君",
+    "translation": "铃原同学",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 106",
     "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0007_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 107",
     "stage": 1
   },
@@ -135,21 +135,21 @@
   {
     "key": "e_b9d8d784fb_0021_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 121",
     "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0022_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "铃原君",
+    "translation": "铃原同学",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 122",
     "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0023_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 123",
     "stage": 1
   },
@@ -247,21 +247,21 @@
   {
     "key": "e_b9d8d784fb_0037_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 137",
     "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0038_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "铃原君",
+    "translation": "铃原同学",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 138",
     "stage": 1
   },
   {
     "key": "e_b9d8d784fb_0039_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 139",
     "stage": 1
   },
@@ -1472,7 +1472,7 @@
   {
     "key": "e_b9d8d784fb_0374_c61fcf5b27",
     "original": "目標が分離、合体するまでは\\n通常攻撃により使徒の耐久力を奪ってください",
-    "translation": "在目标分离、合体之前\\n请用通常攻击削减使徒的耐久力",
+    "translation": "在目标分离、合体之前\\n请用通常攻击削减使徒的耐久值",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 475\nSpeaker: IMC_MAYA\nVoice: ",
     "stage": 1
   },

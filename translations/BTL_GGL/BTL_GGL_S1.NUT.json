@@ -9,7 +9,7 @@
   {
     "key": "e_8b0bb5f296_0002_a54cd2b34a",
     "original": "弐号機はＢ型装備なんだから、\\n海の中じゃ勝手がきかないのよ！",
-    "translation": "贰号机是B型装备，\\n在海里可没法随心所欲啊！",
+    "translation": "二号机是B型装备，\\n在海里可没法随心所欲啊！",
     "context": "File: BTL_GGL/BTL_GGL_S1.NUT\nLine: 32\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0030_04_001_2",
     "stage": 1
   },

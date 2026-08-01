@@ -44,7 +44,7 @@
   {
     "key": "e_bfc72b4412_0007_e0140910ce",
     "original": "この弐号機の魂は\\n今、自ら閉じこもっているから",
-    "translation": "这架贰号机的灵魂\\n现在正自我封闭着",
+    "translation": "这架二号机的灵魂\\n现在正自我封闭着",
     "context": "File: BTL_TBR/BTL_TBR_S2.NUT\nLine: 60\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: na52_0100_15_007_3",
     "stage": 1
   }

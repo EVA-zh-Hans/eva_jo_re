@@ -9,19 +9,19 @@
   {
     "key": "e_988e3a9159_0006_968ff0ac1a",
     "original": "エヴァ初号機",
-    "translation": "初号机",
+    "translation": "EVA初号机",
     "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 6\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_988e3a9159_0008_407d17e407",
     "original": "エヴァ弐号機",
-    "translation": "贰号机",
+    "translation": "EVA二号机",
     "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 7\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_988e3a9159_0010_f5d9f28354",
     "original": "エヴァ参号機",
-    "translation": "参号机",
+    "translation": "EVA三号机",
     "context": "File: PREPARE/PRE_RECEVA.XML\nLine: 8\nElement: NAME\nAttribute: str"
   },
   {

@@ -86,14 +86,14 @@
   {
     "key": "e_61f3971a6b_0013_e9db54e82d",
     "original": "初号機の実戦配備に続き、弐号機と\\n付属パイロットもドイツにて実証評価試験中です",
-    "translation": "继初号机实战配备后，贰号机与\\n附属驾驶员正在德国进行实证评估测试",
+    "translation": "继初号机实战配备后，二号机与\\n附属驾驶员正在德国进行实证评估测试",
     "context": "File: FREE/NEV_SEV0102.NUT\nLine: 279\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na50_0001_05_010_2",
     "stage": 1
   },
   {
     "key": "e_61f3971a6b_0014_8679f59e8c",
     "original": "参号機以降の建造も計画通りにな",
-    "translation": "参号机后续建造也按计划推进",
+    "translation": "三号机后续建造也按计划推进",
     "context": "File: FREE/NEV_SEV0102.NUT\nLine: 307\nCall: im.event\nSpeaker: IMC_SEELE04\nVoice: na50_0001_42_011",
     "stage": 1
   },

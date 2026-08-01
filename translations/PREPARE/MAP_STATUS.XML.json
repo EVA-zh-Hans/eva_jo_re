@@ -2,31 +2,31 @@
   {
     "key": "e_05fbb4dc75_0004_1fbec0ddb5",
     "original": "第３新東京市　中央区",
-    "translation": "第3新东京市 中央区",
+    "translation": "第三新东京市 中央区",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 5\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0006_c6a5aa6da9",
     "original": "第３新東京市　東地区",
-    "translation": "第3新东京市 东区",
+    "translation": "第三新东京市 东区",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 6\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0008_11b350752e",
     "original": "第３新東京市　西地区",
-    "translation": "第3新东京市 西区",
+    "translation": "第三新东京市 西区",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 7\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0010_c4ec54987c",
     "original": "第３新東京市　南地区",
-    "translation": "第3新东京市 南区",
+    "translation": "第三新东京市 南区",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 8\nElement: NAME\nAttribute: str"
   },
   {
     "key": "e_05fbb4dc75_0012_e72089eb06",
     "original": "第３新東京市　北地区",
-    "translation": "第3新东京市 北区",
+    "translation": "第三新东京市 北区",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 9\nElement: NAME\nAttribute: str"
   },
   {
@@ -68,7 +68,7 @@
   {
     "key": "e_05fbb4dc75_0027_7a7c2f9da6",
     "original": "最後の砦、ゼロエリアが存在する\\n防衛のためのスロットが充分に用意\\nされているため、マップギミックを\\n駆使した戦闘が可能である",
-    "translation": "最后的堡垒，0区就位于此处\\n准备了充足的防御槽位\\n可以运用地图机关进行战斗",
+    "translation": "最后的堡垒，零区就位于此处\\n准备了充足的防御槽位\\n可以运用地图机关进行战斗",
     "context": "File: PREPARE/MAP_STATUS.XML\nLine: 18\nElement: EXP\nAttribute: str"
   },
   {

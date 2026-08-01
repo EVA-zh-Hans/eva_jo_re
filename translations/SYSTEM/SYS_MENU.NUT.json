@@ -23,7 +23,7 @@
   {
     "key": "e_5076d999ed_0004_5b717728bb",
     "original": "オプション",
-    "translation": "选项",
+    "translation": "设置",
     "context": "File: SYSTEM/SYS_MENU.NUT\nLine: 28\nCall: MenuSetup\nVoice: チュートリアル",
     "stage": 1
   },

@@ -16,14 +16,14 @@
   {
     "key": "e_c27f56f0e2_0003_b58cdb8a6a",
     "original": "エヴァ弐号機、限界です！\\nエントリープラグ、緊急射出します！",
-    "translation": "EVA贰号机已达极限！\\n插入栓紧急射出！",
+    "translation": "EVA二号机已达极限！\\n插入栓紧急射出！",
     "context": "File: BTL/NEV_BEV9903.NUT\nLine: 118\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_003",
     "stage": 1
   },
   {
     "key": "e_c27f56f0e2_0004_6b37072dcd",
     "original": "エヴァ参号機、限界です！\\nエントリープラグ、緊急射出します！",
-    "translation": "EVA参号机已达极限！\\n插入栓紧急射出！",
+    "translation": "EVA三号机已达极限！\\n插入栓紧急射出！",
     "context": "File: BTL/NEV_BEV9903.NUT\nLine: 153\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na53_0009_09_004",
     "stage": 1
   },

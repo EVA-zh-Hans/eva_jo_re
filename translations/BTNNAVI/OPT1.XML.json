@@ -2,7 +2,7 @@
   {
     "key": "e_a172a51a8c_0005_5b717728bb",
     "original": "オプション",
-    "translation": "选项",
+    "translation": "设置",
     "context": "File: BTNNAVI/OPT1.XML\nLine: 4\nElement: TITLE\nAttribute: str",
     "stage": 1
   },

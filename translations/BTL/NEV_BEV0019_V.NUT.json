@@ -2,7 +2,7 @@
   {
     "key": "e_dc1af98145_0001_2080f4141a",
     "original": "目標、ゼロエリアを突破！",
-    "translation": "目标突破0区！",
+    "translation": "目标突破零区！",
     "context": "File: BTL/NEV_BEV0019_V.NUT\nLine: 26\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA05_0005_10_001_1",
     "stage": 1
   },

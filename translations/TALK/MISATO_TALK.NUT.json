@@ -1500,28 +1500,28 @@
   {
     "key": "e_89badcf1cb_0382_1e2e4fbbbe",
     "original": "中央区のど真ん中にあるゼロエリア防壁は、\\n絶対に壊されちゃダメよ！▽",
-    "translation": "中央区正中央的0区防壁\\n绝对不能被破坏哦！▽",
+    "translation": "中央区正中央的零区防壁\\n绝对不能被破坏哦！▽",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 479\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_89badcf1cb_0384_e9942059b2",
     "original": "ゼロエリア防壁の真下には、人類最後の砦である\\nこのネルフ本部があるんだから▽",
-    "translation": "0区防壁的正下方，就是人类最后的堡垒——NERV总部啊▽",
+    "translation": "零区防壁的正下方，就是人类最后的堡垒——NERV总部啊▽",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 480\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_89badcf1cb_0386_6d1f5ecea5",
     "original": "もちろんゼロエリア防壁周辺に、不用意に\\n強力な兵装ビルをたくさん配置するのも厳禁ね！",
-    "translation": "当然也严禁在0区防壁周边随意部署大量强力兵装大楼！",
+    "translation": "当然也严禁在零区防壁周边随意部署大量强力兵装大楼！",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 481\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_89badcf1cb_0388_01e69c0ce1",
     "original": "兵装ビルの攻撃にゼロエリア防壁まで\\n巻き込まれる事になるわ",
-    "translation": "兵装大楼的攻击会连累到0区防壁的",
+    "translation": "兵装大楼的攻击会连累到零区防壁的",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 482\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1591,28 +1591,28 @@
   {
     "key": "e_89badcf1cb_0408_1e2e4fbbbe",
     "original": "中央区のど真ん中にあるゼロエリア防壁は、\\n絶対に壊されちゃダメよ！▽",
-    "translation": "中央区正中央的0区防壁\\n绝对不能被破坏哦！▽",
+    "translation": "中央区正中央的零区防壁\\n绝对不能被破坏哦！▽",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 492\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_89badcf1cb_0410_e9942059b2",
     "original": "ゼロエリア防壁の真下には、人類最後の砦である\\nこのネルフ本部があるんだから▽",
-    "translation": "0区防壁的正下方，就是人类最后的堡垒——NERV总部啊▽",
+    "translation": "零区防壁的正下方，就是人类最后的堡垒——NERV总部啊▽",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 493\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_89badcf1cb_0412_6d1f5ecea5",
     "original": "もちろんゼロエリア防壁周辺に、不用意に\\n強力な兵装ビルをたくさん配置するのも厳禁ね！",
-    "translation": "当然也严禁在0区防壁周边随意部署大量强力兵装大楼！",
+    "translation": "当然也严禁在零区防壁周边随意部署大量强力兵装大楼！",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 494\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_89badcf1cb_0414_01e69c0ce1",
     "original": "兵装ビルの攻撃にゼロエリア防壁まで\\n巻き込まれる事になるわ",
-    "translation": "兵装大楼的攻击会连累到0区防壁的",
+    "translation": "兵装大楼的攻击会连累到零区防壁的",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 495\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1626,7 +1626,7 @@
   {
     "key": "e_89badcf1cb_0418_85df0921c9",
     "original": "アスカの搭乗する弐号機との共同戦線を行います\\nまずは個別に分離した目標を攻撃▽",
-    "translation": "将与明日香驾驶的贰号机展开联合作战\\n先攻击各自分离的目标▽",
+    "translation": "将与明日香驾驶的二号机展开联合作战\\n先攻击各自分离的目标▽",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 497\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1675,14 +1675,14 @@
   {
     "key": "e_89badcf1cb_0432_f606bd5704",
     "original": "前にも言ったと思うけど、ゼロエリア防壁周辺に、\\n強力な兵装ビルをたくさん配置しない事！",
-    "translation": "之前应该说过吧，绝对不要在0区防壁周边\n部署大量强力兵装大楼！",
+    "translation": "之前应该说过吧，绝对不要在零区防壁周边\n部署大量强力兵装大楼！",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 504\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_89badcf1cb_0434_138200cd0f",
     "original": "兵装ビルの攻撃に巻き込んで\\nゼロエリア防壁まで壊しちゃ元も子もないわ",
-    "translation": "要是被兵装大楼的攻击波及\n连0区防壁都破坏的话就本末倒置了",
+    "translation": "要是被兵装大楼的攻击波及\n连零区防壁都破坏的话就本末倒置了",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 505\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },

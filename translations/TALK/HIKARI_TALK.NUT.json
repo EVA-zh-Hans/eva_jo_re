@@ -2,14 +2,14 @@
   {
     "key": "e_7a2827915e_0002_644c29440f",
     "original": "碇君",
-    "translation": "碇君",
+    "translation": "碇同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 102",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0003_90683c105a",
     "original": "綾波さん",
-    "translation": "绫波さん",
+    "translation": "绫波同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 103",
     "stage": 1
   },
@@ -23,7 +23,7 @@
   {
     "key": "e_7a2827915e_0005_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 105",
     "stage": 1
   },
@@ -37,7 +37,7 @@
   {
     "key": "e_7a2827915e_0007_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 107",
     "stage": 1
   },
@@ -58,7 +58,7 @@
   {
     "key": "e_7a2827915e_0010_b21bfd74bf",
     "original": "赤木さん",
-    "translation": "赤木さん",
+    "translation": "赤木小姐",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 110",
     "stage": 1
   },
@@ -86,21 +86,21 @@
   {
     "key": "e_7a2827915e_0014_4653cddce9",
     "original": "青葉さん",
-    "translation": "青叶さん",
+    "translation": "青叶先生",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 114",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0015_60da3b82eb",
     "original": "日向さん",
-    "translation": "日向さん",
+    "translation": "日向先生",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 115",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0016_b8140644e6",
     "original": "伊吹さん",
-    "translation": "伊吹さん",
+    "translation": "伊吹小姐",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 116",
     "stage": 1
   },
@@ -114,28 +114,28 @@
   {
     "key": "e_7a2827915e_0018_644c29440f",
     "original": "碇君",
-    "translation": "碇君",
+    "translation": "碇同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 118",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0019_90683c105a",
     "original": "綾波さん",
-    "translation": "绫波さん",
+    "translation": "绫波同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 119",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0020_941ac9f85b",
     "original": "惣流さん",
-    "translation": "惣流さん",
+    "translation": "惣流同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 120",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0021_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 121",
     "stage": 1
   },
@@ -149,7 +149,7 @@
   {
     "key": "e_7a2827915e_0023_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 123",
     "stage": 1
   },
@@ -170,7 +170,7 @@
   {
     "key": "e_7a2827915e_0026_b21bfd74bf",
     "original": "赤木さん",
-    "translation": "赤木さん",
+    "translation": "赤木小姐",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 126",
     "stage": 1
   },
@@ -198,21 +198,21 @@
   {
     "key": "e_7a2827915e_0030_4653cddce9",
     "original": "青葉さん",
-    "translation": "青叶さん",
+    "translation": "青叶先生",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 130",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0031_60da3b82eb",
     "original": "日向さん",
-    "translation": "日向さん",
+    "translation": "日向先生",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 131",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0032_b8140644e6",
     "original": "伊吹さん",
-    "translation": "伊吹さん",
+    "translation": "伊吹小姐",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 132",
     "stage": 1
   },
@@ -226,28 +226,28 @@
   {
     "key": "e_7a2827915e_0034_644c29440f",
     "original": "碇君",
-    "translation": "碇君",
+    "translation": "碇同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 134",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0035_90683c105a",
     "original": "綾波さん",
-    "translation": "绫波さん",
+    "translation": "绫波同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 135",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0036_941ac9f85b",
     "original": "惣流さん",
-    "translation": "惣流さん",
+    "translation": "惣流同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 136",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0037_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 137",
     "stage": 1
   },
@@ -261,7 +261,7 @@
   {
     "key": "e_7a2827915e_0039_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 139",
     "stage": 1
   },
@@ -282,7 +282,7 @@
   {
     "key": "e_7a2827915e_0042_b21bfd74bf",
     "original": "赤木さん",
-    "translation": "赤木さん",
+    "translation": "赤木小姐",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 142",
     "stage": 1
   },
@@ -310,21 +310,21 @@
   {
     "key": "e_7a2827915e_0046_4653cddce9",
     "original": "青葉さん",
-    "translation": "青叶さん",
+    "translation": "青叶先生",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 146",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0047_60da3b82eb",
     "original": "日向さん",
-    "translation": "日向さん",
+    "translation": "日向先生",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 147",
     "stage": 1
   },
   {
     "key": "e_7a2827915e_0048_b8140644e6",
     "original": "伊吹さん",
-    "translation": "伊吹さん",
+    "translation": "伊吹小姐",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 148",
     "stage": 1
   },
@@ -359,7 +359,7 @@
   {
     "key": "e_7a2827915e_0056_bc19dd68de",
     "original": "あら碇君、元気？",
-    "translation": "哎呀碇君，最近好吗？",
+    "translation": "哎呀碇同学，最近好吗？",
     "context": "File: TALK/HIKARI_TALK.NUT\nLine: 155\nSpeaker: IMC_HIKARI\nVoice: ",
     "stage": 1
   },

@@ -9,7 +9,7 @@
   {
     "key": "e_fbf78b948c_0002_968ca8d6b5",
     "original": "ゼロエリアに踏み込まれる前に倒さないと、\\n街の被害も大きくなるのよ",
-    "translation": "要是被侵入0区再打倒\\n城市受害范围会更大哦",
+    "translation": "要是被侵入零区再打倒\\n城市受害范围会更大哦",
     "context": "File: BTL_SIM/BTL_SIM_BAD3.NUT\nLine: 43\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA05_0075_04_001_1",
     "stage": 1
   }

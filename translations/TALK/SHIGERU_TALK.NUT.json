@@ -23,21 +23,21 @@
   {
     "key": "e_a9286d3008_0005_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 105",
     "stage": 1
   },
   {
     "key": "e_a9286d3008_0006_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "铃原君",
+    "translation": "铃原同学",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 106",
     "stage": 1
   },
   {
     "key": "e_a9286d3008_0007_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 107",
     "stage": 1
   },
@@ -135,21 +135,21 @@
   {
     "key": "e_a9286d3008_0021_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 121",
     "stage": 1
   },
   {
     "key": "e_a9286d3008_0022_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "铃原君",
+    "translation": "铃原同学",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 122",
     "stage": 1
   },
   {
     "key": "e_a9286d3008_0023_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 123",
     "stage": 1
   },
@@ -247,21 +247,21 @@
   {
     "key": "e_a9286d3008_0037_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 137",
     "stage": 1
   },
   {
     "key": "e_a9286d3008_0038_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "铃原君",
+    "translation": "铃原同学",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 138",
     "stage": 1
   },
   {
     "key": "e_a9286d3008_0039_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 139",
     "stage": 1
   },
@@ -1486,7 +1486,7 @@
   {
     "key": "e_a9286d3008_0378_5777fb7004",
     "original": "強羅絶対防衛線を突破した目標は、\\n現在、第３新東京市　北地区を目指し移動中だな",
-    "translation": "突破强罗绝对防卫线的目标\\n目前正向第3新东京市北地区移动",
+    "translation": "突破强罗绝对防卫线的目标\\n目前正向第三新东京市北地区移动",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 477\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1514,7 +1514,7 @@
   {
     "key": "e_a9286d3008_0386_cb88687206",
     "original": "第３新東京市　東地区に出現しやがった",
-    "translation": "在第3新东京市东地区出现了",
+    "translation": "在第三新东京市东地区出现了",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 481\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1528,14 +1528,14 @@
   {
     "key": "e_a9286d3008_0390_ed83fe563c",
     "original": "ゼロエリアを目指して一直線に移動しているな\\n幸い移動速度は遅いようだが…",
-    "translation": "正笔直朝0区移动\\n所幸移动速度似乎较慢……",
+    "translation": "正笔直朝零区移动\\n所幸移动速度似乎较慢……",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 483\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_a9286d3008_0392_acbb2289e2",
     "original": "目標は、第３新東京市　中央区直上\\n衛星軌道上に出現",
-    "translation": "目标出现在第3新东京市中央区正上方\\n卫星轨道上",
+    "translation": "目标出现在第三新东京市中央区正上方\\n卫星轨道上",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 484\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1570,7 +1570,7 @@
   {
     "key": "e_a9286d3008_0402_a68d45da02",
     "original": "第３新東京市　南地区直上にいきなり出現しやがった",
-    "translation": "突然出现在第3新东京市南地区正上方",
+    "translation": "突然出现在第三新东京市南地区正上方",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 489\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1584,7 +1584,7 @@
   {
     "key": "e_a9286d3008_0406_dd9e995a91",
     "original": "松代第２実験場で発見された未確認移動物体は、\\n第３新東京市　北地区に向かっている",
-    "translation": "在松代第2实验场发现的未确认移动物体\\n正朝第3新东京市北地区前进",
+    "translation": "在松代第2实验场发现的未确认移动物体\\n正朝第三新东京市北地区前进",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 491\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1605,7 +1605,7 @@
   {
     "key": "e_a9286d3008_0412_536149ee97",
     "original": "目標は駒ケ岳防衛ラインを突破　現在、\\n第３新東京市　ジオフロントを目指し侵攻中だ",
-    "translation": "目标已突破驹岳防卫线\\n现正向第3新东京市地下都市进攻",
+    "translation": "目标已突破驹岳防卫线\\n现正向第三新东京市地下都市进攻",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 494\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1619,7 +1619,7 @@
   {
     "key": "e_a9286d3008_0416_acbb2289e2",
     "original": "目標は、第３新東京市　中央区直上\\n衛星軌道上に出現",
-    "translation": "目标出现在第3新东京市中央区正上方\\n卫星轨道上",
+    "translation": "目标出现在第三新东京市中央区正上方\\n卫星轨道上",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 496\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1633,7 +1633,7 @@
   {
     "key": "e_a9286d3008_0420_ee6d96cc48",
     "original": "目標は大涌谷上空に出現、\\n第３新東京市　東地区に向かってるらしい",
-    "translation": "目标出现在大涌谷上空\\n似乎正朝第3新东京市东地区移动",
+    "translation": "目标出现在大涌谷上空\\n似乎正朝第三新东京市东地区移动",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 498\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1647,14 +1647,14 @@
   {
     "key": "e_a9286d3008_0424_4999439784",
     "original": "目標は弐号機を外部より操作し、ネルフ本部内\\nターミナルドグマに向かい降下中",
-    "translation": "目标正从外部操控贰号机\\n向NERV本部最终教条区下降",
+    "translation": "目标正从外部操控二号机\\n向NERV本部最终教条区下降",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 500\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_a9286d3008_0426_197a993f8b",
     "original": "ターミナルドグマ降下後は、\\n弐号機の移動方法に準拠すると予想できるな▽",
-    "translation": "预计降入最终教条区后\\n将沿用贰号机的移动模式▽",
+    "translation": "预计降入最终教条区后\\n将沿用二号机的移动模式▽",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 501\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },

@@ -16,14 +16,14 @@
   {
     "key": "e_05750a386e_0003_6b76770afe",
     "original": "エヴァ弐号機の予備電源終了\\n活動限界です！",
-    "translation": "EVA贰号机备用电源耗尽\\n活动极限已至！",
+    "translation": "EVA二号机备用电源耗尽\\n活动极限已至！",
     "context": "File: BTL/NEV_BEV9904.NUT\nLine: 77\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_003",
     "stage": 1
   },
   {
     "key": "e_05750a386e_0004_31b7d2e45f",
     "original": "エヴァ参号機の予備電源終了\\n活動限界です！",
-    "translation": "EVA参号机备用电源耗尽\\n活动极限已至！",
+    "translation": "EVA三号机备用电源耗尽\\n活动极限已至！",
     "context": "File: BTL/NEV_BEV9904.NUT\nLine: 102\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: na53_0008_08_004",
     "stage": 1
   },

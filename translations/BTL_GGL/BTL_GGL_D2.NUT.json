@@ -2,7 +2,7 @@
   {
     "key": "e_86142512e2_0001_c4042344b2",
     "original": "ミサトさん！\\n弐号機の耐久力が、もう…",
-    "translation": "美里小姐！\\n贰号机的耐久值已经……",
+    "translation": "美里小姐！\\n二号机的耐久值已经……",
     "context": "File: BTL_GGL/BTL_GGL_D2.NUT\nLine: 43\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: na13_0026_01_002",
     "stage": 1
   },

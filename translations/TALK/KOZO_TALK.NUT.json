@@ -30,14 +30,14 @@
   {
     "key": "e_6fd828a5c0_0006_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "铃原君",
+    "translation": "铃原同学",
     "context": "File: TALK/KOZO_TALK.NUT\nLine: 106",
     "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0007_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/KOZO_TALK.NUT\nLine: 107",
     "stage": 1
   },
@@ -142,14 +142,14 @@
   {
     "key": "e_6fd828a5c0_0022_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "铃原君",
+    "translation": "铃原同学",
     "context": "File: TALK/KOZO_TALK.NUT\nLine: 122",
     "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0023_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/KOZO_TALK.NUT\nLine: 123",
     "stage": 1
   },
@@ -254,14 +254,14 @@
   {
     "key": "e_6fd828a5c0_0038_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "铃原君",
+    "translation": "铃原同学",
     "context": "File: TALK/KOZO_TALK.NUT\nLine: 138",
     "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0039_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/KOZO_TALK.NUT\nLine: 139",
     "stage": 1
   },
@@ -1192,7 +1192,7 @@
   {
     "key": "e_6fd828a5c0_0294_bd4a548827",
     "original": "最近国連軍の戦車が多い\\n頼んでもいないのにね　",
-    "translation": "最近UN军队的坦克变多了\n明明没请求支援",
+    "translation": "最近联合国军的坦克变多了\n明明没请求支援",
     "context": "File: TALK/KOZO_TALK.NUT\nLine: 274\nSpeaker: IMC_KOZO\nVoice: ",
     "stage": 1
   },
@@ -1374,14 +1374,14 @@
   {
     "key": "e_6fd828a5c0_0346_a403a16e60",
     "original": "聞いてはいるだろうが、ゼロエリア防壁周辺に、\\n強力な兵装ビルをたくさん配置してはいかんな▽",
-    "translation": "虽然你们可能听过\\n但千万别在0区防壁附近部署太多强力兵装大楼▽",
+    "translation": "虽然你们可能听过\\n但千万别在零区防壁附近部署太多强力兵装大楼▽",
     "context": "File: TALK/KOZO_TALK.NUT\nLine: 461\nSpeaker: IMC_KOZO\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_6fd828a5c0_0348_96c3add516",
     "original": "兵装ビルの攻撃に巻き込んでしまい\\nゼロエリア防壁まで壊す事にもなりかねん",
-    "translation": "万一被兵装大楼的攻击波及\\n连0区防壁都可能被破坏",
+    "translation": "万一被兵装大楼的攻击波及\\n连零区防壁都可能被破坏",
     "context": "File: TALK/KOZO_TALK.NUT\nLine: 462\nSpeaker: IMC_KOZO\nVoice: ",
     "stage": 1
   },

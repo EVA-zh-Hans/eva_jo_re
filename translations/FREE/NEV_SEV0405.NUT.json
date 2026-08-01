@@ -79,7 +79,7 @@
   {
     "key": "e_b36ea54583_0013_3df757c004",
     "original": "現在、目標は我々の直上、\\n第３新東京市ゼロエリアに侵攻",
-    "translation": "目前目标正从正上方入侵\\n第三新东京市0区",
+    "translation": "目前目标正从正上方入侵\\n第三新东京市零区",
     "context": "File: FREE/NEV_SEV0405.NUT\nLine: 790\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_0407_09_003",
     "stage": 1
   },

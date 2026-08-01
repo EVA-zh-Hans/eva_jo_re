@@ -16,7 +16,7 @@
   {
     "key": "e_46b065e55a_0003_38dd1b92fd",
     "original": "<02>耐久力<//>は、エヴァがダメージに耐えられる力です▽",
-    "translation": "<02>耐久力<//>是EVA承受伤害的能力▽",
+    "translation": "<02>耐久值<//>是EVA承受伤害的能力▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -37,7 +37,7 @@
   {
     "key": "e_46b065e55a_0006_b729db76dd",
     "original": "減少した<02>耐久力<//>の一部は\\n自己修復が可能な<02>ヘイフリック<//>となり、▽",
-    "translation": "损失的<02>耐久力<//>会转化为可自我修复的<02>海弗利克<//>区域▽",
+    "translation": "损失的<02>耐久值<//>会转化为可自我修复的<02>海弗利克<//>区域▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 42\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -184,7 +184,7 @@
   {
     "key": "e_46b065e55a_0027_4c5e486927",
     "original": "エヴァは第３新東京市に\\n設置されている<02>電源ビル<//>から▽",
-    "translation": "EVA通过第3新东京市\\n设置的<02>电源大楼<//>▽",
+    "translation": "EVA通过第三新东京市\\n设置的<02>电源大楼<//>▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 146\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },

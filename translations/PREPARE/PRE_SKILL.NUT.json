@@ -2,14 +2,14 @@
   {
     "key": "e_bfbe3532f0_0001_437a172d7b",
     "original": "開発",
-    "translation": "研发",
+    "translation": "开发",
     "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 46\nCall: font1.set_string",
     "stage": 1
   },
   {
     "key": "e_bfbe3532f0_0002_b7f76387ca",
     "original": "実装",
-    "translation": "装备",
+    "translation": "安装",
     "context": "File: PREPARE/PRE_SKILL.NUT\nLine: 47\nCall: font2.set_string",
     "stage": 1
   },

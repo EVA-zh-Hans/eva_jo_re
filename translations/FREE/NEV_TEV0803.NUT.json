@@ -2,14 +2,14 @@
   {
     "key": "e_0f1948a9cd_0001_4c13a8df17",
     "original": "エヴァ弐号機、限界深度、オーバー\\nプラス１００、…２００▽",
-    "translation": "EVA贰号机，临界深度突破\\n正100……200▽",
+    "translation": "EVA二号机，临界深度突破\\n正100……200▽",
     "context": "File: FREE/NEV_TEV0803.NUT\nLine: 221\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA03_0009_08_001",
     "stage": 1
   },
   {
     "key": "e_0f1948a9cd_0002_c4a33e219d",
     "original": "弐号機各部に亀裂発生",
-    "translation": "贰号机全身出现裂痕",
+    "translation": "二号机全身出现裂痕",
     "context": "File: FREE/NEV_TEV0803.NUT\nLine: 230\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA03_0009_08_001_2",
     "stage": 1
   },
@@ -79,7 +79,7 @@
   {
     "key": "e_0f1948a9cd_0012_5d73ed637b",
     "original": "弐号機は撤収作業をしつつ、\\n戦闘準備！",
-    "translation": "贰号机在撤退过程中\\n做好战斗准备！",
+    "translation": "二号机在撤退过程中\\n做好战斗准备！",
     "context": "File: FREE/NEV_TEV0803.NUT\nLine: 419\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0009_04_002_1",
     "stage": 1
   },

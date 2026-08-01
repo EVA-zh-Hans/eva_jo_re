@@ -114,7 +114,7 @@
   {
     "key": "e_478af4ca29_0017_6bea0484df",
     "original": "もしや、弐号機との融合を\\n果たすつもりなのか？",
-    "translation": "莫非是想实现\\n与贰号机的融合？",
+    "translation": "莫非是想实现\\n与二号机的融合？",
     "context": "File: FREE/NEV_TEV1805.NUT\nLine: 735\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1805_06_010",
     "stage": 1
   },

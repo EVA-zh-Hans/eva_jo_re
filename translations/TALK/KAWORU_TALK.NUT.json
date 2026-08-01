@@ -9,7 +9,7 @@
   {
     "key": "e_3aa35147e9_0003_90683c105a",
     "original": "綾波さん",
-    "translation": "绫波さん",
+    "translation": "绫波同学",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 103",
     "stage": 1
   },
@@ -58,7 +58,7 @@
   {
     "key": "e_3aa35147e9_0010_b21bfd74bf",
     "original": "赤木さん",
-    "translation": "赤木さん",
+    "translation": "赤木小姐",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 110",
     "stage": 1
   },
@@ -86,21 +86,21 @@
   {
     "key": "e_3aa35147e9_0014_4653cddce9",
     "original": "青葉さん",
-    "translation": "青叶さん",
+    "translation": "青叶先生",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 114",
     "stage": 1
   },
   {
     "key": "e_3aa35147e9_0015_60da3b82eb",
     "original": "日向さん",
-    "translation": "日向さん",
+    "translation": "日向先生",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 115",
     "stage": 1
   },
   {
     "key": "e_3aa35147e9_0016_b8140644e6",
     "original": "伊吹さん",
-    "translation": "伊吹さん",
+    "translation": "伊吹小姐",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 116",
     "stage": 1
   },
@@ -121,7 +121,7 @@
   {
     "key": "e_3aa35147e9_0019_90683c105a",
     "original": "綾波さん",
-    "translation": "绫波さん",
+    "translation": "绫波同学",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 119",
     "stage": 1
   },
@@ -170,7 +170,7 @@
   {
     "key": "e_3aa35147e9_0026_b21bfd74bf",
     "original": "赤木さん",
-    "translation": "赤木さん",
+    "translation": "赤木小姐",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 126",
     "stage": 1
   },
@@ -198,21 +198,21 @@
   {
     "key": "e_3aa35147e9_0030_4653cddce9",
     "original": "青葉さん",
-    "translation": "青叶さん",
+    "translation": "青叶先生",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 130",
     "stage": 1
   },
   {
     "key": "e_3aa35147e9_0031_60da3b82eb",
     "original": "日向さん",
-    "translation": "日向さん",
+    "translation": "日向先生",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 131",
     "stage": 1
   },
   {
     "key": "e_3aa35147e9_0032_b8140644e6",
     "original": "伊吹さん",
-    "translation": "伊吹さん",
+    "translation": "伊吹小姐",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 132",
     "stage": 1
   },
@@ -233,7 +233,7 @@
   {
     "key": "e_3aa35147e9_0035_90683c105a",
     "original": "綾波さん",
-    "translation": "绫波さん",
+    "translation": "绫波同学",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 135",
     "stage": 1
   },
@@ -282,7 +282,7 @@
   {
     "key": "e_3aa35147e9_0042_b21bfd74bf",
     "original": "赤木さん",
-    "translation": "赤木さん",
+    "translation": "赤木小姐",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 142",
     "stage": 1
   },
@@ -310,21 +310,21 @@
   {
     "key": "e_3aa35147e9_0046_4653cddce9",
     "original": "青葉さん",
-    "translation": "青叶さん",
+    "translation": "青叶先生",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 146",
     "stage": 1
   },
   {
     "key": "e_3aa35147e9_0047_60da3b82eb",
     "original": "日向さん",
-    "translation": "日向さん",
+    "translation": "日向先生",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 147",
     "stage": 1
   },
   {
     "key": "e_3aa35147e9_0048_b8140644e6",
     "original": "伊吹さん",
-    "translation": "伊吹さん",
+    "translation": "伊吹小姐",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 148",
     "stage": 1
   },
@@ -1353,7 +1353,7 @@
   {
     "key": "e_3aa35147e9_0340_97b541d588",
     "original": "アスカと彼女の弐号機は…\\n互いに心を閉ざしている",
-    "translation": "明日香和她的贰号机……\n彼此都紧闭着心扉",
+    "translation": "明日香和她的二号机……\n彼此都紧闭着心扉",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 297\nSpeaker: IMC_KAWORU\nVoice: ",
     "stage": 1
   },

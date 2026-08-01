@@ -219,7 +219,7 @@
   {
     "key": "e_431c164d39_0032_aac9f0a618",
     "original": "鈴原君の事はいくら言葉で謝っても\\n「ごめん」で取り消されるミスではないわ",
-    "translation": "铃原君的事不是用几句道歉\\n说声「对不起」就能弥补的过错",
+    "translation": "铃原同学的事不是用几句道歉\\n说声「对不起」就能弥补的过错",
     "context": "File: FREE/NEV_TEV1401.NUT\nLine: 884\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1401_04_026",
     "stage": 1
   },

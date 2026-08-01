@@ -107,14 +107,14 @@
   {
     "key": "e_70107ec52e_0016_f5c2e4bfba",
     "original": "マップギミックの手配",
-    "translation": "地图机关的调配",
+    "translation": "地图机关调配",
     "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: マップギミックの配置",
     "stage": 1
   },
   {
     "key": "e_70107ec52e_0017_f47fa0f571",
     "original": "マップギミックの配置",
-    "translation": "地图机关的配置",
+    "translation": "地图机关配置",
     "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup\nVoice: 武器の調達",
     "stage": 1
   },
@@ -170,7 +170,7 @@
   {
     "key": "e_70107ec52e_0025_f028806e4e",
     "original": "都市の復興支援",
-    "translation": "都市复兴支援",
+    "translation": "城市重建支援",
     "context": "File: SYSTEM/TUTORIAL.NUT\nLine: 86\nCall: MenuSetup",
     "stage": 1
   },

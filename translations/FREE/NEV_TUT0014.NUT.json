@@ -93,7 +93,7 @@
   {
     "key": "e_5861eed22a_0014_b6757ade4e",
     "original": "国連軍…ですか",
-    "translation": "UN军队…吗",
+    "translation": "联合国军…吗",
     "context": "File: FREE/NEV_TUT0014.NUT\nLine: 160\nCall: im.play\nSpeaker: IMC_SHINJI",
     "stage": 1
   },

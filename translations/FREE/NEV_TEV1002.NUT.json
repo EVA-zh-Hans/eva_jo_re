@@ -65,7 +65,7 @@
   {
     "key": "e_f07b1d3fe5_0010_9a565f349f",
     "original": "私も何も知らない…碇司令の事\\n碇君の方が…きっと知ってる",
-    "translation": "我也不了解……碇司令的事\n碇君你……应该更清楚",
+    "translation": "我也不了解……碇司令的事\n碇同学你……应该更清楚",
     "context": "File: FREE/NEV_TEV1002.NUT\nLine: 313\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1002_03_006_1",
     "stage": 1
   },

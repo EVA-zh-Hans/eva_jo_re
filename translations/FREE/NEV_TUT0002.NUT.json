@@ -324,7 +324,7 @@
   {
     "key": "e_85540ce4a7_0047_8d332b38cd",
     "original": "例えば<02>観測ビル<//>が無いと、\\n敵の耐久力だってわからないんだから",
-    "translation": "比如没有<02>观测大楼<//>的话，\\n连敌人的耐久力都无法掌握",
+    "translation": "比如没有<02>观测大楼<//>的话，\\n连敌人的耐久值都无法掌握",
     "context": "File: FREE/NEV_TUT0002.NUT\nLine: 213\nCall: im.play\nSpeaker: IMC_MISATO",
     "stage": 1
   },

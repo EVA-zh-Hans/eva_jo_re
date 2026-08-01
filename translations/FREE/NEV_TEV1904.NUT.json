@@ -177,7 +177,7 @@
   {
     "key": "e_93504af1d6_0026_23981dff7c",
     "original": "だめ\\n碇君が呼んでる",
-    "translation": "不行\\n碇君在呼唤我",
+    "translation": "不行\\n碇同学在呼唤我",
     "context": "File: FREE/NEV_TEV1904.NUT\nLine: 595\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1905_03_004",
     "stage": 1
   },

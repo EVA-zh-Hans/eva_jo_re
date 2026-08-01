@@ -128,7 +128,7 @@
   {
     "key": "e_9005323ca4_0019_db81ca5eb0",
     "original": "どう思うかね？　碇君…",
-    "translation": "你怎么看？碇君……",
+    "translation": "你怎么看？碇同学……",
     "context": "File: FREE/NEV_TEV1302.NUT\nLine: 664\nCall: im.event\nSpeaker: IMC_KIEL\nVoice: NA10_1302_20_019",
     "stage": 1
   },

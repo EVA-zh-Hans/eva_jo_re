@@ -16,14 +16,14 @@
   {
     "key": "e_46c986e21a_0003_fd5b819ea2",
     "original": "エヴァ弐号機のアンビリカルケーブル、接続！",
-    "translation": "EVA贰号机的脐带电缆，连接！",
+    "translation": "EVA二号机的脐带电缆，连接！",
     "context": "File: BTL/NEV_BEV0005.NUT\nLine: 60\nCall: DecideStart2",
     "stage": 1
   },
   {
     "key": "e_46c986e21a_0004_ae9552e9f0",
     "original": "エヴァ参号機のアンビリカルケーブル、接続！",
-    "translation": "EVA参号机的脐带电缆，连接！",
+    "translation": "EVA三号机的脐带电缆，连接！",
     "context": "File: BTL/NEV_BEV0005.NUT\nLine: 82\nCall: DecideStart2",
     "stage": 1
   },

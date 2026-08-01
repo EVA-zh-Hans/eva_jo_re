@@ -2,7 +2,7 @@
   {
     "key": "e_0d585cfbcf_0003_9ac6dfab94",
     "original": "耐久力",
-    "translation": "耐久力",
+    "translation": "耐久值",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 3\nElement: PARAM\nAttribute: text"
   },
   {

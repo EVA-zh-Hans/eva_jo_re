@@ -121,7 +121,7 @@
   {
     "key": "e_2c69235516_0018_e1157ec926",
     "original": "そう…かな？　碇君、繊細な感じするし、\\nそういうのには敏感なんじゃない？",
-    "translation": "是…吗？碇君感觉挺细腻的\\n对这种应该很敏感吧？",
+    "translation": "是…吗？碇同学感觉挺细腻的\\n对这种应该很敏感吧？",
     "context": "File: FREE/NEV_TEV1303.NUT\nLine: 542\nCall: im.event\nSpeaker: IMC_HIKARI\nVoice: NA10_1303_12_015",
     "stage": 1
   },

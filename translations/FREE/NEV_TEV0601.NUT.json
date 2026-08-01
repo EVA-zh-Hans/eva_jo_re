@@ -240,7 +240,7 @@
   {
     "key": "e_c5de083e88_0035_c74b59e399",
     "original": "そ…そうそう、弐号機、そうだったわ▽",
-    "translation": "对…对对，贰号机，是这么回事▽",
+    "translation": "对…对对，二号机，是这么回事▽",
     "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1165\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0602_04_016",
     "stage": 1
   },

@@ -115,14 +115,14 @@
     "key": "eboot_002789f8",
     "offset": "0x002789F8",
     "original": "エヴァ弐号機",
-    "translation": "EVA贰号机",
+    "translation": "EVA二号机",
     "context": "EBOOT .rodata: EVA name"
   },
   {
     "key": "eboot_00278a08",
     "offset": "0x00278A08",
     "original": "エヴァ参号機",
-    "translation": "EVA参号机",
+    "translation": "EVA三号机",
     "context": "EBOOT .rodata: EVA name"
   },
   {

@@ -2,14 +2,14 @@
   {
     "key": "e_86d29790d2_0001_f5c2e4bfba",
     "original": "マップギミックの手配",
-    "translation": "地图机关的调配",
+    "translation": "地图机关调配",
     "context": "File: TUT/TUT_F103.NUT\nLine: 7\nCall: StartNavi",
     "stage": 1
   },
   {
     "key": "e_86d29790d2_0002_f5c2e4bfba",
     "original": "マップギミックの手配",
-    "translation": "地图机关的调配",
+    "translation": "地图机关调配",
     "context": "File: TUT/TUT_F103.NUT\nLine: 20\nCall: DecideStart",
     "stage": 1
   },

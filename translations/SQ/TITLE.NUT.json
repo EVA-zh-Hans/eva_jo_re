@@ -2,7 +2,7 @@
   {
     "key": "e_6901d3dfdb_0001_5badbb5731",
     "original": "ストーリー",
-    "translation": "剧本",
+    "translation": "剧情",
     "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup\nVoice: 模擬戦",
     "stage": 1
   },
@@ -30,14 +30,14 @@
   {
     "key": "e_6901d3dfdb_0005_5b717728bb",
     "original": "オプション",
-    "translation": "选项",
+    "translation": "设置",
     "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup\nVoice: リアルバトル",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0006_21f64de98c",
     "original": "リアルバトル",
-    "translation": "真实战斗",
+    "translation": "实战",
     "context": "File: SQ/TITLE.NUT\nLine: 117\nCall: MenuSetup",
     "stage": 1
   },
@@ -254,28 +254,28 @@
   {
     "key": "e_6901d3dfdb_0037_296f2c9be1",
     "original": "水の迎撃作戦上級",
-    "translation": "水天使迎击作战上级",
+    "translation": "水天使迎击作战高级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦上級２",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0038_31f8e0efd9",
     "original": "水の迎撃作戦上級２",
-    "translation": "水天使迎击作战上级２",
+    "translation": "水天使迎击作战高级２",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦上級３",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0039_16c14d4448",
     "original": "水の迎撃作戦上級３",
-    "translation": "水天使迎击作战上级３",
+    "translation": "水天使迎击作战高级３",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦上級４",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0040_21ff6e54c0",
     "original": "水の迎撃作戦上級４",
-    "translation": "水天使迎击作战上级４",
+    "translation": "水天使迎击作战高级４",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の迎撃作戦超級",
     "stage": 1
   },
@@ -352,28 +352,28 @@
   {
     "key": "e_6901d3dfdb_0051_bdb2dbd1ba",
     "original": "昼の迎撃作戦上級",
-    "translation": "昼天使迎击作战上级",
+    "translation": "昼天使迎击作战高级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦上級２",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0052_e6bb1a996f",
     "original": "昼の迎撃作戦上級２",
-    "translation": "昼天使迎击作战·上级2",
+    "translation": "昼天使迎击作战·高级2",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦上級３",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0053_28d9905fab",
     "original": "昼の迎撃作戦上級３",
-    "translation": "昼天使迎击作战·上级3",
+    "translation": "昼天使迎击作战·高级3",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦上級４",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0054_2e7a98b9cc",
     "original": "昼の迎撃作戦上級４",
-    "translation": "昼天使迎击作战·上级4",
+    "translation": "昼天使迎击作战·高级4",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼の迎撃作戦超級",
     "stage": 1
   },
@@ -429,77 +429,77 @@
   {
     "key": "e_6901d3dfdb_0062_27715e7c53",
     "original": "音楽の迎撃作戦中級５",
-    "translation": "音乐天使迎击战中阶5",
+    "translation": "音乐天使迎击作战中级5",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦中級６",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0063_85b9277373",
     "original": "音楽の迎撃作戦中級６",
-    "translation": "音乐天使迎击战中阶6",
+    "translation": "音乐天使迎击作战中级6",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦上級",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0064_ab59ac0bc2",
     "original": "音楽の迎撃作戦上級",
-    "translation": "音乐天使迎击战高阶",
+    "translation": "音乐天使迎击作战高级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦上級２",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0065_1da7ddd562",
     "original": "音楽の迎撃作戦上級２",
-    "translation": "音乐天使迎击战高阶2",
+    "translation": "音乐天使迎击作战高级2",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦上級３",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0066_7688e365de",
     "original": "音楽の迎撃作戦上級３",
-    "translation": "音乐天使迎击战高阶3",
+    "translation": "音乐天使迎击作战高级3",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦上級４",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0067_5fb1c8b800",
     "original": "音楽の迎撃作戦上級４",
-    "translation": "音乐天使迎击战高阶4",
+    "translation": "音乐天使迎击作战高级4",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦超級",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0068_a584b5f2a2",
     "original": "音楽の迎撃作戦超級",
-    "translation": "音乐天使迎击战超阶",
+    "translation": "音乐天使迎击作战超级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦超級２",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0069_753cfb2f4d",
     "original": "音楽の迎撃作戦超級２",
-    "translation": "音乐天使迎击战超阶2",
+    "translation": "音乐天使迎击作战超级2",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 音楽の迎撃作戦神級",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0070_d4c0fbda8a",
     "original": "音楽の迎撃作戦神級",
-    "translation": "音乐天使迎击战神级",
+    "translation": "音乐天使迎击作战神级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 雨の迎撃作戦中級",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0071_6fd82bf0ad",
     "original": "雨の迎撃作戦中級",
-    "translation": "雨天使迎击战中阶",
+    "translation": "雨天使迎击作战中级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 雨の迎撃作戦上級",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0072_ea6db872b6",
     "original": "雨の迎撃作戦上級",
-    "translation": "雨天使迎击作战·上级",
+    "translation": "雨天使迎击作战·高级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 雨の迎撃作戦超級",
     "stage": 1
   },
@@ -541,21 +541,21 @@
   {
     "key": "e_6901d3dfdb_0078_ebbac4a681",
     "original": "霞の迎撃作戦上級",
-    "translation": "霰天使迎击作战·上级",
+    "translation": "霰天使迎击作战·高级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞の迎撃作戦上級２",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0079_aaf1db61f8",
     "original": "霞の迎撃作戦上級２",
-    "translation": "霰天使迎击作战·上级2",
+    "translation": "霰天使迎击作战·高级2",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞の迎撃作戦上級３",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0080_15a8aefb02",
     "original": "霞の迎撃作戦上級３",
-    "translation": "霰天使迎击作战·上级3",
+    "translation": "霰天使迎击作战·高级3",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 霞の迎撃作戦超級",
     "stage": 1
   },
@@ -597,28 +597,28 @@
   {
     "key": "e_6901d3dfdb_0086_9e28f2eb9e",
     "original": "力の迎撃作戦上級",
-    "translation": "力天使迎击作战上级",
+    "translation": "力天使迎击作战高级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦上級２",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0087_15670b587e",
     "original": "力の迎撃作戦上級２",
-    "translation": "力天使迎击作战上级2",
+    "translation": "力天使迎击作战高级2",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦上級３",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0088_002009ec36",
     "original": "力の迎撃作戦上級３",
-    "translation": "力天使迎击作战上级3",
+    "translation": "力天使迎击作战高级3",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦上級４",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0089_209b3c4b0a",
     "original": "力の迎撃作戦上級４",
-    "translation": "力天使迎击作战上级4",
+    "translation": "力天使迎击作战高级4",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 力の迎撃作戦超級",
     "stage": 1
   },
@@ -660,14 +660,14 @@
   {
     "key": "e_6901d3dfdb_0095_ebb3a09320",
     "original": "子宮の迎撃作戦上級",
-    "translation": "子宫天使迎击作战·上级",
+    "translation": "子宫天使迎击作战·高级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 子宮の迎撃作戦上級２",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0096_1426c0ee2a",
     "original": "子宮の迎撃作戦上級２",
-    "translation": "子宫天使迎击作战·上级2",
+    "translation": "子宫天使迎击作战·高级2",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 子宮の迎撃作戦超級",
     "stage": 1
   },
@@ -688,14 +688,14 @@
   {
     "key": "e_6901d3dfdb_0099_7ab0c88909",
     "original": "自由の迎撃作戦上級",
-    "translation": "自由天使迎击作战·上级",
+    "translation": "自由天使迎击作战·高级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 自由の迎撃作戦上級２",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0100_4742c0d98c",
     "original": "自由の迎撃作戦上級２",
-    "translation": "自由天使迎击作战·上级2",
+    "translation": "自由天使迎击作战·高级2",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 自由の迎撃作戦超級",
     "stage": 1
   },
@@ -716,14 +716,14 @@
   {
     "key": "e_6901d3dfdb_0103_cb4d84f25f",
     "original": "量産機迎撃作戦上級",
-    "translation": "EVA量产系列迎击作战·上级",
+    "translation": "EVA量产系列迎击作战·高级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量産機迎撃作戦上級２",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0104_619d6951f4",
     "original": "量産機迎撃作戦上級２",
-    "translation": "EVA量产系列迎击作战·上级2",
+    "translation": "EVA量产系列迎击作战·高级2",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量産機迎撃作戦超級",
     "stage": 1
   },
@@ -1010,7 +1010,7 @@
   {
     "key": "e_6901d3dfdb_0145_2e0a2fdd3e",
     "original": "量産機",
-    "translation": "EVA量产系列",
+    "translation": "量产机",
     "context": "File: SQ/TITLE.NUT\nLine: 318\nCall: MenuSetup",
     "stage": 1
   }

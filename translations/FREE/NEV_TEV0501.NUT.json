@@ -86,7 +86,7 @@
   {
     "key": "e_24c0d0c384_0013_d483d39b3e",
     "original": "シンジ、屋上行こうぜ…\\n国連軍の航空演習のコースが学校の真上なんだ",
-    "translation": "真嗣，去屋顶吧……\\nUN军队的飞行演习航线正好经过学校上空",
+    "translation": "真嗣，去屋顶吧……\\n联合国军的飞行演习航线正好经过学校上空",
     "context": "File: FREE/NEV_TEV0501.NUT\nLine: 612\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_0501_14_002",
     "stage": 1
   },

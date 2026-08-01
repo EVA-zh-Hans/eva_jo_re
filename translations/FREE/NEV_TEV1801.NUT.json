@@ -149,7 +149,7 @@
   {
     "key": "e_d63e891b8a_0022_c6d6af651e",
     "original": "カヲルでいいよ\\n碇君",
-    "translation": "叫我薰就好\\n碇君",
+    "translation": "叫我薰就好\\n碇同学",
     "context": "File: FREE/NEV_TEV1801.NUT\nLine: 609\nCall: im.event\nSpeaker: IMC_KAWORU\nVoice: NA08_0004_15_005",
     "stage": 1
   },

@@ -14,7 +14,7 @@
   {
     "key": "e_1e9b88dbcd_0008_621c5fb29d",
     "original": "エヴァ弐号機の専属操縦者である第２の\\n少女　日本とドイツのクォーターだが、\\n国籍はアメリカ　\\nプライドが高く、負けず嫌いな少女",
-    "translation": "贰号机的专属驾驶员，第二少女\\n拥有日本和德国血统，\\n国籍为美国\\n自尊心强、不服输的少女",
+    "translation": "二号机的专属驾驶员，第二少女\\n拥有日本和德国血统，\\n国籍为美国\\n自尊心强、不服输的少女",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 7\nElement: EXP\nAttribute: str"
   },
   {
@@ -98,7 +98,7 @@
   {
     "key": "e_1e9b88dbcd_0037_cd5e43b524",
     "original": "最初に完成した汎用人型決戦兵器\\n性能実験等への使用を目的に製作された\\n試作型エヴァである\\n起動実験時の暴走により凍結される",
-    "translation": "最早完成的通用人型决战兵器\\n为性能实验等用途制造的\\n试作型EVA\\n因启动实验失控而被冻结",
+    "translation": "最早完成的泛用人型决战兵器\\n为性能实验等用途制造的\\n试作型EVA\\n因启动实验失控而被冻结",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 23\nElement: EXP\nAttribute: str"
   },
   {
@@ -122,7 +122,7 @@
   {
     "key": "e_1e9b88dbcd_0045_3127eab698",
     "original": "最初に完成した汎用人型決戦兵器\\n使徒との戦いで大破し、その後改修され\\n再就役となる\\nその際、本体色が黄色から青色となる",
-    "translation": "最早完成的通用人型决战兵器\\n在与使徒的战斗中严重损毁，之后改修\\n重新服役\\n机体颜色也由黄色变为蓝色",
+    "translation": "最早完成的泛用人型决战兵器\\n在与使徒的战斗中严重损毁，之后改修\\n重新服役\\n机体颜色也由黄色变为蓝色",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 27\nElement: EXP\nAttribute: str"
   }
 ]

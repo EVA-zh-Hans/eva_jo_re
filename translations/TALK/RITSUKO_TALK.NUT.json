@@ -23,7 +23,7 @@
   {
     "key": "e_9e902a37f3_0005_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 105",
     "stage": 1
   },
@@ -37,7 +37,7 @@
   {
     "key": "e_9e902a37f3_0007_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 107",
     "stage": 1
   },
@@ -135,7 +135,7 @@
   {
     "key": "e_9e902a37f3_0021_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 121",
     "stage": 1
   },
@@ -149,7 +149,7 @@
   {
     "key": "e_9e902a37f3_0023_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 123",
     "stage": 1
   },
@@ -247,7 +247,7 @@
   {
     "key": "e_9e902a37f3_0037_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 137",
     "stage": 1
   },
@@ -261,7 +261,7 @@
   {
     "key": "e_9e902a37f3_0039_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 139",
     "stage": 1
   },
@@ -1661,7 +1661,7 @@
   {
     "key": "e_9e902a37f3_0428_0bb497cd51",
     "original": "初号機凍結中のため、弐号機で戦闘を行います\\nロンギヌスの槍到着まで目一杯時間を稼いで▽",
-    "translation": "初号机正在冻结中，由贰号机执行战斗\\n在朗基努斯之枪抵达前尽量争取时间▽",
+    "translation": "初号机正在冻结中，由二号机执行战斗\\n在朗基努斯之枪抵达前尽量争取时间▽",
     "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 502\nSpeaker: IMC_RITSUKO\nVoice: ",
     "stage": 1
   },

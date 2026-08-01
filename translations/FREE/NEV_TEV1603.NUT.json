@@ -65,7 +65,7 @@
   {
     "key": "e_20f20e72b8_0010_00b9109557",
     "original": "了解、零号機発進\\n弐号機アスカはバックアップとして、発進準備！",
-    "translation": "明白，零号机出动\\n贰号机明日香作为后备，准备出击！",
+    "translation": "明白，零号机出动\\n二号机明日香作为后备，准备出击！",
     "context": "File: FREE/NEV_TEV1603.NUT\nLine: 474\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1603_04_003",
     "stage": 1
   },

@@ -2,14 +2,14 @@
   {
     "key": "e_de83e8d437_0001_f47fa0f571",
     "original": "マップギミックの配置",
-    "translation": "地图机关的配置",
+    "translation": "地图机关配置",
     "context": "File: TUT/TUT_F104.NUT\nLine: 7\nCall: StartNavi",
     "stage": 1
   },
   {
     "key": "e_de83e8d437_0002_f47fa0f571",
     "original": "マップギミックの配置",
-    "translation": "地图机关的配置",
+    "translation": "地图机关配置",
     "context": "File: TUT/TUT_F104.NUT\nLine: 23\nCall: DecideStart",
     "stage": 1
   },

@@ -44,7 +44,7 @@
   {
     "key": "e_8030290864_0029_cf63ea2f81",
     "original": "ゼロエリア防壁周辺に強力な\\n兵装ビルを多数配置すると、\\n防壁にまで被害が及ぶ事がある",
-    "translation": "若在0区防壁周边配置大量\\n强力兵装大楼，\\n攻击可能会波及防壁",
+    "translation": "若在零区防壁周边配置大量\\n强力兵装大楼，\\n攻击可能会波及防壁",
     "context": "File: INFO/PRE_INFO007.XML\nLine: 9\nElement: DETAIL\nAttribute: exp",
     "stage": 1
   },

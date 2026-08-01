@@ -2,14 +2,14 @@
   {
     "key": "e_80fdc878bc_0001_f028806e4e",
     "original": "都市の復興支援",
-    "translation": "都市复兴支援",
+    "translation": "城市重建支援",
     "context": "File: TUT/TUT_F112.NUT\nLine: 7\nCall: StartNavi",
     "stage": 1
   },
   {
     "key": "e_80fdc878bc_0002_f028806e4e",
     "original": "都市の復興支援",
-    "translation": "都市复兴支援",
+    "translation": "城市重建支援",
     "context": "File: TUT/TUT_F112.NUT\nLine: 20\nCall: DecideStart",
     "stage": 1
   },

@@ -79,7 +79,7 @@
   {
     "key": "e_0f11d6c790_0012_daa1a68aca",
     "original": "そう…\\n弐号機のコア、変更もやむなしかしらね",
-    "translation": "看来…\n不得不更换贰号机核心了",
+    "translation": "看来…\n不得不更换二号机核心了",
     "context": "File: FREE/NEV_TEV1601.NUT\nLine: 473\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1601_07_008",
     "stage": 1
   },

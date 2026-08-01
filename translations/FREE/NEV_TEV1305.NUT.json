@@ -37,7 +37,7 @@
   {
     "key": "e_5da6203042_0006_45ba210f56",
     "original": "初号機と弐号機には、\\nデータを入れておけ",
-    "translation": "初号机与贰号机的\\n数据就交给你了",
+    "translation": "初号机与二号机的\\n数据就交给你了",
     "context": "File: FREE/NEV_TEV1305.NUT\nLine: 177\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1305_05_002_1",
     "stage": 1
   },

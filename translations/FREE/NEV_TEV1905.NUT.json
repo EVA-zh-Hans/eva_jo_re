@@ -86,7 +86,7 @@
   {
     "key": "e_92b53e1858_0013_23981dff7c",
     "original": "だめ\\n碇君が呼んでる",
-    "translation": "不行\\n碇君在呼唤我",
+    "translation": "不行\\n碇同学在呼唤我",
     "context": "File: FREE/NEV_TEV1905.NUT\nLine: 480\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1905_03_004",
     "stage": 1
   },
@@ -100,7 +100,7 @@
   {
     "key": "e_92b53e1858_0015_7a2a03889c",
     "original": "…碇君？",
-    "translation": "……碇君？",
+    "translation": "……碇同学？",
     "context": "File: FREE/NEV_TEV1905.NUT\nLine: 551\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1905_03_006",
     "stage": 1
   },
@@ -142,7 +142,7 @@
   {
     "key": "e_92b53e1858_0021_d510f3e364",
     "original": "…碇君",
-    "translation": "……碇君",
+    "translation": "……碇同学",
     "context": "File: FREE/NEV_TEV1905.NUT\nLine: 657\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1905_03_008",
     "stage": 1
   },
@@ -156,7 +156,7 @@
   {
     "key": "e_92b53e1858_0023_5b7964b26d",
     "original": "…聞こえたの、碇君の声",
-    "translation": "……我听见了，碇君的声音",
+    "translation": "……我听见了，碇同学的声音",
     "context": "File: FREE/NEV_TEV1905.NUT\nLine: 667\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1905_03_010",
     "stage": 1
   },
@@ -282,7 +282,7 @@
   {
     "key": "e_92b53e1858_0041_93dc4383c2",
     "original": "でも、会いたかった\\n碇君に▽",
-    "translation": "但还是想见你……碇君……▽",
+    "translation": "但还是想见你……碇同学……▽",
     "context": "File: FREE/NEV_TEV1905.NUT\nLine: 862\nCall: im.event\nSpeaker: IMC_REI\nVoice: NA10_1905_03_019_3",
     "stage": 1
   },

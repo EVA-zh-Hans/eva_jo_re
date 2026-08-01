@@ -37,14 +37,14 @@
   {
     "key": "e_01859d735d_0006_a2b12b5d82",
     "original": "エヴァ弐号機、同じく敗退…",
-    "translation": "EVA贰号机，同样败退……",
+    "translation": "EVA二号机，同样败退……",
     "context": "File: FREE/NEV_TEV0701.NUT\nLine: 280\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0003_08_007",
     "stage": 1
   },
   {
     "key": "e_01859d735d_0007_a40d8e46d8",
     "original": "現在目標は、国連軍のＮ２地雷によって\\n組織の２０％を損失▽",
-    "translation": "当前目标因UN军队的N2地雷\\n损失了20%躯体▽",
+    "translation": "当前目标因联合国军的N2地雷\\n损失了20%躯体▽",
     "context": "File: FREE/NEV_TEV0701.NUT\nLine: 296\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA02_0003_08_008",
     "stage": 1
   },

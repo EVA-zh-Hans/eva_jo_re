@@ -30,7 +30,7 @@
   {
     "key": "e_0fc5880217_0005_f893ef2242",
     "original": "それまでに、弐号機で\\n目標の口を開口させるのよ！",
-    "translation": "在那之前，用贰号机\\n把目标的嘴撬开！",
+    "translation": "在那之前，用二号机\\n把目标的嘴撬开！",
     "context": "File: BTL_GGL/BTL_GGL_D1.NUT\nLine: 67\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na52_0030_04_010_5",
     "stage": 1
   },

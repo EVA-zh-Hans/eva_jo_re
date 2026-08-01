@@ -23,21 +23,21 @@
   {
     "key": "e_4ed3ef73c1_0005_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 105",
     "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0006_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "铃原君",
+    "translation": "铃原同学",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 106",
     "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0007_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 107",
     "stage": 1
   },
@@ -100,7 +100,7 @@
   {
     "key": "e_4ed3ef73c1_0016_b8140644e6",
     "original": "伊吹さん",
-    "translation": "伊吹さん",
+    "translation": "伊吹小姐",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 116",
     "stage": 1
   },
@@ -135,21 +135,21 @@
   {
     "key": "e_4ed3ef73c1_0021_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 121",
     "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0022_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "铃原君",
+    "translation": "铃原同学",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 122",
     "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0023_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 123",
     "stage": 1
   },
@@ -212,7 +212,7 @@
   {
     "key": "e_4ed3ef73c1_0032_b8140644e6",
     "original": "伊吹さん",
-    "translation": "伊吹さん",
+    "translation": "伊吹小姐",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 132",
     "stage": 1
   },
@@ -247,21 +247,21 @@
   {
     "key": "e_4ed3ef73c1_0037_ee11ae3ed4",
     "original": "渚君",
-    "translation": "渚君",
+    "translation": "渚同学",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 137",
     "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0038_6ebcfff41c",
     "original": "鈴原君",
-    "translation": "铃原君",
+    "translation": "铃原同学",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 138",
     "stage": 1
   },
   {
     "key": "e_4ed3ef73c1_0039_04036ebe3a",
     "original": "相田君",
-    "translation": "相田君",
+    "translation": "相田同学",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 139",
     "stage": 1
   },
@@ -324,7 +324,7 @@
   {
     "key": "e_4ed3ef73c1_0048_b8140644e6",
     "original": "伊吹さん",
-    "translation": "伊吹さん",
+    "translation": "伊吹小姐",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 148",
     "stage": 1
   },
@@ -1220,7 +1220,7 @@
   {
     "key": "e_4ed3ef73c1_0302_9cf2b6122c",
     "original": "最近国連軍の戦車をよく見るね\\n使徒だけねらってるか　それが問題だね　",
-    "translation": "最近常看到UN军队的坦克呢\\n只盯着使徒打吗——这才是问题所在",
+    "translation": "最近常看到联合国军的坦克呢\\n只盯着使徒打吗——这才是问题所在",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 278\nSpeaker: IMC_MAKOTO\nVoice: ",
     "stage": 1
   },
