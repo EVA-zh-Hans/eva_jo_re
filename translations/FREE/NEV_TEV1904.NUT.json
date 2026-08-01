@@ -212,7 +212,7 @@
   {
     "key": "e_93504af1d6_0031_6d042bbb53",
     "original": "分析パターン青！\\nまさか、使徒！？",
-    "translation": "蓝色波形！\\n难道是使徒！？",
+    "translation": "分析结果为蓝色波形！\n难道是使徒！？",
     "context": "File: FREE/NEV_TEV1904.NUT\nLine: 713\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA09_0002_09_010",
     "stage": 1
   },

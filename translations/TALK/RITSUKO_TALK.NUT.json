@@ -1612,7 +1612,7 @@
   {
     "key": "e_9e902a37f3_0414_fce11ee474",
     "original": "裏を返して言えば、Ａ．Ｔ．フィールドの\\nバニッシュが鍵って事になるわね",
-    "translation": "反过来说，关键就在于\\n让AT值进入崩坏状态",
+    "translation": "反过来说，关键就在于\n让AT力场进入崩坏状态",
     "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 495\nSpeaker: IMC_RITSUKO\nVoice: ",
     "stage": 1
   },
@@ -1703,7 +1703,7 @@
   {
     "key": "e_9e902a37f3_0440_1f79622b1e",
     "original": "ターミナルドグマ内には配置スロットが無いから、\\nマップギミックの配置は不可能よ",
-    "translation": "最终教条区没有配置插槽，\\n无法设置地图机关",
+    "translation": "最终教条区没有配置槽位，\n因此无法进行地图机关配置",
     "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 508\nSpeaker: IMC_RITSUKO\nVoice: ",
     "stage": 1
   },

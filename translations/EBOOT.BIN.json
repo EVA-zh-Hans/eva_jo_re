@@ -290,7 +290,7 @@
     "key": "eboot_0027e464",
     "offset": "0x0027E464",
     "original": "　　 オプション",
-    "translation": "　　 选项",
+    "translation": "　　 设置",
     "context": "EBOOT .rodata: pause menu"
   },
   {
@@ -523,5 +523,33 @@
     "original": "連射",
     "translation": "连射",
     "context": "EBOOT .rodata: weapon type"
+  },
+  {
+    "key": "eboot_0028fd44",
+    "offset": "0x0028FD44",
+    "original": "スタッフ",
+    "translation": "工作人员",
+    "context": "EBOOT .data: generic NPC label"
+  },
+  {
+    "key": "eboot_0028fd6c",
+    "offset": "0x0028FD6C",
+    "original": "スタッフ",
+    "translation": "工作人员",
+    "context": "EBOOT .data: generic NPC label"
+  },
+  {
+    "key": "eboot_0028fd94",
+    "offset": "0x0028FD94",
+    "original": "スタッフ",
+    "translation": "工作人员",
+    "context": "EBOOT .data: generic NPC label"
+  },
+  {
+    "key": "eboot_0028fdbc",
+    "offset": "0x0028FDBC",
+    "original": "スタッフ",
+    "translation": "工作人员",
+    "context": "EBOOT .data: generic NPC label"
   }
 ]

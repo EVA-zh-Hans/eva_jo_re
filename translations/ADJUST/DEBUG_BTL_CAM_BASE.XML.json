@@ -855,7 +855,7 @@
   {
     "key": "e_f763a76cfe_0703_4ada0eba8f",
     "original": "通常から待機の移行時間",
-    "translation": "通常から待机の移行時間",
+    "translation": "从通常状态到待机状态的过渡时间",
     "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 143\nElement: PARAM\nAttribute: text"
   }
 ]

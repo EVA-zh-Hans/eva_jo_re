@@ -121,7 +121,7 @@
   {
     "key": "e_2eca10fa50_0018_d469b7850b",
     "original": "制御不能に陥り、暴走を許す危険極まりない\\n決戦兵器よりは、より安全だと思いますよ",
-    "translation": "总比失控暴走的决战兵器安全得多",
+    "translation": "总比暴走暴走的决战兵器安全得多",
     "context": "File: FREE/NEV_TEV0505.NUT\nLine: 468\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_014",
     "stage": 1
   },
@@ -268,7 +268,7 @@
   {
     "key": "e_2eca10fa50_0039_9df141959f",
     "original": "日本重化学工業共同体が開発した\\n使徒迎撃用ロボットが、披露会場にて暴走…",
-    "translation": "日本重化学工业共同体开发的\\n使徒迎击机器人，在发布会上失控…",
+    "translation": "日本重化学工业共同体开发的\\n使徒迎击机器人，在发布会上暴走…",
     "context": "File: FREE/NEV_TEV0505.NUT\nLine: 742\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0505_04_039_3",
     "stage": 1
   },

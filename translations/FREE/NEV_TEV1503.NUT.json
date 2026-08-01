@@ -79,7 +79,7 @@
   {
     "key": "e_5aeb39b09b_0012_2ce01005a3",
     "original": "今より２時間前です、ジオフロント西の\\n第８区間を最後に消息を断っています",
-    "translation": "距今两小时前\\n最后出现在中央教条西侧第八区",
+    "translation": "距今２小时前，最后在地下都市西侧的\n第８区段发现其踪迹，之后便失去联络",
     "context": "File: FREE/NEV_TEV1503.NUT\nLine: 450\nCall: im.event\nSpeaker: IMC_SPY\nVoice: NA10_1503_83_012",
     "stage": 1
   },

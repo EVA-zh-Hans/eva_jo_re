@@ -996,7 +996,7 @@
   {
     "key": "e_4ed3ef73c1_0238_5ac876652c",
     "original": "国連と言うより、それを操るものの動きが怪しすぎる\\n参ったな　",
-    "translation": "与其说是UN军队\\n不如说幕后操纵者的动向太可疑了\\n真难办啊",
+    "translation": "与其说是联合国\\n不如说幕后操纵者的动向太可疑了\\n真难办啊",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 246\nSpeaker: IMC_MAKOTO\nVoice: ",
     "stage": 1
   },
@@ -1283,7 +1283,7 @@
   {
     "key": "e_4ed3ef73c1_0320_18fe8f666a",
     "original": "僕の場合はネルフを操ってる国連が嫌いかな\\nうさんくさくてね　",
-    "translation": "我的话……大概讨厌操纵NERV的UN军队吧\n总觉得很可疑呢",
+    "translation": "我的话……大概讨厌操纵NERV的联合国吧\n总觉得很可疑呢",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 287\nSpeaker: IMC_MAKOTO\nVoice: ",
     "stage": 1
   },
@@ -1605,7 +1605,7 @@
   {
     "key": "e_4ed3ef73c1_0412_a4cac11d0c",
     "original": "その時に浸食して、敵のＡ．Ｔ．フィールドを\\nバニッシュさせれば攻撃のチャンスになるよ！",
-    "translation": "趁此刻进行侵蚀，若能消除敌人的AT力场，\n就是反击的最佳时机！",
+    "translation": "趁此刻进行侵蚀，让敌人的AT力场\n进入崩坏状态，就是反击机会！",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 494\nSpeaker: IMC_MAKOTO\nVoice: ",
     "stage": 1
   },

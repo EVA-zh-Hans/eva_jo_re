@@ -51,7 +51,7 @@
   {
     "key": "e_46b065e55a_0008_6e7002843b",
     "original": "エヴァとの<02>シンクロ率<//>が高い程、\\n<02>ヘイフリック<//>の幅は大きくなります",
-    "translation": "<02>同步率<//>越高，<02>海弗利克<//>区域越大",
+    "translation": "与EVA的<02>同步率<//>越高，\n<02>海弗利克<//>区域越大",
     "context": "File: TUT/TUT_B001.NUT\nLine: 56\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -65,28 +65,28 @@
   {
     "key": "e_46b065e55a_0010_6f63b120db",
     "original": "<02>Ａ．Ｔ．<//>は<02>ダッシュ<//>や<02>回避行動<//>など、▽",
-    "translation": "<02>AT值<//>用于<02>冲刺<//><02>闪避<//>等行动▽",
+    "translation": "<02>AT<//>用于<02>冲刺<//><02>闪避<//>等行动▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 69\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_46b065e55a_0011_1fb035e966",
     "original": "<02>Ａ．Ｔ．<//>を必要とする行動をしたり、\\n使徒の攻撃を受けたりする事で消費します▽",
-    "translation": "进行消耗<02>AT值<//>的行动或遭受使徒攻击时都会减少▽",
+    "translation": "进行消耗<02>AT<//>的行动或遭受使徒攻击时都会减少▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 70\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_46b065e55a_0012_d7e4f5e1c8",
     "original": "消費する行動を止めれば、\\n<02>Ａ．Ｔ．<//>は自然に回復します",
-    "translation": "停止消耗行动后，<02>AT值<//>会自然恢复",
+    "translation": "停止消耗行动后，<02>AT<//>会自然恢复",
     "context": "File: TUT/TUT_B001.NUT\nLine: 71\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_46b065e55a_0013_495dae09d1",
     "original": "<02>Ａ．Ｔ．<//>を全て消費してしまうと、\\n<02>バニッシュ<//>の状態になり、▽",
-    "translation": "当<02>AT值<//>耗尽时将进入<02>崩坏状态<//>▽",
+    "translation": "当<02>AT<//>耗尽时将进入<02>崩坏状态<//>▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 84\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -121,7 +121,7 @@
   {
     "key": "e_46b065e55a_0018_6e5a6dcc8a",
     "original": "使徒の<02>Ａ．Ｔ．<//>がゼロになり、\\n<02>バニッシュ<//>の状態になると▽",
-    "translation": "当使徒的<02>AT值<//>归零，\\n进入<02>崩坏状态<//>时▽",
+    "translation": "当使徒的<02>AT<//>归零，\\n进入<02>崩坏状态<//>时▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 102\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },

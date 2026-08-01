@@ -98,7 +98,7 @@
   {
     "key": "e_1e9b88dbcd_0037_cd5e43b524",
     "original": "最初に完成した汎用人型決戦兵器\\n性能実験等への使用を目的に製作された\\n試作型エヴァである\\n起動実験時の暴走により凍結される",
-    "translation": "最早完成的泛用人型决战兵器\\n为性能实验等用途制造的\\n试作型EVA\\n因启动实验失控而被冻结",
+    "translation": "最早完成的泛用人型决战兵器\\n为性能实验等用途制造的\\n试作型EVA\\n因启动实验暴走而被冻结",
     "context": "File: PREPARE/CHR_STATUS.XML\nLine: 23\nElement: EXP\nAttribute: str"
   },
   {

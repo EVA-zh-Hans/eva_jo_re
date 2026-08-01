@@ -20,7 +20,7 @@
   {
     "key": "e_3f7694ec14_0010_43d13fbb51",
     "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "EVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "EVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 9\nElement: MAIN\nAttribute: fail"
   },
   {
@@ -32,7 +32,7 @@
   {
     "key": "e_3f7694ec14_0012_a2ff463631",
     "original": "ゼロエリア破壊\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "零区被破坏\\nEVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "零区被破坏\\nEVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 9\nElement: MAIN\nAttribute: fail2"
   },
   {
@@ -80,7 +80,7 @@
   {
     "key": "e_3f7694ec14_0028_43d13fbb51",
     "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "EVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "EVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 17\nElement: MAIN\nAttribute: fail"
   },
   {
@@ -92,7 +92,7 @@
   {
     "key": "e_3f7694ec14_0030_a2ff463631",
     "original": "ゼロエリア破壊\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "零区被破坏\\nEVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "零区被破坏\\nEVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 17\nElement: MAIN\nAttribute: fail2"
   },
   {
@@ -116,7 +116,7 @@
   {
     "key": "e_3f7694ec14_0038_43d13fbb51",
     "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "EVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "EVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 21\nElement: MAIN\nAttribute: fail"
   },
   {
@@ -128,7 +128,7 @@
   {
     "key": "e_3f7694ec14_0040_a2ff463631",
     "original": "ゼロエリア破壊\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "零区被破坏\\nEVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "零区被破坏\\nEVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 21\nElement: MAIN\nAttribute: fail2"
   },
   {
@@ -140,7 +140,7 @@
   {
     "key": "e_3f7694ec14_0044_ae8ef63ae1",
     "original": "使徒の落下\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "使徒坠落\\nEVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "使徒坠落\\nEVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 23\nElement: MAIN\nAttribute: fail"
   },
   {
@@ -164,7 +164,7 @@
   {
     "key": "e_3f7694ec14_0052_43d13fbb51",
     "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "EVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "EVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 27\nElement: MAIN\nAttribute: fail"
   },
   {
@@ -176,7 +176,7 @@
   {
     "key": "e_3f7694ec14_0056_43d13fbb51",
     "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "EVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "EVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 29\nElement: MAIN\nAttribute: fail"
   },
   {
@@ -188,7 +188,7 @@
   {
     "key": "e_3f7694ec14_0058_a2ff463631",
     "original": "ゼロエリア破壊\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "零区被破坏\\nEVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "零区被破坏\\nEVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 29\nElement: MAIN\nAttribute: fail2"
   },
   {
@@ -200,7 +200,7 @@
   {
     "key": "e_3f7694ec14_0062_43d13fbb51",
     "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "EVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "EVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 31\nElement: MAIN\nAttribute: fail"
   },
   {
@@ -212,7 +212,7 @@
   {
     "key": "e_3f7694ec14_0066_fbfeb6676b",
     "original": "エヴァ弐号機の耐久力０\\nエヴァ弐号機の予備電源０",
-    "translation": "EVA二号机耐久值归零\\n二号机备用电源归零",
+    "translation": "EVA二号机耐久值归零\\nEVA二号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 33\nElement: MAIN\nAttribute: fail"
   },
   {
@@ -224,7 +224,7 @@
   {
     "key": "e_3f7694ec14_0070_43d13fbb51",
     "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "EVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "EVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 35\nElement: MAIN\nAttribute: fail"
   },
   {
@@ -236,7 +236,7 @@
   {
     "key": "e_3f7694ec14_0074_43d13fbb51",
     "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "EVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "EVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 37\nElement: MAIN\nAttribute: fail"
   },
   {
@@ -248,7 +248,7 @@
   {
     "key": "e_3f7694ec14_0078_43d13fbb51",
     "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "EVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "EVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 39\nElement: MAIN\nAttribute: fail"
   },
   {
@@ -260,7 +260,7 @@
   {
     "key": "e_3f7694ec14_0083_43d13fbb51",
     "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "EVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "EVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 45\nElement: DMY\nAttribute: fail"
   },
   {
@@ -272,7 +272,7 @@
   {
     "key": "e_3f7694ec14_0087_49b6b1b433",
     "original": "目標のゼロエリア侵攻\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "目标侵入零区\\nEVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "目标侵入零区\\nEVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 47\nElement: DMY\nAttribute: fail"
   },
   {
@@ -284,7 +284,7 @@
   {
     "key": "e_3f7694ec14_0091_43d13fbb51",
     "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "EVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "EVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 49\nElement: DMY\nAttribute: fail"
   },
   {
@@ -296,7 +296,7 @@
   {
     "key": "e_3f7694ec14_0093_a2ff463631",
     "original": "ゼロエリア破壊\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "零区被破坏\\nEVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "零区被破坏\\nEVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 49\nElement: DMY\nAttribute: fail2"
   },
   {
@@ -308,7 +308,7 @@
   {
     "key": "e_3f7694ec14_0097_49b6b1b433",
     "original": "目標のゼロエリア侵攻\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "目标侵入零区\\nEVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "目标侵入零区\\nEVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 51\nElement: DMY\nAttribute: fail"
   },
   {
@@ -320,7 +320,7 @@
   {
     "key": "e_3f7694ec14_0101_a2ff463631",
     "original": "ゼロエリア破壊\\nエヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "零区被破坏\\nEVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "零区被破坏\\nEVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 53\nElement: DMY\nAttribute: fail"
   },
   {
@@ -332,7 +332,7 @@
   {
     "key": "e_3f7694ec14_0105_43d13fbb51",
     "original": "エヴァ初号機の耐久力０\\nエヴァ初号機の予備電源０",
-    "translation": "EVA初号机耐久值归零\\n初号机备用电源归零",
+    "translation": "EVA初号机耐久值归零\\nEVA初号机备用电源归零",
     "context": "File: BF/PURPOSE.XML\nLine: 56\nElement: DMY\nAttribute: fail"
   }
 ]

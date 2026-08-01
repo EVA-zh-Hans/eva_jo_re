@@ -51,14 +51,14 @@
   {
     "key": "e_31d0d8a470_0008_4995f31f55",
     "original": "<02>観測ビル<//>が配置されたマップで戦闘を行う事で\\n使徒の<02>分析<//>を行う事ができます▽",
-    "translation": "在设有<02>观测大楼<//>的地图战斗时\\n可对使徒进行<02>分析<//>▽",
+    "translation": "在配置了<02>观测大楼<//>的地图战斗时\\n可对使徒进行<02>分析<//>▽",
     "context": "File: TUT/TUT_B004.NUT\nLine: 45\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_31d0d8a470_0009_45e93ae1c1",
     "original": "<02>分析<//>が完了すると、使徒の現在の\\n<02>耐久力<//>と<02>Ａ．Ｔ．<//>が表示されるようになり、",
-    "translation": "<02>分析<//>完成后将显示使徒当前\\n<02>耐久值<//>与<02>AT值<//>数值",
+    "translation": "<02>分析<//>完成后将显示使徒当前\\n<02>耐久值<//>与<02>AT<//>数值",
     "context": "File: TUT/TUT_B004.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -86,7 +86,7 @@
   {
     "key": "e_31d0d8a470_0013_5d055c0e68",
     "original": "また、<02>分析<//>が完了していた場合でも、\\n<02>耐久力<//>と<02>Ａ．Ｔ．<//>が把握できなくなってしまいます",
-    "translation": "即使<02>分析<//>已完成\\n也将无法掌握<02>耐久值<//>与<02>AT值<//>",
+    "translation": "即使<02>分析<//>已完成\\n也将无法掌握<02>耐久值<//>与<02>AT<//>",
     "context": "File: TUT/TUT_B004.NUT\nLine: 62\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -114,14 +114,14 @@
   {
     "key": "e_31d0d8a470_0017_3f2ee1b238",
     "original": "その場合は武器を<02>換装<//>する必要があります▽",
-    "translation": "此时需进行武器<02>更换<//>▽",
+    "translation": "此时需要<02>更换装备<//>▽",
     "context": "File: TUT/TUT_B004.NUT\nLine: 77\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_31d0d8a470_0018_dfc31599b5",
     "original": "武器の<02>換装<//>は<02>武器庫ビル<//>に近づいて\\n$#ボタンで行います▽",
-    "translation": "靠近<02>武器库大楼<//>\\n按$#键可<02>更换<//>武器▽",
+    "translation": "靠近<02>武器库大楼<//>\n按$#键即可<02>更换装备<//>▽",
     "context": "File: TUT/TUT_B004.NUT\nLine: 78\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -142,7 +142,7 @@
   {
     "key": "e_31d0d8a470_0021_1fa402d35b",
     "original": "なお、武器を<02>換装<//>すると\\nエヴァの挙動が変化します",
-    "translation": "注意：<02>更换<//>武器会\\n改变EVA行动模式",
+    "translation": "注意：<02>更换装备<//>后\nEVA的行动模式会改变",
     "context": "File: TUT/TUT_B004.NUT\nLine: 81\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },

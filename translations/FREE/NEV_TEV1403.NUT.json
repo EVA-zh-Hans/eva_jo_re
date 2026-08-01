@@ -65,7 +65,7 @@
   {
     "key": "e_45e2164256_0010_712ff2566a",
     "original": "地上迎撃は間に合わないわ、弐号機を\\nジオフロント内に配置！　本部施設の直援にまわして！",
-    "translation": "地面拦截来不及了，把二号机\\n部署到地下都市！直接支援总部设施！",
+    "translation": "地面拦截来不及了，把二号机\\n配置到地下都市！直接支援总部设施！",
     "context": "File: FREE/NEV_TEV1403.NUT\nLine: 493\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1403_04_007_1",
     "stage": 1
   },
@@ -268,7 +268,7 @@
   {
     "key": "e_45e2164256_0039_4c9e599865",
     "original": "パイロットをエヴァに搭乗させる\\nエントリー準備、急げ",
-    "translation": "立即准备驾驶员登机程序\\n启动插入栓",
+    "translation": "让驾驶员登上EVA\n快准备插入栓",
     "context": "File: FREE/NEV_TEV1403.NUT\nLine: 1109\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1403_05_036_1",
     "stage": 1
   },

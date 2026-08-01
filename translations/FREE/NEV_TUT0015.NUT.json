@@ -100,7 +100,7 @@
   {
     "key": "e_8038d1573b_0015_020d28902a",
     "original": "<02>武器庫ビル<//>で武器を換装できるわ",
-    "translation": "在<02>武器库大楼<//>可以进行武器换装",
+    "translation": "在<02>武器库大楼<//>可以更换装备",
     "context": "File: FREE/NEV_TUT0015.NUT\nLine: 157\nCall: im.play\nSpeaker: IMC_MISATO",
     "stage": 1
   },

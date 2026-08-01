@@ -1528,7 +1528,7 @@
   {
     "key": "e_b9d8d784fb_0390_134735f37c",
     "original": "その時に浸食して敵のＡ．Ｔ．を０にし、\\nＡ．Ｔ．フィールドをバニッシュさせましょう！",
-    "translation": "趁此时机进行侵蚀\\n将敌方AT值降为零，彻底消除AT力场！",
+    "translation": "趁此时机进行侵蚀，将敌方AT值降为0\n让AT力场进入崩坏状态吧！",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 483\nSpeaker: IMC_MAYA\nVoice: ",
     "stage": 1
   },
@@ -1556,7 +1556,7 @@
   {
     "key": "e_b9d8d784fb_0398_134735f37c",
     "original": "その時に浸食して敵のＡ．Ｔ．を０にし、\\nＡ．Ｔ．フィールドをバニッシュさせましょう！",
-    "translation": "趁此时机进行侵蚀\\n将敌方AT值降为零，彻底消除AT力场！",
+    "translation": "趁此时机进行侵蚀，将敌方AT值降为0\n让AT力场进入崩坏状态吧！",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 487\nSpeaker: IMC_MAYA\nVoice: ",
     "stage": 1
   },
@@ -1584,7 +1584,7 @@
   {
     "key": "e_b9d8d784fb_0406_134735f37c",
     "original": "その時に浸食して敵のＡ．Ｔ．を０にし、\\nＡ．Ｔ．フィールドをバニッシュさせましょう！",
-    "translation": "趁此时机进行侵蚀\\n将敌方AT值降为零，彻底消除AT力场！",
+    "translation": "趁此时机进行侵蚀，将敌方AT值降为0\n让AT力场进入崩坏状态吧！",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 491\nSpeaker: IMC_MAYA\nVoice: ",
     "stage": 1
   },

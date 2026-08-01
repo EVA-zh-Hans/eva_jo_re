@@ -44,7 +44,7 @@
   {
     "key": "e_28009a0af7_0029_2f50d1017d",
     "original": "ターミナルドグマ内には配置スロット\\nが無い為、マップギミックの配置は\\n不可能",
-    "translation": "最终教条区没有配置槽位，\\n无法配置地图机关",
+    "translation": "最终教条区没有配置槽位，\n因此无法进行地图机关配置",
     "context": "File: INFO/PRE_INFO015.XML\nLine: 9\nElement: DETAIL\nAttribute: exp",
     "stage": 1
   }

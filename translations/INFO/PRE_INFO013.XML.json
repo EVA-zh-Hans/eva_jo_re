@@ -2,7 +2,7 @@
   {
     "key": "e_12a2451150_0005_2de562d000",
     "original": "第３新東京市　中央区上空\\n衛星軌道上に出現",
-    "translation": "出现在第三新东京市中央区上空\\n卫星轨道上",
+    "translation": "出现在第三新东京市 中央区上空\\n卫星轨道上",
     "context": "File: INFO/PRE_INFO013.XML\nLine: 3\nElement: DETAIL\nAttribute: exp",
     "stage": 1
   },

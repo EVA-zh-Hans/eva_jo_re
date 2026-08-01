@@ -1395,7 +1395,7 @@
   {
     "key": "e_89badcf1cb_0352_d0944a8e08",
     "original": "使徒を迎撃する為のマップギミックを\\n手配する場合は、私に話しかけてね▽",
-    "translation": "要配置迎击使徒用的地图机关时，记得来找我商量▽",
+    "translation": "要调配迎击使徒用的地图机关时，记得来找我哦▽",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 464\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1423,7 +1423,7 @@
   {
     "key": "e_89badcf1cb_0360_4d83176df0",
     "original": "集めた情報に従って的確な配置をするのよ？\\nでないと戦闘が大変なことになるんだから",
-    "translation": "要根据收集的情报精准布局哦？\\n否则战斗会变得很棘手的",
+    "translation": "要根据收集的情报精准配置哦？\\n否则战斗会变得很棘手的",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 468\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1514,7 +1514,7 @@
   {
     "key": "e_89badcf1cb_0386_6d1f5ecea5",
     "original": "もちろんゼロエリア防壁周辺に、不用意に\\n強力な兵装ビルをたくさん配置するのも厳禁ね！",
-    "translation": "当然也严禁在零区防壁周边随意部署大量强力兵装大楼！",
+    "translation": "当然也严禁在零区防壁周边随意配置大量强力兵装大楼！",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 481\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1605,7 +1605,7 @@
   {
     "key": "e_89badcf1cb_0412_6d1f5ecea5",
     "original": "もちろんゼロエリア防壁周辺に、不用意に\\n強力な兵装ビルをたくさん配置するのも厳禁ね！",
-    "translation": "当然也严禁在零区防壁周边随意部署大量强力兵装大楼！",
+    "translation": "当然也严禁在零区防壁周边随意配置大量强力兵装大楼！",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 494\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1661,7 +1661,7 @@
   {
     "key": "e_89badcf1cb_0428_9dac58b7bc",
     "original": "敵が一目散にここに向かってるんなら\\n足止めの為に兵装ビルを配置するといいわ▽",
-    "translation": "既然敌人正全速朝这边冲来\n建议在兵装大楼布置防线进行拦截▽",
+    "translation": "既然敌人正全速朝这边冲来\n建议配置兵装大楼来拖住它▽",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 502\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1675,7 +1675,7 @@
   {
     "key": "e_89badcf1cb_0432_f606bd5704",
     "original": "前にも言ったと思うけど、ゼロエリア防壁周辺に、\\n強力な兵装ビルをたくさん配置しない事！",
-    "translation": "之前应该说过吧，绝对不要在零区防壁周边\n部署大量强力兵装大楼！",
+    "translation": "之前应该说过吧，绝对不要在零区防壁周边\n配置大量强力兵装大楼！",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 504\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1710,7 +1710,7 @@
   {
     "key": "e_89badcf1cb_0442_c8b30d6e9c",
     "original": "どうせ攻撃が届かないんだから、\\n高価なビルは配置しちゃダメよ！▽",
-    "translation": "反正攻击也够不着\\n别浪费钱布置昂贵建筑啦！▽",
+    "translation": "反正攻击也够不着\\n别浪费钱配置昂贵建筑啦！▽",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 509\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1731,7 +1731,7 @@
   {
     "key": "e_89badcf1cb_0448_a7f2e8983b",
     "original": "目標の落下地点にエヴァを配置 Ａ．Ｔ．フィールド\\n全開で、あなたたちが直接使徒を受け止めるのよ▽",
-    "translation": "把EVA部署在目标落点\\n展开AT力场直接接住使徒▽",
+    "translation": "把EVA配置在目标落点\\n展开AT力场直接接住使徒▽",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 512\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1829,7 +1829,7 @@
   {
     "key": "e_89badcf1cb_0476_d8b4bd9dcc",
     "original": "ここなら第３新東京市の損壊を気にする必要が無いわ\\nつまり大火力の兵装ビルや武器を配置し放題ってわけ",
-    "translation": "在这里就不用担心破坏第三新东京市了\\n可以尽情部署兵装大楼的重型武器",
+    "translation": "在这里不用担心第三新东京市受损\n可以尽情配置大火力兵装大楼和武器",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 526\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1927,7 +1927,7 @@
   {
     "key": "e_89badcf1cb_0504_805a0d0044",
     "original": "ジオフロントなら第３新東京市の損壊を気にせず、\\n大火力の兵装ビルや武器を配置し放題よ",
-    "translation": "要是地下都市的话就不用担心第三新东京市损毁\\n可以随意部署兵装大楼和重型武器呢",
+    "translation": "在地下都市不用担心第三新东京市受损\n可以尽情配置大火力兵装大楼和武器",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 540\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },

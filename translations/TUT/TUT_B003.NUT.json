@@ -30,7 +30,7 @@
   {
     "key": "e_5ca4bf3b5f_0005_957b870525",
     "original": "<02>構え<//>中は使徒がエヴァの<02>ロック可能範囲内<//>に\\nいる場合、<02>ロック<//>する事ができます▽",
-    "translation": "<02>架起<//>状态下若使徒处于\\n<02>锁定范围内<//>则可进行<02>锁定<//>▽",
+    "translation": "<02>架起<//>状态下若使徒处于EVA的\n<02>锁定范围内<//>，即可进行<02>锁定<//>▽",
     "context": "File: TUT/TUT_B003.NUT\nLine: 30\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -114,7 +114,7 @@
   {
     "key": "e_5ca4bf3b5f_0017_5fe42911c0",
     "original": "<02>武器庫ビル<//>で武器を<02>換装<//>したり、",
-    "translation": "前往<02>武器库大楼<//><02>更换<//>武器",
+    "translation": "前往<02>武器库大楼<//><02>更换装备<//>，",
     "context": "File: TUT/TUT_B003.NUT\nLine: 88\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },

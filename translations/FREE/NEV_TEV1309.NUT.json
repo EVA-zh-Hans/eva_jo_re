@@ -436,7 +436,7 @@
   {
     "key": "e_a9bd4e8593_0063_5c7bab7f70",
     "original": "救助部隊を直ちに派遣\\n戦自が介入する前に全て処理しろ",
-    "translation": "立即派遣救援部队\\n在UN军队介入前处理完所有事项",
+    "translation": "立即派遣救援部队\\n在战略自卫队介入前处理完所有事项",
     "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1476\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1310_05_016",
     "stage": 1
   },
@@ -499,7 +499,7 @@
   {
     "key": "e_a9bd4e8593_0072_d2fe3ba4c1",
     "original": "迎撃地点にエヴァ全機緊急配置！",
-    "translation": "所有EVA紧急部署至迎击地点！",
+    "translation": "所有EVA紧急配置至迎击地点！",
     "context": "File: FREE/NEV_TEV1309.NUT\nLine: 1586\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA02_0007_05_001_2",
     "stage": 1
   }

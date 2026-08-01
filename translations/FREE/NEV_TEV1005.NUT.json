@@ -100,7 +100,7 @@
   {
     "key": "e_90e28b07fa_0015_a156f7ea6e",
     "original": "目標の落下予測地点にエヴァを配置し、\\nＡ．Ｔ．フィールド最大で直接使徒を受け止めるの",
-    "translation": "在目标坠落预测地点部署EVA\\n以最大功率展开AT力场直接拦截使徒",
+    "translation": "在目标坠落预测地点配置EVA\\n以最大功率展开AT力场直接拦截使徒",
     "context": "File: FREE/NEV_TEV1005.NUT\nLine: 576\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0010_04_005_1",
     "stage": 1
   },
@@ -114,7 +114,7 @@
   {
     "key": "e_90e28b07fa_0017_2a1f5f2c82",
     "original": "エヴァの初期配置を外した時点でアウト▽",
-    "translation": "只要EVA初始部署位置出现偏差就完蛋了▽",
+    "translation": "只要EVA初始配置位置出现偏差就完蛋了▽",
     "context": "File: FREE/NEV_TEV1005.NUT\nLine: 596\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_1003_07_013",
     "stage": 1
   },

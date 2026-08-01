@@ -156,7 +156,7 @@
   {
     "key": "e_c3d9ec5e59_0023_74e068fd65",
     "original": "ええ、全部で９機エヴァ量産機、エヴァシリーズです\\nただ今、ネルフ直上を旋回中",
-    "translation": "是的，总共9台EVA量产机\\n正在NERV正上方盘旋",
+    "translation": "是的，共9台EVA量产机，也就是EVA量产系列\n目前正在NERV正上方盘旋",
     "context": "File: FREE/NEV_TEV1903.NUT\nLine: 750\nCall: im.event\nSpeaker: IMC_F_STAFF\nVoice: NA02_0042_18_011",
     "stage": 1
   },
@@ -205,7 +205,7 @@
   {
     "key": "e_c3d9ec5e59_0030_a1272fec4b",
     "original": "私達人間もね、アダムと同じリリスと呼ばれる\\n生命体の源から生まれた１８番目の使徒なのよ",
-    "translation": "我们人类也是从被称为莉莉丝的生命之源\\n诞生的第十八使徒啊",
+    "translation": "我们人类也和亚当一样，是从被称为莉莉丝的\n生命之源诞生的第１８使徒",
     "context": "File: FREE/NEV_TEV1903.NUT\nLine: 995\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1903_04_009_1",
     "stage": 1
   },

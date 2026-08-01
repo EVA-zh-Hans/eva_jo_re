@@ -765,7 +765,7 @@
   {
     "key": "e_6fd828a5c0_0172_8f8c8f0c20",
     "original": "建物の配置を考えるべきだろうね\\nでも、おめでとう　",
-    "translation": "该好好考虑建筑物布局才对\n不过，恭喜了",
+    "translation": "该好好考虑建筑物配置才对\n不过，恭喜了",
     "context": "File: TALK/KOZO_TALK.NUT\nLine: 213\nSpeaker: IMC_KOZO\nVoice: ",
     "stage": 1
   },
@@ -1374,7 +1374,7 @@
   {
     "key": "e_6fd828a5c0_0346_a403a16e60",
     "original": "聞いてはいるだろうが、ゼロエリア防壁周辺に、\\n強力な兵装ビルをたくさん配置してはいかんな▽",
-    "translation": "虽然你们可能听过\\n但千万别在零区防壁附近部署太多强力兵装大楼▽",
+    "translation": "虽然你们可能听过\\n但千万别在零区防壁附近配置太多强力兵装大楼▽",
     "context": "File: TALK/KOZO_TALK.NUT\nLine: 461\nSpeaker: IMC_KOZO\nVoice: ",
     "stage": 1
   },

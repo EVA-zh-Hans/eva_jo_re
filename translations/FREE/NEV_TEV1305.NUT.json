@@ -30,7 +30,7 @@
   {
     "key": "e_5da6203042_0005_ff24fc5e09",
     "original": "信号パターンをエヴァに送り込む、エヴァがそこに\\nパイロットがいると思い込みシンクロさえすればいい",
-    "translation": "只要向EVA发送信号模式\\n让机体误判驾驶员存在并保持同步即可",
+    "translation": "只要向EVA发送信号模式\n让EVA误以为驾驶员就在其中并实现同步即可",
     "context": "File: FREE/NEV_TEV1305.NUT\nLine: 173\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1305_05_002",
     "stage": 1
   },

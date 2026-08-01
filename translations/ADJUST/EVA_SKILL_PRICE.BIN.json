@@ -92,7 +92,7 @@
   {
     "key": "e_a90e54c0b4_0016_d2d23c408c",
     "original": "ガード性能\\n　ガード中のＡ．Ｔ．消費量が減少\\n　攻撃ガード時のＡ．Ｔ．消費量が減少",
-    "translation": "防御性能\\n　减少防御时的AT值消耗\\n　减少格挡攻击时的AT值消耗",
+    "translation": "防御性能\\n　减少防御时的AT值消耗\\n　减少防御攻击时的AT值消耗",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 7\nField: description (column 1)"
   },
   {

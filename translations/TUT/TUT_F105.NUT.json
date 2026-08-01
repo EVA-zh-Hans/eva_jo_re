@@ -30,7 +30,7 @@
   {
     "key": "e_978db307fe_0005_81899b410e",
     "original": "購入した武器は、<02>マップギミックの配置<//>の際に\\n<02>武器庫ビルに収納<//>する事で初めて、▽",
-    "translation": "购买的武器需在<02>配置地图机关<//>时\\n<02>存入武器库大楼<//>后，▽",
+    "translation": "购买的武器必须在<02>地图机关配置<//>时\n<02>存入武器库大楼<//>后，▽",
     "context": "File: TUT/TUT_F105.NUT\nLine: 27\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },

@@ -863,7 +863,7 @@
   {
     "key": "e_6901d3dfdb_0124_d930cbcaad",
     "original": "量弐量霞量連続作戦２",
-    "translation": "量产机·贰号机·霰天使·量产机三重作战2",
+    "translation": "量产机·二号机·霰天使·量产机三重作战2",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 昼音弐連続作戦",
     "stage": 1
   },

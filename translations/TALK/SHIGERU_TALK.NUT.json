@@ -1430,7 +1430,7 @@
   {
     "key": "e_a9286d3008_0362_860e70350d",
     "original": "情報部からの報告を総合すると…、目標は、\\n第３新東京市　西地区に飛来予定だな",
-    "translation": "综合情报部报告...目标预计\\n会飞抵第三新东京市西区",
+    "translation": "综合情报部报告...目标预计\\n会飞抵第三新东京市 西区",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 469\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1486,7 +1486,7 @@
   {
     "key": "e_a9286d3008_0378_5777fb7004",
     "original": "強羅絶対防衛線を突破した目標は、\\n現在、第３新東京市　北地区を目指し移動中だな",
-    "translation": "突破强罗绝对防卫线的目标\\n目前正向第三新东京市北地区移动",
+    "translation": "突破强罗绝对防卫线的目标\\n目前正向第三新东京市 北区移动",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 477\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1514,7 +1514,7 @@
   {
     "key": "e_a9286d3008_0386_cb88687206",
     "original": "第３新東京市　東地区に出現しやがった",
-    "translation": "在第三新东京市东地区出现了",
+    "translation": "在第三新东京市 东区出现了",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 481\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1535,7 +1535,7 @@
   {
     "key": "e_a9286d3008_0392_acbb2289e2",
     "original": "目標は、第３新東京市　中央区直上\\n衛星軌道上に出現",
-    "translation": "目标出现在第三新东京市中央区正上方\\n卫星轨道上",
+    "translation": "目标出现在第三新东京市 中央区正上方\\n卫星轨道上",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 484\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1570,7 +1570,7 @@
   {
     "key": "e_a9286d3008_0402_a68d45da02",
     "original": "第３新東京市　南地区直上にいきなり出現しやがった",
-    "translation": "突然出现在第三新东京市南地区正上方",
+    "translation": "突然出现在第三新东京市 南区正上方",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 489\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1584,7 +1584,7 @@
   {
     "key": "e_a9286d3008_0406_dd9e995a91",
     "original": "松代第２実験場で発見された未確認移動物体は、\\n第３新東京市　北地区に向かっている",
-    "translation": "在松代第2实验场发现的未确认移动物体\\n正朝第三新东京市北地区前进",
+    "translation": "在松代第2实验场发现的未确认移动物体\\n正朝第三新东京市 北区前进",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 491\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1619,7 +1619,7 @@
   {
     "key": "e_a9286d3008_0416_acbb2289e2",
     "original": "目標は、第３新東京市　中央区直上\\n衛星軌道上に出現",
-    "translation": "目标出现在第三新东京市中央区正上方\\n卫星轨道上",
+    "translation": "目标出现在第三新东京市 中央区正上方\\n卫星轨道上",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 496\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1633,7 +1633,7 @@
   {
     "key": "e_a9286d3008_0420_ee6d96cc48",
     "original": "目標は大涌谷上空に出現、\\n第３新東京市　東地区に向かってるらしい",
-    "translation": "目标出现在大涌谷上空\\n似乎正朝第三新东京市东地区移动",
+    "translation": "目标出现在大涌谷上空\\n似乎正朝第三新东京市 东区移动",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 498\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },

@@ -44,7 +44,7 @@
   {
     "key": "e_06efd6e10d_0007_2151968a7c",
     "original": "何てこった、分析パターン青\\n使徒です！！",
-    "translation": "见鬼，蓝色波形\\n是使徒！！",
+    "translation": "见鬼，分析结果为蓝色波形\n是使徒！！",
     "context": "File: FREE/NEV_TEV1103.NUT\nLine: 373\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0011_10_004_2",
     "stage": 1
   },

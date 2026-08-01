@@ -23,28 +23,28 @@
   {
     "key": "e_cc2f0e4158_0004_7b02c004f9",
     "original": "<02>移動<//>しながら$Rボタンで<02>Ａ．Ｔ．<//>を\\n消費して<02>ダッシュ<//>する事ができます▽",
-    "translation": "<02>移动<//>时按住$R键消耗<02>AT值<//>\\n即可进行<02>冲刺<//>▽",
+    "translation": "<02>移动<//>时按住$R键消耗<02>AT<//>\\n即可进行<02>冲刺<//>▽",
     "context": "File: TUT/TUT_B002.NUT\nLine: 28\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0005_20a6b27bd6",
     "original": "<02>移動<//>しながら$xボタンで<02>Ａ．Ｔ．<//>を\\n消費して<02>回避行動<//>を行います▽",
-    "translation": "<02>移动<//>时按$x键消耗<02>AT值<//>\\n可执行<02>闪避动作<//>▽",
+    "translation": "<02>移动<//>时按$x键消耗<02>AT<//>\\n可执行<02>闪避动作<//>▽",
     "context": "File: TUT/TUT_B002.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0006_4809adc615",
     "original": "<02>ダッシュ<//>中の<02>Ａ．Ｔ．<//>消費量は<02>移動スキル<//>、\\n<02>回避行動<//>での<02>Ａ．Ｔ．<//>消費量は<02>回避スキル<//>、▽",
-    "translation": "<02>冲刺<//>时的<02>AT值<//>消耗量由<02>移动技能<//>决定，\\n<02>闪避动作<//>的<02>AT值<//>消耗量则取决于<02>闪避技能<//>，▽",
+    "translation": "<02>冲刺<//>时的<02>AT<//>消耗量由<02>移动技能<//>决定，\\n<02>闪避动作<//>的<02>AT<//>消耗量则取决于<02>闪避技能<//>，▽",
     "context": "File: TUT/TUT_B002.NUT\nLine: 30\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0007_5bd7275db0",
     "original": "それぞれの<02>スキル<//>を<02>実装<//>する事で\\n<02>Ａ．Ｔ．<//>消費量を減少させる事もできます▽",
-    "translation": "通过<02>安装<//>相应<02>技能<//>\\n可减少<02>AT值<//>消耗量▽",
+    "translation": "通过<02>安装<//>相应<02>技能<//>\\n可减少<02>AT<//>消耗量▽",
     "context": "File: TUT/TUT_B002.NUT\nLine: 31\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -65,21 +65,21 @@
   {
     "key": "e_cc2f0e4158_0010_27051f55bf",
     "original": "<02>ガード<//>中は<02>Ａ．Ｔ．<//>を消費し続けます▽",
-    "translation": "<02>防御<//>期间会持续消耗<02>AT值<//>▽",
+    "translation": "<02>防御<//>期间会持续消耗<02>AT<//>▽",
     "context": "File: TUT/TUT_B002.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0011_d146907fce",
     "original": "また、<02>ガード<//>した攻撃に応じて\\n<02>Ａ．Ｔ．<//>を消費します",
-    "translation": "此外，根据<02>防御<//>的攻击类型\\n会消耗相应<02>AT值<//>",
+    "translation": "此外，根据<02>防御<//>的攻击类型\\n会消耗相应<02>AT<//>",
     "context": "File: TUT/TUT_B002.NUT\nLine: 47\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0012_cc5c27461a",
     "original": "<02>ガードスキル<02>を<02>実装<//>する事で、\\n<02>Ａ．Ｔ．<//>消費量を減少させる事もできます",
-    "translation": "通过<02>防御技能<02>的<02>安装<//>，\\n还可减少<02>AT值<//>消耗量",
+    "translation": "通过<02>防御技能<02>的<02>安装<//>，\\n还可减少<02>AT<//>消耗量",
     "context": "File: TUT/TUT_B002.NUT\nLine: 48\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -93,7 +93,7 @@
   {
     "key": "e_cc2f0e4158_0014_434307ade4",
     "original": "<02>Ａ．Ｔ．<//>を消費せずに\\n攻撃を<02>ガード<//>する事ができます▽",
-    "translation": "无需消耗<02>AT值<//>\\n即可<02>防御<//>攻击▽",
+    "translation": "无需消耗<02>AT<//>\\n即可<02>防御<//>攻击▽",
     "context": "File: TUT/TUT_B002.NUT\nLine: 62\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -114,21 +114,21 @@
   {
     "key": "e_cc2f0e4158_0017_67e5e947d8",
     "original": "使徒の<02>Ａ．Ｔ．<//>を減らす事ができる、\\n<02>浸食<//>を実行する事ができます",
-    "translation": "可执行降低使徒<02>AT值<//>的\\n<02>侵蚀<//>行动",
+    "translation": "可执行降低使徒<02>AT<//>的\\n<02>侵蚀<//>行动",
     "context": "File: TUT/TUT_B002.NUT\nLine: 77\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0018_e97eaafb94",
     "original": "使徒の<02>Ａ．Ｔ．<//>を一気に減少させ、\\n<02>バニッシュ<//>の状態に追い込みましょう",
-    "translation": "大幅削减使徒<02>AT值<//>\\n将其逼入<02>崩坏状态<//>",
+    "translation": "大幅削减使徒<02>AT<//>\\n将其逼入<02>崩坏状态<//>",
     "context": "File: TUT/TUT_B002.NUT\nLine: 78\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_cc2f0e4158_0019_dc1be1b3e1",
     "original": "ただし、<02>浸食<//>中はエヴァの<02>Ａ．Ｔ．<//>も\\n同時に消費されているので注意してください",
-    "translation": "但需注意，<02>侵蚀<//>期间\\nEVA的<02>AT值<//>也会同步消耗",
+    "translation": "但需注意，<02>侵蚀<//>期间\\nEVA的<02>AT<//>也会同步消耗",
     "context": "File: TUT/TUT_B002.NUT\nLine: 79\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
