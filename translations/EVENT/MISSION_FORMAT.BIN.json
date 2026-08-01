@@ -2,1015 +2,1015 @@
   {
     "key": "e_862ce37570_0001_bde877acc2",
     "original": "水の使徒",
-    "translation": "",
+    "translation": "水天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 0\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0002_2ba543ca82",
     "original": "昼の使徒",
-    "translation": "",
+    "translation": "昼天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 1\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0003_36914ee41d",
     "original": "雷の使徒",
-    "translation": "",
+    "translation": "雷天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 2\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0004_a7e30d38e5",
     "original": "Ｊ．Ａ．",
-    "translation": "",
+    "translation": "J.A.",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 3\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0005_79bb83f3f9",
     "original": "魚の使徒",
-    "translation": "",
+    "translation": "鱼天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 4\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0006_36e42f889d",
     "original": "音楽の使徒",
-    "translation": "",
+    "translation": "音乐天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 5\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0007_95a994398d",
     "original": "胎児の使徒",
-    "translation": "",
+    "translation": "胎天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 6\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0008_cdf45c155d",
     "original": "雨の使徒",
-    "translation": "",
+    "translation": "雨天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 7\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0009_26d0718f35",
     "original": "空の使徒",
-    "translation": "",
+    "translation": "空天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 8\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0010_41220bef35",
     "original": "恐怖の使徒",
-    "translation": "",
+    "translation": "恐怖天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 9\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0011_f90e82b9f7",
     "original": "夜の使徒",
-    "translation": "",
+    "translation": "夜天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 10\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0012_e5170cb8f3",
     "original": "霞の使徒",
-    "translation": "",
+    "translation": "霰天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 11\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0013_e26e9b54ee",
     "original": "力の使徒",
-    "translation": "",
+    "translation": "力天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 12\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0014_664fd4329c",
     "original": "鳥の使徒",
-    "translation": "",
+    "translation": "鸟天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 13\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0015_68568fbe70",
     "original": "子宮の使徒",
-    "translation": "",
+    "translation": "子宫天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 14\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0016_d37b54b9b9",
     "original": "自由の使徒",
-    "translation": "",
+    "translation": "自由天使",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 15\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0017_56771a7c75",
     "original": "エヴァ量産機",
-    "translation": "",
+    "translation": "EVA量产系列",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 16\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0018_e525cb1081",
     "original": "水の迎撃作戦初級",
-    "translation": "",
+    "translation": "水天使迎击作战初级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 17\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0019_059ad8e3fc",
     "original": "水の迎撃作戦初級２",
-    "translation": "",
+    "translation": "水天使迎击作战初级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 18\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0020_8ce7761887",
     "original": "水の迎撃作戦中級",
-    "translation": "",
+    "translation": "水天使迎击作战中级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 19\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0021_f42f817321",
     "original": "水の迎撃作戦中級２",
-    "translation": "",
+    "translation": "水天使迎击作战中级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 20\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0022_3e11a46559",
     "original": "水の迎撃作戦中級３",
-    "translation": "",
+    "translation": "水天使迎击作战中级3",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 21\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0023_cb548d38b8",
     "original": "水の迎撃作戦中級４",
-    "translation": "",
+    "translation": "水天使迎击作战中级4",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 22\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0024_577eebc529",
     "original": "水の迎撃作戦中級５",
-    "translation": "",
+    "translation": "水天使迎击作战中级5",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 23\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0025_ee4638bb14",
     "original": "水の迎撃作戦中級６",
-    "translation": "",
+    "translation": "水天使迎击作战中级6",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 24\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0026_296f2c9be1",
     "original": "水の迎撃作戦上級",
-    "translation": "",
+    "translation": "水天使迎击作战上级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 25\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0027_31f8e0efd9",
     "original": "水の迎撃作戦上級２",
-    "translation": "",
+    "translation": "水天使迎击作战上级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 26\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0028_16c14d4448",
     "original": "水の迎撃作戦上級３",
-    "translation": "",
+    "translation": "水天使迎击作战上级3",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 27\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0029_21ff6e54c0",
     "original": "水の迎撃作戦上級４",
-    "translation": "",
+    "translation": "水天使迎击作战上级4",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 28\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0030_9c8ff1eaec",
     "original": "水の迎撃作戦超級",
-    "translation": "",
+    "translation": "水天使迎击作战超级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 29\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0031_584eb916f7",
     "original": "水の迎撃作戦超級２",
-    "translation": "",
+    "translation": "水天使迎击作战超级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 30\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0032_1575ca191f",
     "original": "水の迎撃作戦超級３",
-    "translation": "",
+    "translation": "水天使迎击作战超级3",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 31\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0033_66e519583b",
     "original": "水の迎撃作戦神級",
-    "translation": "",
+    "translation": "水天使迎击作战神级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 32\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0034_9a912e5001",
     "original": "昼の迎撃作戦中級",
-    "translation": "",
+    "translation": "昼天使迎击作战中级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 33\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0035_f8b9dbe1a3",
     "original": "昼の迎撃作戦中級２",
-    "translation": "",
+    "translation": "昼天使迎击作战中级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 34\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0036_08e01a2954",
     "original": "昼の迎撃作戦中級３",
-    "translation": "",
+    "translation": "昼天使迎击作战中级3",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 35\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0037_4d6401bf62",
     "original": "昼の迎撃作戦中級４",
-    "translation": "",
+    "translation": "昼天使迎击作战中级4",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 36\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0038_3252e2b37f",
     "original": "昼の迎撃作戦中級５",
-    "translation": "",
+    "translation": "昼天使迎击作战中级5",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 37\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0039_80e1683528",
     "original": "昼の迎撃作戦中級６",
-    "translation": "",
+    "translation": "昼天使迎击作战中级6",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 38\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0040_bdb2dbd1ba",
     "original": "昼の迎撃作戦上級",
-    "translation": "",
+    "translation": "昼天使迎击作战上级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 39\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0041_e6bb1a996f",
     "original": "昼の迎撃作戦上級２",
-    "translation": "",
+    "translation": "昼天使迎击作战上级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 40\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0042_28d9905fab",
     "original": "昼の迎撃作戦上級３",
-    "translation": "",
+    "translation": "昼天使迎击作战上级3",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 41\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0043_2e7a98b9cc",
     "original": "昼の迎撃作戦上級４",
-    "translation": "",
+    "translation": "昼天使迎击作战上级4",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 42\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0044_f1359fe91c",
     "original": "昼の迎撃作戦超級",
-    "translation": "",
+    "translation": "昼天使迎击作战超级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 43\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0045_77dcce2e18",
     "original": "昼の迎撃作戦超級２",
-    "translation": "",
+    "translation": "昼天使迎击作战超级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 44\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0046_b4ec205bdc",
     "original": "昼の迎撃作戦神級",
-    "translation": "",
+    "translation": "昼天使迎击作战神级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 45\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0047_c8dde1e9cc",
     "original": "音楽の迎撃作戦中級",
-    "translation": "",
+    "translation": "音乐天使迎击作战中级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 46\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0048_d3e45c40d8",
     "original": "音楽の迎撃作戦中級２",
-    "translation": "",
+    "translation": "音乐天使迎击作战中级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 47\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0049_603af91662",
     "original": "音楽の迎撃作戦中級３",
-    "translation": "",
+    "translation": "音乐天使迎击作战中级3",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 48\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0050_3cd5fd4f14",
     "original": "音楽の迎撃作戦中級４",
-    "translation": "",
+    "translation": "音乐天使迎击作战中级4",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 49\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0051_27715e7c53",
     "original": "音楽の迎撃作戦中級５",
-    "translation": "",
+    "translation": "音乐天使迎击作战中级5",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 50\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0052_85b9277373",
     "original": "音楽の迎撃作戦中級６",
-    "translation": "",
+    "translation": "音乐天使迎击作战中级6",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 51\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0053_ab59ac0bc2",
     "original": "音楽の迎撃作戦上級",
-    "translation": "",
+    "translation": "音乐天使迎击作战上级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 52\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0054_1da7ddd562",
     "original": "音楽の迎撃作戦上級２",
-    "translation": "",
+    "translation": "音乐天使迎击作战上级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 53\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0055_7688e365de",
     "original": "音楽の迎撃作戦上級３",
-    "translation": "",
+    "translation": "音乐天使迎击作战上级3",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 54\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0056_5fb1c8b800",
     "original": "音楽の迎撃作戦上級４",
-    "translation": "",
+    "translation": "音乐天使迎击作战上级4",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 55\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0057_a584b5f2a2",
     "original": "音楽の迎撃作戦超級",
-    "translation": "",
+    "translation": "音乐天使迎击作战超级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 56\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0058_753cfb2f4d",
     "original": "音楽の迎撃作戦超級２",
-    "translation": "",
+    "translation": "音乐天使迎击作战超级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 57\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0059_d4c0fbda8a",
     "original": "音楽の迎撃作戦神級",
-    "translation": "",
+    "translation": "音乐天使迎击作战神级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 58\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0060_6fd82bf0ad",
     "original": "雨の迎撃作戦中級",
-    "translation": "",
+    "translation": "雨天使迎击作战中级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 59\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0061_ea6db872b6",
     "original": "雨の迎撃作戦上級",
-    "translation": "",
+    "translation": "雨天使迎击作战上级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 60\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0062_0dade2d78a",
     "original": "雨の迎撃作戦超級",
-    "translation": "",
+    "translation": "雨天使迎击作战超级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 61\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0063_2366f590bb",
     "original": "雨の迎撃作戦神級",
-    "translation": "",
+    "translation": "雨天使迎击作战神级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 62\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0064_894139ee44",
     "original": "霞の迎撃作戦中級",
-    "translation": "",
+    "translation": "霰天使迎击作战中级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 63\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0065_df781a2927",
     "original": "霞の迎撃作戦中級２",
-    "translation": "",
+    "translation": "霰天使迎击作战中级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 64\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0066_05a4406df5",
     "original": "霞の迎撃作戦中級３",
-    "translation": "",
+    "translation": "霰天使迎击作战中级3",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 65\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0067_ebbac4a681",
     "original": "霞の迎撃作戦上級",
-    "translation": "",
+    "translation": "霰天使迎击作战上级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 66\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0068_aaf1db61f8",
     "original": "霞の迎撃作戦上級２",
-    "translation": "",
+    "translation": "霰天使迎击作战上级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 67\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0069_15a8aefb02",
     "original": "霞の迎撃作戦上級３",
-    "translation": "",
+    "translation": "霰天使迎击作战上级3",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 68\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0070_1bb5aabfc5",
     "original": "霞の迎撃作戦超級",
-    "translation": "",
+    "translation": "霰天使迎击作战超级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 69\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0071_8f2a29818c",
     "original": "霞の迎撃作戦超級２",
-    "translation": "",
+    "translation": "霰天使迎击作战超级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 70\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0072_1adeb7f85d",
     "original": "霞の迎撃作戦神級",
-    "translation": "",
+    "translation": "霰天使迎击作战神级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 71\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0073_448997c88c",
     "original": "力の迎撃作戦中級",
-    "translation": "",
+    "translation": "力天使迎击作战中级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 72\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0074_7726e4fb86",
     "original": "力の迎撃作戦中級２",
-    "translation": "",
+    "translation": "力天使迎击作战中级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 73\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0075_9e28f2eb9e",
     "original": "力の迎撃作戦上級",
-    "translation": "",
+    "translation": "力天使迎击作战上级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 74\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0076_15670b587e",
     "original": "力の迎撃作戦上級２",
-    "translation": "",
+    "translation": "力天使迎击作战上级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 75\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0077_002009ec36",
     "original": "力の迎撃作戦上級３",
-    "translation": "",
+    "translation": "力天使迎击作战上级3",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 76\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0078_209b3c4b0a",
     "original": "力の迎撃作戦上級４",
-    "translation": "",
+    "translation": "力天使迎击作战上级4",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 77\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0079_ee95c4c32b",
     "original": "力の迎撃作戦超級",
-    "translation": "",
+    "translation": "力天使迎击作战超级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 78\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0080_cee7806f54",
     "original": "力の迎撃作戦超級２",
-    "translation": "",
+    "translation": "力天使迎击作战超级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 79\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0081_539c166d60",
     "original": "力の迎撃作戦神級",
-    "translation": "",
+    "translation": "力天使迎击作战神级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 80\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0082_8ce2196525",
     "original": "子宮の迎撃作戦中級",
-    "translation": "",
+    "translation": "子宫天使迎击作战中级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 81\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0083_8d255ff746",
     "original": "子宮の迎撃作戦中級２",
-    "translation": "",
+    "translation": "子宫天使迎击作战中级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 82\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0084_ebb3a09320",
     "original": "子宮の迎撃作戦上級",
-    "translation": "",
+    "translation": "子宫天使迎击作战上级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 83\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0085_1426c0ee2a",
     "original": "子宮の迎撃作戦上級２",
-    "translation": "",
+    "translation": "子宫天使迎击作战上级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 84\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0086_a276258132",
     "original": "子宮の迎撃作戦超級",
-    "translation": "",
+    "translation": "子宫天使迎击作战超级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 85\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0087_c5fb8ee8d2",
     "original": "子宮の迎撃作戦神級",
-    "translation": "",
+    "translation": "子宫天使迎击作战神级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 86\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0088_7ab0c88909",
     "original": "自由の迎撃作戦上級",
-    "translation": "",
+    "translation": "自由天使迎击作战上级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 87\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0089_4742c0d98c",
     "original": "自由の迎撃作戦上級２",
-    "translation": "",
+    "translation": "自由天使迎击作战上级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 88\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0090_45ac3c850e",
     "original": "自由の迎撃作戦超級",
-    "translation": "",
+    "translation": "自由天使迎击作战超级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 89\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0091_74abcd0e66",
     "original": "自由の迎撃作戦神級",
-    "translation": "",
+    "translation": "自由天使迎击作战神级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 90\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0092_cb4d84f25f",
     "original": "量産機迎撃作戦上級",
-    "translation": "",
+    "translation": "EVA量产系列迎击作战上级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 91\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0093_619d6951f4",
     "original": "量産機迎撃作戦上級２",
-    "translation": "",
+    "translation": "EVA量产系列迎击作战上级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 92\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0094_0a771afe71",
     "original": "量産機迎撃作戦超級",
-    "translation": "",
+    "translation": "EVA量产系列迎击作战超级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 93\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0095_0f0f330da1",
     "original": "量産機迎撃作戦超級２",
-    "translation": "",
+    "translation": "EVA量产系列迎击作战超级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 94\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0096_09c91719db",
     "original": "量産機迎撃作戦神級",
-    "translation": "",
+    "translation": "EVA量产系列迎击作战神级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 95\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0097_c7c65f7917",
     "original": "水の大行進",
-    "translation": "",
+    "translation": "水天使大行进",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 96\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0098_c2f906ad7e",
     "original": "昼水連続作戦",
-    "translation": "",
+    "translation": "昼水连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 97\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0099_60052f450a",
     "original": "音水連続作戦",
-    "translation": "",
+    "translation": "音水连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 98\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0100_c0becac36a",
     "original": "水の大行進２",
-    "translation": "",
+    "translation": "水天使大行进2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 99\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0101_ef25df929a",
     "original": "昼音水連続作戦",
-    "translation": "",
+    "translation": "昼音水连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 100\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0102_6fa367a024",
     "original": "昼音力連続作戦",
-    "translation": "",
+    "translation": "昼音力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 101\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0103_f199b60689",
     "original": "音の大行進",
-    "translation": "",
+    "translation": "音乐天使大行进",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 102\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0104_277340a924",
     "original": "昼音水力連続作戦",
-    "translation": "",
+    "translation": "昼音水力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 103\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0105_b5548ef0a5",
     "original": "霞子力水音連続作戦",
-    "translation": "",
+    "translation": "霰子力水音连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 104\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0106_bc901d4e3a",
     "original": "水音子力力連続作戦",
-    "translation": "",
+    "translation": "水音子力力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 105\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0107_175ddfba88",
     "original": "量自量霞量連続作戦",
-    "translation": "",
+    "translation": "量自量霰量连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 106\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0108_3710654037",
     "original": "昼力連続作戦",
-    "translation": "",
+    "translation": "昼力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 107\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0109_570f349488",
     "original": "水音連続作戦",
-    "translation": "",
+    "translation": "水音连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 108\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0110_58d291cc5d",
     "original": "自霞量連続作戦",
-    "translation": "",
+    "translation": "自霰量连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 109\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0111_66b949a8cf",
     "original": "力子自連続作戦",
-    "translation": "",
+    "translation": "力子自连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 110\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0112_0601744b93",
     "original": "昼水音霞連続作戦",
-    "translation": "",
+    "translation": "昼水音霰连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 111\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0113_550355f9a6",
     "original": "量自量霞量連続作戦２",
-    "translation": "",
+    "translation": "量自量霰量连续作战2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 112\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0114_86cb23ea1d",
     "original": "昼音自連続作戦",
-    "translation": "",
+    "translation": "昼音自连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 113\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0115_7bc86ad788",
     "original": "水霞力連続作戦",
-    "translation": "",
+    "translation": "水霰力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 114\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0116_1fd3cca256",
     "original": "量の大行進",
-    "translation": "",
+    "translation": "量产机大行进",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 115\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0117_e89e3dca3f",
     "original": "量の大行進２",
-    "translation": "",
+    "translation": "量产机大行进2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 116\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0118_5251e9b1e2",
     "original": "水の使徒　　チュートリアル用",
-    "translation": "",
+    "translation": "水天使　　教程专用",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 117\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0119_c2f906ad7e",
     "original": "昼水連続作戦",
-    "translation": "",
+    "translation": "昼水连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 118\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0120_c0becac36a",
     "original": "水の大行進２",
-    "translation": "",
+    "translation": "水天使大行进2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 119\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0121_c0becac36a",
     "original": "水の大行進２",
-    "translation": "",
+    "translation": "水天使大行进2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 120\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0122_ef25df929a",
     "original": "昼音水連続作戦",
-    "translation": "",
+    "translation": "昼音水连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 121\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0123_ef25df929a",
     "original": "昼音水連続作戦",
-    "translation": "",
+    "translation": "昼音水连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 122\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0124_f199b60689",
     "original": "音の大行進",
-    "translation": "",
+    "translation": "音乐天使大行进",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 123\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0125_f199b60689",
     "original": "音の大行進",
-    "translation": "",
+    "translation": "音乐天使大行进",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 124\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0126_f199b60689",
     "original": "音の大行進",
-    "translation": "",
+    "translation": "音乐天使大行进",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 125\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0127_277340a924",
     "original": "昼音水力連続作戦",
-    "translation": "",
+    "translation": "昼音水力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 126\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0128_277340a924",
     "original": "昼音水力連続作戦",
-    "translation": "",
+    "translation": "昼音水力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 127\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0129_277340a924",
     "original": "昼音水力連続作戦",
-    "translation": "",
+    "translation": "昼音水力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 128\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0130_b5548ef0a5",
     "original": "霞子力水音連続作戦",
-    "translation": "",
+    "translation": "霰子力水音连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 129\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0131_b5548ef0a5",
     "original": "霞子力水音連続作戦",
-    "translation": "",
+    "translation": "霰子力水音连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 130\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0132_b5548ef0a5",
     "original": "霞子力水音連続作戦",
-    "translation": "",
+    "translation": "霰子力水音连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 131\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0133_b5548ef0a5",
     "original": "霞子力水音連続作戦",
-    "translation": "",
+    "translation": "霰子力水音连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 132\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0134_bc901d4e3a",
     "original": "水音子力力連続作戦",
-    "translation": "",
+    "translation": "水音子力力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 133\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0135_bc901d4e3a",
     "original": "水音子力力連続作戦",
-    "translation": "",
+    "translation": "水音子力力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 134\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0136_bc901d4e3a",
     "original": "水音子力力連続作戦",
-    "translation": "",
+    "translation": "水音子力力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 135\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0137_bc901d4e3a",
     "original": "水音子力力連続作戦",
-    "translation": "",
+    "translation": "水音子力力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 136\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0138_175ddfba88",
     "original": "量自量霞量連続作戦",
-    "translation": "",
+    "translation": "量自量霰量连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 137\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0139_175ddfba88",
     "original": "量自量霞量連続作戦",
-    "translation": "",
+    "translation": "量自量霰量连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 138\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0140_175ddfba88",
     "original": "量自量霞量連続作戦",
-    "translation": "",
+    "translation": "量自量霰量连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 139\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0141_175ddfba88",
     "original": "量自量霞量連続作戦",
-    "translation": "",
+    "translation": "量自量霰量连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 140\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0142_3710654037",
     "original": "昼力連続作戦",
-    "translation": "",
+    "translation": "昼力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 141\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0143_570f349488",
     "original": "水音連続作戦",
-    "translation": "",
+    "translation": "水音连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 142\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0144_58d291cc5d",
     "original": "自霞量連続作戦",
-    "translation": "",
+    "translation": "自霰量连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 143\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0145_58d291cc5d",
     "original": "自霞量連続作戦",
-    "translation": "",
+    "translation": "自霰量连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 144\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0146_66b949a8cf",
     "original": "力子自連続作戦",
-    "translation": "",
+    "translation": "力子自连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 145\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0147_66b949a8cf",
     "original": "力子自連続作戦",
-    "translation": "",
+    "translation": "力子自连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 146\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0148_0601744b93",
     "original": "昼水音霞連続作戦",
-    "translation": "",
+    "translation": "昼水音霰连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 147\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0149_0601744b93",
     "original": "昼水音霞連続作戦",
-    "translation": "",
+    "translation": "昼水音霰连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 148\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0150_0601744b93",
     "original": "昼水音霞連続作戦",
-    "translation": "",
+    "translation": "昼水音霰连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 149\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0151_550355f9a6",
     "original": "量自量霞量連続作戦２",
-    "translation": "",
+    "translation": "量自量霰量连续作战2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 150\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0152_550355f9a6",
     "original": "量自量霞量連続作戦２",
-    "translation": "",
+    "translation": "量自量霰量连续作战2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 151\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0153_550355f9a6",
     "original": "量自量霞量連続作戦２",
-    "translation": "",
+    "translation": "量自量霰量连续作战2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 152\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0154_550355f9a6",
     "original": "量自量霞量連続作戦２",
-    "translation": "",
+    "translation": "量自量霰量连续作战2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 153\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0155_86cb23ea1d",
     "original": "昼音自連続作戦",
-    "translation": "",
+    "translation": "昼音自连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 154\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0156_86cb23ea1d",
     "original": "昼音自連続作戦",
-    "translation": "",
+    "translation": "昼音自连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 155\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0157_7bc86ad788",
     "original": "水霞力連続作戦",
-    "translation": "",
+    "translation": "水霰力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 156\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0158_7bc86ad788",
     "original": "水霞力連続作戦",
-    "translation": "",
+    "translation": "水霰力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 157\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0159_1fd3cca256",
     "original": "量の大行進",
-    "translation": "",
+    "translation": "量产机大行进",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 158\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0160_1fd3cca256",
     "original": "量の大行進",
-    "translation": "",
+    "translation": "量产机大行进",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 159\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0161_e89e3dca3f",
     "original": "量の大行進２",
-    "translation": "",
+    "translation": "量产机大行进2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 160\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0162_e89e3dca3f",
     "original": "量の大行進２",
-    "translation": "",
+    "translation": "量产机大行进2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 161\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0163_e89e3dca3f",
     "original": "量の大行進２",
-    "translation": "",
+    "translation": "量产机大行进2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 162\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0164_e89e3dca3f",
     "original": "量の大行進２",
-    "translation": "",
+    "translation": "量产机大行进2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 163\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0165_c7c65f7917",
     "original": "水の大行進",
-    "translation": "",
+    "translation": "水天使大行进",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 164\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0166_60052f450a",
     "original": "音水連続作戦",
-    "translation": "",
+    "translation": "音水连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 165\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0167_6fa367a024",
     "original": "昼音力連続作戦",
-    "translation": "",
+    "translation": "昼音力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 166\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0168_6fa367a024",
     "original": "昼音力連続作戦",
-    "translation": "",
+    "translation": "昼音力连续作战",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 167\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0169_1fd3cca256",
     "original": "量の大行進",
-    "translation": "",
+    "translation": "量产机大行进",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 168\nField: mission name (column 0)"
   }
 ]

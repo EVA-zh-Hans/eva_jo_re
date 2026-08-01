@@ -2,133 +2,133 @@
   {
     "key": "e_a90e54c0b4_0001_de2596ff85",
     "original": "移動",
-    "translation": "",
+    "translation": "移动",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 0\nField: skill name (column 0)"
   },
   {
     "key": "e_a90e54c0b4_0002_0b5651264e",
     "original": "移動スキル\\n　ダッシュ時のＡ．Ｔ．消費量が減少",
-    "translation": "",
+    "translation": "移动技能\\n　减少冲刺时的AT值消耗",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 0\nField: description (column 1)"
   },
   {
     "key": "e_a90e54c0b4_0003_3e8d0ff0d1",
     "original": "回避",
-    "translation": "",
+    "translation": "闪避",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 1\nField: skill name (column 0)"
   },
   {
     "key": "e_a90e54c0b4_0004_db6cd3f58b",
     "original": "回避スキル\\n　回避行動時のＡ．Ｔ．消費量が減少\\n　回避行動時の無敵時間が増加",
-    "translation": "",
+    "translation": "闪避技能\\n　减少闪避动作时的AT值消耗\\n　延长闪避动作时的无敌时间",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 1\nField: description (column 1)"
   },
   {
     "key": "e_a90e54c0b4_0005_3f25dbed6e",
     "original": "クリティカル",
-    "translation": "",
+    "translation": "暴击",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 2\nField: skill name (column 0)"
   },
   {
     "key": "e_a90e54c0b4_0006_7f564add7b",
     "original": "クリティカルスキル\\n　クリティカル発生率が増加",
-    "translation": "",
+    "translation": "暴击技能\\n　提高暴击率",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 2\nField: description (column 1)"
   },
   {
     "key": "e_a90e54c0b4_0007_8cc19c67a6",
     "original": "格闘武器",
-    "translation": "",
+    "translation": "近战武器",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 3\nField: skill name (column 0)"
   },
   {
     "key": "e_a90e54c0b4_0008_498dd09613",
     "original": "格闘武器スキル\\n　武器の耐久度が増加",
-    "translation": "",
+    "translation": "近战武器技能\\n　提高武器耐久度",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 3\nField: description (column 1)"
   },
   {
     "key": "e_a90e54c0b4_0009_336d4bba42",
     "original": "射撃武器",
-    "translation": "",
+    "translation": "射击武器",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 4\nField: skill name (column 0)"
   },
   {
     "key": "e_a90e54c0b4_0010_ae65e22acf",
     "original": "射撃武器スキル\\n　射撃攻撃の集弾率が増加\\n　リロード時間の短縮",
-    "translation": "",
+    "translation": "射击武器技能\\n　提高射击攻击的集弹率\\n　缩短装填时间",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 4\nField: description (column 1)"
   },
   {
     "key": "e_a90e54c0b4_0011_3427ebb6f5",
     "original": "ロック",
-    "translation": "",
+    "translation": "锁定",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 5\nField: skill name (column 0)"
   },
   {
     "key": "e_a90e54c0b4_0012_cec213eaae",
     "original": "ロックスキル\\n　ロック可能距離が増加",
-    "translation": "",
+    "translation": "锁定技能\\n　增加可锁定距离",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 5\nField: description (column 1)"
   },
   {
     "key": "e_a90e54c0b4_0013_b114a114cf",
     "original": "浸食",
-    "translation": "",
+    "translation": "侵蚀",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 6\nField: skill name (column 0)"
   },
   {
     "key": "e_a90e54c0b4_0014_ce573eb6c3",
     "original": "浸食スキル\\n　使徒のＡ．Ｔ．ダメージ量が増加\\n　Ａ．Ｔ．浸食速度が増加",
-    "translation": "",
+    "translation": "侵蚀技能\\n　增加对使徒造成的AT伤害\\n　提高AT侵蚀速度",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 6\nField: description (column 1)"
   },
   {
     "key": "e_a90e54c0b4_0015_522ba9f47a",
     "original": "ガード",
-    "translation": "",
+    "translation": "防御",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 7\nField: skill name (column 0)"
   },
   {
     "key": "e_a90e54c0b4_0016_d2d23c408c",
     "original": "ガード性能\\n　ガード中のＡ．Ｔ．消費量が減少\\n　攻撃ガード時のＡ．Ｔ．消費量が減少",
-    "translation": "",
+    "translation": "防御性能\\n　减少防御时的AT值消耗\\n　减少格挡攻击时的AT值消耗",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 7\nField: description (column 1)"
   },
   {
     "key": "e_a90e54c0b4_0017_5f0323e8ad",
     "original": "ヘイフリック",
-    "translation": "",
+    "translation": "海弗利克",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 8\nField: skill name (column 0)"
   },
   {
     "key": "e_a90e54c0b4_0018_ef6edf1aeb",
     "original": "ヘイフリックスキル\\n　ヘイフリックの回復速度が増加",
-    "translation": "",
+    "translation": "海弗利克技能\\n　提高海弗利克的恢复速度",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 8\nField: description (column 1)"
   },
   {
     "key": "e_a90e54c0b4_0019_a7efe890de",
     "original": "装甲",
-    "translation": "",
+    "translation": "装甲",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 9\nField: skill name (column 0)"
   },
   {
     "key": "e_a90e54c0b4_0020_9aa02c8a4a",
     "original": "装甲スキル\\n　エヴァの防御力が増加",
-    "translation": "",
+    "translation": "装甲技能\\n　提高EVA的防御力",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 9\nField: description (column 1)"
   },
   {
     "key": "e_a90e54c0b4_0021_05ac5bf785",
     "original": "予備電源",
-    "translation": "",
+    "translation": "备用电源",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 10\nField: skill name (column 0)"
   },
   {
     "key": "e_a90e54c0b4_0022_9a88064b93",
     "original": "予備電源スキル\\n　活動限界時間が増加",
-    "translation": "",
+    "translation": "备用电源技能\\n　延长活动时限",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 10\nField: description (column 1)"
   }
 ]

@@ -8,14 +8,15 @@
 ```bash
 uv sync
 make export
-# 在 translations/ 中翻译各个 NUT/XML 对应的 JSON
+# 在 translations/ 中翻译各个 NUT/XML/BIN 对应的 JSON
 make check
 make build
 make verify
 make test
 ```
 
-`make export` 只读取镜像内 `NEVA.PKG` 的 NUT/XML，不维护完整解包树。
+`make export` 读取镜像内 `NEVA.PKG` 的 NUT/XML，并结构化导出武器、技能和
+任务名称参数 BIN，不维护完整解包树。
 `make build` 根据当前译文动态生成码表和新 PKG，再通过稀疏 overlay 生成镜像。
 构建同时调用 `plugin/` 生成最小字体 loader/runtime，由根 Makefile 解密
 原版 EBOOT，并把 `EBOOT.BIN`、`BOOT.BIN`、`EVAJORT.PRX` 和
