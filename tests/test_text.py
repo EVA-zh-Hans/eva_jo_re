@@ -1,10 +1,33 @@
 import json
+import struct
 import tempfile
 import unittest
 from pathlib import Path, PurePosixPath
 
-from app import font, nut, paratranz, xml
+from app import bintable, font, nut, paratranz, xml
 from app.encoding import decode
+
+
+def _make_bin_table(rows: list[tuple[str, int, str]]) -> bytes:
+    field_types = (4, 0, 4)
+    record_offset = bintable.HEADER.size + len(field_types) * 4
+    record_size = sum(bintable.TYPE_WIDTHS[field_type] for field_type in field_types)
+    pool_offset = record_offset + len(rows) * record_size
+    output = bytearray(
+        bintable.HEADER.pack(1, record_offset, len(rows), len(field_types), bintable.HEADER.size)
+    )
+    output.extend(struct.pack("<3I", *field_types))
+    pool = bytearray()
+    for name, value, description in rows:
+        name_pointer = pool_offset + len(pool)
+        pool.extend(name.encode("cp932") + b"\0")
+        description_pointer = pool_offset + len(pool)
+        pool.extend(description.encode("cp932") + b"\0")
+        output.extend(struct.pack("<III", name_pointer, value, description_pointer))
+    output.extend(pool)
+    while len(output) % 4:
+        output.append(0)
+    return bytes(output)
 
 
 class NutTests(unittest.TestCase):
@@ -99,6 +122,66 @@ class ParaTranzTests(unittest.TestCase):
             output.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
             _, errors = paratranz.translations_for(root, path, [item])
             self.assertEqual(len(errors), 1)
+
+    def test_printf_placeholders_must_remain(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            path = PurePosixPath("ADJUST/TEST.BIN")
+            item = paratranz.SourceItem(1, "武器%s", "Row: 0")
+            paratranz.merge_file(root, path, [item])
+            output = paratranz.json_path(root, path)
+            data = paratranz.load(output)
+            data[0]["translation"] = "武器"
+            output.write_text(json.dumps(data, ensure_ascii=False), encoding="utf-8")
+            _, errors = paratranz.translations_for(root, path, [item])
+            self.assertEqual(len(errors), 1)
+
+
+class BinTableTests(unittest.TestCase):
+    def test_scans_rebuilds_and_updates_string_pointers(self):
+        source = _make_bin_table([("武器", 7, "説明"), ("ASCII", 9, "")])
+        table = bintable.parse(source)
+        spans = bintable.scan(table, {0: "name", 2: "description"})
+        self.assertEqual([span.original for span in spans], ["武器", "説明"])
+        self.assertIn("Row: 0", spans[0].context)
+        rendered = bintable.render(
+            table,
+            spans,
+            {spans[0].ordinal: "测试", spans[1].ordinal: "新说明"},
+        )
+        rebuilt = bintable.replace(
+            table,
+            rendered,
+            {"测": "亜", "试": "唖", "说": "娃", "明": "阿"},
+        )
+        parsed = bintable.parse(rebuilt)
+        self.assertEqual(parsed.strings[0].original, "亜唖")
+        self.assertEqual(parsed.strings[1].original, "新娃阿")
+        self.assertNotEqual(rebuilt, source)
+
+    def test_noop_is_byte_identical(self):
+        source = _make_bin_table([("武器", 7, "説明")])
+        table = bintable.parse(source)
+        spans = bintable.scan(table, {0: "name", 2: "description"})
+        self.assertEqual(bintable.replace(table, bintable.render(table, spans, {})), source)
+
+    def test_preserves_real_and_escaped_newlines(self):
+        source = _make_bin_table([("武器", 7, "説明")])
+        table = bintable.parse(source)
+        spans = bintable.scan(table, {0: "name", 2: "description"})
+        rendered = bintable.render(
+            table,
+            spans,
+            {spans[0].ordinal: "第一行\n第二行", spans[1].ordinal: r"第一行\n第二行"},
+        )
+        self.assertEqual(rendered[0], "第一行\n第二行")
+        self.assertEqual(rendered[1], r"第一行\n第二行")
+
+    def test_rejects_non_contiguous_string_pool(self):
+        source = bytearray(_make_bin_table([("武器", 7, "説明")]))
+        source.insert(-1, 0)
+        with self.assertRaisesRegex(bintable.BinTableError, "unexpected data"):
+            bintable.parse(bytes(source))
 
 
 class EncodingAndFontTests(unittest.TestCase):

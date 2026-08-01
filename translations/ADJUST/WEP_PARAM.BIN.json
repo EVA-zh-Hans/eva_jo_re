@@ -1,0 +1,764 @@
+[
+  {
+    "key": "e_ba388434f3_0001_cfdf1c6b3c",
+    "original": "すで",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 0\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0004_914327238c",
+    "original": "模擬パレットライフル",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 1\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0005_b4d8e47f15",
+    "original": "模擬パレットライフル　　%s\n <03>攻撃力　：<//>100  　　<03>会心率　：<//>10％\n <03>貫通力　：<//>200  　　<03>装填数　：<//>30\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>150",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 1\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0006_c615f74c5f",
+    "original": " <03>移動射撃：<//>可能　   <03>耐久度：<//>Ｃ\nエヴァのもっとも基本的な射撃武器\n演習用で実戦には向かない",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 1\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0007_4a2464f752",
+    "original": "パレットライフル",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 2\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0008_e460345126",
+    "original": "パレットライフル　　　　%s\n <03>攻撃力　：<//>200  　　<03>会心率　：<//>10％\n <03>貫通力　：<//>400  　　<03>装填数　：<//>50\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>150",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 2\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0009_18f822ccc9",
+    "original": " <03>移動射撃：<//>可能　   <03>耐久度：<//>Ｃ\nエヴァのもっとも基本的な射撃武器\n連射性能に優れ、軽量",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 2\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0010_08a999f26b",
+    "original": "強化パレットライフル",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 3\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0011_2b353ca4c1",
+    "original": "強化パレットライフル　　%s\n <03>攻撃力　：<//>400  　　<03>会心率　：<//>15％\n <03>貫通力　：<//>600  　　<03>装填数　：<//>50\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>150",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 3\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0012_41a38b5fc5",
+    "original": " <03>移動射撃：<//>可能　   <03>耐久度：<//>Ｃ\nエヴァのもっとも基本的な射撃武器\nその最終形態\nバランスに優れたオールラウンド兵器",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 3\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0013_25ba023d03",
+    "original": "回転式速射砲",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 4\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0014_df8f57f6c9",
+    "original": "回転式速射砲　　　　　　%s\n <03>攻撃力　：<//>400  　　<03>会心率　：<//>10％\n <03>貫通力　：<//>100  　　<03>装填数　：<//>70\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>140",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 4\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0015_bff610cfa1",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｃ\nいわゆるガトリングガン\n重いが、弾体重量、すなわち威力は充分",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 4\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0016_be4a24ce34",
+    "original": "ガトリングガン",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 5\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0017_731b3a99ea",
+    "original": "ガトリングガン　　　　　%s\n <03>攻撃力　：<//>600  　　<03>会心率　：<//>10％\n <03>貫通力　：<//>200  　　<03>装填数　：<//>70\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>140",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 5\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0018_87ff375c3b",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｃ\n回転式速射砲を改造したもの\n重いが、威力は充分で、連射も早い",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 5\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0019_97582baa03",
+    "original": "ボルケーノ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 6\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0020_358089f8e1",
+    "original": "ボルケーノ　　　　　　　%s\n <03>攻撃力　：<//>800  　　<03>会心率　：<//>15％\n <03>貫通力　：<//>400  　　<03>装填数　：<//>70\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>140",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 6\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0021_82d32e4881",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｃ\n火山の噴火を思わせる威力を持つ\n新型回転式速射砲",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 6\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0022_514f1aa8d8",
+    "original": "演習ナイフ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 7\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0023_b23eb1ddb1",
+    "original": "エヴァの基本装備の武器（販売不可）",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 7\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0024_54da391991",
+    "original": "エヴァのもっとも基本的な格闘武器\n演習用で実戦には向かない",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 7\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0025_13ba832c54",
+    "original": "プログレッシブナイフ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 8\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0026_c8b01598ab",
+    "original": "プログレッシブナイフ　　%s\n <03>攻撃力　：<//>480  　　<03>会心率　：<//>10％\n <03>貫通力　：<//>720  　　<03>耐久度　：<//>Ｓ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 8\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0027_9f3b3cac39",
+    "original": "エヴァのもっとも基本的な格闘武器",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 8\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0028_c7105a3986",
+    "original": "ヒートナイフ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 9\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0029_58e3d2b17e",
+    "original": "ヒートナイフ　　　　　　%s\n <03>攻撃力　：<//>600  　　<03>会心率　：<//>10％\n <03>貫通力　：<//>720  　　<03>耐久度　：<//>Ｓ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 9\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0030_042babada9",
+    "original": "エヴァのもっとも基本的な格闘武器\nこれまでの戦闘結果をもとに強化が\n図られており、より強力になっている",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 9\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0031_b54e26c31b",
+    "original": "実験実体剣",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 10\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0032_53d6d8e9cc",
+    "original": "実験実体剣　　　　　　　%s\n <03>攻撃力　：<//>560  　　<03>会心率　：<//>20％\n <03>貫通力　：<//>460  　　<03>耐久度　：<//>Ａ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 10\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0033_411d349611",
+    "original": "エヴァ用に開発されつつある剣\n大きな一体金属を作れていない関係で\n残念ながら未だ完璧から程遠いが、\n大きな可能性を感じさせる",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 10\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0034_243506b3a6",
+    "original": "マゴロクソード",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 11\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0035_e5c8e573fe",
+    "original": "マゴロクソード　　　　　%s\n <03>攻撃力　：<//>700  　　<03>会心率　：<//>20％\n <03>貫通力　：<//>460  　　<03>耐久度　：<//>Ａ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 11\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0036_e83770c32d",
+    "original": "エヴァ用に開発された剣\nＡ．Ｔ．フィールドを破るのには\n向いていないが、威力は高い",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 11\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0037_9e79663a36",
+    "original": "真攻孫六剣",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 12\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0038_0215213f72",
+    "original": "真攻孫六剣　　　　　　　%s\n <03>攻撃力　：<//>840  　　<03>会心率　：<//>20％\n <03>貫通力　：<//>460  　　<03>耐久度　：<//>Ａ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 12\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0039_11f7d72194",
+    "original": "エヴァ用に開発された究極の剣",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 12\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0040_b49eeccb9b",
+    "original": "試作エヴァ用拳銃",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 13\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0041_bc1d27fc3e",
+    "original": "試作エヴァ用拳銃　　　　%s\n <03>攻撃力　：<//>240  　　<03>会心率　：<//>5％\n <03>貫通力　：<//>80   　　<03>装填数　：<//>5\n <03>有効射程：<//>320ｍ  　<03>最大弾数：<//>40",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 13\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0042_e03a5ecb22",
+    "original": " <03>移動射撃：<//>可能　   <03>耐久度：<//>Ｃ\nエヴァ用の軽量射撃武器",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 13\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0043_05cfff6435",
+    "original": "ハンドガン",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 14\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0044_c4da81a7b6",
+    "original": "ハンドガン　　　　　　　%s\n <03>攻撃力　：<//>480  　　<03>会心率　：<//>5％\n <03>貫通力　：<//>160  　　<03>装填数　：<//>3\n <03>有効射程：<//>300ｍ  　<03>最大弾数：<//>30",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 14\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0045_f77a6710a8",
+    "original": " <03>移動射撃：<//>可能　   <03>耐久度：<//>Ｃ\nエヴァ用の軽量射撃武器\n威力は大幅に増加している",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 14\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0046_7ff20d4e22",
+    "original": "カンプピストル",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 15\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0047_25b42570c1",
+    "original": "カンプピストル　　　　　%s\n <03>攻撃力　：<//>960  　　<03>会心率　：<//>10％\n <03>貫通力　：<//>240  　　<03>装填数　：<//>12\n <03>有効射程：<//>300ｍ  　<03>最大弾数：<//>24",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 15\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0048_7313308169",
+    "original": " <03>移動射撃：<//>可能　   <03>耐久度：<//>Ｃ\nエヴァ用の軽量射撃武器\n命中率は悪いものの、威力は目を\n見張るものがある",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 15\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0049_453dd9b052",
+    "original": "試作陽電子砲",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 16\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0050_458b5e1bae",
+    "original": "試作陽電子砲　　　　　　%s\n <03>攻撃力　：<//>400  　　<03>会心率　：<//>10％\n <03>貫通力　：<//>320  　　<03>装填数　：<//>15\n <03>有効射程：<//>400ｍ  　<03>最大弾数：<//>25",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 16\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0051_d08b42deb6",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｃ\nエヴァの装備兵器の決定版として\n開発が急がれている射撃武器",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 16\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0052_113d1e7879",
+    "original": "ポジトロンライフル",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 17\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0053_afd68c35e1",
+    "original": "ポジトロンライフル　　　%s\n <03>攻撃力　：<//>600  　　<03>会心率　：<//>10％\n <03>貫通力　：<//>480  　　<03>装填数　：<//>15\n <03>有効射程：<//>600ｍ  　<03>最大弾数：<//>25",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 17\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0054_11949a2282",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｃ\nエヴァの装備兵器の決定版\nバランスがいい",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 17\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0055_6f02f08950",
+    "original": "大容量陽電子砲",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 18\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0056_fc875c717f",
+    "original": "大容量陽電子砲　　　　　%s\n <03>攻撃力　：<//>800  　　<03>会心率　：<//>15％\n <03>貫通力　：<//>640  　　<03>装填数　：<//>3\n <03>有効射程：<//>700ｍ  　<03>最大弾数：<//>20",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 18\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0057_935e0c9735",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｃ\nエヴァの装備兵器の決定版\nもはや死角なし",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 18\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0058_6450ee28bc",
+    "original": "試作携行型無反動砲",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 19\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0059_04744db670",
+    "original": "試作携行型無反動砲　　　%s\n <03>攻撃力　：<//>240  　　<03>会心率　：<//>15％\n <03>貫通力　：<//>600  　　<03>装填数　：<//>3\n <03>有効射程：<//>300ｍ  　<03>最大弾数：<//>16",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 19\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0060_112745300a",
+    "original": " <03>移動射撃：<//>可能　   <03>耐久度：<//>Ｃ\n大型弾を運用するためのロケット砲\n射程は短いが、威力は期待できる",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 19\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0061_d8cc57021d",
+    "original": "ハンドバズーカ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 20\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0062_8eb49354f4",
+    "original": "ハンドバズーカ　　　　　%s\n <03>攻撃力　：<//>480  　　<03>会心率　：<//>15％\n <03>貫通力　：<//>600  　　<03>装填数　：<//>3\n <03>有効射程：<//>400ｍ  　<03>最大弾数：<//>16",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 20\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0063_eed6ba95b8",
+    "original": " <03>移動射撃：<//>可能　   <03>耐久度：<//>Ｃ\n大型弾を運用するためのロケット砲\n射程は改良され、誘導型になった",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 20\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0064_8536d6ebb9",
+    "original": "Ｎ２ハンドバズーカ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 21\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0065_a41483353c",
+    "original": "Ｎ２ハンドバズーカ　　　%s\n <03>攻撃力　：<//>720  　　<03>会心率　：<//>15％\n <03>貫通力　：<//>600  　　<03>装填数　：<//>1\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>16",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 21\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0066_749a8cb312",
+    "original": " <03>移動射撃：<//>可能　   <03>耐久度：<//>Ｃ\n大型弾を運用するためのロケット砲\n強力な武器、誘導性能もある",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 21\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0067_76a1810964",
+    "original": "試作無反動砲",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 22\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0068_913a17e3c8",
+    "original": "試作無反動砲　　　　　　%s\n <03>攻撃力　：<//>1200 　　<03>会心率　：<//>20％\n <03>貫通力　：<//>800  　　<03>装填数　：<//>1\n <03>有効射程：<//>300ｍ  　<03>最大弾数：<//>8",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 22\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0069_35b8451cc4",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｃ\n強力無比な大型弾発射機",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 22\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0070_b3ab601bff",
+    "original": "バズーカ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 23\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0071_cdd7fe920c",
+    "original": "バズーカ　　　　　　　　%s\n <03>攻撃力　：<//>1400 　　<03>会心率　：<//>20％\n <03>貫通力　：<//>800  　　<03>装填数　：<//>1\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>8",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 23\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0072_cfb3eadefb",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｃ\n強力無比な大型弾発射機\n改良され、誘導型になった\n連射は出来ない",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 23\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0073_fa8496bdd0",
+    "original": "Ｎ２バズーカ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 24\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0074_07fe7aba4d",
+    "original": "Ｎ２バズーカ　　　　　　%s\n <03>攻撃力　：<//>1600 　　<03>会心率　：<//>25％\n <03>貫通力　：<//>800  　　<03>装填数　：<//>1\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>8",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 24\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0075_b00d1908cc",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｃ\n強力無比な大型弾発射機\n連射は出来ないが、誘導性能がある",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 24\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0076_c3e615a51a",
+    "original": "試作狙撃銃",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 25\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0077_83ff865c53",
+    "original": "試作狙撃銃　　　　　　　%s\n <03>攻撃力　：<//>200  　　<03>会心率　：<//>25％\n <03>貫通力　：<//>400  　　<03>装填数　：<//>5\n <03>有効射程：<//>1000ｍ 　<03>最大弾数：<//>20",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 25\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0078_bae1155599",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｃ\n遠距離砲戦を意識して作られた射撃武器",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 25\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0079_ffaec9d090",
+    "original": "スナイパーライフル",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 26\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0080_30103c68e7",
+    "original": "スナイパーライフル　　　%s\n <03>攻撃力　：<//>400  　　<03>会心率　：<//>25％\n <03>貫通力　：<//>500  　　<03>装填数　：<//>5\n <03>有効射程：<//>1000ｍ 　<03>最大弾数：<//>25",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 26\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0081_f391746d73",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｃ\n遠距離砲戦を意識して作られた射撃武器\n威力、貫通力共に高められている",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 26\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0082_85b1d8bc68",
+    "original": "陽電子狙撃銃",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 27\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0083_77cbdf7930",
+    "original": "陽電子狙撃銃　　　　　　%s\n <03>攻撃力　：<//>600  　　<03>会心率　：<//>25％\n <03>貫通力　：<//>600  　　<03>装填数　：<//>6\n <03>有効射程：<//>1100ｍ 　<03>最大弾数：<//>30",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 27\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0084_472cdb6fbd",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｃ\n遠距離砲戦を意識して作られた射撃武器\nさらに威力は増し、射程も延びている",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 27\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0085_0383783b59",
+    "original": "グレイヴ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 28\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0086_9bcb9741d9",
+    "original": "グレイヴ　　　　　　　　%s\n <03>攻撃力　：<//>330  　　<03>会心率　：<//>5％\n <03>貫通力　：<//>1100 　　<03>耐久度　：<//>Ｄ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 28\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0087_e3d6a2a6c4",
+    "original": "貫通力に優れた格闘武器\n耐久性が低いのが問題",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 28\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0088_041a40b7b2",
+    "original": "ソニックグレイヴ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 29\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0089_83ac289ac7",
+    "original": "ソニックグレイヴ　　　　%s\n <03>攻撃力　：<//>330  　　<03>会心率　：<//>5％\n <03>貫通力　：<//>1320 　　<03>耐久度　：<//>Ｄ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 29\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0090_26a39bc642",
+    "original": "貫通力に大変優れた格闘武器\n耐久性が低いのが問題",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 29\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0091_07d03b3b5e",
+    "original": "ハイパーソニックＧ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 30\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0092_78240fc236",
+    "original": "ハイパーソニックＧ　　　%s\n <03>攻撃力　：<//>330  　　<03>会心率　：<//>5％\n <03>貫通力　：<//>1540 　　<03>耐久度　：<//>Ｄ　",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 30\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0093_19193e661c",
+    "original": "Ａ．Ｔ．フィールド破断を\n目的に作られた格闘武器\n耐久性が低いのが問題",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 30\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0094_2828826489",
+    "original": "トマホーク",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 31\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0095_3b109e40ba",
+    "original": "トマホーク　　　　　　　%s\n <03>攻撃力　：<//>300  　　<03>会心率　：<//>30％\n <03>貫通力　：<//>600  　　<03>耐久度　：<//>Ｂ　",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 31\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0096_42670b7cac",
+    "original": "比較的安価な格闘武器",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 31\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0097_625690b2ff",
+    "original": "スマッシュホーク",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 32\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0098_9ec4436e57",
+    "original": "スマッシュホーク　　　　%s\n <03>攻撃力　：<//>420  　　<03>会心率　：<//>30％\n <03>貫通力　：<//>600  　　<03>耐久度　：<//>Ｂ　　",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 32\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0099_1a3a8aca13",
+    "original": "比較的安価な格闘武器\n安いながらもバランスに優れる",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 32\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0100_8cfc0afca7",
+    "original": "フランチェスカ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 33\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0101_ff9931ec37",
+    "original": "フランチェスカ　　　　　%s\n <03>攻撃力　：<//>600  　　<03>会心率　：<//>30％\n <03>貫通力　：<//>720  　　<03>耐久度　：<//>Ｂ　",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 33\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0102_1ed3063c03",
+    "original": "比較的安価な格闘武器\n攻撃力をさらに強化",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 33\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0103_d620689b99",
+    "original": "ノコギリ型兵器",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 34\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0104_339807308b",
+    "original": "ノコギリ型兵器　　　　　%s\n <03>攻撃力　：<//>1050 　　<03>会心率　：<//>20％\n <03>貫通力　：<//>900  　　<03>耐久度　：<//>Ｄ　　",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 34\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0105_a05a1e199a",
+    "original": "威力を増すために工夫された格闘武器",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 34\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0106_4b2276ad82",
+    "original": "デュアルソー",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 35\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0107_e9a425bad6",
+    "original": "デュアルソー　　　　　　%s\n <03>攻撃力　：<//>1200 　　<03>会心率　：<//>20％\n <03>貫通力　：<//>1050 　　<03>耐久度　：<//>Ｄ　",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 35\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0108_6360ddc9ff",
+    "original": "威力を増すために工夫された格闘武器\n独特な形状をしている",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 35\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0109_92a48bc7a3",
+    "original": "ニューデュアルソー",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 36\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0110_6d19ca6309",
+    "original": "ニューデュアルソー　　　%s\n <03>攻撃力　：<//>1350 　　<03>会心率　：<//>20％\n <03>貫通力　：<//>1200 　　<03>耐久度　：<//>Ｄ　",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 36\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0111_b15b076d9f",
+    "original": "ノコギリの原理で小金属によって\n切断力を発揮する格闘武器",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 36\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0112_4a75eed45e",
+    "original": "カウンターソード",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 37\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0113_301a7f9bb3",
+    "original": "カウンターソード　　　　%s\n <03>攻撃力　：<//>100  　　<03>会心率　：<//>10％\n <03>貫通力　：<//>200  　　<03>装填数　：<//>20\n <03>有効射程：<//>300ｍ  　<03>最大弾数：<//>120",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 37\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0114_332dfc702e",
+    "original": " <03>移動射撃：<//>可能　   <03>耐久度：<//>Ａ\n格闘攻撃と射撃攻撃双方が出来る\nメインは格闘攻撃で射撃攻撃はオマケ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 37\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0115_013bbab5b3",
+    "original": "カウンターバスター",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 38\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0116_0fe375d38e",
+    "original": "カウンターバスター　　　%s\n <03>攻撃力　：<//>100  　　<03>会心率　：<//>10％\n <03>貫通力　：<//>300  　　<03>装填数　：<//>40\n <03>有効射程：<//>400ｍ  　<03>最大弾数：<//>240",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 38\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0117_1b70b7aae2",
+    "original": " <03>移動射撃：<//>可能　   <03>耐久度：<//>Ａ\n格闘攻撃と射撃攻撃双方が出来る\nメインは格闘攻撃で射撃攻撃はオマケ\n射撃性能を主に向上させている",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 38\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0118_f4009a6ed1",
+    "original": "カウンターブレード",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 39\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0119_95f125d7b3",
+    "original": "カウンターブレード　　　%s\n <03>攻撃力　：<//>100  　　<03>会心率　：<//>10％\n <03>貫通力　：<//>400  　　<03>装填数　：<//>80\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>320",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 39\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0120_71c62415e3",
+    "original": " <03>移動射撃：<//>可能　   <03>耐久度：<//>Ａ\n格闘攻撃と射撃攻撃双方が出来る\n万能兵器",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 39\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0121_701577225e",
+    "original": "マステマ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 40\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0122_20b69f4efa",
+    "original": "マステマ　　　　　　　　%s\n <03>攻撃力　：<//>2000 　　<03>会心率　：<//>15％\n <03>貫通力　：<//>350  　　<03>装填数　：<//>12\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>12",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 40\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0123_1a6fbdd594",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｂ\n究極の武器\n重量も最大\n格闘攻撃と射撃攻撃双方が出来る",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 40\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0124_55062ddb61",
+    "original": "ウルティマ",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 41\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0125_fa16ce5a35",
+    "original": "ウルティマ　　　　　　　%s\n <03>攻撃力　：<//>2000 　　<03>会心率　：<//>15％\n <03>貫通力　：<//>700  　　<03>装填数　：<//>12\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>24",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 41\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0126_600cbd7b67",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｂ\n究極の武器\n格闘攻撃と射撃攻撃双方が出来る",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 41\nField: description (column 5)"
+  },
+  {
+    "key": "e_ba388434f3_0127_9a194144b6",
+    "original": "究極",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 42\nField: weapon name (column 0)"
+  },
+  {
+    "key": "e_ba388434f3_0128_4b888273ce",
+    "original": "究極　　　　　　　　　　%s\n <03>攻撃力　：<//>2000 　　<03>会心率　：<//>15％\n <03>貫通力　：<//>1050 　　<03>装填数　：<//>12\n <03>有効射程：<//>500ｍ  　<03>最大弾数：<//>48",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 42\nField: formatted attributes (column 4)"
+  },
+  {
+    "key": "e_ba388434f3_0129_e583c7bff3",
+    "original": " <03>移動射撃：<//>不可　   <03>耐久度：<//>Ｂ\n究極の究極\n扱いもきわめて難しくなっている\n格闘攻撃と射撃攻撃双方が出来る",
+    "translation": "",
+    "context": "File: ADJUST/WEP_PARAM.BIN\nRow: 42\nField: description (column 5)"
+  }
+]

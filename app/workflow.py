@@ -9,7 +9,7 @@ from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path, PurePosixPath
 
-from . import font, iso, nut, paratranz, xml
+from . import bintable, font, iso, nut, paratranz, xml
 from .encoding import DecodedText, decode
 from .pkg import Archive, Entry, replace_entries
 
@@ -30,6 +30,37 @@ class _TextFile:
     @property
     def changed(self) -> bool:
         return self.rendered != self.decoded.text
+
+
+@dataclass
+class _BinaryFile:
+    entry: Entry
+    table: bintable.Table
+    spans: list[bintable.TextSpan]
+    items: list[paratranz.SourceItem]
+    rendered: tuple[str, ...]
+    translations: dict[int, str]
+
+    @property
+    def changed(self) -> bool:
+        return any(
+            text != field.original
+            for field, text in zip(self.table.strings, self.rendered, strict=True)
+        )
+
+
+_BINARY_TEXT_FIELDS: dict[PurePosixPath, dict[int, str]] = {
+    PurePosixPath("ADJUST/WEP_PARAM.BIN"): {
+        0: "weapon name",
+        4: "formatted attributes",
+        5: "description",
+    },
+    PurePosixPath("ADJUST/EVA_SKILL_PRICE.BIN"): {
+        0: "skill name",
+        1: "description",
+    },
+    PurePosixPath("EVENT/MISSION_FORMAT.BIN"): {0: "mission name"},
+}
 
 
 def export_translations(
@@ -63,6 +94,21 @@ def export_translations(
             obsolete.extend(
                 {"path": entry.path.as_posix(), **item} for item in result.obsolete
             )
+        for path, field_labels in _BINARY_TEXT_FIELDS.items():
+            entry = archive.get(path)
+            table = bintable.parse(archive.read(entry))
+            spans = bintable.scan(table, field_labels)
+            items = _source_items(spans)
+            counts["BIN files"] += 1
+            counts["cp932 files"] += 1
+            result = paratranz.merge_file(translations_dir, entry.path, items)
+            counts["translation files"] += 1
+            counts["translation entries"] += result.total
+            counts["preserved entries"] += result.preserved
+            counts["new entries"] += result.added
+            obsolete.extend(
+                {"path": entry.path.as_posix(), **item} for item in result.obsolete
+            )
     report = {
         "source_iso": str(source_iso),
         "source_iso_sha256": _sha256(source_iso),
@@ -83,15 +129,22 @@ def check_translations(
 ) -> dict:
     pkg_path = _ensure_neva(source_iso, work_dir)
     files, errors = _load_text_files(pkg_path, translations_dir)
-    expected = {paratranz.json_path(translations_dir, item.entry.path) for item in files if item.spans}
+    binary_files, binary_errors = _load_binary_files(pkg_path, translations_dir)
+    errors.extend(binary_errors)
+    all_files = [*files, *binary_files]
+    expected = {
+        paratranz.json_path(translations_dir, item.entry.path)
+        for item in all_files
+        if item.spans
+    }
     actual = set(translations_dir.rglob("*.json")) if translations_dir.exists() else set()
     for unexpected in sorted(actual - expected):
         errors.append(f"Unexpected translation file: {unexpected}")
-    translated = sum(len(item.translations) for item in files)
+    translated = sum(len(item.translations) for item in all_files)
     report = {
         "ok": not errors,
-        "files": len([item for item in files if item.spans]),
-        "entries": sum(len(item.spans) for item in files),
+        "files": len([item for item in all_files if item.spans]),
+        "entries": sum(len(item.spans) for item in all_files),
         "translated_entries": translated,
         "errors": errors,
     }
@@ -111,6 +164,8 @@ def build_image(
     work_dir = source_iso.parent / "cache" / source_iso.stem
     pkg_path = _ensure_neva(source_iso, work_dir)
     files, errors = _load_text_files(pkg_path, translations_dir)
+    binary_files, binary_errors = _load_binary_files(pkg_path, translations_dir)
+    errors.extend(binary_errors)
     if errors:
         report = {"ok": False, "errors": errors}
         _write_json(build_dir / "reports" / "build.json", report)
@@ -125,9 +180,20 @@ def build_image(
     # text. A CP932 character in rendered translations must keep its original
     # JIS2UCS entry instead of being reused as a substitution slot.
     reserved = set().union(
-        *(set(item.decoded.text) | set(item.rendered) for item in files)
+        *(set(item.decoded.text) | set(item.rendered) for item in files),
+        *(
+            set(field.original) | set(rendered)
+            for item in binary_files
+            for field, rendered in zip(item.table.strings, item.rendered, strict=True)
+        ),
     )
     cp932_outputs = [item.rendered for item in files if item.changed and item.decoded.encoding == "cp932"]
+    cp932_outputs.extend(
+        rendered
+        for item in binary_files
+        if item.changed
+        for rendered in item.rendered
+    )
     required = font.required_substitutions(cp932_outputs)
     with Archive(pkg_path) as archive:
         original_table = archive.read("FONT/JIS2UCS.BIN")
@@ -144,6 +210,13 @@ def build_image(
             continue
         substitutions = plan.substitutions if item.decoded.encoding == "cp932" else None
         replacements[item.entry.path] = item.decoded.with_text(item.rendered).encode(substitutions)
+        changed_paths.append(item.entry.path.as_posix())
+    for item in binary_files:
+        if not item.changed:
+            continue
+        replacements[item.entry.path] = bintable.replace(
+            item.table, item.rendered, plan.substitutions
+        )
         changed_paths.append(item.entry.path.as_posix())
     if plan.mappings:
         replacements[PurePosixPath("FONT/JIS2UCS.BIN")] = plan.table
@@ -255,6 +328,32 @@ def _load_text_files(pkg_path: Path, translations_dir: Path) -> tuple[list[_Text
                     errors.extend(item_errors)
             rendered = _replace(entry.path, decoded.text, spans, translations)
             files.append(_TextFile(entry, decoded, spans, items, rendered, translations))
+    return files, errors
+
+
+def _load_binary_files(
+    pkg_path: Path, translations_dir: Path
+) -> tuple[list[_BinaryFile], list[str]]:
+    files: list[_BinaryFile] = []
+    errors: list[str] = []
+    with Archive(pkg_path) as archive:
+        for path, field_labels in _BINARY_TEXT_FIELDS.items():
+            entry = archive.get(path)
+            table = bintable.parse(archive.read(entry))
+            spans = bintable.scan(table, field_labels)
+            items = _source_items(spans)
+            translations: dict[int, str] = {}
+            if spans:
+                json_file = paratranz.json_path(translations_dir, entry.path)
+                if not json_file.exists():
+                    errors.append(f"Missing translation file: {json_file}")
+                else:
+                    translations, item_errors = paratranz.translations_for(
+                        translations_dir, entry.path, items
+                    )
+                    errors.extend(item_errors)
+            rendered = bintable.render(table, spans, translations)
+            files.append(_BinaryFile(entry, table, spans, items, rendered, translations))
     return files, errors
 
 

@@ -11,7 +11,10 @@ from pathlib import Path, PurePosixPath
 from typing import Iterable
 
 
-CONTROL = re.compile(r"\\[nrt]|\$[A-Za-z][A-Za-z0-9_]*|<[^>]+>|[▽△]")
+CONTROL = re.compile(
+    r"\\[nrt]|\$[A-Za-z][A-Za-z0-9_]*|<[^>]+>|[▽△]|"
+    r"%(?:\d+\$)?[-+0 #]*(?:\d+|\*)?(?:\.(?:\d+|\*))?[hlLjzt]*[A-Za-z%]"
+)
 LAYOUT_CONTROLS = {r"\n", r"\r", r"\t"}
 
 
