@@ -9,7 +9,7 @@ from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path, PurePosixPath
 
-from . import bintable, font, iso, nut, paratranz, xml
+from . import bintable, eboot_patch, font, iso, nut, paratranz, xml
 from .encoding import DecodedText, decode
 from .pkg import Archive, Entry, replace_entries
 
@@ -61,6 +61,8 @@ _BINARY_TEXT_FIELDS: dict[PurePosixPath, dict[int, str]] = {
     },
     PurePosixPath("EVENT/MISSION_FORMAT.BIN"): {0: "mission name"},
 }
+_EBOOT_TRANSLATION_PATH = PurePosixPath("EBOOT.BIN")
+_EBOOT_OVERLAY_PATH = Path("PSP_GAME/SYSDIR/BOOT.BIN")
 
 
 def export_translations(
@@ -123,6 +125,7 @@ def export_translations(
 
 def check_translations(
     source_iso: Path,
+    source_eboot: Path,
     translations_dir: Path,
     work_dir: Path,
     report_path: Path,
@@ -137,15 +140,26 @@ def check_translations(
         for item in all_files
         if item.spans
     }
+    eboot_entries: tuple[eboot_patch.Entry, ...] = ()
+    eboot_json = paratranz.json_path(translations_dir, _EBOOT_TRANSLATION_PATH)
+    if eboot_json.exists():
+        expected.add(eboot_json)
+        try:
+            eboot_entries = eboot_patch.load(
+                source_eboot.read_bytes(), eboot_json
+            ).entries
+        except (OSError, ValueError) as exc:
+            errors.append(f"Invalid EBOOT translations: {exc}")
     actual = set(translations_dir.rglob("*.json")) if translations_dir.exists() else set()
     for unexpected in sorted(actual - expected):
         errors.append(f"Unexpected translation file: {unexpected}")
-    translated = sum(len(item.translations) for item in all_files)
+    translated = sum(len(item.translations) for item in all_files) + len(eboot_entries)
     report = {
         "ok": not errors,
-        "files": len([item for item in all_files if item.spans]),
-        "entries": sum(len(item.spans) for item in all_files),
+        "files": len([item for item in all_files if item.spans]) + bool(eboot_entries),
+        "entries": sum(len(item.spans) for item in all_files) + len(eboot_entries),
         "translated_entries": translated,
+        "eboot_entries": len(eboot_entries),
         "errors": errors,
     }
     _write_json(report_path, report)
@@ -166,6 +180,14 @@ def build_image(
     files, errors = _load_text_files(pkg_path, translations_dir)
     binary_files, binary_errors = _load_binary_files(pkg_path, translations_dir)
     errors.extend(binary_errors)
+    eboot_json = paratranz.json_path(translations_dir, _EBOOT_TRANSLATION_PATH)
+    eboot_source = overrides_dir / _EBOOT_OVERLAY_PATH
+    eboot_patches: eboot_patch.PatchSet | None = None
+    if eboot_json.exists():
+        try:
+            eboot_patches = eboot_patch.load(eboot_source.read_bytes(), eboot_json)
+        except (OSError, ValueError) as exc:
+            errors.append(f"Invalid EBOOT translations: {exc}")
     if errors:
         report = {"ok": False, "errors": errors}
         _write_json(build_dir / "reports" / "build.json", report)
@@ -187,6 +209,9 @@ def build_image(
             for field, rendered in zip(item.table.strings, item.rendered, strict=True)
         ),
     )
+    if eboot_patches:
+        reserved.update("".join(eboot_patches.original_texts))
+        reserved.update("".join(eboot_patches.translated_texts))
     cp932_outputs = [item.rendered for item in files if item.changed and item.decoded.encoding == "cp932"]
     cp932_outputs.extend(
         rendered
@@ -194,6 +219,8 @@ def build_image(
         if item.changed
         for rendered in item.rendered
     )
+    if eboot_patches:
+        cp932_outputs.extend(eboot_patches.translated_texts)
     required = font.required_substitutions(cp932_outputs)
     with Archive(pkg_path) as archive:
         original_table = archive.read("FONT/JIS2UCS.BIN")
@@ -229,6 +256,11 @@ def build_image(
     overlay.mkdir(parents=True)
     if overrides_dir.exists():
         shutil.copytree(overrides_dir, overlay, dirs_exist_ok=True)
+    if eboot_patches:
+        patched_eboot = overlay / _EBOOT_OVERLAY_PATH
+        patched_eboot.write_bytes(
+            eboot_patch.replace(eboot_patches, plan.substitutions)
+        )
     pkg_overlay = overlay / "PSP_GAME" / "USRDIR" / "NEVA.PKG"
     pkg_overlay.parent.mkdir(parents=True, exist_ok=True)
     shutil.copyfile(output_pkg, pkg_overlay)
@@ -252,6 +284,7 @@ def build_image(
         "image_strategy": image_strategy,
         "changed_text_files": changed_paths,
         "changed_text_count": len(changed_paths),
+        "changed_eboot_strings": len(eboot_patches.entries) if eboot_patches else 0,
         "font_mapping_count": len(plan.mappings),
     }
     _write_json(reports / "build.json", report)
@@ -295,11 +328,26 @@ def verify_image(
                     changed.append(new.path.as_posix())
                     if new.path not in allowed:
                         errors.append(f"Unexpected modified PKG entry: {new.path}")
+        eboot_entries: tuple[eboot_patch.Entry, ...] = ()
+        eboot_json = paratranz.json_path(translations_dir, _EBOOT_TRANSLATION_PATH)
+        if eboot_json.exists():
+            try:
+                eboot_entries = eboot_patch.load_entries(eboot_json)
+                patched_eboot = temporary / "BOOT.BIN"
+                iso.extract_file(
+                    patched_iso, "/PSP_GAME/SYSDIR/BOOT.BIN", patched_eboot
+                )
+                errors.extend(
+                    eboot_patch.verify_patched(patched_eboot.read_bytes(), eboot_entries)
+                )
+            except (OSError, ValueError) as exc:
+                errors.append(f"Cannot verify EBOOT translations: {exc}")
     report = {
         "ok": not errors,
         "source_iso_sha256": _sha256(source_iso),
         "patched_iso_sha256": _sha256(patched_iso),
         "changed_pkg_entries": changed,
+        "patched_eboot_entries": len(eboot_entries),
         "errors": errors,
     }
     _write_json(report_path, report)

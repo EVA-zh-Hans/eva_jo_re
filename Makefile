@@ -14,6 +14,7 @@ PLUGIN_EBOOT := $(PLUGIN_BUILD)/EBOOT.BIN
 PLUGIN_PRX   := $(PLUGIN_BUILD)/EVAJORT.PRX
 PLUGIN_FONT  := $(PLUGIN_DIR)/fonts.pgf
 ORIGINAL_EBOOT := $(TEMP_DIR)/$(GAME_ID)/PSP_GAME/SYSDIR/EBOOT.BIN
+DECRYPTED_EBOOT := $(TEMP_DIR)/cache/$(GAME_ID)/EBOOT.BIN
 PSPDECRYPT   := third_party/pspdecrypt/build/pspdecrypt
 UV_CACHE_DIR ?= $(BUILD_DIR)/uv-cache
 UV_RUN       := UV_CACHE_DIR='$(UV_CACHE_DIR)' uv run python -m app
@@ -23,13 +24,17 @@ UV_RUN       := UV_CACHE_DIR='$(UV_CACHE_DIR)' uv run python -m app
 export:
 	$(UV_RUN) export --iso '$(SOURCE_ISO)' --translations '$(TRANSLATIONS)' --work-dir '$(TEMP_DIR)/cache/$(GAME_ID)' --report '$(BUILD_DIR)/reports/export.json'
 
-check:
-	$(UV_RUN) check --iso '$(SOURCE_ISO)' --translations '$(TRANSLATIONS)' --work-dir '$(TEMP_DIR)/cache/$(GAME_ID)' --report '$(BUILD_DIR)/reports/check.json'
+check: $(DECRYPTED_EBOOT)
+	$(UV_RUN) check --iso '$(SOURCE_ISO)' --eboot '$(DECRYPTED_EBOOT)' --translations '$(TRANSLATIONS)' --work-dir '$(TEMP_DIR)/cache/$(GAME_ID)' --report '$(BUILD_DIR)/reports/check.json'
+
+$(DECRYPTED_EBOOT): $(ORIGINAL_EBOOT) $(PSPDECRYPT)
+	mkdir -p '$(@D)'
+	'$(PSPDECRYPT)' -o '$@' '$<'
 
 plugin:
 	$(MAKE) -C '$(PLUGIN_DIR)' BUILD_DIR='$(PLUGIN_BUILD)'
 
-plugin-overlay: plugin
+plugin-overlay: plugin $(DECRYPTED_EBOOT)
 	@test -f '$(ORIGINAL_EBOOT)' || (echo "Original EBOOT not found: $(ORIGINAL_EBOOT)" >&2; exit 1)
 	@test -f '$(PLUGIN_FONT)' || (echo "Custom PGF not found: $(PLUGIN_FONT)" >&2; exit 1)
 	@test -x '$(PSPDECRYPT)' || (echo "pspdecrypt not executable: $(PSPDECRYPT)" >&2; exit 1)
@@ -38,7 +43,7 @@ plugin-overlay: plugin
 	@if [ -d '$(STATIC_OVERRIDES)' ]; then cp -R '$(STATIC_OVERRIDES)/.' '$(OVERRIDES)/'; fi
 	cp '$(PLUGIN_EBOOT)' '$(OVERRIDES)/PSP_GAME/SYSDIR/EBOOT.BIN'
 	cp '$(PLUGIN_PRX)' '$(OVERRIDES)/PSP_GAME/SYSDIR/EVAJORT.PRX'
-	'$(PSPDECRYPT)' -o '$(OVERRIDES)/PSP_GAME/SYSDIR/BOOT.BIN' '$(ORIGINAL_EBOOT)'
+	cp '$(DECRYPTED_EBOOT)' '$(OVERRIDES)/PSP_GAME/SYSDIR/BOOT.BIN'
 	cp '$(PLUGIN_FONT)' '$(OVERRIDES)/PSP_GAME/USRDIR/fonts.pgf'
 
 build: plugin-overlay

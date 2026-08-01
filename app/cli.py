@@ -20,6 +20,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     check = subcommands.add_parser("check", help="Validate translations against the source PKG")
     check.add_argument("--iso", type=Path, required=True)
+    check.add_argument("--eboot", type=Path, required=True)
     check.add_argument("--translations", type=Path, required=True)
     check.add_argument("--work-dir", type=Path, required=True)
     check.add_argument("--report", type=Path, required=True)
@@ -48,7 +49,7 @@ def main(argv: list[str] | None = None) -> int:
             )
         elif args.command == "check":
             result = workflow.check_translations(
-                args.iso, args.translations, args.work_dir, args.report
+                args.iso, args.eboot, args.translations, args.work_dir, args.report
             )
         elif args.command == "build":
             result = workflow.build_image(

@@ -4,7 +4,7 @@ import tempfile
 import unittest
 from pathlib import Path, PurePosixPath
 
-from app import bintable, font, nut, paratranz, xml
+from app import bintable, eboot_patch, font, nut, paratranz, xml
 from app.encoding import decode
 
 
@@ -182,6 +182,85 @@ class BinTableTests(unittest.TestCase):
         source.insert(-1, 0)
         with self.assertRaisesRegex(bintable.BinTableError, "unexpected data"):
             bintable.parse(bytes(source))
+
+
+class EbootPatchTests(unittest.TestCase):
+    def _write_entries(self, root: Path, entries: list[dict]) -> Path:
+        path = root / "EBOOT.BIN.json"
+        path.write_text(json.dumps(entries, ensure_ascii=False), encoding="utf-8")
+        return path
+
+    def test_validates_source_offset_and_replaces_in_place(self):
+        source = b"HEAD" + "予算".encode("cp932") + b"\0TAIL"
+        with tempfile.TemporaryDirectory() as directory:
+            path = self._write_entries(
+                Path(directory),
+                [
+                    {
+                        "key": "eboot_00000004",
+                        "offset": 4,
+                        "original": "予算",
+                        "translation": "预算",
+                        "context": "test",
+                    }
+                ],
+            )
+            patch_set = eboot_patch.load(source, path)
+            patched = eboot_patch.replace(patch_set, {"预": "亜"})
+            self.assertEqual(patched[4:8], "亜算".encode("cp932"))
+            self.assertEqual(len(patched), len(source))
+
+    def test_rejects_offset_that_does_not_match_source(self):
+        source = b"HEAD" + "予算".encode("cp932") + b"\0MORE"
+        with tempfile.TemporaryDirectory() as directory:
+            path = self._write_entries(
+                Path(directory),
+                [
+                    {
+                        "key": "eboot_00000005",
+                        "offset": 5,
+                        "original": "予算",
+                        "translation": "预算",
+                        "context": "test",
+                    }
+                ],
+            )
+            with self.assertRaisesRegex(eboot_patch.EbootPatchError, "does not match"):
+                eboot_patch.load(source, path)
+
+    def test_rejects_control_mismatch_and_oversized_translation(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            mismatch = self._write_entries(
+                root,
+                [
+                    {
+                        "key": "eboot_00000000",
+                        "offset": 0,
+                        "original": "武器%s",
+                        "translation": "武器",
+                        "context": "test",
+                    }
+                ],
+            )
+            with self.assertRaisesRegex(eboot_patch.EbootPatchError, "Control sequence"):
+                eboot_patch.load_entries(mismatch)
+
+            oversized = self._write_entries(
+                root,
+                [
+                    {
+                        "key": "eboot_00000000",
+                        "offset": 0,
+                        "original": "武器",
+                        "translation": "新武器",
+                        "context": "test",
+                    }
+                ],
+            )
+            patch_set = eboot_patch.load("武器\0".encode("cp932"), oversized)
+            with self.assertRaisesRegex(eboot_patch.EbootPatchError, "in-place slot"):
+                eboot_patch.replace(patch_set)
 
 
 class EncodingAndFontTests(unittest.TestCase):

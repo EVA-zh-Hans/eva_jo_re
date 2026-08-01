@@ -1,0 +1,527 @@
+[
+  {
+    "key": "eboot_002781bc",
+    "offset": "0x002781BC",
+    "original": "話題を選んで話しかける:wadai",
+    "translation": "选择话题并搭话:wadai",
+    "context": "EBOOT .rodata: conversation command"
+  },
+  {
+    "key": "eboot_00278210",
+    "offset": "0x00278210",
+    "original": "<02>エヴァに乗る<//>:@Battle",
+    "translation": "<02>驾驶EVA<//>:@Battle",
+    "context": "EBOOT .rodata: battle command"
+  },
+  {
+    "key": "eboot_00278240",
+    "offset": "0x00278240",
+    "original": "%sが話しかけてきた",
+    "translation": "%s过来搭话了",
+    "context": "EBOOT .rodata: conversation notification"
+  },
+  {
+    "key": "eboot_002782bc",
+    "offset": "0x002782BC",
+    "original": "<12>シンジ<//>のシンクロ率が<07>10％<//>上昇しました",
+    "translation": "<12>真嗣<//>的同步率<07>上升了10％<//>",
+    "context": "EBOOT .rodata: pilot status notification"
+  },
+  {
+    "key": "eboot_002782f4",
+    "offset": "0x002782F4",
+    "original": "<12>シンジ<//>のケガが回復しました",
+    "translation": "<12>真嗣<//>的伤势恢复了",
+    "context": "EBOOT .rodata: pilot status notification"
+  },
+  {
+    "key": "eboot_00278688",
+    "offset": "0x00278688",
+    "original": "使徒の出現場所",
+    "translation": "使徒的出现地点",
+    "context": "EBOOT .rodata: intelligence topic"
+  },
+  {
+    "key": "eboot_00278698",
+    "offset": "0x00278698",
+    "original": "使徒の移動方法",
+    "translation": "使徒的移动方式",
+    "context": "EBOOT .rodata: intelligence topic"
+  },
+  {
+    "key": "eboot_002786a8",
+    "offset": "0x002786A8",
+    "original": "使徒の攻撃方法",
+    "translation": "使徒的攻击方式",
+    "context": "EBOOT .rodata: intelligence topic"
+  },
+  {
+    "key": "eboot_002786b8",
+    "offset": "0x002786B8",
+    "original": "使徒の防御方法",
+    "translation": "使徒的防御方式",
+    "context": "EBOOT .rodata: intelligence topic"
+  },
+  {
+    "key": "eboot_002786c8",
+    "offset": "0x002786C8",
+    "original": "使徒のその他特徴",
+    "translation": "使徒的其他特征",
+    "context": "EBOOT .rodata: intelligence topic"
+  },
+  {
+    "key": "eboot_002786dc",
+    "offset": "0x002786DC",
+    "original": "準備した方がいい事",
+    "translation": "应该做的准备",
+    "context": "EBOOT .rodata: intelligence topic"
+  },
+  {
+    "key": "eboot_002786f0",
+    "offset": "0x002786F0",
+    "original": "準備しない方がいい事",
+    "translation": "不该做的准备",
+    "context": "EBOOT .rodata: intelligence topic"
+  },
+  {
+    "key": "eboot_00278708",
+    "offset": "0x00278708",
+    "original": "準備する必要が無い事",
+    "translation": "无需做的准备",
+    "context": "EBOOT .rodata: intelligence topic"
+  },
+  {
+    "key": "eboot_0027872c",
+    "offset": "0x0027872C",
+    "original": "特殊戦闘システム",
+    "translation": "特殊战斗系统",
+    "context": "EBOOT .rodata: intelligence topic"
+  },
+  {
+    "key": "eboot_002789d8",
+    "offset": "0x002789D8",
+    "original": "エヴァ零号機",
+    "translation": "EVA零号机",
+    "context": "EBOOT .rodata: EVA name"
+  },
+  {
+    "key": "eboot_002789e8",
+    "offset": "0x002789E8",
+    "original": "エヴァ初号機",
+    "translation": "EVA初号机",
+    "context": "EBOOT .rodata: EVA name"
+  },
+  {
+    "key": "eboot_002789f8",
+    "offset": "0x002789F8",
+    "original": "エヴァ弐号機",
+    "translation": "EVA贰号机",
+    "context": "EBOOT .rodata: EVA name"
+  },
+  {
+    "key": "eboot_00278a08",
+    "offset": "0x00278A08",
+    "original": "エヴァ参号機",
+    "translation": "EVA参号机",
+    "context": "EBOOT .rodata: EVA name"
+  },
+  {
+    "key": "eboot_002796c4",
+    "offset": "0x002796C4",
+    "original": "<00>もっと話しかける<00>",
+    "translation": "<00>继续搭话<00>",
+    "context": "EBOOT .rodata: conversation command"
+  },
+  {
+    "key": "eboot_002796e0",
+    "offset": "0x002796E0",
+    "original": "<12>%s<00>から<12>%s<00>への注目度が<07>%s<00>上がった",
+    "translation": "<12>%s<00>对<12>%s<00>的关注度<07>上升%s<00>",
+    "context": "EBOOT .rodata: relationship notification"
+  },
+  {
+    "key": "eboot_00279718",
+    "offset": "0x00279718",
+    "original": "<12>%s<00>から<12>%s<00>への注目度が<01>%s<00>下がった",
+    "translation": "<12>%s<00>对<12>%s<00>的关注度<01>下降%s<00>",
+    "context": "EBOOT .rodata: relationship notification"
+  },
+  {
+    "key": "eboot_00279750",
+    "offset": "0x00279750",
+    "original": "<12>%s<00>から<12>%s<00>への注目度が<07>%s<00>上がった\n　<12>%s<00>から<12>%s<00>への態度が<07>ポジティブ<00>に変化した",
+    "translation": "<12>%s<00>对<12>%s<00>的关注度<07>上升%s<00>\n　<12>%s<00>对<12>%s<00>的态度变为<07>积极<00>",
+    "context": "EBOOT .rodata: relationship notification"
+  },
+  {
+    "key": "eboot_002797c8",
+    "offset": "0x002797C8",
+    "original": "<12>%s<00>から<12>%s<00>への注目度が<01>%s<00>下がった\n　<12>%s<00>から<12>%s<00>への態度が<07>ポジティブ<00>に変化した",
+    "translation": "<12>%s<00>对<12>%s<00>的关注度<01>下降%s<00>\n　<12>%s<00>对<12>%s<00>的态度变为<07>积极<00>",
+    "context": "EBOOT .rodata: relationship notification"
+  },
+  {
+    "key": "eboot_00279840",
+    "offset": "0x00279840",
+    "original": "<12>%s<00>から<12>%s<00>への注目度が<07>%s<00>上がった\n　<12>%s<00>から<12>%s<00>への態度が<01>ネガティブ<00>に変化した",
+    "translation": "<12>%s<00>对<12>%s<00>的关注度<07>上升%s<00>\n　<12>%s<00>对<12>%s<00>的态度变为<01>消极<00>",
+    "context": "EBOOT .rodata: relationship notification"
+  },
+  {
+    "key": "eboot_002798b8",
+    "offset": "0x002798B8",
+    "original": "<12>%s<00>から<12>%s<00>への注目度が<01>%s<00>下がった\n　<12>%s<00>から<12>%s<00>への態度が<01>ネガティブ<00>に変化した",
+    "translation": "<12>%s<00>对<12>%s<00>的关注度<01>下降%s<00>\n　<12>%s<00>对<12>%s<00>的态度变为<01>消极<00>",
+    "context": "EBOOT .rodata: relationship notification"
+  },
+  {
+    "key": "eboot_0027a488",
+    "offset": "0x0027A488",
+    "original": "“メモリースティック デュオ”の空き容量が足りません",
+    "translation": "“Memory Stick Duo”的剩余空间不足",
+    "context": "EBOOT .rodata: memory stick dialog"
+  },
+  {
+    "key": "eboot_0027a4d0",
+    "offset": "0x0027A4D0",
+    "original": "“メモリースティック デュオ”へのアクセス中に\n スリープに移行した為、処理を中断しました",
+    "translation": "访问“Memory Stick Duo”时\n 因进入休眠模式，操作已中止",
+    "context": "EBOOT .rodata: memory stick dialog"
+  },
+  {
+    "key": "eboot_0027a528",
+    "offset": "0x0027A528",
+    "original": "削除ユーティリティーを立ち上げますか？",
+    "translation": "要启动删除工具吗？",
+    "context": "EBOOT .rodata: memory stick dialog"
+  },
+  {
+    "key": "eboot_0027bd34",
+    "offset": "0x0027BD34",
+    "original": "話しかける:talk",
+    "translation": "搭话:talk",
+    "context": "EBOOT .rodata: conversation command"
+  },
+  {
+    "key": "eboot_0027bd44",
+    "offset": "0x0027BD44",
+    "original": "話題を選んで会話:wadai",
+    "translation": "选择话题交谈:wadai",
+    "context": "EBOOT .rodata: conversation command"
+  },
+  {
+    "key": "eboot_0027dd18",
+    "offset": "0x0027DD18",
+    "original": "エヴァ損壊状況",
+    "translation": "EVA损坏情况",
+    "context": "EBOOT .rodata: battle result heading"
+  },
+  {
+    "key": "eboot_0027dd28",
+    "offset": "0x0027DD28",
+    "original": "第３新東京市損壊状況",
+    "translation": "第三新东京市损坏情况",
+    "context": "EBOOT .rodata: battle result heading"
+  },
+  {
+    "key": "eboot_0027dd40",
+    "offset": "0x0027DD40",
+    "original": "戦闘結果",
+    "translation": "战斗结果",
+    "context": "EBOOT .rodata: battle result heading"
+  },
+  {
+    "key": "eboot_0027de98",
+    "offset": "0x0027DE98",
+    "original": "パイロットの注目度基本値が<07>５<00>上がった\n みんなの態度が<07>ポジティブ<00>になった",
+    "translation": "驾驶员关注度基础值<07>上升5<00>\n 所有人态度变为<07>积极<00>",
+    "context": "EBOOT .rodata: battle result notification"
+  },
+  {
+    "key": "eboot_0027def0",
+    "offset": "0x0027DEF0",
+    "original": "パイロットの注目度基本値が<01>１０<00>下がった\n みんなの態度が<01>ネガティブ<00>になった",
+    "translation": "驾驶员关注度基础值<01>下降10<00>\n 所有人态度变为<01>消极<00>",
+    "context": "EBOOT .rodata: battle result notification"
+  },
+  {
+    "key": "eboot_0027df4c",
+    "offset": "0x0027DF4C",
+    "original": "パイロットの注目度基本値が<07>１<00>上がった",
+    "translation": "驾驶员关注度基础值<07>上升1<00>",
+    "context": "EBOOT .rodata: battle result notification"
+  },
+  {
+    "key": "eboot_0027df7c",
+    "offset": "0x0027DF7C",
+    "original": "パイロットの注目度基本値が<01>５<00>下がった",
+    "translation": "驾驶员关注度基础值<01>下降5<00>",
+    "context": "EBOOT .rodata: battle result notification"
+  },
+  {
+    "key": "eboot_0027dfac",
+    "offset": "0x0027DFAC",
+    "original": "パイロットの注目度基本値が<01>１０<00>下がった",
+    "translation": "驾驶员关注度基础值<01>下降10<00>",
+    "context": "EBOOT .rodata: battle result notification"
+  },
+  {
+    "key": "eboot_0027dfdc",
+    "offset": "0x0027DFDC",
+    "original": "特別報酬\n %s",
+    "translation": "特别奖励\n %s",
+    "context": "EBOOT .rodata: battle result notification"
+  },
+  {
+    "key": "eboot_0027e42c",
+    "offset": "0x0027E42C",
+    "original": "なし",
+    "translation": "无",
+    "context": "EBOOT .rodata: battle result value"
+  },
+  {
+    "key": "eboot_0027e44c",
+    "offset": "0x0027E44C",
+    "original": "　　 戦闘に戻る",
+    "translation": "　　 返回战斗",
+    "context": "EBOOT .rodata: pause menu"
+  },
+  {
+    "key": "eboot_0027e464",
+    "offset": "0x0027E464",
+    "original": "　　 オプション",
+    "translation": "　　 选项",
+    "context": "EBOOT .rodata: pause menu"
+  },
+  {
+    "key": "eboot_0027e4b0",
+    "offset": "0x0027E4B0",
+    "original": "\n制限時間０",
+    "translation": "\n时间限制0",
+    "context": "EBOOT .rodata: battle status"
+  },
+  {
+    "key": "eboot_0027eaa8",
+    "offset": "0x0027EAA8",
+    "original": "<12>%s<00>から<12>%s<00>への態度が<07>ポジティブ<00>に変化した",
+    "translation": "<12>%s<00>对<12>%s<00>的态度变为<07>积极<00>",
+    "context": "EBOOT .rodata: relationship notification"
+  },
+  {
+    "key": "eboot_0027eae8",
+    "offset": "0x0027EAE8",
+    "original": "<12>%s<00>から<12>%s<00>への態度が<01>ネガティブ<00>に変化した",
+    "translation": "<12>%s<00>对<12>%s<00>的态度变为<01>消极<00>",
+    "context": "EBOOT .rodata: relationship notification"
+  },
+  {
+    "key": "eboot_0027eb28",
+    "offset": "0x0027EB28",
+    "original": "<12>%s<00>から<12>%s<00>への態度が<07>ポジティブ<00>に変化した\n <12>%s<00>から<12>%s<00>への態度が<07>ポジティブ<00>に変化した",
+    "translation": "<12>%s<00>对<12>%s<00>的态度变为<07>积极<00>\n <12>%s<00>对<12>%s<00>的态度变为<07>积极<00>",
+    "context": "EBOOT .rodata: relationship notification"
+  },
+  {
+    "key": "eboot_0027eba8",
+    "offset": "0x0027EBA8",
+    "original": "<12>%s<00>から<12>%s<00>への態度が<01>ネガティブ<00>に変化した\n <12>%s<00>から<12>%s<00>への態度が<01>ネガティブ<00>に変化した",
+    "translation": "<12>%s<00>对<12>%s<00>的态度变为<01>消极<00>\n <12>%s<00>对<12>%s<00>的态度变为<01>消极<00>",
+    "context": "EBOOT .rodata: relationship notification"
+  },
+  {
+    "key": "eboot_0027ec28",
+    "offset": "0x0027EC28",
+    "original": "<12>%s<00>から<12>%s<00>への態度が<07>ポジティブ<00>に変化した\n <12>%s<00>から<12>%s<00>への態度が<01>ネガティブ<00>に変化した",
+    "translation": "<12>%s<00>对<12>%s<00>的态度变为<07>积极<00>\n <12>%s<00>对<12>%s<00>的态度变为<01>消极<00>",
+    "context": "EBOOT .rodata: relationship notification"
+  },
+  {
+    "key": "eboot_0027eca8",
+    "offset": "0x0027ECA8",
+    "original": "<12>%s<00>から<12>%s<00>への態度が<01>ネガティブ<00>に変化した\n <12>%s<00>から<12>%s<00>への態度が<07>ポジティブ<00>に変化した",
+    "translation": "<12>%s<00>对<12>%s<00>的态度变为<01>消极<00>\n <12>%s<00>对<12>%s<00>的态度变为<07>积极<00>",
+    "context": "EBOOT .rodata: relationship notification"
+  },
+  {
+    "key": "eboot_0027ed28",
+    "offset": "0x0027ED28",
+    "original": "興味を引いたようだ\n 注目度ボーナス<07>＋%d<00>",
+    "translation": "似乎引起了兴趣\n 关注度奖励<07>＋%d<00>",
+    "context": "EBOOT .rodata: conversation result"
+  },
+  {
+    "key": "eboot_0027ed58",
+    "offset": "0x0027ED58",
+    "original": "興味を引いたようだ\n 注目度ボーナス<07>＋%d<00>\n <12>%s<00>の態度が<07>ポジティブ<00>に変化した",
+    "translation": "似乎引起了兴趣\n 关注度奖励<07>＋%d<00>\n <12>%s<00>的态度变为<07>积极<00>",
+    "context": "EBOOT .rodata: conversation result"
+  },
+  {
+    "key": "eboot_0027edb8",
+    "offset": "0x0027EDB8",
+    "original": "熱心に話をしている\n 注目度ボーナス<07>＋%d<00>",
+    "translation": "正在热情交谈\n 关注度奖励<07>＋%d<00>",
+    "context": "EBOOT .rodata: conversation result"
+  },
+  {
+    "key": "eboot_0027ede8",
+    "offset": "0x0027EDE8",
+    "original": "すっかり会話に夢中だ\n 注目度ボーナス<07>＋%d<00>",
+    "translation": "完全沉浸在交谈中\n 关注度奖励<07>＋%d<00>",
+    "context": "EBOOT .rodata: conversation result"
+  },
+  {
+    "key": "eboot_0027ee1c",
+    "offset": "0x0027EE1C",
+    "original": "機嫌を損ねたようだ",
+    "translation": "似乎惹恼了对方",
+    "context": "EBOOT .rodata: conversation result"
+  },
+  {
+    "key": "eboot_0027ee30",
+    "offset": "0x0027EE30",
+    "original": "機嫌を損ねたようだ\n <12>%s<00>の態度が<01>ネガティブ<00>に変化した",
+    "translation": "似乎惹恼了对方\n <12>%s<00>的态度变为<01>消极<00>",
+    "context": "EBOOT .rodata: conversation result"
+  },
+  {
+    "key": "eboot_0027f3a8",
+    "offset": "0x0027F3A8",
+    "original": "予算",
+    "translation": "预算",
+    "context": "EBOOT .rodata: map status budget label"
+  },
+  {
+    "key": "eboot_0027f3b4",
+    "offset": "0x0027F3B4",
+    "original": "\n<03>装備武器　：<//>%s",
+    "translation": "\n<03>装备武器　：<//>%s",
+    "context": "EBOOT .rodata: map status detail"
+  },
+  {
+    "key": "eboot_0027f408",
+    "offset": "0x0027F408",
+    "original": "<01>兵装<//>",
+    "translation": "<01>装备<//>",
+    "context": "EBOOT .rodata: map status category"
+  },
+  {
+    "key": "eboot_0027f418",
+    "offset": "0x0027F418",
+    "original": "<02>電源<//>",
+    "translation": "<02>电源<//>",
+    "context": "EBOOT .rodata: map status category"
+  },
+  {
+    "key": "eboot_0027f438",
+    "offset": "0x0027F438",
+    "original": "<08>観測<//>",
+    "translation": "<08>观测<//>",
+    "context": "EBOOT .rodata: map status category"
+  },
+  {
+    "key": "eboot_0027f448",
+    "offset": "0x0027F448",
+    "original": "所持数 x <01>%2d<//>",
+    "translation": "持有数 x <01>%2d<//>",
+    "context": "EBOOT .rodata: map status item count"
+  },
+  {
+    "key": "eboot_0027f460",
+    "offset": "0x0027F460",
+    "original": "所持数 x <02>%2d<//>",
+    "translation": "持有数 x <02>%2d<//>",
+    "context": "EBOOT .rodata: map status item count"
+  },
+  {
+    "key": "eboot_0027f4d0",
+    "offset": "0x0027F4D0",
+    "original": "第３新東京市　中央区\n<03>損壊率　　：<//>%2d％　%s\n<03>スロット数：<//>%d",
+    "translation": "第三新东京市　中央区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
+    "context": "EBOOT .rodata: map status detail"
+  },
+  {
+    "key": "eboot_0027f51c",
+    "offset": "0x0027F51C",
+    "original": "第３新東京市　東地区\n<03>損壊率　　：<//>%2d％　%s\n<03>スロット数：<//>%d",
+    "translation": "第三新东京市　东地区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
+    "context": "EBOOT .rodata: map status detail"
+  },
+  {
+    "key": "eboot_0027f568",
+    "offset": "0x0027F568",
+    "original": "第３新東京市　西地区\n<03>損壊率　　：<//>%2d％　%s\n<03>スロット数：<//>%d",
+    "translation": "第三新东京市　西地区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
+    "context": "EBOOT .rodata: map status detail"
+  },
+  {
+    "key": "eboot_0027f5b4",
+    "offset": "0x0027F5B4",
+    "original": "第３新東京市　南地区\n<03>損壊率　　：<//>%2d％　%s\n<03>スロット数：<//>%d",
+    "translation": "第三新东京市　南地区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
+    "context": "EBOOT .rodata: map status detail"
+  },
+  {
+    "key": "eboot_0027f600",
+    "offset": "0x0027F600",
+    "original": "第３新東京市　北地区\n<03>損壊率　　：<//>%2d％　%s\n<03>スロット数：<//>%d",
+    "translation": "第三新东京市　北地区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
+    "context": "EBOOT .rodata: map status detail"
+  },
+  {
+    "key": "eboot_0027f64c",
+    "offset": "0x0027F64C",
+    "original": "ジオフロント\n<03>損壊率　　：<//>%2d％　%s\n<03>スロット数：<//>%d",
+    "translation": "地下都市\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
+    "context": "EBOOT .rodata: map status detail"
+  },
+  {
+    "key": "eboot_0027f690",
+    "offset": "0x0027F690",
+    "original": "エヴァンゲリオン初号機\n<03>損壊率　　：<//>%2d％　%s\n<03>装備武器　：<//>%s",
+    "translation": "EVANGELION初号机\n<03>损坏率　　：<//>%2d％　%s\n<03>装备武器　：<//>%s",
+    "context": "EBOOT .rodata: EVA status detail"
+  },
+  {
+    "key": "eboot_0027f6e4",
+    "offset": "0x0027F6E4",
+    "original": "軽微",
+    "translation": "轻微",
+    "context": "EBOOT .rodata: damage status"
+  },
+  {
+    "key": "eboot_0027f6f4",
+    "offset": "0x0027F6F4",
+    "original": "甚大",
+    "translation": "严重",
+    "context": "EBOOT .rodata: damage status"
+  },
+  {
+    "key": "eboot_0027f6fc",
+    "offset": "0x0027F6FC",
+    "original": "壊滅",
+    "translation": "毁灭",
+    "context": "EBOOT .rodata: damage status"
+  },
+  {
+    "key": "eboot_0027f718",
+    "offset": "0x0027F718",
+    "original": "格闘",
+    "translation": "格斗",
+    "context": "EBOOT .rodata: weapon type"
+  },
+  {
+    "key": "eboot_0027f720",
+    "offset": "0x0027F720",
+    "original": "単発",
+    "translation": "单发",
+    "context": "EBOOT .rodata: weapon type"
+  },
+  {
+    "key": "eboot_0027f728",
+    "offset": "0x0027F728",
+    "original": "連射",
+    "translation": "连射",
+    "context": "EBOOT .rodata: weapon type"
+  }
+]
