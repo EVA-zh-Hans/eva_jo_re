@@ -128,8 +128,9 @@
   {
     "key": "e_3289524bc9_0067_6c762224e1",
     "original": "高木 礼子",
-    "translation": "",
-    "context": "File: LOGO/STAFFROLL1.XML\nLine: 28\nElement: INFO\nAttribute: name"
+    "translation": "高木礼子",
+    "context": "File: LOGO/STAFFROLL1.XML\nLine: 28\nElement: INFO\nAttribute: name",
+    "stage": 1
   },
   {
     "key": "e_3289524bc9_0070_29778a1159",

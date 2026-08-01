@@ -14,313 +14,365 @@
   {
     "key": "e_a4df461428_0007_7826db756a",
     "original": "電源が切断されている状態では、\n<02>予備電源<//>の残量が<02>活動限界時間<//>として\n表示されます\n<02>活動限界時間<//>が０になると、\n活動限界となり、戦闘不能になります",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 16\nElement: BF\nAttribute: str"
+    "translation": "电源断开时，\n<02>备用电源<//>的剩余电量会显示为\n<02>活动时限<//>\n<02>活动时限<//>降为0后，\n机体将达到活动极限，无法继续战斗",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 16\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0009_eb8a47189e",
     "original": "使徒の攻撃を受けると電源が\n切断されてしまう場合があります\n切断した電源は、<02>電源ビル<//>に近づいて、\n$#ボタンで再接続する事ができます",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 22\nElement: BF\nAttribute: str"
+    "translation": "受到使徒攻击时，电源有时会\n被切断\n接近<02>电源大楼<//>后按$#键，\n可以重新连接被切断的电源",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 22\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0011_003dfa69ed",
     "original": "$Lボタンを押し続ける事で武器を\n構えて使徒を<02>ロック<//>する事ができます\nただし、移動速度は通常時に比べて遅く\nなってしまうので注意が必要です",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 27\nElement: BF\nAttribute: str"
+    "translation": "持续按住$L键可架起武器，\n并<02>锁定<//>使徒\n但移动速度会比平时更慢，\n请务必注意",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 27\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0013_71c581ee34",
     "original": "<07>アナログパッド<//>＋$xボタンで<02>Ａ．Ｔ．<//>を\n消費し、<02>回避行動<//>をする事ができます\n装備している武器によって、\n<02>回避行動<//>で移動する距離は変化します",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 32\nElement: BF\nAttribute: str"
+    "translation": "按<07>模拟摇杆<//>＋$x键可消耗<02>A.T.<//>，\n执行<02>回避动作<//>\n装备的武器不同，\n<02>回避动作<//>的移动距离也会变化",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 32\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0015_90bdb7cc2b",
     "original": "停止中に$Rボタンで<02>ガード<//>できます\n<02>ガード<//>中は<02>Ａ．Ｔ．<//>を徐々に\n消費します\nまた、<02>ガード<//>した攻撃の貫通力に\n応じて、<02>Ａ．Ｔ．<//>を消費します",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 37\nElement: BF\nAttribute: str"
+    "translation": "停止时按$R键可以<02>防御<//>\n<02>防御<//>期间会逐渐消耗<02>A.T.<//>\n此外，还会根据被<02>防御<//>攻击的\n贯穿力消耗相应的<02>A.T.<//>",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 37\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0017_255feae544",
     "original": "<02>観測ビル<//>が配置されたマップで戦闘を\nすると、使徒を<02>分析<//>する事ができます\n<02>分析<//>が完了すると、使徒の現在の、\n<02>耐久力<//>、<02>Ａ．Ｔ．<//>、<02>弱点部位<//>、\n<02>有効武器<//>が分かるようになります",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 43\nElement: BF\nAttribute: str"
+    "translation": "在配置了<02>观测大楼<//>的地图中战斗时，\n可以<02>分析<//>使徒\n<02>分析<//>完成后，可以得知使徒当前的\n<02>耐久力<//>、<02>A.T.<//>、<02>弱点部位<//>和\n<02>有效武器<//>",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 43\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0019_03f8b6aa0a",
     "original": "<02>ガード<//>している使徒に密着して\n$Rボタンで、<02>Ａ．Ｔ．<//>を急激に\n減らす事ができる、<02>浸食<//>が発動します\n使徒を<02>バニッシュ<//>の状態に\n追い込みましょう",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 49\nElement: BF\nAttribute: str"
+    "translation": "贴近正在<02>防御<//>的使徒后按$R键，\n会发动可使<02>A.T.<//>急剧下降的\n<02>侵蚀<//>\n设法让使徒进入<02>湮灭<//>状态吧",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 49\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0021_9626bd93ae",
     "original": "<02>格闘攻撃<//>はボタンを連続して\n入力する事で連続技になる物が\n多くあります\n武器によってボタンの組み合わせは、\n異なるので、色々試してみましょう",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 55\nElement: BF\nAttribute: str"
+    "translation": "许多<02>格斗攻击<//>连续输入按键后，\n可以形成连招\n不同武器的按键组合各不相同，\n请多加尝试",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 55\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0023_af50e2da75",
     "original": "<02>格闘武器<//>は攻撃を続ける事で<02>耐久度<//>が\n減少し、本来の性能を発揮する事が\nできなくなってしまいます\n現在の<02>耐久度<//>は画面右下の\nアイコンで確認する事ができます",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 61\nElement: BF\nAttribute: str"
+    "translation": "持续使用<02>格斗武器<//>攻击会降低\n<02>耐久度<//>，使其无法发挥原有性能\n当前<02>耐久度<//>可通过画面右下方的\n图标确认",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 61\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0025_8843f536b4",
     "original": "<02>射撃武器<//>では、<02>装填弾数<//>を撃ちきると\n<02>リロード<//>が発生し、終了するまでは、\n射撃をする事ができなくなります\n画面右下に表示されている、\n<02>リロードゲージ<//>に注意しましょう",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 67\nElement: BF\nAttribute: str"
+    "translation": "<02>射击武器<//>打完<02>装填弹数<//>后，\n会开始<02>装填<//>，完成前无法射击\n请留意画面右下方显示的\n<02>装填槽<//>",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 67\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0027_f6edb88f2d",
     "original": "<02>スキル<//>を<02>実装<//>する事で\n<02>エヴァ<//>を強化する事ができます\n自分の戦い方に合せた<02>スキル<//>を\n<02>開発<//>し、<02>実装<//>する事が勝利への近道です",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 73\nElement: BF\nAttribute: str"
+    "translation": "<02>装备<//><02>技能<//>可以强化<02>EVA<//>\n<02>开发<//>并<02>装备<//>适合自己战斗方式的\n<02>技能<//>，是通往胜利的捷径",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 73\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0029_9c244b2214",
     "original": "<02>ＱＴコマンド<//>が表示されたら、指定の\nボタンを制限時間内に入力してください\n制限時間はボタンの周囲のゲージで\n表示されます",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 78\nElement: BF\nAttribute: str"
+    "translation": "出现<02>QT指令<//>后，请在时限内\n输入指定按键\n时限会通过按键周围的计量槽显示",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 78\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0031_78f4b2228c",
     "original": "<02>ヘイフリック<//>の幅は<02>シンクロ率<//>によって\n変化します\n常に高い<02>シンクロ率<//>を維持する事が\nできれば、同じ攻撃を受けても\n多くの<02>ヘイフリック<//>を確保できます",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 83\nElement: BF\nAttribute: str"
+    "translation": "<02>海弗利克<//>区域的宽度会随<02>同步率<//>\n变化\n若能始终维持较高的<02>同步率<//>，\n即使承受相同攻击，也能保留更多的\n<02>海弗利克<//>区域",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 83\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0033_8e6206c28b",
     "original": "<02>ヘイフリックスキル<//>を<02>実装<//>する事で、\n<02>ヘイフリック<//>の性能を強化できます\nＬｖが高い程、効果は大きくなります\n・<02>ヘイフリック<//>の回復速度向上",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 89\nElement: BF\nAttribute: str"
+    "translation": "<02>装备<//><02>海弗利克技能<//>，\n可以强化<02>海弗利克<//>性能\n等级越高，效果越强\n・提高<02>海弗利克<//>恢复速度",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 89\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0035_290fb6e1c1",
     "original": "<02>バニッシュ<//>中は<02>Ａ．Ｔ．<//>を消費する\n行動ができなくなる上に、使徒から\n攻撃を受けると、ダメージが増大します\n<02>バニッシュ<//>の状態が回復するまで、\n使徒から距離をとるのも戦略の１つです",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 94\nElement: BF\nAttribute: str"
+    "translation": "处于<02>湮灭<//>状态时，无法执行消耗\n<02>A.T.<//>的行动，受到使徒攻击时\n伤害也会增加\n在<02>湮灭<//>状态恢复前与使徒拉开距离，\n也是一种战术",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 94\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0037_403008429a",
     "original": "<02>シンクロ率<//>は、<02>ヘイフリック<//>の幅や、\nエヴァの攻撃力に影響するため、\n高い状態を維持する事が重要です\n<02>シンクロ率<//>は使徒に攻撃する事で\n上昇し、逆に何もしないと下降します",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 100\nElement: BF\nAttribute: str"
+    "translation": "<02>同步率<//>会影响<02>海弗利克<//>区域宽度\n和EVA的攻击力，因此维持高同步率\n十分重要\n攻击使徒会提升<02>同步率<//>，\n反之，什么都不做则会下降",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 100\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0039_1f0ed87ada",
     "original": "<02>シンクロ率<//>はエヴァで使徒に攻撃したり\n<02>ジャストガード<//>を成功させる事で上昇し\nまた、<02>電源ケーブル<//>を切断する事で\n一時的に上昇させる事もできます\n逆に、電源を接続すると下降します",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 106\nElement: BF\nAttribute: str"
+    "translation": "EVA攻击使徒或成功使出\n<02>精准防御<//>时，<02>同步率<//>会上升\n切断<02>电源电缆<//>也能暂时提升同步率\n反之，连接电源则会使其下降",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 106\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0041_5301d96f01",
     "original": "<02>予備電源スキル<//>を<02>実装<//>する事で、\nエヴァの<02>予備電源<//>の性能を強化できます\nＬｖが高い程、効果は大きくなります\n・<02>活動限界時間<//>の延長",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 112\nElement: BF\nAttribute: str"
+    "translation": "<02>装备<//><02>备用电源技能<//>，\n可以强化EVA的<02>备用电源<//>性能\n等级越高，效果越强\n・延长<02>活动时限<//>",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 112\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0043_049964da98",
     "original": "<02>ロックスキル<//>を<02>実装<//>する事で、\nエヴァの<02>ロック<//>性能を強化できます\nＬｖが高い程、効果は大きくなります\n・<02>ロック<//>可能距離の延長",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 117\nElement: BF\nAttribute: str"
+    "translation": "<02>装备<//><02>锁定技能<//>，\n可以强化EVA的<02>锁定<//>性能\n等级越高，效果越强\n・延长<02>锁定<//>距离",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 117\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0045_d10a084d5e",
     "original": "<02>回避スキル<//>を<02>実装<//>する事で、\nエヴァの<02>回避性能<//>を強化できます\nＬｖが高い程、効果は大きくなります\n・<02>回避行動<//>時の<02>Ａ．Ｔ．<//>消費量減少\n・<02>回避行動<//>時の無敵時間が延長",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 122\nElement: BF\nAttribute: str"
+    "translation": "<02>装备<//><02>回避技能<//>，\n可以强化EVA的<02>回避性能<//>\n等级越高，效果越强\n・减少<02>回避动作<//>时的<02>A.T.<//>消耗量\n・延长<02>回避动作<//>时的无敌时间",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 122\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0047_98936f3326",
     "original": "<02>ガードスキル<//>を<02>実装<//>する事で、\nエヴァの<02>ガード<//>性能を強化できます\nＬｖが高い程、効果は大きくなります\n・<02>ガード<//>中の<02>Ａ．Ｔ．<//>消費量減少\n・攻撃<02>ガード<//>時の<02>Ａ．Ｔ．<//>消費量減少",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 128\nElement: BF\nAttribute: str"
+    "translation": "<02>装备<//><02>防御技能<//>，\n可以强化EVA的<02>防御<//>性能\n等级越高，效果越强\n・减少<02>防御<//>期间的<02>A.T.<//>消耗量\n・减少<02>防御<//>攻击时的<02>A.T.<//>消耗量",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 128\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0049_65251958fe",
     "original": "攻撃を受ける寸前に<02>ガード<//>する事で\n<02>ジャストガード<//>が発生します\n衝撃が大きな攻撃を<02>ガード<//>しても、\n反動が小さくなる上に、<02>ガード<//>時に\n<02>Ａ．Ｔ．<//>を消費しません",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 134\nElement: BF\nAttribute: str"
+    "translation": "在即将受到攻击前进行<02>防御<//>，\n会触发<02>精准防御<//>\n即使<02>防御<//>冲击较大的攻击，\n反作用力也会减小，而且<02>防御<//>时\n不会消耗<02>A.T.<//>",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 134\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0051_12da0d24ba",
     "original": "使徒の攻撃から逃れるには、\n<02>回避行動<//>と<02>ガード<//>が有効です\nそれぞれに短所、長所があるので、\n装備している武器や戦闘の状況に応じて\n使い分ける事が重要です",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 140\nElement: BF\nAttribute: str"
+    "translation": "要躲避使徒的攻击，\n<02>回避动作<//>和<02>防御<//>都很有效\n两者各有优缺点，应根据装备的武器\n和战况灵活运用",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 140\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0053_2b297117de",
     "original": "複数の<02>観測ビル<//>を配置する事で\n<02>分析<//>速度は向上します\nＬｖの高い<02>観測ビル<//>は、１つでも\n<02>分析<//>速度の向上が望めます",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 146\nElement: BF\nAttribute: str"
+    "translation": "配置多个<02>观测大楼<//>，\n可提高<02>分析<//>速度\n高等级<02>观测大楼<//>即使只有一座，\n也能显著提高<02>分析<//>速度",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 146\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0055_c2c1d320b6",
     "original": "装備している武器は、$Rボタンを\n押しながら、$oボタン＋$^ボタンで\n廃棄する事ができます\n廃棄した武器は消失してしまいますが、\n<02>模擬戦闘<//>では消失する事はありません",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 151\nElement: BF\nAttribute: str"
+    "translation": "按住$R键的同时按$o键＋$^键，\n可以丢弃当前装备的武器\n被丢弃的武器会消失，\n但在<02>模拟战斗<//>中不会消失",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 151\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0057_a605866596",
     "original": "<02>武器庫ビル<//>に近づいて、$#ボタンで格納\nされている武器の換装ができます\n<02>換装<//>時にはエヴァが装備していた武器は\n廃棄されますので注意してください",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 157\nElement: BF\nAttribute: str"
+    "translation": "接近<02>武器库大楼<//>后按$#键，\n可以更换其中存放的武器\n<02>更换<//>时，EVA原本装备的武器会被\n丢弃，请务必注意",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 157\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0059_9eadc2814c",
     "original": "使徒が<02>ガード<//>を解除するまで<02>浸食<//>を\n続けてしまうと、エヴァが弾かれ、\n隙が発生してしまいます\n使徒が<02>ガード<//>を解除する兆候を\n見逃さないようにしましょう",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 162\nElement: BF\nAttribute: str"
+    "translation": "若在使徒解除<02>防御<//>前持续进行\n<02>侵蚀<//>，EVA会被弹开，\n露出破绽\n请勿错过使徒即将解除<02>防御<//>的\n征兆",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 162\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0061_925a211b60",
     "original": "<02>格闘武器スキル<//>を<02>実装<//>する事で、\n<02>格闘攻撃<//>の性能を強化できます\nＬｖが高い程、効果は大きくなります\n・武器の<02>耐久度<//>が減少しにくくなる",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 168\nElement: BF\nAttribute: str"
+    "translation": "<02>装备<//><02>格斗武器技能<//>，\n可以强化<02>格斗攻击<//>的性能\n等级越高，效果越强\n・武器的<02>耐久度<//>更不易下降",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 168\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0063_e3fd23bbce",
     "original": "<02>射撃武器<//>は、移動しながら\n射撃する事ができる武器があります\n移動しながらの射撃は停止中に比べて、\n弾道が安定しませんので\n注意してください",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 173\nElement: BF\nAttribute: str"
+    "translation": "部分<02>射击武器<//>可以在移动时射击\n与停止时相比，移动射击的弹道\n并不稳定，请务必注意",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 173\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0065_37ffd4fab0",
     "original": "<02>射撃武器スキル<//>を<02>実装<//>する事で、\n<02>射撃攻撃<//>の性能を強化できます\nＬｖが高い程、効果は大きくなります\n・弾道の安定性の向上\n・<02>リロード<//>の短縮化",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 179\nElement: BF\nAttribute: str"
+    "translation": "<02>装备<//><02>射击武器技能<//>，\n可以强化<02>射击攻击<//>的性能\n等级越高，效果越强\n・提高弹道稳定性\n・缩短<02>装填<//>时间",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 179\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0067_01265a3719",
     "original": "<02>兵装ビル<//>が攻撃を実行するには使徒を\n<02>捕捉時間<//>が経過するまで<02>捕捉範囲<//>内に\n留まらせる必要があります\n<02>兵装ビル<//>の<02>捕捉範囲<//>は、画面右上の\n<02>ミニマップ<//>で確認する事ができます",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 185\nElement: BF\nAttribute: str"
+    "translation": "要让<02>兵装大楼<//>发动攻击，必须让使徒\n在<02>捕捉时间<//>结束前停留于<02>捕捉范围<//>内\n<02>兵装大楼<//>的<02>捕捉范围<//>可通过画面右上方的\n<02>小地图<//>确认",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 185\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0069_5f9b67a88f",
     "original": "<02>兵装ビル<//>の攻撃はエヴァも\nダメージを受けてしまうため、\n使徒と<02>兵装ビル<//>の位置関係や、\n<02>兵装ビル<//>の情報は常に意識しましょう",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 191\nElement: BF\nAttribute: str"
+    "translation": "<02>兵装大楼<//>的攻击也会对EVA造成伤害，\n因此要时刻留意使徒与<02>兵装大楼<//>的\n位置关系，以及<02>兵装大楼<//>的信息",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 191\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0071_7389645957",
     "original": "<02>観測ビル<//>による<02>分析<//>が完了すると、\n<02>ポーズメニュー<//>で使徒の弱点が\n確認できるようになります\n弱点を攻撃する事でダメージが増加し、\n<02>ダウン<//>し易くなります",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 196\nElement: BF\nAttribute: str"
+    "translation": "<02>观测大楼<//>完成<02>分析<//>后，\n可以在<02>暂停菜单<//>中确认使徒的弱点\n攻击弱点会增加伤害，\n并使其更容易<02>倒地<//>",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 196\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0073_731dfbd3dc",
     "original": "使徒を<02>ダウン<//>させる事で<02>Ａ．Ｔ．<//>を\n大幅に減少させる事ができます\n<02>分析<//>によって判明した弱点を重点的に\n狙う事で、効率よく<02>ダウン<//>させる事が\nできるでしょう",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 202\nElement: BF\nAttribute: str"
+    "translation": "使徒<02>倒地<//>后，可以大幅降低其\n<02>A.T.<//>\n集中攻击通过<02>分析<//>发现的弱点，\n便能更有效率地使其<02>倒地<//>",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 202\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0075_590940ca22",
     "original": "<02>Ａ．Ｔ．<//>が０になると使徒は\n<02>バニッシュ<//>の状態になります\n<02>バニッシュ<//>中は使徒へのダメージが\n増大するため、いかに<02>バニッシュ<//>の\n状態にするかが戦闘のポイントです",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 208\nElement: BF\nAttribute: str"
+    "translation": "使徒的<02>A.T.<//>降为0后，\n会进入<02>湮灭<//>状态\n<02>湮灭<//>期间对使徒造成的伤害会增加，\n因此如何让使徒进入<02>湮灭<//>状态，\n是战斗的关键",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 208\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0077_c24a20d443",
     "original": "使徒の<02>Ａ．Ｔ．<//>が残っている状態の場合\nエヴァの攻撃は、使徒にほとんど\n届いていないと言って良いでしょう\n<02>バニッシュ<//>の状態にする事で、本来の\nダメージを使徒に与える事ができます",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 214\nElement: BF\nAttribute: str"
+    "translation": "使徒仍有<02>A.T.<//>时，EVA的攻击几乎\n无法对其造成伤害\n让使徒进入<02>湮灭<//>状态后，\n才能对其造成应有的伤害",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 214\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0079_2c4e374818",
     "original": "<02>バニッシュ<//>中の使徒は挙動が\n変化する場合があります\nまた、使徒の攻撃力も\n増大する傾向にあります\n反撃に注意して攻撃しましょう",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 220\nElement: BF\nAttribute: str"
+    "translation": "处于<02>湮灭<//>状态的使徒，\n行动有时会发生变化\n其攻击力也往往会提升\n进攻时请小心反击",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 220\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0081_01503d05f9",
     "original": "<02>演習ナイフ<//>\nエヴァのもっとも基本的な<02>格闘武器<//>\n演習用で実戦には向かないが、\nエヴァの基本武装となる系統であり、\n全武器中で最高の機動力を誇る",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 226\nElement: BF\nAttribute: str"
+    "translation": "<02>演习小刀<//>\nEVA最基本的<02>格斗武器<//>\n虽然是演习装备，不适合实战，\n但属于EVA基本武装系列，\n拥有所有武器中最高的机动性",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 226\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0083_f2f8d22cc9",
     "original": "<02>トマホーク<//>\n安価な<02>格闘武器<//>\n<02>叩きつけ<//>は隙は大きいものの\n当てる事ができれば大ダメージとなる",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 232\nElement: BF\nAttribute: str"
+    "translation": "<02>战斧<//>\n价格低廉的<02>格斗武器<//>\n<02>砸击<//>虽然破绽较大，\n但命中后能造成巨大伤害",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 232\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0085_f3b749b898",
     "original": "<02>グレイヴ<//>\n貫通力に優れた<02>格闘武器<//>\n耐久性が低いのが問題\n<02>下段突き<//>と<02>中段突き<//>をフレキシブルに\n切り替える事が可能",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 237\nElement: BF\nAttribute: str"
+    "translation": "<02>战戟<//>\n贯穿力出色的<02>格斗武器<//>\n缺点是耐久性较低\n可灵活切换<02>下段突刺<//>与<02>中段突刺<//>",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 237\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0087_3da1c6cf24",
     "original": "<02>実験実体剣<//>\nエヴァ用に開発されつつある剣\n残念ながら未だ完璧から程遠い\n<02>居合い斬り<//>は、長時間の溜めが発生して\nしまうが、強力な一撃となる",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 243\nElement: BF\nAttribute: str"
+    "translation": "<02>实验实体剑<//>\n正在为EVA开发的剑\n遗憾的是离完善还相去甚远\n<02>居合斩<//>需要长时间蓄力，\n但能发动强力一击",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 243\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0089_1f25a1105c",
     "original": "<02>ノコギリ型兵器<//>\n威力を増すために工夫された<02>格闘武器<//>\n派生する連続技を持たないが、\n一撃の威力は高い",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 249\nElement: BF\nAttribute: str"
+    "translation": "<02>锯齿型武器<//>\n为提高威力而设计的<02>格斗武器<//>\n没有派生连招，\n但单次攻击威力很高",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 249\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0091_12f85c9742",
     "original": "<02>カウンターソード<//>\n<02>格闘攻撃<//>による連続技に加えて、\n<02>射撃攻撃<//>による連射も可能な特殊な武器",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 254\nElement: BF\nAttribute: str"
+    "translation": "<02>反击剑<//>\n除了能以<02>格斗攻击<//>发动连招，\n还能用<02>射击攻击<//>连续开火的特殊武器",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 254\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0093_96d37a20b1",
     "original": "<02>マステマ<//>\n究極の武器、重量も最大\n全体に配置されたブレードよる<02>格闘攻撃<//>\nガトリング砲による<02>射撃攻撃<//>が可能",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 258\nElement: BF\nAttribute: str"
+    "translation": "<02>玛斯特玛<//>\n终极武器，重量也是最大\n可用分布于全身的刀刃进行<02>格斗攻击<//>，\n也能用加特林炮发动<02>射击攻击<//>",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 258\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0095_99e81801fe",
     "original": "表示される<02>ＱＴコマンド<//>を入力して\n<02>照準<//>を使徒の<02>コア<//>に合わせ続けて\nください\n入力に失敗すると、照準が\n外れていってしまいます",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 263\nElement: BF\nAttribute: str"
+    "translation": "输入画面显示的<02>QT指令<//>，\n让<02>准星<//>持续对准使徒的<02>核心<//>\n输入失败时，准星会逐渐偏离",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 263\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0097_c8cc7d7af0",
     "original": "<07>アナログパッド<//>を操作して、<02>照準<//>を\n使徒の<02>コア<//>に合せ続けてください\n<02>照準<//>が赤くなったら$oボタンで、\n発射できます",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 269\nElement: BF\nAttribute: str"
+    "translation": "操作<07>模拟摇杆<//>，让<02>准星<//>持续对准\n使徒的<02>核心<//>\n<02>准星<//>变红后，按$o键即可发射",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 269\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0099_de1e259bac",
     "original": "表示される<02>ＱＴコマンド<//>を入力して\nＪ．Ａ．に追いついてください\n入力に失敗すると、エヴァの<02>Ａ．Ｔ．<//>が\n減少してしまいます",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 274\nElement: BF\nAttribute: str"
+    "translation": "输入画面显示的<02>QT指令<//>，\n追上J.A.\n输入失败时，EVA的<02>A.T.<//>会下降",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 274\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0101_e5fee678f0",
     "original": "使徒の<02>最終落下予測地点<//>に移動して、\n<02>Ａ．Ｔ．フィールドを全開<//>に\nしてください\n<02>落下予測地点<//>は<02>ミニマップ<//>に表示され、\n一定時間ごとに更新されます",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 279\nElement: BF\nAttribute: str"
+    "translation": "移动至使徒的<02>最终坠落预测地点<//>，\n并<02>全力展开A.T.力场<//>\n<02>坠落预测地点<//>会显示在<02>小地图<//>上，\n并每隔一段时间更新",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 279\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0103_0ec428befc",
     "original": "<02>エヴァ零号機<//>の到着まで、\n地上にて待機する作戦です\n衛星軌道上からの使徒の攻撃に\n注意してください",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 285\nElement: BF\nAttribute: str"
+    "translation": "本次作战需在地面待命，\n直至<02>EVA零号机<//>抵达\n请小心使徒从卫星轨道发动的攻击",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 285\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0105_9770b826b4",
     "original": "表示される<02>ＱＴコマンド<//>を入力して\n使徒の攻撃を回避し、\nさらに、攻撃を加えてください",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 290\nElement: BF\nAttribute: str"
+    "translation": "输入画面显示的<02>QT指令<//>，\n躲避使徒的攻击，\n并进一步发动反击",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 290\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0107_9770b826b4",
     "original": "表示される<02>ＱＴコマンド<//>を入力して\n使徒の攻撃を回避し、\nさらに、攻撃を加えてください",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 294\nElement: BF\nAttribute: str"
+    "translation": "输入画面显示的<02>QT指令<//>，\n躲避使徒的攻击，\n并进一步发动反击",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 294\nElement: BF\nAttribute: str",
+    "stage": 1
   },
   {
     "key": "e_a4df461428_0109_dfe9aff3e4",
     "original": "連続して現れる<02>エヴァ量産機<//>９体を\n全て殲滅してください",
-    "translation": "",
-    "context": "File: BF/BATTLE_LOADING.XML\nLine: 298\nElement: BF\nAttribute: str"
+    "translation": "请歼灭接连出现的全部9架\n<02>EVA量产机<//>",
+    "context": "File: BF/BATTLE_LOADING.XML\nLine: 298\nElement: BF\nAttribute: str",
+    "stage": 1
   }
 ]
