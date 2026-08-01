@@ -58,7 +58,7 @@
   {
     "key": "e_2fb1dc591d_0009_f828e90c60",
     "original": "スキルプログラムを実装",
-    "translation": "实装技能程序",
+    "translation": "安装技能程序",
     "context": "File: PREPARE/LAST_BATTLE.NUT\nLine: 57\nCall: MenuSetup\nVoice: 戦闘を開始",
     "stage": 1
   },

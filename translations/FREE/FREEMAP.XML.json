@@ -2,7 +2,7 @@
   {
     "key": "e_68a342e32b_0004_ad07c74384",
     "original": "ネルフ本部 第１発令所",
-    "translation": "NERV总部 第一指令室",
+    "translation": "NERV总部 第１指挥所",
     "context": "File: FREE/FREEMAP.XML\nLine: 3\nElement: PLACE\nAttribute: name",
     "stage": 1
   },

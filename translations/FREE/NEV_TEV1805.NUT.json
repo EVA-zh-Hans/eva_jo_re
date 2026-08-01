@@ -58,7 +58,7 @@
   {
     "key": "e_478af4ca29_0009_732d542e6b",
     "original": "いえ、パターン青\\n間違いありません、使徒です",
-    "translation": "不，是蓝色模式\\n毫无疑问，是使徒",
+    "translation": "不，是蓝色波形\\n毫无疑问，是使徒",
     "context": "File: FREE/NEV_TEV1805.NUT\nLine: 440\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1805_09_006",
     "stage": 1
   },

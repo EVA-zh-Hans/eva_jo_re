@@ -1318,7 +1318,7 @@
   {
     "key": "e_d1e3aa4a34_0330_36aee94ecb",
     "original": "あー、戦いで言うなら\\nＡ．Ｔ．と射程言うんと違うか　",
-    "translation": "要说战斗啊\\n关键还是看AT力场和射程吧",
+    "translation": "要说战斗啊\\n关键还是看AT值和射程吧",
     "context": "File: TALK/TOUJI_TALK.NUT\nLine: 292\nSpeaker: IMC_TOJI\nVoice: ",
     "stage": 1
   },

@@ -9,7 +9,7 @@
   {
     "key": "e_c3d9ec5e59_0002_921583d04b",
     "original": "特務機関ネルフの特例による\\n法的保護の破棄",
-    "translation": "废除特务机关NERV\\n享有的法律特例保护",
+    "translation": "废除特务机关 NERV\\n享有的法律特例保护",
     "context": "File: FREE/NEV_TEV1903.NUT\nLine: 228\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA02_0042_09_001_1",
     "stage": 1
   },

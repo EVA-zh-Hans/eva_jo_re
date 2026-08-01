@@ -44,42 +44,42 @@
   {
     "key": "e_13eecbff66_0007_484a9061d9",
     "original": "<02>Ａ．Ｔ．フィールド<//>を壊すことを\\n<02>バニッシュ<//>と言うの▽",
-    "translation": "破坏<02>AT力场<//>的行为\\n称为<02>VANISH<//>▽",
+    "translation": "破坏<02>AT力场<//>的行为\\n称为<02>崩坏状态<//>▽",
     "context": "File: FREE/NEV_TUT0013.NUT\nLine: 174\nCall: im.play\nSpeaker: IMC_MISATO",
     "stage": 1
   },
   {
     "key": "e_13eecbff66_0008_d0a416d4ac",
     "original": "極端な話をすれば、使徒との戦いは、\\n<02>バニッシュ<//>を作り出すことなのよ",
-    "translation": "极端来说，与使徒的战斗\\n就是制造<02>VANISH<//>的过程",
+    "translation": "极端来说，与使徒的战斗\\n就是制造<02>崩坏状态<//>的过程",
     "context": "File: FREE/NEV_TUT0013.NUT\nLine: 175\nCall: im.play\nSpeaker: IMC_MISATO",
     "stage": 1
   },
   {
     "key": "e_13eecbff66_0009_3655e51a22",
     "original": "<02>Ａ．Ｔ．フィールド<//>を\\n<02>バニッシュ<//>するまでが戦闘…",
-    "translation": "<02>AT力场<//>\\n被<02>VANISH<//>之前都算作战…",
+    "translation": "<02>AT力场<//>\\n被<02>崩坏状态<//>之前都算作战…",
     "context": "File: FREE/NEV_TUT0013.NUT\nLine: 178\nCall: im.play\nSpeaker: IMC_SHINJI",
     "stage": 1
   },
   {
     "key": "e_13eecbff66_0010_250d910fe8",
     "original": "<02>バニッシュ<//>すれば、\\n一気にダメージを与えることができる▽",
-    "translation": "一旦达成<02>VANISH<//>\\n就能一口气造成巨大伤害▽",
+    "translation": "一旦达成<02>崩坏状态<//>\\n就能一口气造成巨大伤害▽",
     "context": "File: FREE/NEV_TUT0013.NUT\nLine: 182\nCall: im.play\nSpeaker: IMC_MISATO",
     "stage": 1
   },
   {
     "key": "e_13eecbff66_0011_e28c476089",
     "original": "<02>バニッシュ<//>までの努力が、あなたの戦い",
-    "translation": "<02>歼灭<//>之前的努力，就是你的战斗",
+    "translation": "<02>崩坏状态<//>之前的努力，就是你的战斗",
     "context": "File: FREE/NEV_TUT0013.NUT\nLine: 183\nCall: im.play\nSpeaker: IMC_MISATO",
     "stage": 1
   },
   {
     "key": "e_13eecbff66_0012_d8f29395f4",
     "original": "どうすればいいんですか\\n<02>バニッシュ<//>って？",
-    "translation": "该怎么做才好呢\\n<02>歼灭<//>是什么？",
+    "translation": "该怎么做才好呢\\n<02>崩坏状态<//>是什么？",
     "context": "File: FREE/NEV_TUT0013.NUT\nLine: 186\nCall: im.play\nSpeaker: IMC_SHINJI",
     "stage": 1
   },
@@ -93,7 +93,7 @@
   {
     "key": "e_13eecbff66_0014_3f450e158e",
     "original": "<02>バニッシュ<//>するには<02>ダウン<//>…\\n<02>バニッシュ<//>するには<02>ダウン<//>…",
-    "translation": "<02>歼灭<//>需要<02>倒地<//>…\\n<02>歼灭<//>需要<02>倒地<//>…",
+    "translation": "<02>崩坏状态<//>需要<02>倒地<//>…\\n<02>崩坏状态<//>需要<02>倒地<//>…",
     "context": "File: FREE/NEV_TUT0013.NUT\nLine: 192\nCall: im.play\nSpeaker: IMC_SHINJI",
     "stage": 1
   },

@@ -156,7 +156,7 @@
   {
     "key": "e_04fc4c1502_0023_d8dadf1e62",
     "original": "そのためのネルフと\\nエヴァンゲリオンなのだから",
-    "translation": "NERV和福音战士\\n正是为此而存在的",
+    "translation": "NERV和EVANGELION\\n正是为此而存在的",
     "context": "File: FREE/NEV_TEV0503.NUT\nLine: 525\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: NA10_0503_07_017_1",
     "stage": 1
   },

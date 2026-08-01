@@ -9,7 +9,7 @@
   {
     "key": "e_9c152c1ff5_0002_baa9957763",
     "original": "委員会はエヴァシリーズの量産に着手した…\\nチャンスだ冬月",
-    "translation": "委员会已着手量产EVA系列…\\n机会来了冬月",
+    "translation": "委员会已着手量产EVA量产系列…\\n机会来了冬月",
     "context": "File: BTL_ARL/BTL_ARL_D2.NUT\nLine: 41\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: na13_0014_05_002",
     "stage": 1
   },

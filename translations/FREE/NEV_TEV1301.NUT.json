@@ -16,7 +16,7 @@
   {
     "key": "e_779ee6129f_0003_d6c47c25ad",
     "original": "確かに第２支部が\\n消滅したんだな！？",
-    "translation": "确认第二支部\\n确实消失了吗！？",
+    "translation": "确认第２支部\\n确实消失了吗！？",
     "context": "File: FREE/NEV_TEV1301.NUT\nLine: 242\nCall: im.event\nSpeaker: IMC_KOZO\nVoice: NA10_1301_06_003",
     "stage": 1
   },
@@ -44,7 +44,7 @@
   {
     "key": "e_779ee6129f_0007_54015fd576",
     "original": "エヴァンゲリオン四号機ならびに\\n半径８９キロ以内の関連研究施設は全て消滅しました",
-    "translation": "EVA四号机及\\n半径89公里内所有相关研究设施均已湮灭",
+    "translation": "EVANGELION四号机及\\n半径89公里内所有相关研究设施均已湮灭",
     "context": "File: FREE/NEV_TEV1301.NUT\nLine: 322\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1301_08_007",
     "stage": 1
   },
@@ -58,7 +58,7 @@
   {
     "key": "e_779ee6129f_0009_5b7b55fb57",
     "original": "おそらくは、ドイツで修復した\\nＳ２機関の搭載実験中の事故と思われます▽",
-    "translation": "推测是德国修复的\\nS2机关搭载实验引发的事故▽",
+    "translation": "推测是德国修复的\\nS²机关搭载实验引发的事故▽",
     "context": "File: FREE/NEV_TEV1301.NUT\nLine: 375\nCall: im.event\nSpeaker: IMC_AOBA\nVoice: NA02_0006_10_003",
     "stage": 1
   },

@@ -58,7 +58,7 @@
   {
     "key": "e_85540ce4a7_0009_043aa87b87",
     "original": "汎用人型決戦兵器、人造人間エヴァンゲリオン\\nその試作初号機にね",
-    "translation": "泛用人型决战兵器·人造人Evangelion\\n的试作初号机哦",
+    "translation": "泛用人型决战兵器·人造人EVANGELION\\n的试作初号机哦",
     "context": "File: FREE/NEV_TUT0002.NUT\nLine: 137\nCall: im.play\nSpeaker: IMC_MISATO",
     "stage": 1
   },
@@ -191,7 +191,7 @@
   {
     "key": "e_85540ce4a7_0028_6adb466d04",
     "original": "具体的には<02>マップギミックの手配・配置<//>ね▽",
-    "translation": "具体来说就是<02>地图机关的调配布置<//>▽",
+    "translation": "具体来说就是<02>地图机关调配、配置<//>▽",
     "context": "File: FREE/NEV_TUT0002.NUT\nLine: 174\nCall: im.play\nSpeaker: IMC_MISATO",
     "stage": 1
   },

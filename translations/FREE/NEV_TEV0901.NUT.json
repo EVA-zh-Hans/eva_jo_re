@@ -65,7 +65,7 @@
   {
     "key": "e_47402a57d4_0010_9149321968",
     "original": "エヴァ、発進準備！！",
-    "translation": "EVA，准备发射！！",
+    "translation": "EVA，准备出击！！",
     "context": "File: FREE/NEV_TEV0901.NUT\nLine: 299\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA03_0004_04_003_1",
     "stage": 1
   }

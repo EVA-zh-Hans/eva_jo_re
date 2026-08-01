@@ -26,7 +26,7 @@
   {
     "key": "e_0d585cfbcf_0028_174ee775a4",
     "original": "バニッシュ状態継続時間(秒)",
-    "translation": "湮灭状态持续时间（秒）",
+    "translation": "崩坏状态持续时间（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 8\nElement: PARAM\nAttribute: text"
   },
   {
@@ -74,13 +74,13 @@
   {
     "key": "e_0d585cfbcf_0068_835afa9112",
     "original": "活動限界時間(秒)",
-    "translation": "活动限界时间（秒）",
+    "translation": "活动时限（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 16\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0073_afda487dc3",
     "original": "活動限界時間充電速度(充電速度/秒)",
-    "translation": "活动限界时间充电速度（充电速度/秒）",
+    "translation": "活动时限充电速度（充电速度/秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 17\nElement: PARAM\nAttribute: text"
   },
   {
@@ -164,13 +164,13 @@
   {
     "key": "e_0d585cfbcf_0143_750cc86aba",
     "original": "ジャストガード成立受付時間(秒)",
-    "translation": "精准防御判定时间（秒）",
+    "translation": "完美格挡判定时间（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 31\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0148_f68650d752",
     "original": "ジャストガード成立時シンクロ率上昇",
-    "translation": "精准防御成功时同步率上升值",
+    "translation": "完美格挡成功时同步率上升值",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 32\nElement: PARAM\nAttribute: text"
   },
   {

@@ -905,7 +905,7 @@
   {
     "key": "e_3aa35147e9_0212_f5039f93ce",
     "original": "ある程度予測しないと、回避できないと思うよ\\n相手のリズムを掴んで　",
-    "translation": "若不提前预判就难以回避\n要抓住对方的行动节奏",
+    "translation": "若不提前预判就难以闪避\n要抓住对方的行动节奏",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 233\nSpeaker: IMC_KAWORU\nVoice: ",
     "stage": 1
   },
@@ -1325,7 +1325,7 @@
   {
     "key": "e_3aa35147e9_0332_233517eb39",
     "original": "回避スキルは\\nバックステップと組み合わせて使うよ　",
-    "translation": "回避技能要配合后撤步使用哦",
+    "translation": "闪避技能要配合后撤步使用哦",
     "context": "File: TALK/KAWORU_TALK.NUT\nLine: 293\nSpeaker: IMC_KAWORU\nVoice: ",
     "stage": 1
   },

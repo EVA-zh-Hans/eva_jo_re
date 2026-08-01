@@ -51,7 +51,7 @@
   {
     "key": "e_b83e3d3d38_0008_4e552b1e3b",
     "original": "そうよ…あなたは、エヴァンゲリオン\\n初号機のパイロットなのだから▽",
-    "translation": "没错……因为你是\nEVA初号机的驾驶员啊▽",
+    "translation": "没错……因为你是\nEVANGELION初号机的驾驶员啊▽",
     "context": "File: FREE/NEV_TEV0201.NUT\nLine: 249\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0201_04_012",
     "stage": 1
   },

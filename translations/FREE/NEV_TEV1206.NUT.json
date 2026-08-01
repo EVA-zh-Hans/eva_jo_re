@@ -30,7 +30,7 @@
   {
     "key": "e_e27f1144ef_0005_f40c6f1ee2",
     "original": "特務機関ネルフ、\\n特殊監査部所属、加持リョウジ▽",
-    "translation": "特务机关NERV\n特殊监察部所属，加持良治▽",
+    "translation": "特务机关 NERV\n特殊监察部所属，加持良治▽",
     "context": "File: FREE/NEV_TEV1206.NUT\nLine: 236\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1206_04_005",
     "stage": 1
   },

@@ -191,7 +191,7 @@
   {
     "key": "e_c5de083e88_0028_946460c329",
     "original": "俺は、加持リョウジ\\n特務機関ネルフ、特殊監査部に所属している",
-    "translation": "我是加持良治\\n隶属于特务机关NERV特殊监察部",
+    "translation": "我是加持良治\\n隶属于特务机关 NERV特殊监察部",
     "context": "File: FREE/NEV_TEV0601.NUT\nLine: 956\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_0602_11_008_1",
     "stage": 1
   },
@@ -254,7 +254,7 @@
   {
     "key": "e_c5de083e88_0037_a531dce0d9",
     "original": "わたしのにごうきは、じっせんようにつくられた、\\nせかいはつの、ほんもののエヴァンゲリオンなのよ▽",
-    "translation": "我的贰号机可是实战专用、\\n世界首台真正的福音战士哦▽",
+    "translation": "我的贰号机可是实战专用、\\n世界首台真正的EVANGELION哦▽",
     "context": "File: FREE/NEV_TEV0601.NUT\nLine: 1204\nCall: im.event\nSpeaker: IMC_ASUKA\nVoice: NA10_0602_02_016_2",
     "stage": 1
   },

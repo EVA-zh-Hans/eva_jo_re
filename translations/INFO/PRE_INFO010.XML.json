@@ -30,14 +30,14 @@
   {
     "key": "e_40d4e77e74_0021_06f1fc6c5c",
     "original": "レーダーに反応が無い\\nＡ．Ｔ．フィールドを中和し\\nバニッシュすれば何らかの変化を\\n起こす事が予想される",
-    "translation": "雷达没有反应\\n中和AT力场并将其湮灭后\\n预计会发生某种变化",
+    "translation": "雷达没有反应\\n中和AT力场并将其崩坏状态后\\n预计会发生某种变化",
     "context": "File: INFO/PRE_INFO010.XML\nLine: 7\nElement: DETAIL\nAttribute: exp",
     "stage": 1
   },
   {
     "key": "e_40d4e77e74_0025_d7e3ee0114",
     "original": "通常時はダメージがほぼ入らないため\\nとにかくバニッシュを狙う\\n浸食スキルを重視する",
-    "translation": "通常几乎无法造成伤害，\\n总之要瞄准湮灭状态，\\n并优先使用侵蚀技能",
+    "translation": "通常几乎无法造成伤害，\\n总之要瞄准崩坏状态，\\n并优先使用侵蚀技能",
     "context": "File: INFO/PRE_INFO010.XML\nLine: 8\nElement: DETAIL\nAttribute: exp",
     "stage": 1
   },
@@ -51,7 +51,7 @@
   {
     "key": "e_40d4e77e74_0033_a80240a343",
     "original": "Ａ．Ｔ．フィールドのバニッシュで\\n目標の状態を変化させながら戦う",
-    "translation": "一边通过湮灭AT力场改变目标状态，\\n一边进行战斗",
+    "translation": "一边通过崩坏状态AT力场改变目标状态，\\n一边进行战斗",
     "context": "File: INFO/PRE_INFO010.XML\nLine: 10\nElement: DETAIL\nAttribute: exp",
     "stage": 1
   }

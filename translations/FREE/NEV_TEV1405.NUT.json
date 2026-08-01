@@ -9,7 +9,7 @@
   {
     "key": "e_c218471a64_0002_3c92c18d39",
     "original": "内部に熱、電子、電磁波、他、化学エネルギー反応\\n無し、Ｓ２機関は完全停止しています",
-    "translation": "内部无热、电子、电磁波及化学能量反应\\nS2机关已完全停止",
+    "translation": "内部无热、电子、电磁波及化学能量反应\\nS²机关已完全停止",
     "context": "File: FREE/NEV_TEV1405.NUT\nLine: 281\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: NA10_1405_09_002",
     "stage": 1
   },
@@ -149,7 +149,7 @@
   {
     "key": "e_c218471a64_0022_421ce3df21",
     "original": "シンジ君のサルベージ計画？",
-    "translation": "真嗣君的回收计划？",
+    "translation": "真嗣君的打捞回收计划？",
     "context": "File: FREE/NEV_TEV1405.NUT\nLine: 752\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1405_04_019",
     "stage": 1
   },
@@ -205,7 +205,7 @@
   {
     "key": "e_c218471a64_0030_ee5fcc063b",
     "original": "サルベージ計画の要項、たった１ヶ月で\\n作成できるなんて、さっすが先輩ですね",
-    "translation": "打捞计划的纲要，居然只用一个月就\\n完成了，真不愧是前辈呢",
+    "translation": "打捞打捞回收计划的纲要，居然只用一个月就\\n完成了，真不愧是前辈呢",
     "context": "File: FREE/NEV_TEV1405.NUT\nLine: 863\nCall: im.event\nSpeaker: IMC_MAYA\nVoice: NA10_1405_08_023",
     "stage": 1
   },

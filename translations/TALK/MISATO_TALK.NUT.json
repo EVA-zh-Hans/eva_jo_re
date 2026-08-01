@@ -1332,7 +1332,7 @@
   {
     "key": "e_89badcf1cb_0334_57089e3bec",
     "original": "移動スキルを実装しておくと、\\nダッシュしてもＡ．Ｔ．の減りが少ないわよ　",
-    "translation": "装备移动技能的话，\\n就算冲刺AT力场也消耗得比较少哦",
+    "translation": "安装移动技能的话，\\n就算冲刺AT值也消耗得比较少哦",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 294\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
@@ -1780,14 +1780,14 @@
   {
     "key": "e_89badcf1cb_0462_fb22a26e14",
     "original": "とにかく相手のＡ．Ｔ．を削りまくって、\\nバニッシュに追い込むべきね▽",
-    "translation": "总之要全力削弱对方的AT力场，逼它进入湮灭状态▽",
+    "translation": "总之要全力削弱对方的AT值，逼它进入崩坏状态▽",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 519\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },
   {
     "key": "e_89badcf1cb_0464_955fd365b3",
     "original": "敵のＡ．Ｔ．を中和する速度を早めるには、\\n浸食スキルを実装するのが有効よ",
-    "translation": "要加速中和敌人的AT力场，装备侵蚀技能很有效",
+    "translation": "要加速中和敌人的AT值，安装侵蚀技能很有效",
     "context": "File: TALK/MISATO_TALK.NUT\nLine: 520\nSpeaker: IMC_MISATO\nVoice: ",
     "stage": 1
   },

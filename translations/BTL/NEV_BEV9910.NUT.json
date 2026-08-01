@@ -2,7 +2,7 @@
   {
     "key": "e_753143f0a0_0001_cd62317c3e",
     "original": "<02>Ａ．Ｔ．フィールド　バニッシュ！<//>\\n目標の防御力激減！",
-    "translation": "<02>AT力场消除！<//>\\n目标防御力锐减！",
+    "translation": "<02>AT值进入崩坏状态！<//>\\n目标防御力锐减！",
     "context": "File: BTL/NEV_BEV9910.NUT\nLine: 15\nCall: DecideStart2",
     "stage": 1
   }

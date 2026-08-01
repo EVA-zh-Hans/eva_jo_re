@@ -23,7 +23,7 @@
   {
     "key": "e_f98863de5d_0004_f78289993b",
     "original": "（Ｊ．Ａ．が止まったのは、\\n　私の手ではない…）",
-    "translation": "（Jet Alone的停止…\\n　并非我的操作所致…）",
+    "translation": "（J.A.的停止…\\n　并非我的操作所致…）",
     "context": "File: BTL_JA/BTL_JA_DEMO3.NUT\nLine: 49\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0506_04_011",
     "stage": 1
   },

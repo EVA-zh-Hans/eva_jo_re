@@ -603,43 +603,43 @@
   {
     "key": "e_f763a76cfe_0493_5a303b8472",
     "original": "ロック回避補間速度",
-    "translation": "锁定回避插值速度",
+    "translation": "锁定闪避插值速度",
     "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 101\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_f763a76cfe_0498_f1c5ab2eee",
     "original": "ロック回避(x)",
-    "translation": "锁定回避(x)",
+    "translation": "锁定闪避(x)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 102\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_f763a76cfe_0503_a158ec3446",
     "original": "ロック回避(y)",
-    "translation": "锁定回避(y)",
+    "translation": "锁定闪避(y)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 103\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_f763a76cfe_0508_81c5d13014",
     "original": "ロック回避(z)",
-    "translation": "锁定回避(z)",
+    "translation": "锁定闪避(z)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 104\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_f763a76cfe_0513_c0e045fc43",
     "original": "ロック回避注視点(y)",
-    "translation": "锁定回避注视点(y)",
+    "translation": "锁定闪避注视点(y)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 105\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_f763a76cfe_0518_266224e2bc",
     "original": "ロック回避注視点",
-    "translation": "锁定回避注视点",
+    "translation": "锁定闪避注视点",
     "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 106\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_f763a76cfe_0523_e92470d307",
     "original": "ロック回避fov",
-    "translation": "锁定回避视野角",
+    "translation": "锁定闪避视野角",
     "context": "File: ADJUST/DEBUG_BTL_CAM_BASE.XML\nLine: 107\nElement: PARAM\nAttribute: text"
   },
   {

@@ -1570,7 +1570,7 @@
   {
     "key": "e_4ed3ef73c1_0402_511a8a685e",
     "original": "どの攻撃も攻撃力が桁外れです\\nしかもオールレンジに攻撃可能、隙がありませんね",
-    "translation": "所有攻击都具备超规格的破坏力\\n且能进行全领域无死角打击，几乎毫无破绽",
+    "translation": "所有攻击都具备超规格的攻击力\\n且能进行全领域无死角打击，几乎毫无破绽",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 489\nSpeaker: IMC_MAKOTO\nVoice: ",
     "stage": 1
   },
@@ -1640,7 +1640,7 @@
   {
     "key": "e_4ed3ef73c1_0422_fd28046dc9",
     "original": "僕は日向マコト　ネルフ本部中央作戦司令部\\n作戦局第一課所属、二尉▽",
-    "translation": "我是日向真嗣　NERV本部中央作战司令部\\n作战局第一课所属、中尉▽",
+    "translation": "我是日向诚　NERV总部中央作战司令部\\n作战局第一课所属、中尉▽",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 499\nSpeaker: IMC_MAKOTO\nVoice: na54_0007_09_001_3",
     "stage": 1
   },
@@ -1654,7 +1654,7 @@
   {
     "key": "e_4ed3ef73c1_0426_4b1f518b4e",
     "original": "…葛城さんは、\\nなんでパイロットを自分の家で預かっているのかな▽",
-    "translation": "…葛城上尉为什么\\n要让驾驶员住在自己家呢▽",
+    "translation": "…葛城小姐为什么\\n要让驾驶员住在自己家呢▽",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 501\nSpeaker: IMC_MAKOTO\nVoice: na54_0007_09_002_1",
     "stage": 1
   },
@@ -1668,7 +1668,7 @@
   {
     "key": "e_4ed3ef73c1_0430_54c98caaea",
     "original": "いや、ひどい目にあったよ　葛城さんに\\n若くて綺麗と言ったら、なぜか猛烈に怒られたんだ▽",
-    "translation": "可惨了，葛城上尉听到\\n我说她年轻漂亮就突然暴怒▽",
+    "translation": "可惨了，葛城小姐听到\\n我说她年轻漂亮就突然暴怒▽",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 503\nSpeaker: IMC_MAKOTO\nVoice: na54_0007_09_003_1",
     "stage": 1
   },
@@ -1696,7 +1696,7 @@
   {
     "key": "e_4ed3ef73c1_0438_1a220c0ede",
     "original": "葛城さんから着替え、クリーニング取りに行って\\nと言われてね　信頼されてるなあ",
-    "translation": "葛城上尉让我去取换洗衣物和干洗品呢　看来很信任我啊",
+    "translation": "葛城小姐让我去取换洗衣物和干洗品呢　看来很信任我啊",
     "context": "File: TALK/MAKOTO_TALK.NUT\nLine: 507\nSpeaker: IMC_MAKOTO\nVoice: na54_0007_09_004_2",
     "stage": 1
   },

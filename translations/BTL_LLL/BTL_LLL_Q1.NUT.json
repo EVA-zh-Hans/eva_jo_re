@@ -114,7 +114,7 @@
   {
     "key": "e_58ee56a01b_0017_9ebf0f14e4",
     "original": "エヴァの強制サルベージ！？",
-    "translation": "强制打捞EVA！？",
+    "translation": "强制打捞回收EVA！？",
     "context": "File: BTL_LLL/BTL_LLL_Q1.NUT\nLine: 187\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: na14_0006_04_001",
     "stage": 1
   },

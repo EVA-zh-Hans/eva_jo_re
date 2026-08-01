@@ -37,7 +37,7 @@
   {
     "key": "e_5aeb39b09b_0006_7b774dba2b",
     "original": "Ｓ２機関を自ら搭載し、\\n絶対的存在を手にしたエヴァンゲリオン初号機",
-    "translation": "自行搭载S²机关\\n获得绝对存在的EVA初号机",
+    "translation": "自行搭载S²机关\\n获得绝对存在的EVANGELION初号机",
     "context": "File: FREE/NEV_TEV1503.NUT\nLine: 323\nCall: im.event\nSpeaker: IMC_SEELE02\nVoice: NA10_1503_40_006",
     "stage": 1
   },

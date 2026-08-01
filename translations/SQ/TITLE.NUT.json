@@ -716,35 +716,35 @@
   {
     "key": "e_6901d3dfdb_0103_cb4d84f25f",
     "original": "量産機迎撃作戦上級",
-    "translation": "EVA量产系列迎击作战·高级",
+    "translation": "量产机迎击作战·高级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量産機迎撃作戦上級２",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0104_619d6951f4",
     "original": "量産機迎撃作戦上級２",
-    "translation": "EVA量产系列迎击作战·高级2",
+    "translation": "量产机迎击作战·高级2",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量産機迎撃作戦超級",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0105_0a771afe71",
     "original": "量産機迎撃作戦超級",
-    "translation": "EVA量产系列迎击作战·超级",
+    "translation": "量产机迎击作战·超级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量産機迎撃作戦超級２",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0106_0f0f330da1",
     "original": "量産機迎撃作戦超級２",
-    "translation": "EVA量产系列迎击作战·超级2",
+    "translation": "量产机迎击作战·超级2",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 量産機迎撃作戦神級",
     "stage": 1
   },
   {
     "key": "e_6901d3dfdb_0107_09c91719db",
     "original": "量産機迎撃作戦神級",
-    "translation": "EVA量产系列迎击作战·神级",
+    "translation": "量产机迎击作战·神级",
     "context": "File: SQ/TITLE.NUT\nLine: 287\nCall: MenuSetup\nVoice: 水の大行進",
     "stage": 1
   },

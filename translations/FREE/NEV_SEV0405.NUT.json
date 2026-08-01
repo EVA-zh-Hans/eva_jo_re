@@ -9,7 +9,7 @@
   {
     "key": "e_b36ea54583_0002_b942b89567",
     "original": "初号機、発進準備！",
-    "translation": "初号机，发射准备！",
+    "translation": "初号机，出击准备！",
     "context": "File: FREE/NEV_SEV0405.NUT\nLine: 316\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0405_04_004",
     "stage": 1
   },
@@ -128,7 +128,7 @@
   {
     "key": "e_b36ea54583_0020_3969004653",
     "original": "加粒子砲を受けずに攻撃する方法は、目標のＡ．Ｔ．\\nフィールドを中和せずレンジ外からの一点狙撃のみ▽",
-    "translation": "要避开荷电粒子炮的攻击，唯一方法就是\\n不中和目标的AT力场，在射程外进行精准狙击▽",
+    "translation": "要避开荷电粒子炮的攻击，唯一方法就是\\n不中和目标的AT值，在射程外进行精准狙击▽",
     "context": "File: FREE/NEV_SEV0405.NUT\nLine: 951\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0407_04_008_1",
     "stage": 1
   },
@@ -177,14 +177,14 @@
   {
     "key": "e_b36ea54583_0027_ca79427fc3",
     "original": "碇、綾波、両パイロットは本日１９３０、\\n第２ターミナルに集合",
-    "translation": "碇、绫波两位驾驶员\\n请于今日19:30在第二终端集合",
+    "translation": "碇、绫波两位驾驶员\\n请于今日19:30在第２终端集合",
     "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1152\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_003_2",
     "stage": 1
   },
   {
     "key": "e_b36ea54583_0028_ddb877538e",
     "original": "２０００、初号機、再び零号機に付随し移動開始\\n２００５、発進",
-    "translation": "20:00 初号机再次随行零号机开始移动\\n20:05 出发",
+    "translation": "20:00 初号机再次随行零号机开始移动\\n20:05 出击",
     "context": "File: FREE/NEV_SEV0405.NUT\nLine: 1156\nCall: im.event\nSpeaker: IMC_REI\nVoice: na50_0006_03_003_3",
     "stage": 1
   },

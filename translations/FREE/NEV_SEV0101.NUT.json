@@ -177,7 +177,7 @@
   {
     "key": "e_2d3efde532_0026_c9164814e0",
     "original": "人の作り出した究極の汎用決戦兵器\\n人造人間エヴァンゲリオン…その初号機",
-    "translation": "人类创造的终极泛用决战兵器\\n人造人EVA…这是初号机",
+    "translation": "人类创造的终极泛用决战兵器\\n人造人EVANGELION…这是初号机",
     "context": "File: FREE/NEV_SEV0101.NUT\nLine: 769\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_0101_04_025",
     "stage": 1
   },

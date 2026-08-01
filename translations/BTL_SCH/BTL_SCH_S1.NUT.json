@@ -9,7 +9,7 @@
   {
     "key": "e_23ec475917_0002_607636ba4e",
     "original": "早速だけど、あなたにはこのエヴァンゲリオンで\\n人類の敵、使徒と戦ってもらいます",
-    "translation": "事不宜迟，你要驾驶这台EVA\\n与人类的敌人——使徒战斗",
+    "translation": "事不宜迟，你要驾驶这台EVANGELION\\n与人类的敌人——使徒战斗",
     "context": "File: BTL_SCH/BTL_SCH_S1.NUT\nLine: 38\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA51_0001_04_001_2",
     "stage": 1
   },

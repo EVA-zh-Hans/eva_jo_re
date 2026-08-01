@@ -1311,7 +1311,7 @@
   {
     "key": "e_6fd828a5c0_0328_6b4ca33e0f",
     "original": "ダメージを与えられなければ、意味はない\\n攻撃力、貫通力は重要だよ",
-    "translation": "无法造成伤害就毫无意义\\n攻击力和穿透力才是关键",
+    "translation": "无法造成伤害就毫无意义\\n攻击力和贯穿力才是关键",
     "context": "File: TALK/KOZO_TALK.NUT\nLine: 291\nSpeaker: IMC_KOZO\nVoice: ",
     "stage": 1
   },

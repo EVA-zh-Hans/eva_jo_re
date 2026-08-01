@@ -23,7 +23,7 @@
   {
     "key": "e_466dee77b2_0004_1e1f043dff",
     "original": "今、シミュレーション、\\n<02>模擬戦<//>のほうも入れ替えてもらってる",
-    "translation": "现在连模拟作战\\n<02>训练模式<//>也更新过了",
+    "translation": "现在连模拟战\\n<02>模拟战<//>也更新过了",
     "context": "File: FREE/NEV_TUT0012.NUT\nLine: 90\nCall: im.play\nSpeaker: IMC_MISATO",
     "stage": 1
   },

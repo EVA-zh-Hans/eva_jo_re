@@ -72,7 +72,7 @@
   {
     "key": "e_e59d60203f_0011_741d83d455",
     "original": "エヴァンゲリオン操縦者選出のために設けられた、\\n人類補完委員会直属の諮問機関▽",
-    "translation": "为选拔EVA驾驶员设立的人类补完委员会直属咨询机构▽",
+    "translation": "为选拔EVANGELION驾驶员设立的人类补完委员会直属咨询机构▽",
     "context": "File: FREE/NEV_TEV1201.NUT\nLine: 403\nCall: im.event\nSpeaker: IMC_NONE\nVoice: NA10_1201_11_009_2",
     "stage": 1
   },

@@ -98,7 +98,7 @@
   {
     "key": "e_862ce37570_0017_56771a7c75",
     "original": "エヴァ量産機",
-    "translation": "EVA量产系列",
+    "translation": "EVA量产机",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 16\nField: mission name (column 0)"
   },
   {
@@ -548,31 +548,31 @@
   {
     "key": "e_862ce37570_0092_cb4d84f25f",
     "original": "量産機迎撃作戦上級",
-    "translation": "EVA量产系列迎击作战高级",
+    "translation": "量产机迎击作战高级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 91\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0093_619d6951f4",
     "original": "量産機迎撃作戦上級２",
-    "translation": "EVA量产系列迎击作战高级2",
+    "translation": "量产机迎击作战高级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 92\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0094_0a771afe71",
     "original": "量産機迎撃作戦超級",
-    "translation": "EVA量产系列迎击作战超级",
+    "translation": "量产机迎击作战超级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 93\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0095_0f0f330da1",
     "original": "量産機迎撃作戦超級２",
-    "translation": "EVA量产系列迎击作战超级2",
+    "translation": "量产机迎击作战超级2",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 94\nField: mission name (column 0)"
   },
   {
     "key": "e_862ce37570_0096_09c91719db",
     "original": "量産機迎撃作戦神級",
-    "translation": "EVA量产系列迎击作战神级",
+    "translation": "量产机迎击作战神级",
     "context": "File: EVENT/MISSION_FORMAT.BIN\nRow: 95\nField: mission name (column 0)"
   },
   {

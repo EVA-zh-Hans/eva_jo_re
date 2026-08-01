@@ -2,7 +2,7 @@
   {
     "key": "e_e1a3208b34_0005_47fb885a32",
     "original": "スキルプログラムを実装する",
-    "translation": "装备技能程序",
+    "translation": "安装技能程序",
     "context": "File: BTNNAVI/SETSKL2.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {

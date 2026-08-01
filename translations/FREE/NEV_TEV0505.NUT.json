@@ -177,7 +177,7 @@
   {
     "key": "e_2eca10fa50_0026_c011fae0df",
     "original": "お待たせしました！　皆さん御覧下さい、\\nこれがＪ．Ａ．ジェットアローンです",
-    "translation": "让各位久等了！请看——这就是JA·Jet Alone",
+    "translation": "让各位久等了！请看——这就是J.A.·Jet Alone",
     "context": "File: FREE/NEV_TEV0505.NUT\nLine: 584\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_024",
     "stage": 1
   },
@@ -191,7 +191,7 @@
   {
     "key": "e_2eca10fa50_0028_b1bb619e2d",
     "original": "た、大変だ…\\nＪ．Ａ．の制御が利かない…",
-    "translation": "糟、糟了…JA系统失控…",
+    "translation": "糟、糟了…J.A.系统失控…",
     "context": "File: FREE/NEV_TEV0505.NUT\nLine: 628\nCall: im.event\nSpeaker: IMC_TOKITA\nVoice: NA10_0505_21_029",
     "stage": 1
   },

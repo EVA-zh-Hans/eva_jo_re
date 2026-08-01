@@ -437,35 +437,35 @@
     "key": "eboot_0027f4d0",
     "offset": "0x0027F4D0",
     "original": "第３新東京市　中央区\n<03>損壊率　　：<//>%2d％　%s\n<03>スロット数：<//>%d",
-    "translation": "第三新东京市　中央区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
+    "translation": "第三新东京市 中央区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
     "context": "EBOOT .rodata: map status detail"
   },
   {
     "key": "eboot_0027f51c",
     "offset": "0x0027F51C",
     "original": "第３新東京市　東地区\n<03>損壊率　　：<//>%2d％　%s\n<03>スロット数：<//>%d",
-    "translation": "第三新东京市　东地区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
+    "translation": "第三新东京市 东区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
     "context": "EBOOT .rodata: map status detail"
   },
   {
     "key": "eboot_0027f568",
     "offset": "0x0027F568",
     "original": "第３新東京市　西地区\n<03>損壊率　　：<//>%2d％　%s\n<03>スロット数：<//>%d",
-    "translation": "第三新东京市　西地区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
+    "translation": "第三新东京市 西区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
     "context": "EBOOT .rodata: map status detail"
   },
   {
     "key": "eboot_0027f5b4",
     "offset": "0x0027F5B4",
     "original": "第３新東京市　南地区\n<03>損壊率　　：<//>%2d％　%s\n<03>スロット数：<//>%d",
-    "translation": "第三新东京市　南地区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
+    "translation": "第三新东京市 南区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
     "context": "EBOOT .rodata: map status detail"
   },
   {
     "key": "eboot_0027f600",
     "offset": "0x0027F600",
     "original": "第３新東京市　北地区\n<03>損壊率　　：<//>%2d％　%s\n<03>スロット数：<//>%d",
-    "translation": "第三新东京市　北地区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
+    "translation": "第三新东京市 北区\n<03>损坏率　　：<//>%2d％　%s\n<03>插槽数：<//>%d",
     "context": "EBOOT .rodata: map status detail"
   },
   {

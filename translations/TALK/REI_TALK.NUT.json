@@ -1325,7 +1325,7 @@
   {
     "key": "e_ecf058da75_0332_002c4c682b",
     "original": "使徒がガードをしている時に、近付いてガード\\n浸食できるわ　自分もＡ．Ｔ．をなくすけど　",
-    "translation": "当使徒展开防御时，靠近就能侵蚀它的AT力场\\n不过自己也会暂时失去AT力场",
+    "translation": "当使徒展开防御时，靠近就能侵蚀它的AT值\\n不过自己也会暂时失去AT值",
     "context": "File: TALK/REI_TALK.NUT\nLine: 293\nSpeaker: IMC_REI\nVoice: ",
     "stage": 1
   },

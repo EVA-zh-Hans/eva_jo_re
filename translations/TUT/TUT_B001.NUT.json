@@ -30,7 +30,7 @@
   {
     "key": "e_46b065e55a_0005_48a7120a9d",
     "original": "<02>装甲スキル<//>を<02>実装<//>する事で、\\nエヴァの防御力を高める事もできます",
-    "translation": "通过<02>装备<//><02>装甲技能<//>可提升EVA防御力",
+    "translation": "通过<02>安装<//><02>装甲技能<//>可提升EVA防御力",
     "context": "File: TUT/TUT_B001.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -58,35 +58,35 @@
   {
     "key": "e_46b065e55a_0009_3ec8220560",
     "original": "<02>ヘイフリックスキル<//>を<02>実装<//>する事で、\\n回復速度を速める事もできます",
-    "translation": "<02>装备<//><02>海弗利克技能<//>可加速恢复",
+    "translation": "<02>安装<//><02>海弗利克技能<//>可加速恢复",
     "context": "File: TUT/TUT_B001.NUT\nLine: 57\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_46b065e55a_0010_6f63b120db",
     "original": "<02>Ａ．Ｔ．<//>は<02>ダッシュ<//>や<02>回避行動<//>など、▽",
-    "translation": "<02>AT<//>用于<02>冲刺<//><02>闪避<//>等行动▽",
+    "translation": "<02>AT值<//>用于<02>冲刺<//><02>闪避<//>等行动▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 69\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_46b065e55a_0011_1fb035e966",
     "original": "<02>Ａ．Ｔ．<//>を必要とする行動をしたり、\\n使徒の攻撃を受けたりする事で消費します▽",
-    "translation": "进行消耗<02>AT<//>的行动或遭受使徒攻击时都会减少▽",
+    "translation": "进行消耗<02>AT值<//>的行动或遭受使徒攻击时都会减少▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 70\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_46b065e55a_0012_d7e4f5e1c8",
     "original": "消費する行動を止めれば、\\n<02>Ａ．Ｔ．<//>は自然に回復します",
-    "translation": "停止消耗行动后，<02>AT<//>会自然恢复",
+    "translation": "停止消耗行动后，<02>AT值<//>会自然恢复",
     "context": "File: TUT/TUT_B001.NUT\nLine: 71\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_46b065e55a_0013_495dae09d1",
     "original": "<02>Ａ．Ｔ．<//>を全て消費してしまうと、\\n<02>バニッシュ<//>の状態になり、▽",
-    "translation": "当<02>AT<//>耗尽时将进入<02>力竭<//>状态▽",
+    "translation": "当<02>AT值<//>耗尽时将进入<02>崩坏状态<//>▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 84\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -121,7 +121,7 @@
   {
     "key": "e_46b065e55a_0018_6e5a6dcc8a",
     "original": "使徒の<02>Ａ．Ｔ．<//>がゼロになり、\\n<02>バニッシュ<//>の状態になると▽",
-    "translation": "当使徒的<02>AT力场<//>归零，\\n进入<02>消失<//>状态时▽",
+    "translation": "当使徒的<02>AT值<//>归零，\\n进入<02>崩坏状态<//>时▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 102\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -212,14 +212,14 @@
   {
     "key": "e_46b065e55a_0031_106a198f14",
     "original": "<02>予備電源<//>で活動できる時間は、\\n<02>活動限界時間<//>として表示されます▽",
-    "translation": "<02>备用电源<//>可维持活动的时间，\\n会显示为<02>活动极限时间<//>▽",
+    "translation": "<02>备用电源<//>可维持活动的时间，\\n会显示为<02>活动时限<//>▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 150\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_46b065e55a_0032_336a181404",
     "original": "<02>活動限界時間<//>がゼロになると、\\nエヴァの活動は停止し▽",
-    "translation": "当<02>活动极限时间<//>归零时，\\nEVA将停止活动▽",
+    "translation": "当<02>活动时限<//>归零时，\\nEVA将停止活动▽",
     "context": "File: TUT/TUT_B001.NUT\nLine: 151\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -233,7 +233,7 @@
   {
     "key": "e_46b065e55a_0034_7a74e09905",
     "original": "<02>予備電源スキル<//>を<02>実装<//>する事で、\\n<02>活動限界時間<//>を延長する事もできます",
-    "translation": "通过<02>实装<//><02>备用电源技能<//>，\\n可延长<02>活动极限时间<//>",
+    "translation": "通过<02>安装<//><02>备用电源技能<//>，\\n可延长<02>活动时限<//>",
     "context": "File: TUT/TUT_B001.NUT\nLine: 153\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   }

@@ -779,7 +779,7 @@
   {
     "key": "e_37518f2cdf_0176_5d693edce1",
     "original": "攻撃されてから回避じゃ、なかなかまにあわない▽",
-    "translation": "等挨打了再躲闪　根本来不及嘛▽",
+    "translation": "等挨打了再闪避　根本来不及嘛▽",
     "context": "File: TALK/RYOJI_TALK.NUT\nLine: 215\nSpeaker: IMC_KAJI\nVoice: ",
     "stage": 1
   },
@@ -905,7 +905,7 @@
   {
     "key": "e_37518f2cdf_0212_f8901d5707",
     "original": "ある程度までは回避できるが、\\nそれ以上はな…",
-    "translation": "一定程度还能回避，\n但再往上就……",
+    "translation": "一定程度还能闪避，\n但再往上就……",
     "context": "File: TALK/RYOJI_TALK.NUT\nLine: 233\nSpeaker: IMC_KAJI\nVoice: ",
     "stage": 1
   },
@@ -947,7 +947,7 @@
   {
     "key": "e_37518f2cdf_0224_b98599db9c",
     "original": "防御を固めて攻撃をこちらにむければ、\\n回避できるんじゃないか？",
-    "translation": "强化防御并诱导攻击方向的话，\n应该能回避成功吧？",
+    "translation": "强化防御并诱导攻击方向的话，\n应该能闪避成功吧？",
     "context": "File: TALK/RYOJI_TALK.NUT\nLine: 239\nSpeaker: IMC_KAJI\nVoice: ",
     "stage": 1
   },

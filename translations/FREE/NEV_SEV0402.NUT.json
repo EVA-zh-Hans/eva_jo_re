@@ -16,7 +16,7 @@
   {
     "key": "e_068e79ed10_0003_f938be5dc3",
     "original": "すなわち、エヴァンゲリオン試作零号機、\\n専属操縦者…過去の経緯は白紙…全て抹消済み",
-    "translation": "亦即，福音战士试作零号机\\n专属驾驶员……过往履历空白……全部资料已销毁",
+    "translation": "亦即，EVANGELION试作零号机\\n专属驾驶员……过往履历空白……全部资料已销毁",
     "context": "File: FREE/NEV_SEV0402.NUT\nLine: 160\nCall: im.event\nSpeaker: IMC_RITSUKO\nVoice: na50_0005_07_001_3",
     "stage": 1
   },

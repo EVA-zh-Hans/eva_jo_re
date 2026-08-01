@@ -163,7 +163,7 @@
   {
     "key": "e_78f426bccc_0024_fa1f3c0ea1",
     "original": "第２支部ごと吹き飛んだって、\\nパパのところは大騒ぎだったみたいだぜ",
-    "translation": "听说连第二支部\\n都被炸飞了，我爸那边闹翻天了",
+    "translation": "听说连第２支部\\n都被炸飞了，我爸那边闹翻天了",
     "context": "File: FREE/NEV_TEV1307.NUT\nLine: 708\nCall: im.event\nSpeaker: IMC_KENSUKE\nVoice: NA10_1307_14_020_1",
     "stage": 1
   },

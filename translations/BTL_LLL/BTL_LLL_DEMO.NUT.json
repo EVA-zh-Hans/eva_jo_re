@@ -2,7 +2,7 @@
   {
     "key": "e_cd36b921cc_0001_4ae40b14f3",
     "original": "パターン青！\\n初号機の真下ですっ！",
-    "translation": "青模式！\\n就在初号机正下方！",
+    "translation": "蓝色波形！\\n就在初号机正下方！",
     "context": "File: BTL_LLL/BTL_LLL_DEMO.NUT\nLine: 23\nCall: im.event\nSpeaker: IMC_MAKOTO\nVoice: na14_0002_09_016",
     "stage": 1
   },

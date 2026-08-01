@@ -65,7 +65,7 @@
   {
     "key": "e_ee6716281e_0010_133043a669",
     "original": "報告します\\nネルフ本部より入電",
-    "translation": "报告\\n收到NERV本部来电",
+    "translation": "报告\\n收到NERV总部来电",
     "context": "File: FREE/NEV_TEV1003.NUT\nLine: 278\nCall: im.event\nSpeaker: IMC_NAVY\nVoice: NA10_1003_82_009",
     "stage": 1
   },

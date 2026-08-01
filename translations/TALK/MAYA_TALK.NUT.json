@@ -1311,7 +1311,7 @@
   {
     "key": "e_b9d8d784fb_0328_16b8c22151",
     "original": "自分のＡ．Ｔ．は重要ですから、\\nいつも見ながら戦ってくださいね　",
-    "translation": "自己的AT力场很重要，请时刻关注着进行战斗",
+    "translation": "自己的AT值很重要，请时刻关注着进行战斗",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 291\nSpeaker: IMC_MAYA\nVoice: ",
     "stage": 1
   },
@@ -1367,7 +1367,7 @@
   {
     "key": "e_b9d8d784fb_0344_345502559e",
     "original": "これまで戦った使徒のデータを利用して、\\nシミュレーターによる模擬戦を行います ▽",
-    "translation": "将利用至今交战过的使徒数据\\n通过模拟器进行实战演练 ▽",
+    "translation": "将利用至今交战过的使徒数据\\n通过模拟器进行模拟战 ▽",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 460\nSpeaker: IMC_MAYA\nVoice: ",
     "stage": 1
   },
@@ -1542,7 +1542,7 @@
   {
     "key": "e_b9d8d784fb_0394_e5760571b0",
     "original": "Ａ．Ｔ．フィールドを中和して、バニッシュすれば\\n何らかの変化があるはずなんですが…",
-    "translation": "若能中和AT力场并完成消除\\n应该会出现某种变化才对……",
+    "translation": "若能中和AT力场并使其进入崩坏状态\\n应该会出现某种变化才对……",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 485\nSpeaker: IMC_MAYA\nVoice: ",
     "stage": 1
   },
@@ -1626,7 +1626,7 @@
   {
     "key": "e_b9d8d784fb_0418_bc66c0da60",
     "original": "その時に浸食して、敵のＡ．Ｔ．フィールドを\\nバニッシュさせれば攻撃のチャンスです！",
-    "translation": "趁那时侵蚀敌方AT力场\\n使其消散就能抓住进攻机会！",
+    "translation": "趁那时侵蚀敌方AT力场\\n使其进入崩坏状态就能抓住进攻机会！",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 497\nSpeaker: IMC_MAYA\nVoice: ",
     "stage": 1
   },
@@ -1654,7 +1654,7 @@
   {
     "key": "e_b9d8d784fb_0426_bc66c0da60",
     "original": "その時に浸食して、敵のＡ．Ｔ．フィールドを\\nバニッシュさせれば攻撃のチャンスです！",
-    "translation": "趁那时侵蚀敌方AT力场\\n使其消散就能抓住进攻机会！",
+    "translation": "趁那时侵蚀敌方AT力场\\n使其进入崩坏状态就能抓住进攻机会！",
     "context": "File: TALK/MAYA_TALK.NUT\nLine: 501\nSpeaker: IMC_MAYA\nVoice: ",
     "stage": 1
   },

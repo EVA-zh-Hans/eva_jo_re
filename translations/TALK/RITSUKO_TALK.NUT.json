@@ -1612,7 +1612,7 @@
   {
     "key": "e_9e902a37f3_0414_fce11ee474",
     "original": "裏を返して言えば、Ａ．Ｔ．フィールドの\\nバニッシュが鍵って事になるわね",
-    "translation": "反过来说，关键就在于\\n让AT力场消失",
+    "translation": "反过来说，关键就在于\\n让AT值进入崩坏状态",
     "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 495\nSpeaker: IMC_RITSUKO\nVoice: ",
     "stage": 1
   },
@@ -1850,7 +1850,7 @@
   {
     "key": "e_9e902a37f3_0482_60ccaec8fb",
     "original": "ああこれ？　エヴァンゲリオンの装甲…\\n実際は拘束具ね…　暴走を防ぐための▽",
-    "translation": "啊这个？EVA的装甲…\n其实是拘束具哦…为了防止暴走▽",
+    "translation": "啊这个？EVANGELION的装甲…\n其实是拘束具哦…为了防止暴走▽",
     "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 529\nSpeaker: IMC_RITSUKO\nVoice: na54_0005_07_008_1",
     "stage": 1
   },
@@ -1906,7 +1906,7 @@
   {
     "key": "e_9e902a37f3_0498_c4a0e8e6f8",
     "original": "ミサトにＪ．Ａ．を徴発して…",
-    "translation": "让美里征用Jet Alone……",
+    "translation": "让美里征用J.A.……",
     "context": "File: TALK/RITSUKO_TALK.NUT\nLine: 537\nSpeaker: IMC_RITSUKO\nVoice: na54_0005_07_009_3",
     "stage": 1
   },

@@ -128,7 +128,7 @@
   {
     "key": "e_45e2164256_0019_2bf6687d12",
     "original": "使徒がネルフ本部地下に眠るアダムと接触すれば、\\n人は全て滅びるといわれる",
-    "translation": "据说使徒若与沉睡在NERV本部地下的亚当接触\\n全人类都会灭亡",
+    "translation": "据说使徒若与沉睡在NERV总部地下的亚当接触\\n全人类都会灭亡",
     "context": "File: FREE/NEV_TEV1403.NUT\nLine: 699\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1403_11_017_1",
     "stage": 1
   },
@@ -142,7 +142,7 @@
   {
     "key": "e_45e2164256_0021_82d52ed92c",
     "original": "それを阻止できるのは、\\n使徒と同じ力を持つエヴァンゲリオンだけだ",
-    "translation": "能阻止它的\\n只有拥有与使徒相同力量的EVA",
+    "translation": "能阻止它的\\n只有拥有与使徒相同力量的EVANGELION",
     "context": "File: FREE/NEV_TEV1403.NUT\nLine: 731\nCall: im.event\nSpeaker: IMC_KAJI\nVoice: NA10_1403_11_019",
     "stage": 1
   },
@@ -240,7 +240,7 @@
   {
     "key": "e_45e2164256_0035_72ce697f6e",
     "original": "僕は、僕はエヴァンゲリオン初号機のパイロット、\\n碇シンジです！",
-    "translation": "我是，我是EVA初号机驾驶员\\n碇真嗣！",
+    "translation": "我是，我是EVANGELION初号机驾驶员\\n碇真嗣！",
     "context": "File: FREE/NEV_TEV1403.NUT\nLine: 1084\nCall: im.event\nSpeaker: IMC_SHINJI\nVoice: NA10_1403_01_034",
     "stage": 1
   },

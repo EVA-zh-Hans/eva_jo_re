@@ -80,7 +80,7 @@
   {
     "key": "e_a90e54c0b4_0014_ce573eb6c3",
     "original": "浸食スキル\\n　使徒のＡ．Ｔ．ダメージ量が増加\\n　Ａ．Ｔ．浸食速度が増加",
-    "translation": "侵蚀技能\\n　增加对使徒造成的AT伤害\\n　提高AT侵蚀速度",
+    "translation": "侵蚀技能\\n　增加对使徒造成的AT值伤害\\n　提高AT值侵蚀速度",
     "context": "File: ADJUST/EVA_SKILL_PRICE.BIN\nRow: 6\nField: description (column 1)"
   },
   {

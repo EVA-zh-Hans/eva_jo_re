@@ -79,7 +79,7 @@
   {
     "key": "e_19d51a41d2_0012_b8a0a62e62",
     "original": "四号機と第２支部はいい、Ｓ２機関も\\nサンプルは失ってもドイツにデータが残っている",
-    "translation": "四号机和第二支部无所谓，S²机关\\n样本虽毁但德国还保留着数据",
+    "translation": "四号机和第２支部无所谓，S²机关\\n样本虽毁但德国还保留着数据",
     "context": "File: FREE/NEV_TEV1304.NUT\nLine: 405\nCall: im.event\nSpeaker: IMC_GENDO\nVoice: NA10_1304_05_012",
     "stage": 1
   },

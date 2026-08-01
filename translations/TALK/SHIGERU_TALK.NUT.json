@@ -1367,7 +1367,7 @@
   {
     "key": "e_a9286d3008_0344_9febbb5705",
     "original": "葛城さんは厳しいからなあ\\n同情するよ　",
-    "translation": "葛城大姐太严格了\\n真同情你",
+    "translation": "葛城小姐太严格了\\n真同情你",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 299\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1542,7 +1542,7 @@
   {
     "key": "e_a9286d3008_0394_9594413825",
     "original": "衛星軌道上から、ここネルフ本部へ\\n落下して来るものと予想されるな…",
-    "translation": "预计会从卫星轨道上\\n向NERV本部坠落……",
+    "translation": "预计会从卫星轨道上\\n向NERV总部坠落……",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 485\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1647,7 +1647,7 @@
   {
     "key": "e_a9286d3008_0424_4999439784",
     "original": "目標は弐号機を外部より操作し、ネルフ本部内\\nターミナルドグマに向かい降下中",
-    "translation": "目标正从外部操控二号机\\n向NERV本部最终教条区下降",
+    "translation": "目标正从外部操控二号机\\n向NERV总部最终教条区下降",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 500\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },
@@ -1668,7 +1668,7 @@
   {
     "key": "e_a9286d3008_0430_18024495ba",
     "original": "全部で９機　エヴァ量産機、エヴァシリーズです　\\n只今、ジオフロント直上を旋回中",
-    "translation": "共计9架EVA量产机——EVA系列\\n正在地下都市上空盘旋",
+    "translation": "共计9架EVA量产机——EVA量产系列\\n正在地下都市上空盘旋",
     "context": "File: TALK/SHIGERU_TALK.NUT\nLine: 503\nSpeaker: IMC_AOBA\nVoice: ",
     "stage": 1
   },

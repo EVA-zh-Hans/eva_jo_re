@@ -23,7 +23,7 @@
   {
     "key": "e_31d0d8a470_0004_bc22f84461",
     "original": "<02>予備電源<//>の残量は\\n<02>活動限界時間<//>として表示されますが▽",
-    "translation": "<02>备用电源<//>的剩余量会以\\n<02>活动极限时间<//>显示▽",
+    "translation": "<02>备用电源<//>的剩余量会以\\n<02>活动时限<//>显示▽",
     "context": "File: TUT/TUT_B004.NUT\nLine: 29\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -58,7 +58,7 @@
   {
     "key": "e_31d0d8a470_0009_45e93ae1c1",
     "original": "<02>分析<//>が完了すると、使徒の現在の\\n<02>耐久力<//>と<02>Ａ．Ｔ．<//>が表示されるようになり、",
-    "translation": "<02>分析<//>完成后将显示使徒当前\\n<02>耐久值<//>与<02>AT力场<//>数值",
+    "translation": "<02>分析<//>完成后将显示使徒当前\\n<02>耐久值<//>与<02>AT值<//>数值",
     "context": "File: TUT/TUT_B004.NUT\nLine: 46\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -86,7 +86,7 @@
   {
     "key": "e_31d0d8a470_0013_5d055c0e68",
     "original": "また、<02>分析<//>が完了していた場合でも、\\n<02>耐久力<//>と<02>Ａ．Ｔ．<//>が把握できなくなってしまいます",
-    "translation": "即使<02>分析<//>已完成\\n也将无法掌握<02>耐久值<//>与<02>AT力场<//>",
+    "translation": "即使<02>分析<//>已完成\\n也将无法掌握<02>耐久值<//>与<02>AT值<//>",
     "context": "File: TUT/TUT_B004.NUT\nLine: 62\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -107,7 +107,7 @@
   {
     "key": "e_31d0d8a470_0016_b41b9e6ee2",
     "original": "<02>格闘武器<//>の場合は<02>耐久度<//>が減少し、\\n本来の性能が出せなくなっていきます▽",
-    "translation": "<02>格斗武器<//>会因<02>耐久度<//>下降\\n逐渐无法发挥原有性能▽",
+    "translation": "<02>近战武器<//>会因<02>耐久度<//>下降\\n逐渐无法发挥原有性能▽",
     "context": "File: TUT/TUT_B004.NUT\nLine: 76\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -156,7 +156,7 @@
   {
     "key": "e_31d0d8a470_0023_ab3ea2923d",
     "original": "<02>兵装ビル<//>は使徒が<02>捕捉範囲内<//>に入り\\n<02>捕捉時間<//>が経過すると自動迎撃を行います",
-    "translation": "当使徒进入<02>兵装大楼<//>\\n<02>捕捉范围<//>并持续<02>捕捉时间<//>后\\n将自动迎击",
+    "translation": "当使徒进入<02>兵装大楼<//>\\n<02>锁定范围<//>并持续<02>锁定时间<//>后\\n将自动迎击",
     "context": "File: TUT/TUT_B004.NUT\nLine: 107\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },

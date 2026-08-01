@@ -37,14 +37,14 @@
   {
     "key": "e_5ca4bf3b5f_0006_63933a3f0c",
     "original": "<02>ロック可能範囲<//>は<02>ロックスキル<//>を\\n<02>実装<//>する事で広げる事もできます",
-    "translation": "通过<02>装备<//><02>锁定技能<//>，\\n还可扩大<02>可锁定范围<//>",
+    "translation": "通过<02>安装<//><02>锁定技能<//>，\\n还可扩大<02>可锁定范围<//>",
     "context": "File: TUT/TUT_B003.NUT\nLine: 31\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_5ca4bf3b5f_0007_1895a656de",
     "original": "<02>格闘武器<//>の場合、武器を<02>構え<//>た状態から、\\nボタン入力で<02>格闘攻撃<//>を行います▽",
-    "translation": "使用<02>格斗武器<//>时，从<02>架起<//>状态\\n通过按键输入发动<02>格斗攻击<//>▽",
+    "translation": "使用<02>近战武器<//>时，从<02>架起<//>状态\\n通过按键输入发动<02>格斗攻击<//>▽",
     "context": "File: TUT/TUT_B003.NUT\nLine: 43\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -72,7 +72,7 @@
   {
     "key": "e_5ca4bf3b5f_0011_96c5d54a0a",
     "original": "<02>格闘武器<//>では、連続してボタンを入力する事で\\n<02>連続技<//>を繰り出す事ができる武器があります▽",
-    "translation": "部分<02>格斗武器<//>可通过连续按键\\n施展<02>连段攻击<//>▽",
+    "translation": "部分<02>近战武器<//>可通过连续按键\\n施展<02>连段攻击<//>▽",
     "context": "File: TUT/TUT_B003.NUT\nLine: 59\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -86,7 +86,7 @@
   {
     "key": "e_5ca4bf3b5f_0013_3ea597a38f",
     "original": "<02>格闘武器<//>は攻撃を続ける事で<02>耐久度<//>が減少し、\\n本来の性能を発揮する事ができなくなってしまいます▽",
-    "translation": "<02>格斗武器<//>会因持续使用导致<02>耐久度<//>下降\\n从而无法发挥原有性能▽",
+    "translation": "<02>近战武器<//>会因持续使用导致<02>耐久度<//>下降\\n从而无法发挥原有性能▽",
     "context": "File: TUT/TUT_B003.NUT\nLine: 72\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -100,7 +100,7 @@
   {
     "key": "e_5ca4bf3b5f_0015_752036263b",
     "original": "<02>格闘武器スキル<//>を<02>実装<//>する事で\\n<02>耐久度<//>の減少速度を遅くする事もできます",
-    "translation": "通过<02>实装<//><02>格斗武器技能<//>\\n可减缓<02>耐久度<//>下降速度",
+    "translation": "通过<02>安装<//><02>近战武器技能<//>\\n可减缓<02>耐久度<//>下降速度",
     "context": "File: TUT/TUT_B003.NUT\nLine: 74\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -121,7 +121,7 @@
   {
     "key": "e_5ca4bf3b5f_0018_15bf6e6900",
     "original": "武器を廃棄して、対応しましょう▽",
-    "translation": "或选择废弃武器应对▽",
+    "translation": "或选择丢弃武器应对▽",
     "context": "File: TUT/TUT_B003.NUT\nLine: 100\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -135,14 +135,14 @@
   {
     "key": "e_5ca4bf3b5f_0020_f93c4217a0",
     "original": "武器を廃棄する事ができます▽",
-    "translation": "执行武器废弃▽",
+    "translation": "执行武器丢弃▽",
     "context": "File: TUT/TUT_B003.NUT\nLine: 102\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_5ca4bf3b5f_0021_7f1ad51e1e",
     "original": "廃棄した武器は消失してしまいますが、\\n<02>模擬戦闘<//>では消失する事はありません",
-    "translation": "废弃武器将永久消失\\n但在<02>模拟战<//>中不会消失",
+    "translation": "丢弃武器将永久消失\\n但在<02>模拟战<//>中不会消失",
     "context": "File: TUT/TUT_B003.NUT\nLine: 103\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -191,14 +191,14 @@
   {
     "key": "e_5ca4bf3b5f_0028_fd8d5510c5",
     "original": "<02>リロード<//>が発生し、<02>リロード<//>が終了するまでは、\\n<02>射撃<//>をする事ができなくなります▽",
-    "translation": "发生<02>装弹<//>后，在<02>装弹<//>结束前，\\n无法进行<02>射击<//>▽",
+    "translation": "发生<02>装填<//>后，在<02>装填<//>结束前，\\n无法进行<02>射击<//>▽",
     "context": "File: TUT/TUT_B003.NUT\nLine: 133\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_5ca4bf3b5f_0029_ccee2972c3",
     "original": "画面右下に表示されている、\\n<02>リロードゲージ<//>に注意しましょう",
-    "translation": "请留意画面右下方的\\n<02>装弹进度条<//>",
+    "translation": "请留意画面右下方的\\n<02>装填进度条<//>",
     "context": "File: TUT/TUT_B003.NUT\nLine: 134\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
@@ -233,14 +233,14 @@
   {
     "key": "e_5ca4bf3b5f_0034_00328b1619",
     "original": "<02>射撃武器スキル<//>を<02>実装<//>する事で、▽",
-    "translation": "通过<02>实装<//><02>射击武器技能<//>，▽",
+    "translation": "通过<02>安装<//><02>射击武器技能<//>，▽",
     "context": "File: TUT/TUT_B003.NUT\nLine: 187\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   },
   {
     "key": "e_5ca4bf3b5f_0035_98e241bf33",
     "original": "弾道の安定性の向上<//>、\\n<02>リロード<//>の短縮化をする事もできます",
-    "translation": "提高弹道稳定性<//>、\\n也可以<02>缩短装弹时间<//>",
+    "translation": "提高弹道稳定性<//>、\\n也可以<02>缩短装填时间<//>",
     "context": "File: TUT/TUT_B003.NUT\nLine: 188\nCall: im.play\nSpeaker: IMC_NONE",
     "stage": 1
   }

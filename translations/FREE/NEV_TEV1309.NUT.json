@@ -72,7 +72,7 @@
   {
     "key": "e_a9bd4e8593_0011_bdb856fe9a",
     "original": "そうなんだけどねぇ…\\n彼が自分からシンジ君に言い出すかもしれないし…",
-    "translation": "话是这么说啦……\\n说不定他会主动跟真嗣开口呢…",
+    "translation": "话是这么说啦……\\n说不定他会主动跟真嗣君开口呢…",
     "context": "File: FREE/NEV_TEV1309.NUT\nLine: 430\nCall: im.event\nSpeaker: IMC_MISATO\nVoice: NA10_1309_04_012",
     "stage": 1
   },

@@ -72,7 +72,7 @@
   {
     "key": "e_87590d723c_0011_f828e90c60",
     "original": "スキルプログラムを実装",
-    "translation": "实装技能程序",
+    "translation": "安装技能程序",
     "context": "File: PREPARE/PRE_BATTLE.NUT\nLine: 142\nCall: MenuSetup\nVoice: 模擬戦を開始",
     "stage": 1
   },

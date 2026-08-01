@@ -2,7 +2,7 @@
   {
     "key": "e_83e67945da_0001_cc6c165864",
     "original": "あら、何も開発されてないわね",
-    "translation": "哎呀，什么都没研发出来呢",
+    "translation": "哎呀，什么都没开发出来呢",
     "context": "File: PREPARE/PRE_SETSKILL.NUT\nLine: 26\nCall: im.play\nSpeaker: IMC_RITSUKO",
     "stage": 1
   },
