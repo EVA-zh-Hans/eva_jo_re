@@ -4,7 +4,7 @@ import tempfile
 import unittest
 from pathlib import Path, PurePosixPath
 
-from app import bintable, eboot_patch, font, nut, paratranz, xml
+from app import aitalklist, bintable, eboot_patch, font, nut, paratranz, xml
 from app.encoding import decode
 
 
@@ -182,6 +182,65 @@ class BinTableTests(unittest.TestCase):
         source.insert(-1, 0)
         with self.assertRaisesRegex(bintable.BinTableError, "unexpected data"):
             bintable.parse(bytes(source))
+
+
+class AiTalkListTests(unittest.TestCase):
+    def _source(self) -> bytes:
+        records = []
+        for text, character in [("挨拶する", ""), ("怪我について話す", "rei")]:
+            record = bytearray(aitalklist.RECORD_SIZE)
+            encoded = text.encode("cp932")
+            record[: len(encoded)] = encoded
+            encoded_character = character.encode("ascii")
+            start = aitalklist.CHARACTER_OFFSET
+            record[start : start + len(encoded_character)] = encoded_character
+            records.append(bytes(record))
+        return b"".join([*records, aitalklist.SENTINEL])
+
+    def test_scans_and_replaces_fixed_record_text(self):
+        source = self._source()
+        table = aitalklist.parse(source)
+        spans = aitalklist.scan(table)
+        self.assertEqual(
+            [span.original for span in spans], ["挨拶する", "怪我について話す"]
+        )
+        self.assertIn("Character ID: rei", spans[1].context)
+        rendered = aitalklist.render(
+            table,
+            spans,
+            {spans[0].ordinal: "打招呼", spans[1].ordinal: "谈谈受伤的事"},
+        )
+        patched = aitalklist.replace(
+            table,
+            rendered,
+            {
+                "打": "亜",
+                "招": "唖",
+                "呼": "娃",
+                "谈": "阿",
+                "伤": "哀",
+                "事": "愛",
+            },
+        )
+        self.assertEqual(len(patched), len(source))
+        self.assertEqual(patched[-aitalklist.RECORD_SIZE :], aitalklist.SENTINEL)
+        self.assertEqual(aitalklist.parse(patched).strings[0].original, "亜唖娃")
+
+    def test_rejects_translation_that_exceeds_slot(self):
+        table = aitalklist.parse(self._source())
+        rendered = ("あ" * 16, table.strings[1].original)
+        with self.assertRaisesRegex(aitalklist.AiTalkListError, "allows 31"):
+            aitalklist.replace(table, rendered)
+
+    def test_noop_is_byte_identical(self):
+        source = self._source()
+        table = aitalklist.parse(source)
+        self.assertEqual(
+            aitalklist.replace(
+                table, aitalklist.render(table, aitalklist.scan(table), {})
+            ),
+            source,
+        )
 
 
 class EbootPatchTests(unittest.TestCase):

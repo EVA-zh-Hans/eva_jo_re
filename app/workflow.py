@@ -8,8 +8,9 @@ import tempfile
 from collections import Counter
 from dataclasses import dataclass
 from pathlib import Path, PurePosixPath
+from typing import Any, Callable, Mapping
 
-from . import bintable, eboot_patch, font, iso, nut, paratranz, xml
+from . import aitalklist, bintable, eboot_patch, font, iso, nut, paratranz, xml
 from .encoding import DecodedText, decode
 from .pkg import Archive, Entry, replace_entries
 
@@ -35,11 +36,12 @@ class _TextFile:
 @dataclass
 class _BinaryFile:
     entry: Entry
-    table: bintable.Table
-    spans: list[bintable.TextSpan]
+    table: Any
+    spans: list
     items: list[paratranz.SourceItem]
     rendered: tuple[str, ...]
     translations: dict[int, str]
+    replacer: Callable[[Any, tuple[str, ...], Mapping[str, str] | None], bytes]
 
     @property
     def changed(self) -> bool:
@@ -63,6 +65,7 @@ _BINARY_TEXT_FIELDS: dict[PurePosixPath, dict[int, str]] = {
 }
 _EBOOT_TRANSLATION_PATH = PurePosixPath("EBOOT.BIN")
 _EBOOT_OVERLAY_PATH = Path("PSP_GAME/SYSDIR/BOOT.BIN")
+_AI_TALKLIST_PATH = PurePosixPath("PEI/AI_TALKLIST.BIN")
 
 
 def export_translations(
@@ -111,6 +114,20 @@ def export_translations(
             obsolete.extend(
                 {"path": entry.path.as_posix(), **item} for item in result.obsolete
             )
+        entry = archive.get(_AI_TALKLIST_PATH)
+        table = aitalklist.parse(archive.read(entry))
+        spans = aitalklist.scan(table)
+        items = _source_items(spans)
+        counts["BIN files"] += 1
+        counts["cp932 files"] += 1
+        result = paratranz.merge_file(translations_dir, entry.path, items)
+        counts["translation files"] += 1
+        counts["translation entries"] += result.total
+        counts["preserved entries"] += result.preserved
+        counts["new entries"] += result.added
+        obsolete.extend(
+            {"path": entry.path.as_posix(), **item} for item in result.obsolete
+        )
     report = {
         "source_iso": str(source_iso),
         "source_iso_sha256": _sha256(source_iso),
@@ -241,7 +258,7 @@ def build_image(
     for item in binary_files:
         if not item.changed:
             continue
-        replacements[item.entry.path] = bintable.replace(
+        replacements[item.entry.path] = item.replacer(
             item.table, item.rendered, plan.substitutions
         )
         changed_paths.append(item.entry.path.as_posix())
@@ -401,7 +418,43 @@ def _load_binary_files(
                     )
                     errors.extend(item_errors)
             rendered = bintable.render(table, spans, translations)
-            files.append(_BinaryFile(entry, table, spans, items, rendered, translations))
+            files.append(
+                _BinaryFile(
+                    entry,
+                    table,
+                    spans,
+                    items,
+                    rendered,
+                    translations,
+                    bintable.replace,
+                )
+            )
+        entry = archive.get(_AI_TALKLIST_PATH)
+        table = aitalklist.parse(archive.read(entry))
+        spans = aitalklist.scan(table)
+        items = _source_items(spans)
+        translations = {}
+        if spans:
+            json_file = paratranz.json_path(translations_dir, entry.path)
+            if not json_file.exists():
+                errors.append(f"Missing translation file: {json_file}")
+            else:
+                translations, item_errors = paratranz.translations_for(
+                    translations_dir, entry.path, items
+                )
+                errors.extend(item_errors)
+        rendered = aitalklist.render(table, spans, translations)
+        files.append(
+            _BinaryFile(
+                entry,
+                table,
+                spans,
+                items,
+                rendered,
+                translations,
+                aitalklist.replace,
+            )
+        )
     return files, errors
 
 
