@@ -47,15 +47,19 @@ def parse(data: bytes) -> Table:
     if len(data) < HEADER.size:
         raise BinTableError("BIN table is smaller than its header")
 
-    version, record_offset, record_count, field_count, header_size = HEADER.unpack_from(data)
-    if version != 1:
-        raise BinTableError(f"Unsupported BIN table version: {version}")
-    if header_size != HEADER.size:
-        raise BinTableError(f"Unexpected BIN table header size: {header_size}")
+    table_count, record_offset, record_count, field_count, field_types_offset = (
+        HEADER.unpack_from(data)
+    )
+    if table_count != 1:
+        raise BinTableError(f"Expected one BIN table, found: {table_count}")
+    if field_types_offset != HEADER.size:
+        raise BinTableError(
+            f"Unexpected BIN field type offset: {field_types_offset}"
+        )
     if field_count > 1024:
         raise BinTableError(f"Unreasonable BIN table field count: {field_count}")
 
-    expected_record_offset = header_size + field_count * 4
+    expected_record_offset = field_types_offset + field_count * 4
     if record_offset != expected_record_offset:
         raise BinTableError(
             f"Unexpected BIN table record offset: {record_offset} != {expected_record_offset}"
@@ -63,7 +67,7 @@ def parse(data: bytes) -> Table:
     if record_offset > len(data):
         raise BinTableError("BIN table field descriptors exceed the file")
 
-    field_types = struct.unpack_from(f"<{field_count}I", data, header_size)
+    field_types = struct.unpack_from(f"<{field_count}I", data, field_types_offset)
     unsupported = sorted(set(field_types) - TYPE_WIDTHS.keys())
     if unsupported:
         raise BinTableError(f"Unsupported BIN table field types: {unsupported}")
