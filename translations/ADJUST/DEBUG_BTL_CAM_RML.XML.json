@@ -2,133 +2,133 @@
   {
     "key": "e_92089c83fb_0003_93189007df",
     "original": "eva視点(x)",
-    "translation": "",
+    "translation": "EVA视角(x)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 3\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0008_effc876977",
     "original": "eva視点(y)",
-    "translation": "",
+    "translation": "EVA视角(y)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 4\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0013_8cab773cad",
     "original": "eva視点(z)",
-    "translation": "",
+    "translation": "EVA视角(z)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 5\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0018_c0624129ba",
     "original": "eva視点補間(x)",
-    "translation": "",
+    "translation": "EVA视角插值(x)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 6\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0023_a672fb400b",
     "original": "eva視点補間(y)",
-    "translation": "",
+    "translation": "EVA视角插值(y)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 7\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0028_1c8bb0977a",
     "original": "eva視点補間(z)",
-    "translation": "",
+    "translation": "EVA视角插值(z)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 8\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0033_3850e5f787",
     "original": "eva側ramiel視点補間(x)",
-    "translation": "",
+    "translation": "EVA侧Ramiel视角插值(x)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 9\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0038_ac26536362",
     "original": "eva側ramiel視点補間(y)",
-    "translation": "",
+    "translation": "EVA侧Ramiel视角插值(y)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 10\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0043_0bb1f4c72e",
     "original": "eva側ramiel視点補間(z)",
-    "translation": "",
+    "translation": "EVA侧Ramiel视角插值(z)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 11\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0048_9d04717b0e",
     "original": "ramiel視点(x)",
-    "translation": "",
+    "translation": "Ramiel视角(x)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 12\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0053_0099050f31",
     "original": "ramiel視点(y)",
-    "translation": "",
+    "translation": "Ramiel视角(y)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 13\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0058_a98f07460d",
     "original": "ramiel視点(z)",
-    "translation": "",
+    "translation": "Ramiel视角(z)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 14\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0063_399a967901",
     "original": "scope側ramiel視点補間(x)",
-    "translation": "",
+    "translation": "Scope侧Ramiel视角插值(x)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 15\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0068_5293bb456a",
     "original": "scope側ramiel視点補間(y)",
-    "translation": "",
+    "translation": "Scope侧Ramiel视角插值(y)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 16\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0073_3eebac1b7e",
     "original": "scope側ramiel視点補間(z)",
-    "translation": "",
+    "translation": "Scope侧Ramiel视角插值(z)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 17\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0078_435bb35fda",
     "original": "scope近視点補間(x)",
-    "translation": "",
+    "translation": "Scope近视角插值(x)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 18\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0083_110ad23e74",
     "original": "scope近視点補間(y)",
-    "translation": "",
+    "translation": "Scope近视角插值(y)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 19\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0088_7ed3c2e401",
     "original": "scope近視点補間(z)",
-    "translation": "",
+    "translation": "Scope近视角插值(z)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 20\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0093_9ed2e01721",
     "original": "scope近視点(x)",
-    "translation": "",
+    "translation": "Scope近视角(x)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 21\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0098_bb32256122",
     "original": "scope近視点(y)",
-    "translation": "",
+    "translation": "Scope近视角(y)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 22\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0103_e5336ffbc4",
     "original": "scope近視点(z)",
-    "translation": "",
+    "translation": "Scope近视角(z)",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 23\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_92089c83fb_0108_822e14297c",
     "original": "補間速度",
-    "translation": "",
+    "translation": "插值速度",
     "context": "File: ADJUST/DEBUG_BTL_CAM_RML.XML\nLine: 24\nElement: PARAM\nAttribute: text"
   }
 ]

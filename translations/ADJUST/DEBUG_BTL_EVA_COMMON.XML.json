@@ -2,181 +2,181 @@
   {
     "key": "e_0d585cfbcf_0003_9ac6dfab94",
     "original": "耐久力",
-    "translation": "",
+    "translation": "耐久力",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 3\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0008_11192b9c41",
     "original": "ヘイフリック値",
-    "translation": "",
+    "translation": "海弗利克值",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 4\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0013_1604a12a7d",
     "original": "ヘイフリック回復速度(回復量/秒)",
-    "translation": "",
+    "translation": "海弗利克恢复速度（恢复量/秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 5\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0023_465008d3ce",
     "original": "A.T.自然回復量(回復量/秒)",
-    "translation": "",
+    "translation": "A.T.自然恢复量（恢复量/秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 7\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0028_174ee775a4",
     "original": "バニッシュ状態継続時間(秒)",
-    "translation": "",
+    "translation": "湮灭状态持续时间（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 8\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0033_e2417ef74b",
     "original": "シンクロ率ベース",
-    "translation": "",
+    "translation": "同步率基础值",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 9\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0038_3e7bf54c5a",
     "original": "シンクロ率ベース電源切断時",
-    "translation": "",
+    "translation": "同步率基础值（断电时）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 10\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0043_6c8cd14511",
     "original": "シンクロ率電源切断時上昇値",
-    "translation": "",
+    "translation": "同步率断电时上升值",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 11\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0048_7e971e1dd9",
     "original": "シンクロ率電源接続時下降値",
-    "translation": "",
+    "translation": "同步率接电时下降值",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 12\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0053_5e01997196",
     "original": "シンクロ率減少量(減少量/秒)",
-    "translation": "",
+    "translation": "同步率减少量（减少量/秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 13\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0058_5f0e28e595",
     "original": "シンクロ率減少限界値(ベースからの減算値)",
-    "translation": "",
+    "translation": "同步率减少下限值（从基础值扣除）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 14\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0063_83cb2a3a5a",
     "original": "シンクロ率ダメージ減少係数",
-    "translation": "",
+    "translation": "同步率伤害减免系数",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 15\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0068_835afa9112",
     "original": "活動限界時間(秒)",
-    "translation": "",
+    "translation": "活动限界时间（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 16\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0073_afda487dc3",
     "original": "活動限界時間充電速度(充電速度/秒)",
-    "translation": "",
+    "translation": "活动限界时间充电速度（充电速度/秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 17\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0078_f9f001014e",
     "original": "ガード入力時の硬直時間(秒)",
-    "translation": "",
+    "translation": "输入防御时的硬直时间（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 18\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0083_cab9d28162",
     "original": "ガード解除時の硬直時間(秒)",
-    "translation": "",
+    "translation": "解除防御时的硬直时间（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 19\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0088_255b96e031",
     "original": "ガード中のAT消費量(秒)",
-    "translation": "",
+    "translation": "防御中的AT消耗量（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 20\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0093_45c869388a",
     "original": "ノックバックダメージ区分け",
-    "translation": "",
+    "translation": "击退伤害分级",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 21\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0098_6b16eb008e",
     "original": "ノックバック（大）硬直時間(秒)",
-    "translation": "",
+    "translation": "大幅击退硬直时间（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 22\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0103_993f9870d1",
     "original": "ノックバック（大）移動速度(m/s)",
-    "translation": "",
+    "translation": "大幅击退移动速度（米/秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 23\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0108_5e8d3e9dfe",
     "original": "ノックバック（大）減衰速度(m/s)",
-    "translation": "",
+    "translation": "大幅击退衰减速度（米/秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 24\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0113_d6e5b4115f",
     "original": "ノックバック（小）硬直時間(秒)",
-    "translation": "",
+    "translation": "小幅击退硬直时间（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 25\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0118_946d543fb8",
     "original": "ノックバック（小）移動速度(m/s)",
-    "translation": "",
+    "translation": "小幅击退移动速度（米/秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 26\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0123_81b4cb4885",
     "original": "ノックバック（小）減衰速度(m/s)",
-    "translation": "",
+    "translation": "小幅击退衰减速度（米/秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 27\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0128_ac43d3c11b",
     "original": "小ダメージノックバック硬直時間(秒)",
-    "translation": "",
+    "translation": "小伤害击退硬直时间（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 28\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0133_3d32d7b533",
     "original": "小ダメージノックバック移動速度(m/s)",
-    "translation": "",
+    "translation": "小伤害击退移动速度（米/秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 29\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0138_c34e88acca",
     "original": "小ダメージノックバック減衰速度(m/s)",
-    "translation": "",
+    "translation": "小伤害击退衰减速度（米/秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 30\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0143_750cc86aba",
     "original": "ジャストガード成立受付時間(秒)",
-    "translation": "",
+    "translation": "精准防御判定时间（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 31\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0148_f68650d752",
     "original": "ジャストガード成立時シンクロ率上昇",
-    "translation": "",
+    "translation": "精准防御成功时同步率上升值",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 32\nElement: PARAM\nAttribute: text"
   },
   {
     "key": "e_0d585cfbcf_0153_8c36beefdf",
     "original": "ダッシュ時のA.T.消費量(秒)",
-    "translation": "",
+    "translation": "冲刺时A.T.消耗量（秒）",
     "context": "File: ADJUST/DEBUG_BTL_EVA_COMMON.XML\nLine: 33\nElement: PARAM\nAttribute: text"
   }
 ]

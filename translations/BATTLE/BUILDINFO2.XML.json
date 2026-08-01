@@ -9,49 +9,49 @@
   {
     "key": "e_46124d69be_0390_18e5a2a2fd",
     "original": "速射砲ビル　　　　　　　%s\n <03>識別　　：<//>FTTC Lv1 　<03>攻撃力　：<//>Ｄ\n <03>耐久力　：<//>Ｃ         <03>貫通力　：<//>Ｃ\n <03>攻撃回数：<//>８         <03>リロード：<//>Ｃ",
-    "translation": "",
+    "translation": "速射炮大楼　　　　　　　%s\n <03>识别：<//>FTTC Lv1 　<03>攻击力：<//>Ｄ\n <03>耐久力：<//>Ｃ         <03>贯穿力：<//>Ｃ\n <03>攻击次数：<//>８         <03>重装填：<//>Ｃ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 140\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_0391_1f701380d5",
     "original": " <03>捕捉範囲：<//>0～250ｍ    <03>捕捉時間：<//>Ｓ\n近距離の敵を速射砲で攻撃するビル\n<02>捕捉時間<//>が短く、扱い易い",
-    "translation": "",
+    "translation": " <03>捕捉范围：<//>0～250ｍ    <03>捕捉时间：<//>Ｓ\n用速射炮攻击近距离敌人的大楼\n<02>捕捉时间<//>较短，易于使用",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 143\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_0444_d1b61f0463",
     "original": "装甲速射砲ビル",
-    "translation": "",
+    "translation": "装甲速射炮大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 157\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_0445_02022f294c",
     "original": "装甲速射砲ビル　　　　　%s\n <03>識別　　：<//>FTTC Lv2 　<03>攻撃力　：<//>Ｃ\n <03>耐久力　：<//>Ｂ         <03>貫通力　：<//>Ｃ\n <03>攻撃回数：<//>８         <03>リロード：<//>Ｃ",
-    "translation": "",
+    "translation": "装甲速射炮大楼　　　　　%s\n <03>识别：<//>FTTC Lv2 　<03>攻击力：<//>Ｃ\n <03>耐久力：<//>Ｂ         <03>贯穿力：<//>Ｃ\n <03>攻击次数：<//>８         <03>重装填：<//>Ｃ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 157\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_0446_ac0c664813",
     "original": " <03>捕捉範囲：<//>0～250ｍ    <03>捕捉時間：<//>Ｓ\n装甲を施された<02>速射砲ビル<//>\n<02>耐久力<//>が上昇している",
-    "translation": "",
+    "translation": " <03>捕捉范围：<//>0～250ｍ    <03>捕捉时间：<//>Ｓ\n经过装甲强化的<02>速射炮大楼<//>\n<02>耐久力<//>提高",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 160\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_0499_c5c8c37768",
     "original": "重装甲速射砲ビル",
-    "translation": "",
+    "translation": "重装甲速射炮大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 174\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_0500_cd7e5f0fdb",
     "original": "重装甲速射砲ビル　　　　%s\n <03>識別　　：<//>FTTC Lv3 　<03>攻撃力　：<//>Ｃ\n <03>耐久力　：<//>Ｓ         <03>貫通力　：<//>Ｂ\n <03>攻撃回数：<//>８         <03>リロード：<//>Ｃ",
-    "translation": "",
+    "translation": "重装甲速射炮大楼　　　　%s\n <03>识别：<//>FTTC Lv3 　<03>攻击力：<//>Ｃ\n <03>耐久力：<//>Ｓ         <03>贯穿力：<//>Ｂ\n <03>攻击次数：<//>８         <03>重装填：<//>Ｃ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 174\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_0501_11d2f10984",
     "original": " <03>捕捉範囲：<//>0～250ｍ    <03>捕捉時間：<//>Ｓ\n重装甲を施された<02>速射砲ビル<//>\n<02>貫通力<//>が強化されている",
-    "translation": "",
+    "translation": " <03>捕捉范围：<//>0～250ｍ    <03>捕捉时间：<//>Ｓ\n重经过装甲强化的<02>速射炮大楼<//>\n<02>贯穿力<//>得到强化",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 177\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
@@ -64,49 +64,49 @@
   {
     "key": "e_46124d69be_0555_3009221f32",
     "original": "垂直発射ミサイルビル　　%s\n <03>識別　　：<//>VLSH Lv1 　<03>攻撃力　：<//>Ｂ\n <03>耐久力　：<//>Ｃ         <03>貫通力　：<//>Ｂ\n <03>攻撃回数：<//>５         <03>リロード：<//>Ａ",
-    "translation": "",
+    "translation": "垂直发射导弹大楼　　%s\n <03>识别：<//>VLSH Lv1 　<03>攻击力：<//>Ｂ\n <03>耐久力：<//>Ｃ         <03>贯穿力：<//>Ｂ\n <03>攻击次数：<//>５         <03>重装填：<//>Ａ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 191\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_0556_994bd9892c",
     "original": " <03>捕捉範囲：<//>300～600ｍ <03>捕捉時間：<//>Ｂ\n複数のミサイルで攻撃するビル\nミサイルの追尾性能は低く、\n動きの速い目標には向かない",
-    "translation": "",
+    "translation": " <03>捕捉范围：<//>300～600ｍ <03>捕捉时间：<//>Ｂ\n用多枚导弹攻击的大楼\n导弹的追踪性能较低，\n不适合攻击移动迅速的目标",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 194\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_0614_89b207a980",
     "original": "多装垂直発射Ｍビル",
-    "translation": "",
+    "translation": "多联装垂直发射导弹大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 210\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_0615_05e27c521e",
     "original": "多装垂直発射Ｍビル　　　%s\n <03>識別　　：<//>VLSH Lv2 　<03>攻撃力　：<//>Ｂ\n <03>耐久力　：<//>Ｃ         <03>貫通力　：<//>Ｂ\n <03>攻撃回数：<//>５         <03>リロード：<//>Ｂ",
-    "translation": "",
+    "translation": "多联装垂直发射导弹大楼　　　%s\n <03>识别：<//>VLSH Lv2 　<03>攻击力：<//>Ｂ\n <03>耐久力：<//>Ｃ         <03>贯穿力：<//>Ｂ\n <03>攻击次数：<//>５         <03>重装填：<//>Ｂ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 210\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_0616_881fcb28c0",
     "original": " <03>捕捉範囲：<//>300～600ｍ <03>捕捉時間：<//>Ｂ\n多装化された<02>垂直発射ミサイルビル<//>\n同時に発射するミサイル数が増加\n<02>リロード<//>が長くなっている",
-    "translation": "",
+    "translation": " <03>捕捉范围：<//>300～600ｍ <03>捕捉时间：<//>Ｂ\n经过多联装改造的<02>垂直发射导弹大楼<//>\n同时发射的导弹数量增加\n<02>重装填<//>变长了",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 213\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_0674_4e8017afe7",
     "original": "重多装垂直発射Ｍビル",
-    "translation": "",
+    "translation": "重型多联装垂直发射导弹大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 229\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_0675_8bbe004d82",
     "original": "重多装垂直発射Ｍビル　　%s\n <03>識別　　：<//>VLSH Lv3 　<03>攻撃力　：<//>Ｂ\n <03>耐久力　：<//>Ｃ         <03>貫通力　：<//>Ｂ\n <03>攻撃回数：<//>５         <03>リロード：<//>Ｂ",
-    "translation": "",
+    "translation": "重型多联装垂直发射导弹大楼　　%s\n <03>识别：<//>VLSH Lv3 　<03>攻击力：<//>Ｂ\n <03>耐久力：<//>Ｃ         <03>贯穿力：<//>Ｂ\n <03>攻击次数：<//>５         <03>重装填：<//>Ｂ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 229\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_0676_fd7c5dbaf0",
     "original": " <03>捕捉範囲：<//>300～600ｍ <03>捕捉時間：<//>Ｃ\n重多装化された<02>垂直発射ミサイルビル<//>\n同時に発射するミサイル数がさらに増加\n<02>捕捉時間<//>が若干長くなっている",
-    "translation": "",
+    "translation": " <03>捕捉范围：<//>300～600ｍ <03>捕捉时间：<//>Ｃ\n重经过多联装改造的<02>垂直发射导弹大楼<//>\n同时发射的导弹数量进一步增加\n<02>捕捉時間<//>略微变长",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 232\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
@@ -119,49 +119,49 @@
   {
     "key": "e_46124d69be_0735_cbe5d82a28",
     "original": "ミサイルサイロビル　　　%s\n <03>識別　　：<//>MSBS Lv1 　<03>攻撃力　：<//>Ａ\n <03>耐久力　：<//>Ｃ         <03>貫通力　：<//>Ａ\n <03>攻撃回数：<//>３         <03>リロード：<//>Ａ",
-    "translation": "",
+    "translation": "导弹井大楼　　　%s\n <03>识别：<//>MSBS Lv1 　<03>攻击力：<//>Ａ\n <03>耐久力：<//>Ｃ         <03>贯穿力：<//>Ａ\n <03>攻击次数：<//>３         <03>重装填：<//>Ａ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 248\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_0736_93b4d3c518",
     "original": " <03>捕捉範囲：<//>600～900ｍ <03>捕捉時間：<//>Ｃ\n追尾性の大型ミサイルで攻撃するビル\n最大の射程距離を誇り、高威力だが\n近距離の目標は捕捉できない",
-    "translation": "",
+    "translation": " <03>捕捉范围：<//>600～900ｍ <03>捕捉时间：<//>Ｃ\n用具备追踪能力的大型导弹攻击的大楼\n拥有最大的射程距离和高威力，但\n无法捕捉近距离目标",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 251\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_0789_aafed187a3",
     "original": "装甲Ｍサイロビル",
-    "translation": "",
+    "translation": "装甲导弹井大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 266\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_0790_9905e64ee4",
     "original": "装甲Ｍサイロビル　　　　%s\n <03>識別　　：<//>MSBS Lv2 　<03>攻撃力　：<//>Ａ\n <03>耐久力　：<//>Ｂ         <03>貫通力　：<//>Ａ\n <03>攻撃回数：<//>３         <03>リロード：<//>Ｂ",
-    "translation": "",
+    "translation": "装甲导弹井大楼　　　　%s\n <03>识别：<//>MSBS Lv2 　<03>攻击力：<//>Ａ\n <03>耐久力：<//>Ｂ         <03>贯穿力：<//>Ａ\n <03>攻击次数：<//>３         <03>重装填：<//>Ｂ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 266\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_0791_91e72924b8",
     "original": " <03>捕捉範囲：<//>600～900ｍ <03>捕捉時間：<//>Ｃ\n装甲を施された<02>ミサイルサイロビル<//>\n<02>耐久力<//>が上昇している\n近距離の目標は捕捉できない",
-    "translation": "",
+    "translation": " <03>捕捉范围：<//>600～900ｍ <03>捕捉时间：<//>Ｃ\n经过装甲强化的<02>导弹井大楼<//>\n<02>耐久力<//>提高\n无法捕捉近距离目标",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 269\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_0844_aeb202516f",
     "original": "重装甲Ｍサイロビル",
-    "translation": "",
+    "translation": "重装甲导弹井大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 284\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_0845_1d5e6f69b0",
     "original": "重装甲Ｍサイロビル　　　%s\n <03>識別　　：<//>MSBS Lv3 　<03>攻撃力　：<//>Ｓ\n <03>耐久力　：<//>Ａ         <03>貫通力　：<//>Ｓ\n <03>攻撃回数：<//>３         <03>リロード：<//>Ｃ",
-    "translation": "",
+    "translation": "重装甲导弹井大楼　　　%s\n <03>识别：<//>MSBS Lv3 　<03>攻击力：<//>Ｓ\n <03>耐久力：<//>Ａ         <03>贯穿力：<//>Ｓ\n <03>攻击次数：<//>３         <03>重装填：<//>Ｃ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 284\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_0846_31cec7c769",
     "original": " <03>捕捉範囲：<//>650～900ｍ <03>捕捉時間：<//>Ｄ\n重装甲を施された<02>ミサイルサイロビル<//>\n<02>耐久力<//>がさらに上昇している\nミサイルの威力が強化されている",
-    "translation": "",
+    "translation": " <03>捕捉范围：<//>650～900ｍ <03>捕捉时间：<//>Ｄ\n重经过装甲强化的<02>导弹井大楼<//>\n<02>耐久力<//>进一步提高\n导弹威力得到强化",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 287\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
@@ -174,49 +174,49 @@
   {
     "key": "e_46124d69be_0900_65ad841a5b",
     "original": "アスロックビル　　　　　%s\n <03>識別　　：<//>ASROC Lv1　<03>攻撃力　：<//>Ｂ\n <03>耐久力　：<//>Ｃ         <03>貫通力　：<//>Ｄ\n <03>攻撃回数：<//>６         <03>リロード：<//>Ａ",
-    "translation": "",
+    "translation": "阿斯洛克大楼　　　　　%s\n <03>识别：<//>ASROC Lv1　<03>攻击力：<//>Ｂ\n <03>耐久力：<//>Ｃ         <03>贯穿力：<//>Ｄ\n <03>攻击次数：<//>６         <03>重装填：<//>Ａ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 302\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_0901_849b8941f0",
     "original": " <03>捕捉範囲：<//>0～400ｍ   <03>捕捉時間：<//>Ａ\n目標を短距離ロケットで攻撃するビル\n<02>貫通力<//>は低いが<02>攻撃力<//>が高い",
-    "translation": "",
+    "translation": " <03>捕捉范围：<//>0～400ｍ   <03>捕捉时间：<//>Ａ\n用短程火箭攻击目标的大楼\n<02>贯穿力<//>较低，但<02>攻击力<//>较高",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 305\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_0969_44bc0b2bfb",
     "original": "装甲アスロックビル",
-    "translation": "",
+    "translation": "装甲阿斯洛克大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 322\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_0970_f21dcf2519",
     "original": "装甲アスロックビル　　　%s\n <03>識別　　：<//>ASROC Lv2　<03>攻撃力　：<//>Ｂ\n <03>耐久力　：<//>Ｂ         <03>貫通力　：<//>Ｄ\n <03>攻撃回数：<//>６         <03>リロード：<//>Ａ",
-    "translation": "",
+    "translation": "装甲阿斯洛克大楼　　　%s\n <03>识别：<//>ASROC Lv2　<03>攻击力：<//>Ｂ\n <03>耐久力：<//>Ｂ         <03>贯穿力：<//>Ｄ\n <03>攻击次数：<//>６         <03>重装填：<//>Ａ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 322\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_0971_e594565c19",
     "original": " <03>捕捉範囲：<//>0～400ｍ   <03>捕捉時間：<//>Ａ\n装甲を施された<02>アスロックビル<//>\n<02>耐久力<//>が上昇している",
-    "translation": "",
+    "translation": " <03>捕捉范围：<//>0～400ｍ   <03>捕捉时间：<//>Ａ\n经过装甲强化的<02>阿斯洛克大楼<//>\n<02>耐久力<//>提高",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 325\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_1039_a38faee795",
     "original": "重装甲アスロックビル",
-    "translation": "",
+    "translation": "重装甲阿斯洛克大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 342\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_1040_45410aaf51",
     "original": "重装甲アスロックビル　　%s\n <03>識別　　：<//>ASROC Lv3　<03>攻撃力　：<//>Ｂ\n <03>耐久力　：<//>Ａ         <03>貫通力　：<//>Ｃ\n <03>攻撃回数：<//>６         <03>リロード：<//>Ａ",
-    "translation": "",
+    "translation": "重装甲阿斯洛克大楼　　%s\n <03>识别：<//>ASROC Lv3　<03>攻击力：<//>Ｂ\n <03>耐久力：<//>Ａ         <03>贯穿力：<//>Ｃ\n <03>攻击次数：<//>６         <03>重装填：<//>Ａ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 342\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_1041_758fd76203",
     "original": " <03>捕捉範囲：<//>0～400ｍ   <03>捕捉時間：<//>Ａ\n重装甲を施された<02>アスロックビル<//>\n<02>貫通力<//>が若干強化されている",
-    "translation": "",
+    "translation": " <03>捕捉范围：<//>0～400ｍ   <03>捕捉时间：<//>Ａ\n重经过装甲强化的<02>阿斯洛克大楼<//>\n<02>贯穿力<//>略有强化",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 345\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
@@ -229,49 +229,49 @@
   {
     "key": "e_46124d69be_1101_199e397cf8",
     "original": "電源ビル　　　　　　　　%s\n <03>識別　　：<//>EPGAPS Lv1\n <03>耐久力　：<//>Ｄ",
-    "translation": "",
+    "translation": "供电大楼　　　　　　　　%s\n <03>识别：<//>EPGAPS Lv1\n <03>耐久力：<//>Ｄ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 362\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_1102_ef18638c9b",
     "original": "エヴァに電源を供給するビル",
-    "translation": "",
+    "translation": "为EVA供电的大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 364\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_1131_6f988f4e0c",
     "original": "装甲電源ビル",
-    "translation": "",
+    "translation": "装甲供电大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 373\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_1132_02d944998e",
     "original": "装甲電源ビル　　　　　　%s\n <03>識別　　：<//>EPGAPS Lv2\n <03>耐久力　：<//>Ｃ",
-    "translation": "",
+    "translation": "装甲供电大楼　　　　　　%s\n <03>识别：<//>EPGAPS Lv2\n <03>耐久力：<//>Ｃ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 373\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_1133_5be29fe5cf",
     "original": "装甲を施された<02>電源ビル<//>\n<02>耐久力<//>が上昇している",
-    "translation": "",
+    "translation": "经过装甲强化的<02>供电大楼<//>\n<02>耐久力<//>提高",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 375\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_1162_511ffcadec",
     "original": "重装甲電源ビル",
-    "translation": "",
+    "translation": "重装甲供电大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 385\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_1163_49e79b43ff",
     "original": "重装甲電源ビル　　　　　%s\n <03>識別　　：<//>EPGAPS Lv3\n <03>耐久力　：<//>Ａ",
-    "translation": "",
+    "translation": "重装甲供电大楼　　　　　%s\n <03>识别：<//>EPGAPS Lv3\n <03>耐久力：<//>Ａ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 385\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_1164_937d5d0372",
     "original": "重装甲を施された<02>電源ビル<//>\n<02>耐久力<//>がさらに上昇している",
-    "translation": "",
+    "translation": "重经过装甲强化的<02>供电大楼<//>\n<02>耐久力<//>进一步提高",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 387\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
@@ -284,49 +284,49 @@
   {
     "key": "e_46124d69be_1194_e5da1aeae0",
     "original": "武器庫ビル　　　　　　　%s\n <03>識別　　：<//>EWDL Lv1\n <03>耐久力　：<//>Ｄ\n <03>格納武器：<//>",
-    "translation": "",
+    "translation": "武器库大楼　　　　　　　%s\n <03>识别：<//>EWDL Lv1\n <03>耐久力：<//>Ｄ\n <03>收纳武器：<//>",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 397\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_1195_141faf437a",
     "original": "エヴァの武器を搭載するビル",
-    "translation": "",
+    "translation": "搭载EVA武器的大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 400\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_1224_c8284c651a",
     "original": "装甲武器庫ビル",
-    "translation": "",
+    "translation": "装甲武器库大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 409\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_1225_fe8e38d84e",
     "original": "装甲武器庫ビル　　　　　%s\n <03>識別　　：<//>EWDL Lv2\n <03>耐久力　：<//>Ｃ\n <03>格納武器：<//>",
-    "translation": "",
+    "translation": "装甲武器库大楼　　　　　%s\n <03>识别：<//>EWDL Lv2\n <03>耐久力：<//>Ｃ\n <03>收纳武器：<//>",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 409\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_1226_f266485569",
     "original": "装甲を施された<02>武器庫ビル<//>\n<02>耐久力<//>が上昇している",
-    "translation": "",
+    "translation": "经过装甲强化的<02>武器库大楼<//>\n<02>耐久力<//>提高",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 412\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_1255_a5f8a1ec92",
     "original": "重装甲武器庫ビル",
-    "translation": "",
+    "translation": "重装甲武器库大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 422\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_1256_bb47ddaf91",
     "original": "重装甲武器庫ビル　　　　%s\n <03>識別　　：<//>EWDL Lv3\n <03>耐久力　：<//>Ｂ\n <03>格納武器：<//>",
-    "translation": "",
+    "translation": "重装甲武器库大楼　　　　%s\n <03>识别：<//>EWDL Lv3\n <03>耐久力：<//>Ｂ\n <03>收纳武器：<//>",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 422\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_1257_40beb075b6",
     "original": "重装甲を施された<02>武器庫ビル<//>\n<02>耐久力<//>がさらに上昇している",
-    "translation": "",
+    "translation": "重经过装甲强化的<02>武器库大楼<//>\n<02>耐久力<//>进一步提高",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 425\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
@@ -339,49 +339,49 @@
   {
     "key": "e_46124d69be_1286_cf3efcb80f",
     "original": "観測ビル　　　　　　　　%s\n <03>識別　　：<//>EW&IPC Lv1\n <03>耐久力　：<//>Ｄ\n <03>分析性能：<//>Ｃ",
-    "translation": "",
+    "translation": "观测大楼　　　　　　　　%s\n <03>识别：<//>EW&IPC Lv1\n <03>耐久力：<//>Ｄ\n <03>分析性能：<//>Ｃ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 435\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_1287_ac7e6cb64d",
     "original": "目標を調査するビル\n配置する事で<02>分析<//>が可能になる",
-    "translation": "",
+    "translation": "调查目标的大楼\n配置后即可进行<02>分析<//>",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 438\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_1315_4de0527621",
     "original": "装甲観測ビル",
-    "translation": "",
+    "translation": "装甲观测大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 448\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_1316_ca41a71349",
     "original": "装甲観測ビル　　　　　　%s\n <03>識別　　：<//>EW&IPC Lv2\n <03>耐久力　：<//>Ｂ\n <03>分析性能：<//>Ｂ",
-    "translation": "",
+    "translation": "装甲观测大楼　　　　　　%s\n <03>识别：<//>EW&IPC Lv2\n <03>耐久力：<//>Ｂ\n <03>分析性能：<//>Ｂ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 448\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_1317_cc59c66c3b",
     "original": "装甲を施された<02>観測ビル<//>\n<02>耐久力<//>が上昇している\n<02>分析性能<//>が強化されている",
-    "translation": "",
+    "translation": "经过装甲强化的<02>观测大楼<//>\n<02>耐久力<//>提高\n<02>分析性能<//>得到强化",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 451\nElement: PARAM\nAttribute: gmkstr2"
   },
   {
     "key": "e_46124d69be_1345_2a29dc73af",
     "original": "重装甲観測ビル",
-    "translation": "",
+    "translation": "重装甲观测大楼",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 462\nElement: PARAM\nAttribute: gmkname"
   },
   {
     "key": "e_46124d69be_1346_8388c7a38f",
     "original": "重装甲観測ビル　　　　　%s\n <03>識別　　：<//>EW&IPC Lv3\n <03>耐久力　：<//>Ａ\n <03>分析性能：<//>Ａ",
-    "translation": "",
+    "translation": "重装甲观测大楼　　　　　%s\n <03>识别：<//>EW&IPC Lv3\n <03>耐久力：<//>Ａ\n <03>分析性能：<//>Ａ",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 462\nElement: PARAM\nAttribute: gmkstr"
   },
   {
     "key": "e_46124d69be_1347_c20f53a80e",
     "original": "重装甲を施された<02>観測ビル<//>\n<02>耐久力<//>がさらに上昇している\n<02>分析性能<//>がさらに強化されている",
-    "translation": "",
+    "translation": "重经过装甲强化的<02>观测大楼<//>\n<02>耐久力<//>进一步提高\n<02>分析性能<//>进一步强化",
     "context": "File: BATTLE/BUILDINFO2.XML\nLine: 465\nElement: PARAM\nAttribute: gmkstr2"
   }
 ]

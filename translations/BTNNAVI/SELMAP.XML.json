@@ -2,7 +2,7 @@
   {
     "key": "e_dcd9ba032b_0005_5db814c488",
     "original": "行き先を選択する",
-    "translation": "",
+    "translation": "选择目的地",
     "context": "File: BTNNAVI/SELMAP.XML\nLine: 4\nElement: TITLE\nAttribute: str"
   },
   {

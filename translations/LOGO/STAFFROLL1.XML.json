@@ -9,7 +9,7 @@
   {
     "key": "e_3289524bc9_0010_724e2aaf7e",
     "original": "原作",
-    "translation": "",
+    "translation": "原作",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 7\nElement: INFO\nAttribute: name"
   },
   {
@@ -50,79 +50,79 @@
   {
     "key": "e_3289524bc9_0028_34b8fd32f8",
     "original": "山口 由里子",
-    "translation": "",
+    "translation": "山口由里子",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 14\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0031_b4cb3d3ac2",
     "original": "石田 彰",
-    "translation": "",
+    "translation": "石田彰",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 15\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0034_3601c73a2d",
     "original": "立木 文彦",
-    "translation": "",
+    "translation": "立木文彦",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 16\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0037_1714dd24dc",
     "original": "清川 元夢",
-    "translation": "",
+    "translation": "清川元梦",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 17\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0040_a5ec359f64",
     "original": "長沢 美樹",
-    "translation": "",
+    "translation": "长泽美树",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 18\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0043_61d675aca8",
     "original": "子安 武人",
-    "translation": "",
+    "translation": "子安武人",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 19\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0046_ec529c8017",
     "original": "結城 比呂",
-    "translation": "",
+    "translation": "结城比吕",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 20\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0049_0264f2e178",
     "original": "関 智一",
-    "translation": "",
+    "translation": "关智一",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 21\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0052_657bacc481",
     "original": "岩永 哲哉",
-    "translation": "",
+    "translation": "岩永哲哉",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 22\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0055_58d72143da",
     "original": "岩男 潤子",
-    "translation": "",
+    "translation": "岩男润子",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 23\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0058_a0a8a84b7d",
     "original": "麦人",
-    "translation": "",
+    "translation": "麦人",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 24\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0061_4b2f0278cd",
     "original": "永野 広一",
-    "translation": "",
+    "translation": "永野广一",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 26\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0064_15eb98175a",
     "original": "川島 得愛",
-    "translation": "",
+    "translation": "川岛得爱",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 27\nElement: INFO\nAttribute: name"
   },
   {
@@ -134,19 +134,19 @@
   {
     "key": "e_3289524bc9_0070_29778a1159",
     "original": "$cカラー",
-    "translation": "",
+    "translation": "$c颜色",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 30\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0074_5b76d662de",
     "original": "$cGAINAX・カラー／ProjectEVA",
-    "translation": "",
+    "translation": "$cGAINAX・颜色／ProjectEVA",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 31\nElement: INFO\nAttribute: name"
   },
   {
     "key": "e_3289524bc9_0078_bc8c15d457",
     "original": "$cGAINAX・カラー／EVA製作委員会",
-    "translation": "",
+    "translation": "$cGAINAX・颜色／EVA制作委员会",
     "context": "File: LOGO/STAFFROLL1.XML\nLine: 32\nElement: INFO\nAttribute: name"
   }
 ]

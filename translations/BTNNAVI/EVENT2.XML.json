@@ -2,7 +2,7 @@
   {
     "key": "e_cfda9adb81_0010_23f1e8f9d0",
     "original": "スキップ",
-    "translation": "",
+    "translation": "跳过",
     "context": "File: BTNNAVI/EVENT2.XML\nLine: 5\nElement: BTN\nAttribute: caption"
   }
 ]
