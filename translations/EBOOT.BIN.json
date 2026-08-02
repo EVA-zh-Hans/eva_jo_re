@@ -35,6 +35,97 @@
     "context": "EBOOT .rodata: pilot status notification"
   },
   {
+    "key": "eboot_002785fc",
+    "offset": "0x002785FC",
+    "original": " シンジ",
+    "translation": "　真嗣",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
+    "key": "eboot_00278604",
+    "offset": "0x00278604",
+    "original": "　レイ",
+    "translation": "　 丽",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
+    "key": "eboot_0027860c",
+    "offset": "0x0027860C",
+    "original": " アスカ",
+    "translation": " 明日香",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
+    "key": "eboot_00278614",
+    "offset": "0x00278614",
+    "original": " カヲル",
+    "translation": "　 薰",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
+    "key": "eboot_0027861c",
+    "offset": "0x0027861C",
+    "original": " トウジ",
+    "translation": "　冬二",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
+    "key": "eboot_00278624",
+    "offset": "0x00278624",
+    "original": "ケンスケ",
+    "translation": "　剑介",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
+    "key": "eboot_00278630",
+    "offset": "0x00278630",
+    "original": " ヒカリ",
+    "translation": "　 光",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
+    "key": "eboot_00278638",
+    "offset": "0x00278638",
+    "original": " ミサト",
+    "translation": "　美里",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
+    "key": "eboot_00278640",
+    "offset": "0x00278640",
+    "original": " リツコ",
+    "translation": "　律子",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
+    "key": "eboot_00278650",
+    "offset": "0x00278650",
+    "original": "ゲンドウ",
+    "translation": "　源堂",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
+    "key": "eboot_00278664",
+    "offset": "0x00278664",
+    "original": "　青葉",
+    "translation": "　青叶",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
+    "key": "eboot_00278674",
+    "offset": "0x00278674",
+    "original": "　マヤ",
+    "translation": "　摩耶",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
+    "key": "eboot_0027867c",
+    "offset": "0x0027867C",
+    "original": "ペンペン",
+    "translation": "Pen Pen",
+    "context": "EBOOT .rodata: centered character label"
+  },
+  {
     "key": "eboot_00278688",
     "offset": "0x00278688",
     "original": "使徒の出現場所",
@@ -124,6 +215,489 @@
     "original": "エヴァ参号機",
     "translation": "EVA三号机",
     "context": "EBOOT .rodata: EVA name"
+  },
+  {
+    "key": "eboot_00278a9c",
+    "offset": "0x00278A9C",
+    "original": "シンジ",
+    "translation": "真嗣",
+    "context": "EBOOT .rodata: pilot name"
+  },
+  {
+    "key": "eboot_00278d58",
+    "offset": "0x00278D58",
+    "original": "シンジ",
+    "translation": "真嗣",
+    "context": "EBOOT .rodata: character short name"
+  },
+  {
+    "key": "eboot_00278d60",
+    "offset": "0x00278D60",
+    "original": "碇シンジ",
+    "translation": "碇真嗣",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278d70",
+    "offset": "0x00278D70",
+    "original": "レイ",
+    "translation": "丽",
+    "context": "EBOOT .rodata: character short name"
+  },
+  {
+    "key": "eboot_00278d78",
+    "offset": "0x00278D78",
+    "original": "綾波レイ",
+    "translation": "绫波丽",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278d8c",
+    "offset": "0x00278D8C",
+    "original": "アスカ",
+    "translation": "明日香",
+    "context": "EBOOT .rodata: character short name"
+  },
+  {
+    "key": "eboot_00278d94",
+    "offset": "0x00278D94",
+    "original": "惣流・アスカ・ラングレー",
+    "translation": "惣流·明日香·兰格雷",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278db8",
+    "offset": "0x00278DB8",
+    "original": "カヲル",
+    "translation": "薰",
+    "context": "EBOOT .rodata: character short name"
+  },
+  {
+    "key": "eboot_00278dc0",
+    "offset": "0x00278DC0",
+    "original": "渚カヲル",
+    "translation": "渚薰",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278dd4",
+    "offset": "0x00278DD4",
+    "original": "トウジ",
+    "translation": "冬二",
+    "context": "EBOOT .rodata: character short name"
+  },
+  {
+    "key": "eboot_00278ddc",
+    "offset": "0x00278DDC",
+    "original": "鈴原トウジ",
+    "translation": "铃原冬二",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278df0",
+    "offset": "0x00278DF0",
+    "original": "ケンスケ",
+    "translation": "剑介",
+    "context": "EBOOT .rodata: character short name"
+  },
+  {
+    "key": "eboot_00278dfc",
+    "offset": "0x00278DFC",
+    "original": "相田ケンスケ",
+    "translation": "相田剑介",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278e14",
+    "offset": "0x00278E14",
+    "original": "ヒカリ",
+    "translation": "光",
+    "context": "EBOOT .rodata: character short name"
+  },
+  {
+    "key": "eboot_00278e1c",
+    "offset": "0x00278E1C",
+    "original": "洞木ヒカリ",
+    "translation": "洞木光",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278e30",
+    "offset": "0x00278E30",
+    "original": "ミサト",
+    "translation": "美里",
+    "context": "EBOOT .rodata: character short name"
+  },
+  {
+    "key": "eboot_00278e38",
+    "offset": "0x00278E38",
+    "original": "葛城ミサト",
+    "translation": "葛城美里",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278e4c",
+    "offset": "0x00278E4C",
+    "original": "リツコ",
+    "translation": "律子",
+    "context": "EBOOT .rodata: character short name"
+  },
+  {
+    "key": "eboot_00278e54",
+    "offset": "0x00278E54",
+    "original": "赤木リツコ",
+    "translation": "赤木律子",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278e68",
+    "offset": "0x00278E68",
+    "original": "リョウジ",
+    "translation": "加持",
+    "context": "EBOOT .rodata: character short display name"
+  },
+  {
+    "key": "eboot_00278e74",
+    "offset": "0x00278E74",
+    "original": "加持リョウジ",
+    "translation": "加持良治",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278e8c",
+    "offset": "0x00278E8C",
+    "original": "ゲンドウ",
+    "translation": "源堂",
+    "context": "EBOOT .rodata: character short name"
+  },
+  {
+    "key": "eboot_00278e98",
+    "offset": "0x00278E98",
+    "original": "碇ゲンドウ",
+    "translation": "碇源堂",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278eac",
+    "offset": "0x00278EAC",
+    "original": "コウゾウ",
+    "translation": "冬月",
+    "context": "EBOOT .rodata: character short display name"
+  },
+  {
+    "key": "eboot_00278eb8",
+    "offset": "0x00278EB8",
+    "original": "冬月コウゾウ",
+    "translation": "冬月耕造",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278ed0",
+    "offset": "0x00278ED0",
+    "original": "シゲル",
+    "translation": "青叶",
+    "context": "EBOOT .rodata: character short display name"
+  },
+  {
+    "key": "eboot_00278ed8",
+    "offset": "0x00278ED8",
+    "original": "青葉シゲル",
+    "translation": "青叶茂",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278eec",
+    "offset": "0x00278EEC",
+    "original": "マコト",
+    "translation": "日向",
+    "context": "EBOOT .rodata: character short display name"
+  },
+  {
+    "key": "eboot_00278ef4",
+    "offset": "0x00278EF4",
+    "original": "日向マコト",
+    "translation": "日向诚",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278f08",
+    "offset": "0x00278F08",
+    "original": "マヤ",
+    "translation": "摩耶",
+    "context": "EBOOT .rodata: character short name"
+  },
+  {
+    "key": "eboot_00278f10",
+    "offset": "0x00278F10",
+    "original": "伊吹マヤ",
+    "translation": "伊吹摩耶",
+    "context": "EBOOT .rodata: character full name"
+  },
+  {
+    "key": "eboot_00278f24",
+    "offset": "0x00278F24",
+    "original": "ペンペン",
+    "translation": "Pen Pen",
+    "context": "EBOOT .rodata: character short name"
+  },
+  {
+    "key": "eboot_00278f38",
+    "offset": "0x00278F38",
+    "original": "職員男Ａ",
+    "translation": "职员男A",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00278f4c",
+    "offset": "0x00278F4C",
+    "original": "職員男Ｂ",
+    "translation": "职员男B",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00278f60",
+    "offset": "0x00278F60",
+    "original": "職員女Ａ",
+    "translation": "职员女A",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00278f74",
+    "offset": "0x00278F74",
+    "original": "職員女Ｂ",
+    "translation": "职员女B",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00278f88",
+    "offset": "0x00278F88",
+    "original": "作業員Ａ",
+    "translation": "作业员A",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00278f9c",
+    "offset": "0x00278F9C",
+    "original": "作業員Ｂ",
+    "translation": "作业员B",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00278fb0",
+    "offset": "0x00278FB0",
+    "original": "野外員Ａ",
+    "translation": "外勤员A",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00278fc4",
+    "offset": "0x00278FC4",
+    "original": "野外員Ｂ",
+    "translation": "外勤员B",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00278fd8",
+    "offset": "0x00278FD8",
+    "original": "野外員Ｃ",
+    "translation": "外勤员C",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00278fec",
+    "offset": "0x00278FEC",
+    "original": "男民０１",
+    "translation": "男市民01",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279000",
+    "offset": "0x00279000",
+    "original": "男民０２",
+    "translation": "男市民02",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279014",
+    "offset": "0x00279014",
+    "original": "男民０３",
+    "translation": "男市民03",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279028",
+    "offset": "0x00279028",
+    "original": "男民０４",
+    "translation": "男市民04",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_0027903c",
+    "offset": "0x0027903C",
+    "original": "男民０５",
+    "translation": "男市民05",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279050",
+    "offset": "0x00279050",
+    "original": "男民０６",
+    "translation": "男市民06",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279064",
+    "offset": "0x00279064",
+    "original": "男民０７",
+    "translation": "男市民07",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279078",
+    "offset": "0x00279078",
+    "original": "男民０８",
+    "translation": "男市民08",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_0027908c",
+    "offset": "0x0027908C",
+    "original": "男民０９",
+    "translation": "男市民09",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_002790a0",
+    "offset": "0x002790A0",
+    "original": "男民１０",
+    "translation": "男市民10",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_002790b4",
+    "offset": "0x002790B4",
+    "original": "男民１１",
+    "translation": "男市民11",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_002790c8",
+    "offset": "0x002790C8",
+    "original": "男民１２",
+    "translation": "男市民12",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_002790dc",
+    "offset": "0x002790DC",
+    "original": "女民０１",
+    "translation": "女市民01",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_002790f0",
+    "offset": "0x002790F0",
+    "original": "女民０２",
+    "translation": "女市民02",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279104",
+    "offset": "0x00279104",
+    "original": "女民０３",
+    "translation": "女市民03",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279118",
+    "offset": "0x00279118",
+    "original": "女民０４",
+    "translation": "女市民04",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_0027912c",
+    "offset": "0x0027912C",
+    "original": "女民０５",
+    "translation": "女市民05",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279140",
+    "offset": "0x00279140",
+    "original": "女民０６",
+    "translation": "女市民06",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279154",
+    "offset": "0x00279154",
+    "original": "女民０７",
+    "translation": "女市民07",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279168",
+    "offset": "0x00279168",
+    "original": "女民０８",
+    "translation": "女市民08",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_0027917c",
+    "offset": "0x0027917C",
+    "original": "女民０９",
+    "translation": "女市民09",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279190",
+    "offset": "0x00279190",
+    "original": "女民１０",
+    "translation": "女市民10",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_002791a4",
+    "offset": "0x002791A4",
+    "original": "女民１１",
+    "translation": "女市民11",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_002791b8",
+    "offset": "0x002791B8",
+    "original": "女民１２",
+    "translation": "女市民12",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_002791cc",
+    "offset": "0x002791CC",
+    "original": "男学０１",
+    "translation": "男学生01",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_002791e0",
+    "offset": "0x002791E0",
+    "original": "男学０２",
+    "translation": "男学生02",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_002791f4",
+    "offset": "0x002791F4",
+    "original": "女学０１",
+    "translation": "女学生01",
+    "context": "EBOOT .rodata: generic character name"
+  },
+  {
+    "key": "eboot_00279208",
+    "offset": "0x00279208",
+    "original": "女学０２",
+    "translation": "女学生02",
+    "context": "EBOOT .rodata: generic character name"
   },
   {
     "key": "eboot_002796c4",
@@ -525,31 +1099,164 @@
     "context": "EBOOT .rodata: weapon type"
   },
   {
+    "key": "eboot_0028fa9c",
+    "offset": "0x0028FA9C",
+    "original": "ダミー君",
+    "translation": "傀儡君",
+    "context": "EBOOT .data: dummy character label"
+  },
+  {
+    "key": "eboot_0028fac4",
+    "offset": "0x0028FAC4",
+    "original": "シンジ",
+    "translation": "真嗣",
+    "context": "EBOOT .data: character label"
+  },
+  {
+    "key": "eboot_0028faec",
+    "offset": "0x0028FAEC",
+    "original": "レイ",
+    "translation": "丽",
+    "context": "EBOOT .data: character label"
+  },
+  {
+    "key": "eboot_0028fb14",
+    "offset": "0x0028FB14",
+    "original": "アスカ",
+    "translation": "明日香",
+    "context": "EBOOT .data: character label"
+  },
+  {
+    "key": "eboot_0028fb3c",
+    "offset": "0x0028FB3C",
+    "original": "カヲル",
+    "translation": "薰",
+    "context": "EBOOT .data: character label"
+  },
+  {
+    "key": "eboot_0028fb64",
+    "offset": "0x0028FB64",
+    "original": "トウジ",
+    "translation": "冬二",
+    "context": "EBOOT .data: character label"
+  },
+  {
+    "key": "eboot_0028fb8c",
+    "offset": "0x0028FB8C",
+    "original": "ケンスケ",
+    "translation": "剑介",
+    "context": "EBOOT .data: character label"
+  },
+  {
+    "key": "eboot_0028fbb4",
+    "offset": "0x0028FBB4",
+    "original": "ヒカリ",
+    "translation": "光",
+    "context": "EBOOT .data: character label"
+  },
+  {
+    "key": "eboot_0028fbdc",
+    "offset": "0x0028FBDC",
+    "original": "ミサト",
+    "translation": "美里",
+    "context": "EBOOT .data: character label"
+  },
+  {
+    "key": "eboot_0028fc04",
+    "offset": "0x0028FC04",
+    "original": "リツコ",
+    "translation": "律子",
+    "context": "EBOOT .data: character label"
+  },
+  {
+    "key": "eboot_0028fc54",
+    "offset": "0x0028FC54",
+    "original": "ゲンドウ",
+    "translation": "源堂",
+    "context": "EBOOT .data: character label"
+  },
+  {
+    "key": "eboot_0028fca4",
+    "offset": "0x0028FCA4",
+    "original": "青葉",
+    "translation": "青叶",
+    "context": "EBOOT .data: character label"
+  },
+  {
+    "key": "eboot_0028fcf4",
+    "offset": "0x0028FCF4",
+    "original": "マヤ",
+    "translation": "摩耶",
+    "context": "EBOOT .data: character label"
+  },
+  {
+    "key": "eboot_0028fd1c",
+    "offset": "0x0028FD1C",
+    "original": "ペンペン",
+    "translation": "Pen Pen",
+    "context": "EBOOT .data: character label"
+  },
+  {
     "key": "eboot_0028fd44",
     "offset": "0x0028FD44",
     "original": "スタッフ",
-    "translation": "工作人员",
+    "translation": "职员",
     "context": "EBOOT .data: generic NPC label"
   },
   {
     "key": "eboot_0028fd6c",
     "offset": "0x0028FD6C",
     "original": "スタッフ",
-    "translation": "工作人员",
+    "translation": "职员",
     "context": "EBOOT .data: generic NPC label"
   },
   {
     "key": "eboot_0028fd94",
     "offset": "0x0028FD94",
     "original": "スタッフ",
-    "translation": "工作人员",
+    "translation": "职员",
     "context": "EBOOT .data: generic NPC label"
   },
   {
     "key": "eboot_0028fdbc",
     "offset": "0x0028FDBC",
     "original": "スタッフ",
-    "translation": "工作人员",
+    "translation": "职员",
+    "context": "EBOOT .data: generic NPC label"
+  },
+  {
+    "key": "eboot_0028fde4",
+    "offset": "0x0028FDE4",
+    "original": "作業員",
+    "translation": "作业员",
+    "context": "EBOOT .data: generic NPC label"
+  },
+  {
+    "key": "eboot_0028fe0c",
+    "offset": "0x0028FE0C",
+    "original": "作業員",
+    "translation": "作业员",
+    "context": "EBOOT .data: generic NPC label"
+  },
+  {
+    "key": "eboot_0028fe34",
+    "offset": "0x0028FE34",
+    "original": "作業員",
+    "translation": "作业员",
+    "context": "EBOOT .data: generic NPC label"
+  },
+  {
+    "key": "eboot_0028fe5c",
+    "offset": "0x0028FE5C",
+    "original": "作業員",
+    "translation": "作业员",
+    "context": "EBOOT .data: generic NPC label"
+  },
+  {
+    "key": "eboot_0028fe84",
+    "offset": "0x0028FE84",
+    "original": "作業員",
+    "translation": "作业员",
     "context": "EBOOT .data: generic NPC label"
   }
 ]
