@@ -8,6 +8,7 @@ NON_ASCII = re.compile(r"[^\x00-\x7f]")
 CALL_BEFORE = re.compile(r"([A-Za-z_]\w*(?:\.[A-Za-z_]\w*)*)\s*\([^()]*$")
 SPEAKER = re.compile(r"\bIMC_[A-Za-z0-9_]+\b")
 VOICE = re.compile(r'"([^"\\]*(?:\\.[^"\\]*)*)"')
+PLAIN_TEXT_CALLS = {"DecideStart"}
 
 
 class NutError(ValueError):
@@ -62,8 +63,29 @@ def scan(text: str) -> list[StringSpan]:
             position = content_end + 1
             continue
         if text[position] in {'"', "'"}:
-            end = _quoted_end(text, position + 1, text[position], allow_newline=False)
-            position = end + 1
+            content_start = position + 1
+            content_end = _quoted_end(
+                text, content_start, text[position], allow_newline=False
+            )
+            original = text[content_start:content_end]
+            if (
+                _call_before(text, content_start) in PLAIN_TEXT_CALLS
+                and NON_ASCII.search(original)
+                and original.strip(" \t\r\n\u3000")
+            ):
+                ordinal += 1
+                line = text.count("\n", 0, content_start) + 1
+                spans.append(
+                    StringSpan(
+                        start=content_start,
+                        end=content_end,
+                        original=original,
+                        ordinal=ordinal,
+                        line=line,
+                        context=_context(text, content_start, content_end, line),
+                    )
+                )
+            position = content_end + 1
             continue
         position += 1
     return spans
@@ -115,3 +137,9 @@ def _context(text: str, start: int, end: int, line: int) -> str:
     if voice:
         details.append(f"Voice: {voice.group(1)}")
     return "\n".join(details)
+
+
+def _call_before(text: str, position: int) -> str | None:
+    line_start = text.rfind("\n", 0, position) + 1
+    call = CALL_BEFORE.search(text[line_start:position])
+    return call.group(1) if call else None

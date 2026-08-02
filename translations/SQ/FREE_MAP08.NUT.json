@@ -112,7 +112,14 @@
     "stage": 1
   },
   {
-    "key": "e_7310b555e3_0017_98e9e77ff5",
+    "key": "e_7310b555e3_0017_40f4299302",
+    "original": "ストーリーが進行しますが、よろしいですか？",
+    "translation": "剧情将继续，确定吗？",
+    "context": "File: SQ/FREE_MAP08.NUT\nLine: 201\nCall: DecideStart",
+    "stage": 1
+  },
+  {
+    "key": "e_7310b555e3_0018_98e9e77ff5",
     "original": "今日はもう休もうかな",
     "translation": "今天还是先休息吧",
     "context": "File: SQ/FREE_MAP08.NUT\nLine: 215\nCall: im.play\nSpeaker: IMC_SHINJI",

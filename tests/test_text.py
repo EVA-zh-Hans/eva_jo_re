@@ -43,6 +43,12 @@ class NutTests(unittest.TestCase):
         self.assertIn("Speaker: IMC_REI", spans[0].context)
         self.assertIn("Voice: voice_01", spans[0].context)
 
+    def test_scans_plain_decide_prompt_but_ignores_other_literals(self):
+        source = 'local ignored = "日本語";\nDecideStart("続行しますか？", 0);\n'
+        spans = nut.scan(source)
+        self.assertEqual([span.original for span in spans], ["続行しますか？"])
+        self.assertIn("Call: DecideStart", spans[0].context)
+
     def test_replaces_exact_span_and_renders_newline_escape(self):
         source = 'im.play(IMC_NONE, @"原文");\n'
         rendered = nut.replace(source, nut.scan(source), {1: "第一行\n第二行"})

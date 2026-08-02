@@ -1,0 +1,9 @@
+[
+  {
+    "key": "e_2d38667733_0001_9610f3bace",
+    "original": "ここまでをセーブしますか？",
+    "translation": "要保存当前进度吗？",
+    "context": "File: SQ/SAVE.NUT\nLine: 23\nCall: DecideStart",
+    "stage": 1
+  }
+]
