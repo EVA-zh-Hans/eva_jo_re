@@ -3,6 +3,8 @@ from __future__ import annotations
 from dataclasses import dataclass
 from typing import Mapping
 
+from .encoding import EncodingError, encode_game_text
+
 
 RECORD_SIZE = 0x70
 TEXT_SIZE = 0x20
@@ -112,17 +114,11 @@ def replace(
 
     output = bytearray(table.data)
     for field, text in zip(table.strings, rendered, strict=True):
-        encoded_text = (
-            "".join(substitutions.get(char, char) for char in text)
-            if substitutions
-            else text
-        )
         try:
-            encoded = encoded_text.encode("cp932", errors="strict")
-        except UnicodeEncodeError as exc:
-            char = encoded_text[exc.start : exc.end]
+            encoded = encode_game_text(text, substitutions)
+        except EncodingError as exc:
             raise AiTalkListError(
-                f"Cannot encode {char!r} for row {field.row}"
+                f"Cannot encode text for row {field.row}: {exc}"
             ) from exc
         if len(encoded) >= TEXT_SIZE:
             raise AiTalkListError(

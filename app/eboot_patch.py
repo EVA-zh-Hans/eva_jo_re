@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Mapping
 
 from . import paratranz
+from .encoding import EncodingError, encode_game_text
 
 
 class EbootPatchError(ValueError):
@@ -104,16 +105,10 @@ def replace(
     output = bytearray(patch_set.data)
     for entry in patch_set.entries:
         original = entry.original.encode("cp932", errors="strict")
-        encoded_text = (
-            "".join(substitutions.get(char, char) for char in entry.translation)
-            if substitutions
-            else entry.translation
-        )
         try:
-            encoded = encoded_text.encode("cp932", errors="strict")
-        except UnicodeEncodeError as exc:
-            char = encoded_text[exc.start : exc.end]
-            raise EbootPatchError(f"Cannot encode {char!r} for {entry.key}") from exc
+            encoded = encode_game_text(entry.translation, substitutions)
+        except EncodingError as exc:
+            raise EbootPatchError(f"Cannot encode translation for {entry.key}: {exc}") from exc
         if len(encoded) > len(original):
             raise EbootPatchError(
                 f"Entry {entry.key} needs {len(encoded)} bytes, but its in-place "

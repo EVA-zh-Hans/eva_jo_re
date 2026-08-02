@@ -5,7 +5,7 @@ import unittest
 from pathlib import Path, PurePosixPath
 
 from app import aitalklist, bintable, eboot_patch, font, nut, paratranz, xml
-from app.encoding import decode
+from app.encoding import EncodingError, decode, encode_game_text, is_game_safe_cp932
 
 
 def _make_bin_table(rows: list[tuple[str, int, str]]) -> bytes:
@@ -339,6 +339,33 @@ class EncodingAndFontTests(unittest.TestCase):
         plan = font.build_plan(table, {"骗"}, {"嗣"})
         self.assertNotEqual(plan.substitutions["骗"], "嗣")
         self.assertNotIn("嗣", {mapping.slot for mapping in plan.mappings})
+
+    def test_game_profile_rejects_unsupported_cp932_extensions(self):
+        self.assertEqual("增".encode("cp932"), bytes.fromhex("ED81"))
+        self.assertEqual("薰".encode("cp932"), bytes.fromhex("EE82"))
+        self.assertFalse(is_game_safe_cp932("增"))
+        self.assertFalse(is_game_safe_cp932("薰"))
+        self.assertEqual(font.required_substitutions(["增薰"]), {"增", "薰"})
+
+    def test_game_profile_keeps_supported_cp932_symbols(self):
+        text = "①～－"
+        self.assertEqual(text.encode("cp932"), bytes.fromhex("87408160817C"))
+        self.assertTrue(all(is_game_safe_cp932(char) for char in text))
+        self.assertEqual(font.required_substitutions([text]), set())
+        self.assertEqual(decode(text.encode("cp932")).encode(), text.encode("cp932"))
+
+    def test_encodes_unlocked_skill_message_without_unsafe_extensions(self):
+        text = "新增技能已解锁"
+        required = font.required_substitutions([text])
+        self.assertEqual(required, {"增", "锁"})
+        plan = font.build_plan("亜唖娃".encode("utf-16le"), required, set())
+        substituted = "".join(plan.substitutions.get(char, char) for char in text)
+        encoded = encode_game_text(text, plan.substitutions)
+        self.assertEqual(encoded, substituted.encode("cp932"))
+        self.assertTrue(all(is_game_safe_cp932(char) for char in substituted))
+        self.assertNotIn(bytes.fromhex("ED81"), encoded)
+        with self.assertRaisesRegex(EncodingError, "Unsafe CP932 byte sequence ED81"):
+            encode_game_text(text, {"锁": "亜"})
 
 
 if __name__ == "__main__":

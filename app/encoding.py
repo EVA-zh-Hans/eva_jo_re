@@ -1,10 +1,50 @@
 from __future__ import annotations
 
 from dataclasses import dataclass
+from typing import Mapping
 
 
 class EncodingError(UnicodeError):
     pass
+
+
+def is_game_safe_cp932(char: str) -> bool:
+    """Return whether one character uses a byte sequence accepted by the game."""
+    try:
+        encoded = char.encode("cp932", errors="strict")
+    except UnicodeEncodeError:
+        return False
+    if len(encoded) == 1:
+        return True
+    return len(encoded) == 2 and (
+        0x81 <= encoded[0] <= 0x9F or 0xE0 <= encoded[0] <= 0xEA
+    )
+
+
+def encode_game_text(
+    text: str,
+    substitutions: Mapping[str, str] | None = None,
+) -> bytes:
+    substituted = (
+        "".join(substitutions.get(char, char) for char in text)
+        if substitutions
+        else text
+    )
+    output = bytearray()
+    for index, char in enumerate(substituted):
+        try:
+            encoded = char.encode("cp932", errors="strict")
+        except UnicodeEncodeError as exc:
+            raise EncodingError(
+                f"Cannot encode {char!r} as CP932 at character {index}"
+            ) from exc
+        if not is_game_safe_cp932(char):
+            raise EncodingError(
+                f"Unsafe CP932 byte sequence {encoded.hex().upper()} for {char!r} "
+                f"at character {index}"
+            )
+        output.extend(encoded)
+    return bytes(output)
 
 
 @dataclass(frozen=True)
@@ -16,10 +56,14 @@ class DecodedText:
     def with_text(self, text: str) -> "DecodedText":
         return DecodedText(text=text, encoding=self.encoding, bom=self.bom)
 
-    def encode(self, substitutions: dict[str, str] | None = None) -> bytes:
-        text = self.text
-        if substitutions:
-            text = "".join(substitutions.get(char, char) for char in text)
+    def encode(self, substitutions: Mapping[str, str] | None = None) -> bytes:
+        if self.encoding == "cp932":
+            return self.bom + encode_game_text(self.text, substitutions)
+        text = (
+            "".join(substitutions.get(char, char) for char in self.text)
+            if substitutions
+            else self.text
+        )
         try:
             return self.bom + text.encode(self.encoding, errors="strict")
         except UnicodeEncodeError as exc:

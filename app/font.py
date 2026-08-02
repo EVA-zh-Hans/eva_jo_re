@@ -5,6 +5,8 @@ import struct
 from dataclasses import dataclass
 from pathlib import Path
 
+from .encoding import is_game_safe_cp932
+
 
 class FontError(ValueError):
     pass
@@ -48,9 +50,7 @@ def required_substitutions(texts: list[str]) -> set[str]:
     required: set[str] = set()
     for text in texts:
         for char in text:
-            try:
-                char.encode("cp932", errors="strict")
-            except UnicodeEncodeError:
+            if not is_game_safe_cp932(char):
                 required.add(char)
     return required
 

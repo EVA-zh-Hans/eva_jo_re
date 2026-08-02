@@ -5,6 +5,8 @@ import struct
 from dataclasses import dataclass
 from typing import Mapping
 
+from .encoding import EncodingError, encode_game_text
+
 
 HEADER = struct.Struct("<5I")
 TYPE_WIDTHS = {0: 4, 1: 4, 2: 1, 3: 2, 4: 4}
@@ -187,13 +189,11 @@ def replace(
             raise BinTableError(
                 f"Rendered text for row {field.row}, column {field.column} contains NUL"
             )
-        encoded_text = "".join(substitutions.get(char, char) for char in text) if substitutions else text
         try:
-            encoded = encoded_text.encode("cp932", errors="strict")
-        except UnicodeEncodeError as exc:
-            char = encoded_text[exc.start : exc.end]
+            encoded = encode_game_text(text, substitutions)
+        except EncodingError as exc:
             raise BinTableError(
-                f"Cannot encode {char!r} for row {field.row}, column {field.column}"
+                f"Cannot encode text for row {field.row}, column {field.column}: {exc}"
             ) from exc
         pointer = table.pool_offset + len(pool)
         struct.pack_into("<I", records, field.pointer_offset, pointer)
