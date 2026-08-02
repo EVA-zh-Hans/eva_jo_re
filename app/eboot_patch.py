@@ -22,6 +22,37 @@ class Entry:
     context: str
 
 
+UTF8_REPLACEMENTS = (
+    (0x0027A16C, "「使徒、襲来」", "「使徒、来袭」"),
+    (0x0027A184, "「見知らぬ、天井」", "「陌生的天花板」"),
+    (0x0027A1A0, "「鳴らない、電話」", "「不响的电话」"),
+    (0x0027A1BC, "「レイ、心のむこうに」", "「丽、心的彼端」"),
+    (0x0027A1E0, "「人の造りしもの」", "「人造之物」"),
+    (0x0027A1FC, "「アスカ、来日」", "「明日香、来日」"),
+    (0x0027A218, "「瞬間、心、重ねて」", "「瞬间、心灵、重叠」"),
+    (0x0027A238, "「マグマダイバー」", "「岩浆潜行者」"),
+    (0x0027A254, "「静止した闇の中で」", "「在静止的黑暗中」"),
+    (0x0027A274, "「奇跡の価値は」", "「奇迹的价值」"),
+    (0x0027A290, "「使徒、侵入」", "「使徒、入侵」"),
+    (0x0027A2A8, "「死に至る病、そして」", "「致死的疾病、而后」"),
+    (0x0027A2CC, "「四人目の適格者」", "「第四适格者」"),
+    (0x0027A2E8, "「男の戦い」", "男人的战斗"),
+    (0x0027A2FC, "「嘘と沈黙」", "谎言与沉默"),
+    (0x0027A310, "「せめて、人間らしく」", "「至少像个人类」"),
+    (0x0027A334, "「涙」", "「泪」"),
+    (0x0027A340, "「最後のシ者」", "「最后的使者」"),
+    (0x0027A358, "「まごころを、君に」", "「真心为你」"),
+    (0x0027A380, "　戦闘前日常", "　战斗前日常"),
+    (0x0027A394, "　戦闘直前", "　战斗前夕"),
+    (0x0027A3A4, "　戦闘後", "　战斗后"),
+    (0x0027A3B4, "　戦闘後日常", "　战斗后日常"),
+    (0x0027A3C8, "　終了", "　结束"),
+    (0x0027A3D4, "　ゲームクリア", "　游戏通关"),
+    (0x00282C70, "EVANGELION　ヱヴァンゲリヲン：序", "EVANGELION　新世纪福音战士：序"),
+    (0x00282C9C, "セーブデータ", "保存数据"),
+)
+
+
 @dataclass(frozen=True)
 class PatchSet:
     data: bytes
@@ -128,6 +159,25 @@ def verify_patched(data: bytes, entries: tuple[Entry, ...]) -> list[str]:
             errors.append(f"Patched EBOOT entry is out of range: {entry.key}")
         elif data[entry.offset:end] == original:
             errors.append(f"EBOOT entry was not translated: {entry.key}")
+    return errors
+
+
+def replace_utf8(data: bytes) -> bytes:
+    output = bytearray(data)
+    for offset, original, translation in UTF8_REPLACEMENTS:
+        original_size = len(original.encode("utf-8"))
+        encoded = translation.encode("utf-8")
+        output[offset : offset + original_size] = encoded.ljust(original_size, b"\0")
+    return bytes(output)
+
+
+def verify_utf8(data: bytes) -> list[str]:
+    errors: list[str] = []
+    for offset, original, translation in UTF8_REPLACEMENTS:
+        original_size = len(original.encode("utf-8"))
+        expected = translation.encode("utf-8").ljust(original_size, b"\0")
+        if data[offset : offset + original_size] != expected:
+            errors.append(f"UTF-8 EBOOT entry was not translated at 0x{offset:08X}")
     return errors
 
 

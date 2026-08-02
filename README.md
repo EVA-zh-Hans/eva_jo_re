@@ -16,9 +16,10 @@ make test
 ```
 
 `make export` 读取镜像内 `NEVA.PKG` 的 NUT/XML，并结构化导出武器、技能、
-任务名称和自由行动话题 BIN，不维护完整解包树。EBOOT 文本只使用
-`translations/EBOOT.BIN.json` 中人工确认的偏移；受限 SJIS 扫描器仅位于
-`scripts/scan_eboot_sjis.py`，不参与导出或构建。
+任务名称和自由行动话题 BIN，不维护完整解包树。EBOOT 的 CP932 文本使用
+`translations/EBOOT.BIN.json` 中人工确认的偏移；存档界面的 UTF-8 标题则内置于
+`app/eboot_patch.py`。受限 SJIS 扫描器仅位于 `scripts/scan_eboot_sjis.py`，
+不参与导出或构建。
 `make build` 根据当前译文动态生成码表和新 PKG，再通过稀疏 overlay 生成镜像。
 构建同时调用 `plugin/` 生成最小字体 loader/runtime，由根 Makefile 解密
 原版 EBOOT，并把 `EBOOT.BIN`、`BOOT.BIN`、`EVAJORT.PRX` 和

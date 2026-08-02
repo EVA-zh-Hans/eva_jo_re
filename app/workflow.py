@@ -158,6 +158,7 @@ def check_translations(
         if item.spans
     }
     eboot_entries: tuple[eboot_patch.Entry, ...] = ()
+    eboot_utf8_entries = 0
     eboot_json = paratranz.json_path(translations_dir, _EBOOT_TRANSLATION_PATH)
     if eboot_json.exists():
         expected.add(eboot_json)
@@ -165,18 +166,20 @@ def check_translations(
             eboot_entries = eboot_patch.load(
                 source_eboot.read_bytes(), eboot_json
             ).entries
+            eboot_utf8_entries = len(eboot_patch.UTF8_REPLACEMENTS)
         except (OSError, ValueError) as exc:
             errors.append(f"Invalid EBOOT translations: {exc}")
     actual = set(translations_dir.rglob("*.json")) if translations_dir.exists() else set()
     for unexpected in sorted(actual - expected):
         errors.append(f"Unexpected translation file: {unexpected}")
-    translated = sum(len(item.translations) for item in all_files) + len(eboot_entries)
+    eboot_entry_count = len(eboot_entries) + eboot_utf8_entries
+    translated = sum(len(item.translations) for item in all_files) + eboot_entry_count
     report = {
         "ok": not errors,
-        "files": len([item for item in all_files if item.spans]) + bool(eboot_entries),
-        "entries": sum(len(item.spans) for item in all_files) + len(eboot_entries),
+        "files": len([item for item in all_files if item.spans]) + bool(eboot_entry_count),
+        "entries": sum(len(item.spans) for item in all_files) + eboot_entry_count,
         "translated_entries": translated,
-        "eboot_entries": len(eboot_entries),
+        "eboot_entries": eboot_entry_count,
         "errors": errors,
     }
     _write_json(report_path, report)
@@ -276,7 +279,9 @@ def build_image(
     if eboot_patches:
         patched_eboot = overlay / _EBOOT_OVERLAY_PATH
         patched_eboot.write_bytes(
-            eboot_patch.replace(eboot_patches, plan.substitutions)
+            eboot_patch.replace_utf8(
+                eboot_patch.replace(eboot_patches, plan.substitutions)
+            )
         )
     pkg_overlay = overlay / "PSP_GAME" / "USRDIR" / "NEVA.PKG"
     pkg_overlay.parent.mkdir(parents=True, exist_ok=True)
@@ -301,7 +306,11 @@ def build_image(
         "image_strategy": image_strategy,
         "changed_text_files": changed_paths,
         "changed_text_count": len(changed_paths),
-        "changed_eboot_strings": len(eboot_patches.entries) if eboot_patches else 0,
+        "changed_eboot_strings": (
+            len(eboot_patches.entries) + len(eboot_patch.UTF8_REPLACEMENTS)
+            if eboot_patches
+            else 0
+        ),
         "font_mapping_count": len(plan.mappings),
     }
     _write_json(reports / "build.json", report)
@@ -346,17 +355,21 @@ def verify_image(
                     if new.path not in allowed:
                         errors.append(f"Unexpected modified PKG entry: {new.path}")
         eboot_entries: tuple[eboot_patch.Entry, ...] = ()
+        eboot_utf8_entries = 0
         eboot_json = paratranz.json_path(translations_dir, _EBOOT_TRANSLATION_PATH)
         if eboot_json.exists():
             try:
                 eboot_entries = eboot_patch.load_entries(eboot_json)
+                eboot_utf8_entries = len(eboot_patch.UTF8_REPLACEMENTS)
                 patched_eboot = temporary / "BOOT.BIN"
                 iso.extract_file(
                     patched_iso, "/PSP_GAME/SYSDIR/BOOT.BIN", patched_eboot
                 )
+                patched_eboot_data = patched_eboot.read_bytes()
                 errors.extend(
-                    eboot_patch.verify_patched(patched_eboot.read_bytes(), eboot_entries)
+                    eboot_patch.verify_patched(patched_eboot_data, eboot_entries)
                 )
+                errors.extend(eboot_patch.verify_utf8(patched_eboot_data))
             except (OSError, ValueError) as exc:
                 errors.append(f"Cannot verify EBOOT translations: {exc}")
     report = {
@@ -364,7 +377,7 @@ def verify_image(
         "source_iso_sha256": _sha256(source_iso),
         "patched_iso_sha256": _sha256(patched_iso),
         "changed_pkg_entries": changed,
-        "patched_eboot_entries": len(eboot_entries),
+        "patched_eboot_entries": len(eboot_entries) + eboot_utf8_entries,
         "errors": errors,
     }
     _write_json(report_path, report)

@@ -321,6 +321,26 @@ class EbootPatchTests(unittest.TestCase):
             with self.assertRaisesRegex(eboot_patch.EbootPatchError, "in-place slot"):
                 eboot_patch.replace(patch_set)
 
+    def test_replaces_hardcoded_utf8_strings(self):
+        replacements = eboot_patch.UTF8_REPLACEMENTS
+        size = max(
+            offset + len(original.encode("utf-8")) + 1
+            for offset, original, _ in replacements
+        )
+        source = bytearray(size)
+        for offset, original, translation in replacements:
+            original_bytes = original.encode("utf-8")
+            self.assertLessEqual(
+                len(translation.encode("utf-8")),
+                len(original_bytes),
+                f"0x{offset:08X}",
+            )
+            source[offset : offset + len(original_bytes)] = original_bytes
+
+        patched = eboot_patch.replace_utf8(bytes(source))
+        self.assertEqual(eboot_patch.verify_utf8(patched), [])
+        self.assertEqual(len(patched), len(source))
+
 
 class EncodingAndFontTests(unittest.TestCase):
     def test_detects_cp932_and_utf8(self):
