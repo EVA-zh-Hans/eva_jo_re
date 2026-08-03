@@ -5,6 +5,7 @@ description = "Translation and image build workflow for ULJS00201"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "pillow>=12.3.0",
     "pycdlib>=1.16.0",
 ]
 

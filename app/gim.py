@@ -56,6 +56,17 @@ def str_encode(data, pos, value, size, encoding='utf-8'):
     encoded = encoded[:size].ljust(size, b'\0')
     return data[:pos] + encoded + data[pos + size:], pos + size
 
+
+def encode_p4_swizzled(rows):
+    width = len(rows[0])
+    pixels = [[int(value, 16) for value in row] for row in rows]
+    tiled = []
+    for tile_y in range(0, len(rows), 8):
+        for tile_x in range(0, width, 32):
+            for y in range(tile_y, tile_y + 8):
+                tiled.extend(pixels[y][tile_x:tile_x + 32])
+    return bytes(tiled[index] | (tiled[index + 1] << 4) for index in range(0, len(tiled), 2))
+
 def overscan_for_tile_size(value, tile_value):
     if value % tile_value == 0:
         return value
@@ -741,7 +752,7 @@ Examples:
     else:
         if args.mode == 'png2gim':
             output_path = input_path.with_suffix('.gim')
-        else:  # gim2png
+        else:
             output_path = input_path.with_suffix('.png')
     
     try:
@@ -759,7 +770,7 @@ Examples:
             if args.verbose:
                 print(f'Successfully saved GIM file: {output_path}')
         
-        else:  # gim2png
+        else:
             if args.verbose:
                 print(f'Converting GIM to PNG: {input_path} -> {output_path}')
             
