@@ -67,6 +67,30 @@ def encode_p4_swizzled(rows):
                 tiled.extend(pixels[y][tile_x:tile_x + 32])
     return bytes(tiled[index] | (tiled[index + 1] << 4) for index in range(0, len(tiled), 2))
 
+
+def split_gim_pictures(data):
+    magic = int.from_bytes(data[:4], byteorder='little')
+    byteorder = 'little' if magic == GIM_MAGIC1_LIT else 'big'
+    root_type = int.from_bytes(data[16:18], byteorder=byteorder)
+    root_size = int.from_bytes(data[20:24], byteorder=byteorder)
+    position = 16 + int.from_bytes(data[24:28], byteorder=byteorder)
+    root_end = 16 + root_size
+    pictures = []
+
+    while position < root_end:
+        block_type = int.from_bytes(data[position:position + 2], byteorder=byteorder)
+        block_size = int.from_bytes(data[position + 4:position + 8], byteorder=byteorder)
+        next_block = int.from_bytes(data[position + 8:position + 12], byteorder=byteorder)
+        if root_type == 2 and block_type == 3:
+            root = bytearray(data[16:32])
+            root[4:8] = (16 + block_size).to_bytes(4, byteorder=byteorder)
+            pictures.append(data[:16] + root + data[position:position + block_size])
+            position += block_size
+        else:
+            position += next_block
+
+    return tuple(pictures) or (data,)
+
 def overscan_for_tile_size(value, tile_value):
     if value % tile_value == 0:
         return value
@@ -773,12 +797,19 @@ Examples:
         else:
             if args.verbose:
                 print(f'Converting GIM to PNG: {input_path} -> {output_path}')
-            
-            with gim2png(input_data, args) as im:
-                im.save(output_path)
+
+            pictures = split_gim_pictures(input_data)
+            for index, picture in enumerate(pictures):
+                picture_path = output_path
+                if len(pictures) > 1:
+                    picture_path = output_path.with_name(
+                        f'{output_path.stem}_{index:02}{output_path.suffix}'
+                    )
+                with gim2png(picture, args) as im:
+                    im.save(picture_path)
             
             if args.verbose:
-                print(f'Successfully saved PNG file: {output_path}')
+                print(f'Successfully saved {len(pictures)} PNG file(s)')
         
         print(f'✓ Conversion complete: {output_path}')
     

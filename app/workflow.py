@@ -67,6 +67,8 @@ _EBOOT_TRANSLATION_PATH = PurePosixPath("EBOOT.BIN")
 _EBOOT_OVERLAY_PATH = Path("PSP_GAME/SYSDIR/BOOT.BIN")
 _AI_TALKLIST_PATH = PurePosixPath("PEI/AI_TALKLIST.BIN")
 _DECIDE_IMAGE_PATH = PurePosixPath("COMMON/DECIDE.BIN")
+_LOADING_TITLE_PATH = PurePosixPath("BF/BF_CALL_0.GIM")
+_BATTLE_BRIEFING_PATH = PurePosixPath("BF/BF_01.BIN")
 
 
 def export_translations(
@@ -246,6 +248,8 @@ def build_image(
     with Archive(pkg_path) as archive:
         original_table = archive.read("FONT/JIS2UCS.BIN")
         decide_images = archive.read(_DECIDE_IMAGE_PATH)
+        loading_titles = archive.read(_LOADING_TITLE_PATH)
+        battle_briefing = archive.read(_BATTLE_BRIEFING_PATH)
     mapping_path = generated / "charset-map.json"
     plan = font.build_plan(original_table, required, reserved, mapping_path)
     _write_json(mapping_path, plan.mapping_json())
@@ -270,6 +274,10 @@ def build_image(
     if plan.mappings:
         replacements[PurePosixPath("FONT/JIS2UCS.BIN")] = plan.table
     replacements[_DECIDE_IMAGE_PATH] = gim_patch.patch_decide_labels(decide_images)
+    replacements[_LOADING_TITLE_PATH] = gim_patch.patch_loading_titles(loading_titles)
+    replacements[_BATTLE_BRIEFING_PATH] = gim_patch.patch_battle_briefing_labels(
+        battle_briefing
+    )
 
     output_pkg = generated / "NEVA.PKG"
     strategy = replace_entries(pkg_path, output_pkg, replacements)
@@ -309,8 +317,12 @@ def build_image(
         "image_strategy": image_strategy,
         "changed_text_files": changed_paths,
         "changed_text_count": len(changed_paths),
-        "changed_image_files": [_DECIDE_IMAGE_PATH.as_posix()],
-        "changed_image_count": 1,
+        "changed_image_files": [
+            _DECIDE_IMAGE_PATH.as_posix(),
+            _LOADING_TITLE_PATH.as_posix(),
+            _BATTLE_BRIEFING_PATH.as_posix(),
+        ],
+        "changed_image_count": 3,
         "changed_eboot_strings": (
             len(eboot_patches.entries) + len(eboot_patch.UTF8_REPLACEMENTS)
             if eboot_patches
@@ -333,6 +345,8 @@ def verify_image(
     allowed = _translated_source_paths(translations_dir)
     allowed.add(PurePosixPath("FONT/JIS2UCS.BIN"))
     allowed.add(_DECIDE_IMAGE_PATH)
+    allowed.add(_LOADING_TITLE_PATH)
+    allowed.add(_BATTLE_BRIEFING_PATH)
     report_path.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.TemporaryDirectory(dir=report_path.parent) as directory:
         temporary = Path(directory)
@@ -364,6 +378,16 @@ def verify_image(
                 source.read(_DECIDE_IMAGE_PATH)
             ):
                 errors.append(f"Incorrect image patch: {_DECIDE_IMAGE_PATH}")
+            if patched.read(_LOADING_TITLE_PATH) != gim_patch.patch_loading_titles(
+                source.read(_LOADING_TITLE_PATH)
+            ):
+                errors.append(f"Incorrect image patch: {_LOADING_TITLE_PATH}")
+            if patched.read(
+                _BATTLE_BRIEFING_PATH
+            ) != gim_patch.patch_battle_briefing_labels(
+                source.read(_BATTLE_BRIEFING_PATH)
+            ):
+                errors.append(f"Incorrect image patch: {_BATTLE_BRIEFING_PATH}")
         eboot_entries: tuple[eboot_patch.Entry, ...] = ()
         eboot_utf8_entries = 0
         eboot_json = paratranz.json_path(translations_dir, _EBOOT_TRANSLATION_PATH)
