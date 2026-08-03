@@ -4,6 +4,14 @@
 
 项目使用 Python 处理文本、图片、`NEVA.PKG` 和 ISO。PSP 插件负责加载自定义 PGF 字体。仓库提交构建代码、字体和文件级 ParaTranz JSON，不提交原始游戏镜像。
 
+# 使用说明
+在 GitHub Release 下载对应 `xdelta3` 补丁
+
+使用[Xdelta patcher](https://kotcrab.github.io/xdelta-wasm/)对日文原版镜像打补丁。
+
+> 如果 PPSSPP 菜单文字无法显示，请在设置中切换到软件渲染或于 https://www.ppsspp.org/devbuilds/ 下载每日构建版本 PPSSPP
+> 针对这一问题的修复截至2026年8月初尚未进入正式版
+
 ## 环境要求
 
 - Python 3.12 或更高版本
